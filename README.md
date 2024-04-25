@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8150138.svg)](https://doi.org/10.5281/zenodo.8150138)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11067564.svg)](https://doi.org/10.5281/zenodo.11067564)
 
 # enalapril model
 This repository provides the enalapril physiologically based pharmacokinetics (PBPK) model.
@@ -20,11 +20,11 @@ The whole-body submodel is available from [`enalapril_body.xml`](./models/enalap
 [https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/enalapril-model/main/models/enalapril_body.xml](https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/enalapril-model/main/models/enalapril_body.xml) and equations from [`enalapril_body.md`](./models/enalapril_body.md).
 
 ## How to cite
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8150138.svg)](https://doi.org/10.5281/zenodo.8150138)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11067564.svg)](https://doi.org/10.5281/zenodo.11067564)
 
-> Palwankar, Shubhankar & König, Matthias. (2023). 
+> Palwankar, Shubhankar & König, Matthias. (2024). 
 > *Physiologically based pharmacokinetic (PBPK) model of enalapril.*   
-> Zenodo. [https://doi.org/10.5281/zenodo.8150138](https://doi.org/10.5281/zenodo.8150138)
+> Zenodo. [https://doi.org/10.5281/zenodo.11067564](https://doi.org/10.5281/zenodo.11067564)
 
 ## License
 
