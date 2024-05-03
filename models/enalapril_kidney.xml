@@ -313,7 +313,7 @@ FOR A PARTICULAR PURPOSE.</p></body>
           </rdf:RDF>
         </annotation>
       </parameter>
-      <parameter metaid="meta_ENAEX_k" sboTerm="SBO:0000009" id="ENAEX_k" name="rate urinary excretion of enalapril" value="1" units="per_min" constant="true">
+      <parameter metaid="meta_ENAEX_k" sboTerm="SBO:0000009" id="ENAEX_k" name="rate urinary excretion of enalapril" value="0.910320371900861" units="per_min" constant="true">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_ENAEX_k">
@@ -326,7 +326,7 @@ FOR A PARTICULAR PURPOSE.</p></body>
           </rdf:RDF>
         </annotation>
       </parameter>
-      <parameter metaid="meta_EATEX_k" sboTerm="SBO:0000009" id="EATEX_k" name="rate urinary excretion of enalaprilat" value="1" units="per_min" constant="true">
+      <parameter metaid="meta_EATEX_k" sboTerm="SBO:0000009" id="EATEX_k" name="rate urinary excretion of enalaprilat" value="0.527922460340055" units="per_min" constant="true">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_EATEX_k">
@@ -339,7 +339,19 @@ FOR A PARTICULAR PURPOSE.</p></body>
           </rdf:RDF>
         </annotation>
       </parameter>
+      <parameter id="ENA_EATEX" value="NaN" units="mmole_per_min" constant="false"/>
     </listOfParameters>
+    <listOfRules>
+      <assignmentRule variable="ENA_EATEX">
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <apply>
+            <plus/>
+            <ci> ENAEX </ci>
+            <ci> EATEX </ci>
+          </apply>
+        </math>
+      </assignmentRule>
+    </listOfRules>
     <listOfReactions>
       <reaction metaid="meta_ENAEX" sboTerm="SBO:0000655" id="ENAEX" name="enalapril excretion (ENAEX)" reversible="false" compartment="Vki">
         <annotation>

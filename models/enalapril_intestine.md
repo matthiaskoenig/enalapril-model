@@ -11,7 +11,7 @@ length: [m]
 
 ## Parameters `p`
 ```
-ENAABS_k = 1.0  # [1/min] 
+ENAABS_k = 0.100000000010366  # [1/min] 
 F_ena_abs = 0.6  # [-] 
 Ka_dis_ena = 2.0  # [1/hr] 
 Mr_ena = 416.5  # [g/mol] 

@@ -11,8 +11,8 @@ length: [m]
 
 ## Parameters `p`
 ```
-EATEX_k = 1.0  # [1/min] 
-ENAEX_k = 1.0  # [1/min] 
+EATEX_k = 0.527922460340055  # [1/min] 
+ENAEX_k = 0.910320371900861  # [1/min] 
 Vext = 1.5  # [l] 
 Vki = 0.3  # [l] 
 Vmem = nan  # [m^2] 
@@ -33,6 +33,7 @@ ena_urine = 0.0  # [mmol] Vurine
 # y
 EATEX = f_renal_function * EATEX_k * Vki * eat_ext  # [mmol/min]
 ENAEX = f_renal_function * ENAEX_k * Vki * ena_ext  # [mmol/min]
+ENA_EATEX = ENAEX + EATEX  # [mmol/min]
 
 # odes
 d eat_ext/dt = -EATEX / Vext  # [mmol/l/min]

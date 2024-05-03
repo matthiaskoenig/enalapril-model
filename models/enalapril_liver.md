@@ -11,13 +11,13 @@ length: [m]
 
 ## Parameters `p`
 ```
-EATEX_Km_eat = 0.1  # [mmol/l] 
-EATEX_Vmax = 100.0  # [mmol/min/l] 
+EATEX_Km_eat = 0.430425250264845  # [mmol/l] 
+EATEX_Vmax = 0.00148044588405684  # [mmol/min/l] 
 ENA2EAT_Ki_ena = 2.956  # [mmol/l] 
 ENA2EAT_Km_ena = 1.721  # [mmol/l] 
-ENA2EAT_Vmax = 1.0  # [mmol/min/l] 
-ENAIM_Km_ena = 0.262  # [mmol/l] 
-ENAIM_Vmax = 100.0  # [mmol/min/l] 
+ENA2EAT_Vmax = 0.640305146441846  # [mmol/min/l] 
+ENAIM_Km_ena = 0.844  # [mmol/l] 
+ENAIM_Vmax = 0.748446581166668  # [mmol/min/l] 
 Vext = 1.5  # [l] 
 Vli = 1.5  # [l] 
 Vmem = nan  # [m^2] 

@@ -271,7 +271,7 @@ FOR A PARTICULAR PURPOSE.</p></body>
       </species>
     </listOfSpecies>
     <listOfParameters>
-      <parameter metaid="meta_ENAIM_Vmax" sboTerm="SBO:0000186" id="ENAIM_Vmax" name="Vmax enalapril import" value="100" units="mmole_per_min_l" constant="true">
+      <parameter metaid="meta_ENAIM_Vmax" sboTerm="SBO:0000186" id="ENAIM_Vmax" name="Vmax enalapril import" value="0.748446581166668" units="mmole_per_min_l" constant="true">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_ENAIM_Vmax">
@@ -284,10 +284,12 @@ FOR A PARTICULAR PURPOSE.</p></body>
           </rdf:RDF>
         </annotation>
       </parameter>
-      <parameter metaid="meta_ENAIM_Km_ena" sboTerm="SBO:0000027" id="ENAIM_Km_ena" name="Km enalapril import" value="0.262" units="mM" constant="true">
+      <parameter metaid="meta_ENAIM_Km_ena" sboTerm="SBO:0000027" id="ENAIM_Km_ena" name="Km enalapril import" value="0.844" units="mM" constant="true">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>Km = 262 ± 35 µM OATP1B1 [Liu2006]</p>
+            <p>Km = 262 ± 35 µM OATP1B1 [Liu2006]
+Km = 844 ± 430 µM OATP1B1 [Ni2020]
+Km = 286.4 ± 84.3 µM OATP2B1 [Ni2020]</p>
           </body>
         </notes>
         <annotation>
@@ -302,7 +304,7 @@ FOR A PARTICULAR PURPOSE.</p></body>
           </rdf:RDF>
         </annotation>
       </parameter>
-      <parameter metaid="meta_ENA2EAT_Vmax" sboTerm="SBO:0000186" id="ENA2EAT_Vmax" name="Vmax enalapril conversion" value="1" units="mmole_per_min_l" constant="true">
+      <parameter metaid="meta_ENA2EAT_Vmax" sboTerm="SBO:0000186" id="ENA2EAT_Vmax" name="Vmax enalapril conversion" value="0.640305146441846" units="mmole_per_min_l" constant="true">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_ENA2EAT_Vmax">
@@ -370,7 +372,7 @@ FOR A PARTICULAR PURPOSE.</p></body>
           </rdf:RDF>
         </annotation>
       </parameter>
-      <parameter metaid="meta_EATEX_Vmax" sboTerm="SBO:0000186" id="EATEX_Vmax" name="Vmax enalaprilat export" value="100" units="mmole_per_min_l" constant="true">
+      <parameter metaid="meta_EATEX_Vmax" sboTerm="SBO:0000186" id="EATEX_Vmax" name="Vmax enalaprilat export" value="0.00148044588405684" units="mmole_per_min_l" constant="true">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_EATEX_Vmax">
@@ -383,7 +385,7 @@ FOR A PARTICULAR PURPOSE.</p></body>
           </rdf:RDF>
         </annotation>
       </parameter>
-      <parameter metaid="meta_EATEX_Km_eat" sboTerm="SBO:0000027" id="EATEX_Km_eat" name="Km enalaprilat export" value="0.1" units="mM" constant="true">
+      <parameter metaid="meta_EATEX_Km_eat" sboTerm="SBO:0000027" id="EATEX_Km_eat" name="Km enalaprilat export" value="0.430425250264845" units="mM" constant="true">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_EATEX_Km_eat">
