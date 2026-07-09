@@ -25,27 +25,23 @@
         <ul>
           <li>added conversion and export of enalaprilat metabolites</li>
         </ul>
+        <p>The content of this model has been carefully created in a manual research effort.</p>
         <h2>Terms of use</h2>
-        <p>The content of this model has been carefully created in a manual research effort.
-This file has been created by <a href="https://livermetabolism.com">Matthias König</a>
-using <a href="https://github.com/matthiaskoenig/sbmlutils">sbmlutils</a>.
-For questions contact <a href="mailto:koenigmx@hu-berlin.de">koenigmx@hu-berlin.de</a>. Copyright © 2024 Matthias König.</p>
+        <p>Copyright © 2026 <a href="https://livermetabolism.com" title="Matthias König" target="_blank">Matthias König</a>.</p>
         <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
           <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"/>
         </a>
         <br/>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-<p>Redistribution and use of any part of this model, with or without modification,
-are permitted provided that the following conditions are met:</p>
-        <ol>
-          <li>Redistributions of this SBML file must retain the above copyright notice, this
-list of conditions and the following disclaimer.</li>
-          <li>Redistributions in a different form must reproduce the above copyright notice,
-this list of conditions and the following disclaimer in the documentation and/or
-other materials provided with the distribution.</li>
-        </ol>
-        <p>This model is distributed in the hope that it will be useful, but WITHOUT ANY
-WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.</p></body>
+<p>Redistribution and use of any part of this model, with or without modification, are permitted provided
+that the following conditions are met:</p>
+        <ul>
+          <li>Redistributions of this SBML file must retain the above copyright notice, this list of conditions and the following disclaimer.</li>
+          <li>Redistributions in a different form must reproduce the above copyright notice, this list of conditions
+and the following disclaimer in the documentation and/or other materials provided
+with the distribution.</li>
+        </ul>
+        <p>This model is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the
+implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</p></body>
       </notes>
     <annotation>
       <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -58,7 +54,15 @@ FOR A PARTICULAR PURPOSE.</p></body>
                   <vCard4:given-name>Palwankar</vCard4:given-name>
                 </vCard4:hasName>
                 <vCard4:hasEmail>shubhankarpalwankar6@gmail.com</vCard4:hasEmail>
-                <vCard4:organization-name>Humboldt-University Berlin, Institute for Theoretical Biology</vCard4:organization-name>
+                <vCard4:organization-name>Humboldt-Universität zu Berlin, Faculty of Life Sciences, Department of Biology, Institute of Theoretical Biology, Systems Medicine of the Liver, Unter den Linden 6, 10099 Berlin, Germany</vCard4:organization-name>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <vCard4:hasName rdf:parseType="Resource">
+                  <vCard4:family-name>Myshkina</vCard4:family-name>
+                  <vCard4:given-name>Mariia</vCard4:given-name>
+                </vCard4:hasName>
+                <vCard4:hasEmail>mariia.myshkina@hu-berlin.de</vCard4:hasEmail>
+                <vCard4:organization-name>Humboldt-Universität zu Berlin, Faculty of Life Sciences, Department of Biology, Institute of Theoretical Biology, Systems Medicine of the Liver, Unter den Linden 6, 10099 Berlin, Germany</vCard4:organization-name>
               </rdf:li>
               <rdf:li rdf:parseType="Resource">
                 <vCard4:hasName rdf:parseType="Resource">
@@ -66,16 +70,49 @@ FOR A PARTICULAR PURPOSE.</p></body>
                   <vCard4:given-name>Matthias</vCard4:given-name>
                 </vCard4:hasName>
                 <vCard4:hasEmail>koenigmx@hu-berlin.de</vCard4:hasEmail>
-                <vCard4:organization-name>Humboldt-University Berlin, Institute for Theoretical Biology</vCard4:organization-name>
+                <vCard4:organization-name>University Hospital Schleswig-Holstein, Campus Lübeck, First Department of Medicine, 23538 Lübeck, Germany; Humboldt-Universität zu Berlin, Faculty of Life Sciences, Department of Biology, Institute of Theoretical Biology, Systems Medicine of the Liver, Unter den Linden 6, 10099 Berlin, Germany</vCard4:organization-name>
               </rdf:li>
             </rdf:Bag>
           </dcterms:creator>
           <dcterms:created rdf:parseType="Resource">
-            <dcterms:W3CDTF>1900-01-01T00:00:00Z</dcterms:W3CDTF>
+            <dcterms:W3CDTF>2026-07-03T17:36:06Z</dcterms:W3CDTF>
           </dcterms:created>
           <dcterms:modified rdf:parseType="Resource">
-            <dcterms:W3CDTF>1900-01-01T00:00:00Z</dcterms:W3CDTF>
+            <dcterms:W3CDTF>2026-07-03T17:36:06Z</dcterms:W3CDTF>
           </dcterms:modified>
+          <bqbiol:occursIn>
+            <rdf:Bag>
+              <rdf:li rdf:resource="https://identifiers.org/FMA:7197"/>
+              <rdf:li rdf:resource="https://identifiers.org/BTO:0000759"/>
+              <rdf:li rdf:resource="https://identifiers.org/ncit/C12392"/>
+            </rdf:Bag>
+          </bqbiol:occursIn>
+          <bqbiol:hasProperty>
+            <rdf:Bag>
+              <rdf:li rdf:resource="https://identifiers.org/ncit/C79372"/>
+              <rdf:li rdf:resource="https://identifiers.org/mamo/MAMO_0000046"/>
+              <rdf:li rdf:resource="https://identifiers.org/ncit/C15299"/>
+              <rdf:li rdf:resource="https://identifiers.org/ncit/C15720"/>
+              <rdf:li rdf:resource="https://identifiers.org/ncit/C62027"/>
+              <rdf:li rdf:resource="https://identifiers.org/ncit/C47510"/>
+              <rdf:li rdf:resource="https://identifiers.org/ncit/C270"/>
+              <rdf:li rdf:resource="https://identifiers.org/ncit/C247"/>
+              <rdf:li rdf:resource="https://identifiers.org/ncit/C3117"/>
+              <rdf:li rdf:resource="https://identifiers.org/ncit/C3478"/>
+              <rdf:li rdf:resource="https://identifiers.org/ncit/C172184"/>
+            </rdf:Bag>
+          </bqbiol:hasProperty>
+          <bqbiol:hasTaxon>
+            <rdf:Bag>
+              <rdf:li rdf:resource="https://identifiers.org/taxonomy/9606"/>
+              <rdf:li rdf:resource="https://identifiers.org/snomedct/337915000"/>
+            </rdf:Bag>
+          </bqbiol:hasTaxon>
+          <bqbiol:isDescribedBy>
+            <rdf:Bag>
+              <rdf:li rdf:resource="https://identifiers.org/doi/10.5281/zenodo.11109907"/>
+            </rdf:Bag>
+          </bqbiol:isDescribedBy>
         </rdf:Description>
       </rdf:RDF>
     </annotation>
@@ -144,6 +181,12 @@ FOR A PARTICULAR PURPOSE.</p></body>
           <unit kind="litre" exponent="-1" scale="0" multiplier="1"/>
         </listOfUnits>
       </unitDefinition>
+      <unitDefinition id="nM" name="nmole/liter">
+        <listOfUnits>
+          <unit kind="mole" exponent="1" scale="0" multiplier="1e-09"/>
+          <unit kind="litre" exponent="-1" scale="0" multiplier="1"/>
+        </listOfUnits>
+      </unitDefinition>
       <unitDefinition id="per_min" name="1/min">
         <listOfUnits>
           <unit kind="second" exponent="-1" scale="0" multiplier="60"/>
@@ -162,9 +205,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
             <rdf:Description rdf:about="#meta_Vext">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000290"/>
-                  <rdf:li rdf:resource="http://identifiers.org/ncit/C13356"/>
-                  <rdf:li rdf:resource="http://identifiers.org/BTO:0000131"/>
+                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000290"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit/C13356"/>
+                  <rdf:li rdf:resource="https://identifiers.org/BTO:0000131"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -177,10 +220,10 @@ FOR A PARTICULAR PURPOSE.</p></body>
             <rdf:Description rdf:about="#meta_Vli">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000290"/>
-                  <rdf:li rdf:resource="http://identifiers.org/FMA:7197"/>
-                  <rdf:li rdf:resource="http://identifiers.org/BTO:0000759"/>
-                  <rdf:li rdf:resource="http://identifiers.org/ncit/C12392"/>
+                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000290"/>
+                  <rdf:li rdf:resource="https://identifiers.org/FMA:7197"/>
+                  <rdf:li rdf:resource="https://identifiers.org/BTO:0000759"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit/C12392"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -193,10 +236,10 @@ FOR A PARTICULAR PURPOSE.</p></body>
             <rdf:Description rdf:about="#meta_Vmem">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000290"/>
-                  <rdf:li rdf:resource="http://identifiers.org/ncit/C13735"/>
-                  <rdf:li rdf:resource="http://identifiers.org/FMA:63841"/>
-                  <rdf:li rdf:resource="http://identifiers.org/GO:0005886"/>
+                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000290"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit/C13735"/>
+                  <rdf:li rdf:resource="https://identifiers.org/FMA:63841"/>
+                  <rdf:li rdf:resource="https://identifiers.org/GO:0005886"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -211,10 +254,11 @@ FOR A PARTICULAR PURPOSE.</p></body>
             <rdf:Description rdf:about="#meta_ena_ext">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
-                  <rdf:li rdf:resource="http://identifiers.org/CHEBI:4784"/>
-                  <rdf:li rdf:resource="http://identifiers.org/pubchem.compound/5388962"/>
-                  <rdf:li rdf:resource="http://identifiers.org/inchikey/GBXSMTUPTTWBMN-XIRDDKMYSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:4784"/>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound/5388962"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey/GBXSMTUPTTWBMN-XIRDDKMYSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit/C62027"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -227,10 +271,11 @@ FOR A PARTICULAR PURPOSE.</p></body>
             <rdf:Description rdf:about="#meta_eat_ext">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
-                  <rdf:li rdf:resource="http://identifiers.org/CHEBI:4786"/>
-                  <rdf:li rdf:resource="http://identifiers.org/pubchem.compound/5462501"/>
-                  <rdf:li rdf:resource="http://identifiers.org/inchikey/LZFZMUMEGBBDTC-QEJZJMRPSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:4786"/>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound/5462501"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey/LZFZMUMEGBBDTC-QEJZJMRPSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit/C47510"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -243,10 +288,11 @@ FOR A PARTICULAR PURPOSE.</p></body>
             <rdf:Description rdf:about="#meta_ena">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
-                  <rdf:li rdf:resource="http://identifiers.org/CHEBI:4784"/>
-                  <rdf:li rdf:resource="http://identifiers.org/pubchem.compound/5388962"/>
-                  <rdf:li rdf:resource="http://identifiers.org/inchikey/GBXSMTUPTTWBMN-XIRDDKMYSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:4784"/>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound/5388962"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey/GBXSMTUPTTWBMN-XIRDDKMYSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit/C62027"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -259,10 +305,11 @@ FOR A PARTICULAR PURPOSE.</p></body>
             <rdf:Description rdf:about="#meta_eat">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
-                  <rdf:li rdf:resource="http://identifiers.org/CHEBI:4786"/>
-                  <rdf:li rdf:resource="http://identifiers.org/pubchem.compound/5462501"/>
-                  <rdf:li rdf:resource="http://identifiers.org/inchikey/LZFZMUMEGBBDTC-QEJZJMRPSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:4786"/>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound/5462501"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey/LZFZMUMEGBBDTC-QEJZJMRPSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit/C47510"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -277,7 +324,7 @@ FOR A PARTICULAR PURPOSE.</p></body>
             <rdf:Description rdf:about="#meta_ENAIM_Vmax">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000186"/>
+                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000186"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -297,7 +344,7 @@ Km = 286.4 ± 84.3 µM OATP2B1 [Ni2020]</p>
             <rdf:Description rdf:about="#meta_ENAIM_Km_ena">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000027"/>
+                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000027"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -310,7 +357,7 @@ Km = 286.4 ± 84.3 µM OATP2B1 [Ni2020]</p>
             <rdf:Description rdf:about="#meta_ENA2EAT_Vmax">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000186"/>
+                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000186"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -328,7 +375,7 @@ Km = 286.4 ± 84.3 µM OATP2B1 [Ni2020]</p>
             <rdf:Description rdf:about="#meta_ENA2EAT_Km_ena">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000027"/>
+                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000027"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -346,7 +393,7 @@ Km = 286.4 ± 84.3 µM OATP2B1 [Ni2020]</p>
             <rdf:Description rdf:about="#meta_ENA2EAT_Ki_ena">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000261"/>
+                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000261"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -365,7 +412,7 @@ Km = 286.4 ± 84.3 µM OATP2B1 [Ni2020]</p>
             <rdf:Description rdf:about="#meta_f_ces1">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000002"/>
+                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000002"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -378,7 +425,7 @@ Km = 286.4 ± 84.3 µM OATP2B1 [Ni2020]</p>
             <rdf:Description rdf:about="#meta_EATEX_Vmax">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000186"/>
+                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000186"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -391,7 +438,7 @@ Km = 286.4 ± 84.3 µM OATP2B1 [Ni2020]</p>
             <rdf:Description rdf:about="#meta_EATEX_Km_eat">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000027"/>
+                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000027"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -412,7 +459,7 @@ Low affinity for OATP1B3 [Liu2006]</p>
             <rdf:Description rdf:about="#meta_ENAIM">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000655"/>
+                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000655"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -474,7 +521,7 @@ Enalapril demonstrated substrate inhibition kinetics. Intrinsic clearances were
             <rdf:Description rdf:about="#meta_ENA2EAT">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000176"/>
+                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000176"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -515,13 +562,13 @@ Enalapril demonstrated substrate inhibition kinetics. Intrinsic clearances were
           </math>
         </kineticLaw>
       </reaction>
-      <reaction metaid="meta_EATEX" sboTerm="SBO:0000655" id="EATEX" name="enalaprilat export (RALEX)" reversible="true" compartment="Vmem">
+      <reaction metaid="meta_EATEX" sboTerm="SBO:0000655" id="EATEX" name="enalaprilat export (EATEX)" reversible="true" compartment="Vmem">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_EATEX">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000655"/>
+                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000655"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
