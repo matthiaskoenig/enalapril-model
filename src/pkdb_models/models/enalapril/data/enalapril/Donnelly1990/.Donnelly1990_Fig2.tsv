@@ -1,0 +1,45 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Donnelly1990	NA	all	13.0	PLAC	relative ACE activity	NA	plasma	HPLC	PLAC_relative ACE activity	0.0	hr	NA	100.0	NA	NA	NA	percent	NA
+Donnelly1990	NA	all	13.0	PLAC	relative ACE activity	NA	plasma	HPLC	PLAC_relative ACE activity	1.0	hr	NA	97.6157948048252	NA	NA	NA	percent	NA
+Donnelly1990	NA	all	13.0	PLAC	relative ACE activity	NA	plasma	HPLC	PLAC_relative ACE activity	2.0	hr	NA	97.6593251128021	NA	NA	NA	percent	NA
+Donnelly1990	NA	all	13.0	PLAC	relative ACE activity	NA	plasma	HPLC	PLAC_relative ACE activity	3.0	hr	NA	92.4419665653751	NA	NA	NA	percent	NA
+Donnelly1990	NA	all	13.0	PLAC	relative ACE activity	NA	plasma	HPLC	PLAC_relative ACE activity	4.0	hr	NA	95.0109244330597	NA	NA	NA	percent	NA
+Donnelly1990	NA	all	13.0	PLAC	relative ACE activity	NA	plasma	HPLC	PLAC_relative ACE activity	5.0	hr	NA	92.2129301757117	NA	NA	NA	percent	NA
+Donnelly1990	NA	all	13.0	PLAC	relative ACE activity	NA	plasma	HPLC	PLAC_relative ACE activity	6.0	hr	NA	90.8885205555137	NA	NA	NA	percent	NA
+Donnelly1990	NA	all	13.0	PLAC	relative ACE activity	NA	plasma	HPLC	PLAC_relative ACE activity	7.0	hr	NA	94.2992876097676	NA	NA	NA	percent	NA
+Donnelly1990	NA	all	13.0	PLAC	relative ACE activity	NA	plasma	HPLC	PLAC_relative ACE activity	8.0	hr	NA	86.5544086993648	NA	NA	NA	percent	NA
+Donnelly1990	NA	all	13.0	PLAC	relative ACE activity	NA	plasma	HPLC	PLAC_relative ACE activity	12.0	hr	NA	91.8858668809699	NA	NA	NA	percent	NA
+Donnelly1990	NA	all	13.0	PLAC	relative ACE activity	NA	plasma	HPLC	PLAC_relative ACE activity	24.0	hr	NA	97.4865432749862	NA	NA	NA	percent	NA
+Donnelly1990	NA	all	13.0	ENAs20	relative ACE activity	NA	plasma	HPLC	ENAs20_relative ACE activity	0.0	hr	NA	100.0	NA	NA	NA	percent	NA
+Donnelly1990	NA	all	13.0	ENAs20	relative ACE activity	NA	plasma	HPLC	ENAs20_relative ACE activity	1.0	hr	NA	32.3288662269064	NA	NA	NA	percent	NA
+Donnelly1990	NA	all	13.0	ENAs20	relative ACE activity	NA	plasma	HPLC	ENAs20_relative ACE activity	2.0	hr	NA	13.009973589102	NA	NA	NA	percent	NA
+Donnelly1990	NA	all	13.0	ENAs20	relative ACE activity	NA	plasma	HPLC	ENAs20_relative ACE activity	3.0	hr	NA	10.2720543634847	NA	NA	NA	percent	NA
+Donnelly1990	NA	all	13.0	ENAs20	relative ACE activity	NA	plasma	HPLC	ENAs20_relative ACE activity	4.0	hr	NA	10.412006849142	NA	NA	NA	percent	NA
+Donnelly1990	NA	all	13.0	ENAs20	relative ACE activity	NA	plasma	HPLC	ENAs20_relative ACE activity	5.0	hr	NA	12.2408667576516	NA	NA	NA	percent	NA
+Donnelly1990	NA	all	13.0	ENAs20	relative ACE activity	NA	plasma	HPLC	ENAs20_relative ACE activity	6.0	hr	NA	14.0685419667905	NA	NA	NA	percent	NA
+Donnelly1990	NA	all	13.0	ENAs20	relative ACE activity	NA	plasma	HPLC	ENAs20_relative ACE activity	7.0	hr	NA	15.3017350317184	NA	NA	NA	percent	NA
+Donnelly1990	NA	all	13.0	ENAs20	relative ACE activity	NA	plasma	HPLC	ENAs20_relative ACE activity	8.0	hr	NA	17.3279658553845	NA	NA	NA	percent	NA
+Donnelly1990	NA	all	13.0	ENAs20	relative ACE activity	NA	plasma	HPLC	ENAs20_relative ACE activity	12.0	hr	NA	22.2587636161448	NA	NA	NA	percent	NA
+Donnelly1990	NA	all	13.0	ENAs20	relative ACE activity	NA	plasma	HPLC	ENAs20_relative ACE activity	24.0	hr	NA	56.4334704425405	NA	NA	NA	percent	NA
+Donnelly1990	NA	all	13.0	ENAm20	relative ACE activity	NA	plasma	HPLC	ENAm20_relative ACE activity	168.0	hr	NA	85.75063613231553	NA	NA	NA	percent	relative to the first dose baseline 39.3 EU/ml (predose 33.7 EU/ml, text p.303)
+Donnelly1990	NA	all	13.0	ENAm20	relative ACE activity	NA	plasma	HPLC	ENAm20_relative ACE activity	169.0	hr	NA	24.029203669188856	NA	NA	NA	percent	relative to the first dose baseline 39.3 EU/ml (predose 33.7 EU/ml, text p.303)
+Donnelly1990	NA	all	13.0	ENAm20	relative ACE activity	NA	plasma	HPLC	ENAm20_relative ACE activity	170.0	hr	NA	14.156693557998276	NA	NA	NA	percent	relative to the first dose baseline 39.3 EU/ml (predose 33.7 EU/ml, text p.303)
+Donnelly1990	NA	all	13.0	ENAm20	relative ACE activity	NA	plasma	HPLC	ENAm20_relative ACE activity	171.0	hr	NA	12.144243457934675	NA	NA	NA	percent	relative to the first dose baseline 39.3 EU/ml (predose 33.7 EU/ml, text p.303)
+Donnelly1990	NA	all	13.0	ENAm20	relative ACE activity	NA	plasma	HPLC	ENAm20_relative ACE activity	172.0	hr	NA	12.19060536297029	NA	NA	NA	percent	relative to the first dose baseline 39.3 EU/ml (predose 33.7 EU/ml, text p.303)
+Donnelly1990	NA	all	13.0	ENAm20	relative ACE activity	NA	plasma	HPLC	ENAm20_relative ACE activity	173.0	hr	NA	15.419626193319665	NA	NA	NA	percent	relative to the first dose baseline 39.3 EU/ml (predose 33.7 EU/ml, text p.303)
+Donnelly1990	NA	all	13.0	ENAm20	relative ACE activity	NA	plasma	HPLC	ENAm20_relative ACE activity	174.0	hr	NA	17.149612094184874	NA	NA	NA	percent	relative to the first dose baseline 39.3 EU/ml (predose 33.7 EU/ml, text p.303)
+Donnelly1990	NA	all	13.0	ENAm20	relative ACE activity	NA	plasma	HPLC	ENAm20_relative ACE activity	175.0	hr	NA	17.944632910165673	NA	NA	NA	percent	relative to the first dose baseline 39.3 EU/ml (predose 33.7 EU/ml, text p.303)
+Donnelly1990	NA	all	13.0	ENAm20	relative ACE activity	NA	plasma	HPLC	ENAm20_relative ACE activity	176.0	hr	NA	21.734289369926955	NA	NA	NA	percent	relative to the first dose baseline 39.3 EU/ml (predose 33.7 EU/ml, text p.303)
+Donnelly1990	NA	all	13.0	ENAm20	relative ACE activity	NA	plasma	HPLC	ENAm20_relative ACE activity	180.0	hr	NA	23.793959928823107	NA	NA	NA	percent	relative to the first dose baseline 39.3 EU/ml (predose 33.7 EU/ml, text p.303)
+Donnelly1990	NA	all	13.0	ENAm20	relative ACE activity	NA	plasma	HPLC	ENAm20_relative ACE activity	192.0	hr	NA	79.1449232185402	NA	NA	NA	percent	relative to the first dose baseline 39.3 EU/ml (predose 33.7 EU/ml, text p.303)
+Donnelly1990	NA	all	13.0	ENAm20	relative ACE activity	NA	plasma	HPLC	ENAm20_relative ACE activity	1008.0	hr	NA	81.93384223918576	NA	NA	NA	percent	relative to the first dose baseline 39.3 EU/ml (predose 32.2 EU/ml, text p.303)
+Donnelly1990	NA	all	13.0	ENAm20	relative ACE activity	NA	plasma	HPLC	ENAm20_relative ACE activity	1009.0	hr	NA	27.056439775052265	NA	NA	NA	percent	relative to the first dose baseline 39.3 EU/ml (predose 32.2 EU/ml, text p.303)
+Donnelly1990	NA	all	13.0	ENAm20	relative ACE activity	NA	plasma	HPLC	ENAm20_relative ACE activity	1010.0	hr	NA	15.702795040371672	NA	NA	NA	percent	relative to the first dose baseline 39.3 EU/ml (predose 32.2 EU/ml, text p.303)
+Donnelly1990	NA	all	13.0	ENAm20	relative ACE activity	NA	plasma	HPLC	ENAm20_relative ACE activity	1011.0	hr	NA	14.991448748641092	NA	NA	NA	percent	relative to the first dose baseline 39.3 EU/ml (predose 32.2 EU/ml, text p.303)
+Donnelly1990	NA	all	13.0	ENAm20	relative ACE activity	NA	plasma	HPLC	ENAm20_relative ACE activity	1012.0	hr	NA	14.278358961097416	NA	NA	NA	percent	relative to the first dose baseline 39.3 EU/ml (predose 32.2 EU/ml, text p.303)
+Donnelly1990	NA	all	13.0	ENAm20	relative ACE activity	NA	plasma	HPLC	ENAm20_relative ACE activity	1013.0	hr	NA	15.845761697043061	NA	NA	NA	percent	relative to the first dose baseline 39.3 EU/ml (predose 32.2 EU/ml, text p.303)
+Donnelly1990	NA	all	13.0	ENAm20	relative ACE activity	NA	plasma	HPLC	ENAm20_relative ACE activity	1014.0	hr	NA	17.603205476612693	NA	NA	NA	percent	relative to the first dose baseline 39.3 EU/ml (predose 32.2 EU/ml, text p.303)
+Donnelly1990	NA	all	13.0	ENAm20	relative ACE activity	NA	plasma	HPLC	ENAm20_relative ACE activity	1015.0	hr	NA	20.311726222209508	NA	NA	NA	percent	relative to the first dose baseline 39.3 EU/ml (predose 32.2 EU/ml, text p.303)
+Donnelly1990	NA	all	13.0	ENAm20	relative ACE activity	NA	plasma	HPLC	ENAm20_relative ACE activity	1016.0	hr	NA	22.076143985031443	NA	NA	NA	percent	relative to the first dose baseline 39.3 EU/ml (predose 32.2 EU/ml, text p.303)
+Donnelly1990	NA	all	13.0	ENAm20	relative ACE activity	NA	plasma	HPLC	ENAm20_relative ACE activity	1020.0	hr	NA	28.530565484998966	NA	NA	NA	percent	relative to the first dose baseline 39.3 EU/ml (predose 32.2 EU/ml, text p.303)
+Donnelly1990	NA	all	13.0	ENAm20	relative ACE activity	NA	plasma	HPLC	ENAm20_relative ACE activity	1032.0	hr	NA	82.83348607872772	NA	NA	NA	percent	relative to the first dose baseline 39.3 EU/ml (predose 32.2 EU/ml, text p.303)

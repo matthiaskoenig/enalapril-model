@@ -1,0 +1,8 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Shionoiri1985	NA	all	13.0	ENA10	age	NA	NA	NR	NA	NA	NA	NA	45.6	NA	NA	5.4	NA	NA	yr	NA
+Shionoiri1985	NA	all	13.0	ENA10	blood pressure systolic	NA	NA	sphygmomanometer	NA	NA	NA	NA	175.4	NA	NA	7.2	NA	NA	mmHg	NA
+Shionoiri1985	NA	all	13.0	ENA10	blood pressure diastolic	NA	NA	sphygmomanometer	NA	NA	NA	NA	111.3	NA	NA	5.0	NA	NA	mmHg	NA
+Shionoiri1985	NA	all	13.0	ENA10	MAP	NA	NA	sphygmomanometer	NA	NA	NA	NA	132.6	NA	NA	5.5	NA	NA	mmHg	NA
+Shionoiri1985	NA	all	13.0	ENA10	renin activity	NA	plasma	NR	NA	NA	NA	NA	2.2	NA	NA	0.4	NA	NA	ng/ml/hr	NA
+Shionoiri1985	NA	all	13.0	ENA10	concentration	got	plasma	NR	NA	0.0	hr	NA	20.4	NA	NA	1.5	NA	NA	mIU/ml	NA
+Shionoiri1985	NA	all	13.0	ENA10	concentration	alt	plasma	NR	NA	0.0	hr	NA	12.4	NA	NA	2.0	NA	NA	mIU/ml	NA

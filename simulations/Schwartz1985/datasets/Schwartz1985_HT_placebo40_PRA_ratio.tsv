@@ -1,0 +1,5 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	min	max	comments	mean_unit	value_unit	count_unit
+Schwartz1985		HT	5	control	renin activity		plasma	RIA	HT_placebo40_renin activity	0	hr		1.0		0.5	0.223606797749979				dimensionless	dimensionless	dimensionless
+Schwartz1985		HT	5	control	renin activity		plasma	RIA	HT_placebo40_renin activity	4	hr		0.9		0.5	0.223606797749979				dimensionless	dimensionless	dimensionless
+Schwartz1985		HT	5	control	renin activity		plasma	RIA	HT_placebo40_renin activity	12	hr									dimensionless	dimensionless	dimensionless
+Schwartz1985		HT	5	control	renin activity		plasma	RIA	HT_placebo40_renin activity	24	hr		1.1		0.8	0.357770876399966				dimensionless	dimensionless	dimensionless

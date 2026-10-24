@@ -1,0 +1,121 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Dickstein1987	P1	NA	NA	ENAPO10	recovery	enalaprilat	urine	RIA	ENAPO10_recovery_enalaprilat	72.0	hr	18.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P2	NA	NA	ENAPO10	recovery	enalaprilat	urine	RIA	ENAPO10_recovery_enalaprilat	72.0	hr	28.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P3	NA	NA	ENAPO10	recovery	enalaprilat	urine	RIA	ENAPO10_recovery_enalaprilat	72.0	hr	34.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P4	NA	NA	ENAPO10	recovery	enalaprilat	urine	RIA	ENAPO10_recovery_enalaprilat	72.0	hr	NA	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P5	NA	NA	ENAPO10	recovery	enalaprilat	urine	RIA	ENAPO10_recovery_enalaprilat	72.0	hr	35.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P6	NA	NA	ENAPO10	recovery	enalaprilat	urine	RIA	ENAPO10_recovery_enalaprilat	72.0	hr	38.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P7	NA	NA	ENAPO10	recovery	enalaprilat	urine	RIA	ENAPO10_recovery_enalaprilat	72.0	hr	21.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P8	NA	NA	ENAPO10	recovery	enalaprilat	urine	RIA	ENAPO10_recovery_enalaprilat	72.0	hr	44.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P9	NA	NA	ENAPO10	recovery	enalaprilat	urine	RIA	ENAPO10_recovery_enalaprilat	72.0	hr	45.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P10	NA	NA	ENAPO10	recovery	enalaprilat	urine	RIA	ENAPO10_recovery_enalaprilat	72.0	hr	33.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P11	NA	NA	ENAPO10	recovery	enalaprilat	urine	RIA	ENAPO10_recovery_enalaprilat	72.0	hr	58.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P12	NA	NA	ENAPO10	recovery	enalaprilat	urine	RIA	ENAPO10_recovery_enalaprilat	72.0	hr	NA	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P1	NA	NA	ENAPO10	recovery	enalapril+enalaprilat	urine	RIA	ENAPO10_recovery_enalapril+enalaprilat	72.0	hr	58.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P2	NA	NA	ENAPO10	recovery	enalapril+enalaprilat	urine	RIA	ENAPO10_recovery_enalapril+enalaprilat	72.0	hr	44.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P3	NA	NA	ENAPO10	recovery	enalapril+enalaprilat	urine	RIA	ENAPO10_recovery_enalapril+enalaprilat	72.0	hr	52.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P4	NA	NA	ENAPO10	recovery	enalapril+enalaprilat	urine	RIA	ENAPO10_recovery_enalapril+enalaprilat	72.0	hr	NA	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P5	NA	NA	ENAPO10	recovery	enalapril+enalaprilat	urine	RIA	ENAPO10_recovery_enalapril+enalaprilat	72.0	hr	56.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P6	NA	NA	ENAPO10	recovery	enalapril+enalaprilat	urine	RIA	ENAPO10_recovery_enalapril+enalaprilat	72.0	hr	45.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P7	NA	NA	ENAPO10	recovery	enalapril+enalaprilat	urine	RIA	ENAPO10_recovery_enalapril+enalaprilat	72.0	hr	41.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P8	NA	NA	ENAPO10	recovery	enalapril+enalaprilat	urine	RIA	ENAPO10_recovery_enalapril+enalaprilat	72.0	hr	56.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P9	NA	NA	ENAPO10	recovery	enalapril+enalaprilat	urine	RIA	ENAPO10_recovery_enalapril+enalaprilat	72.0	hr	56.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P10	NA	NA	ENAPO10	recovery	enalapril+enalaprilat	urine	RIA	ENAPO10_recovery_enalapril+enalaprilat	72.0	hr	54.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P11	NA	NA	ENAPO10	recovery	enalapril+enalaprilat	urine	RIA	ENAPO10_recovery_enalapril+enalaprilat	72.0	hr	67.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P12	NA	NA	ENAPO10	recovery	enalapril+enalaprilat	urine	RIA	ENAPO10_recovery_enalapril+enalaprilat	72.0	hr	NA	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P1	NA	NA	ENAIV5	recovery	enalaprilat	urine	RIA	ENAIV5_recovery_enalaprilat	72.0	hr	18.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P2	NA	NA	ENAIV5	recovery	enalaprilat	urine	RIA	ENAIV5_recovery_enalaprilat	72.0	hr	42.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P3	NA	NA	ENAIV5	recovery	enalaprilat	urine	RIA	ENAIV5_recovery_enalaprilat	72.0	hr	37.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P4	NA	NA	ENAIV5	recovery	enalaprilat	urine	RIA	ENAIV5_recovery_enalaprilat	72.0	hr	42.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P5	NA	NA	ENAIV5	recovery	enalaprilat	urine	RIA	ENAIV5_recovery_enalaprilat	72.0	hr	43.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P6	NA	NA	ENAIV5	recovery	enalaprilat	urine	RIA	ENAIV5_recovery_enalaprilat	72.0	hr	48.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P7	NA	NA	ENAIV5	recovery	enalaprilat	urine	RIA	ENAIV5_recovery_enalaprilat	72.0	hr	34.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P8	NA	NA	ENAIV5	recovery	enalaprilat	urine	RIA	ENAIV5_recovery_enalaprilat	72.0	hr	45.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P9	NA	NA	ENAIV5	recovery	enalaprilat	urine	RIA	ENAIV5_recovery_enalaprilat	72.0	hr	46.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P10	NA	NA	ENAIV5	recovery	enalaprilat	urine	RIA	ENAIV5_recovery_enalaprilat	72.0	hr	35.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P11	NA	NA	ENAIV5	recovery	enalaprilat	urine	RIA	ENAIV5_recovery_enalaprilat	72.0	hr	65.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P12	NA	NA	ENAIV5	recovery	enalaprilat	urine	RIA	ENAIV5_recovery_enalaprilat	72.0	hr	NA	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P1	NA	NA	ENAIV5	recovery	enalapril+enalaprilat	urine	RIA	ENAIV5_recovery_enalapril+enalaprilat	72.0	hr	84.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P2	NA	NA	ENAIV5	recovery	enalapril+enalaprilat	urine	RIA	ENAIV5_recovery_enalapril+enalaprilat	72.0	hr	99.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P3	NA	NA	ENAIV5	recovery	enalapril+enalaprilat	urine	RIA	ENAIV5_recovery_enalapril+enalaprilat	72.0	hr	74.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P4	NA	NA	ENAIV5	recovery	enalapril+enalaprilat	urine	RIA	ENAIV5_recovery_enalapril+enalaprilat	72.0	hr	80.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P5	NA	NA	ENAIV5	recovery	enalapril+enalaprilat	urine	RIA	ENAIV5_recovery_enalapril+enalaprilat	72.0	hr	86.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P6	NA	NA	ENAIV5	recovery	enalapril+enalaprilat	urine	RIA	ENAIV5_recovery_enalapril+enalaprilat	72.0	hr	55.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P7	NA	NA	ENAIV5	recovery	enalapril+enalaprilat	urine	RIA	ENAIV5_recovery_enalapril+enalaprilat	72.0	hr	81.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P8	NA	NA	ENAIV5	recovery	enalapril+enalaprilat	urine	RIA	ENAIV5_recovery_enalapril+enalaprilat	72.0	hr	67.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P9	NA	NA	ENAIV5	recovery	enalapril+enalaprilat	urine	RIA	ENAIV5_recovery_enalapril+enalaprilat	72.0	hr	77.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P10	NA	NA	ENAIV5	recovery	enalapril+enalaprilat	urine	RIA	ENAIV5_recovery_enalapril+enalaprilat	72.0	hr	60.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P11	NA	NA	ENAIV5	recovery	enalapril+enalaprilat	urine	RIA	ENAIV5_recovery_enalapril+enalaprilat	72.0	hr	83.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P12	NA	NA	ENAIV5	recovery	enalapril+enalaprilat	urine	RIA	ENAIV5_recovery_enalapril+enalaprilat	72.0	hr	NA	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P1	NA	NA	EATIV5	recovery	enalaprilat	urine	RIA	EATIV5_recovery_enalaprilat	72.0	hr	91.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P2	NA	NA	EATIV5	recovery	enalaprilat	urine	RIA	EATIV5_recovery_enalaprilat	72.0	hr	87.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P3	NA	NA	EATIV5	recovery	enalaprilat	urine	RIA	EATIV5_recovery_enalaprilat	72.0	hr	NA	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P4	NA	NA	EATIV5	recovery	enalaprilat	urine	RIA	EATIV5_recovery_enalaprilat	72.0	hr	84.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P5	NA	NA	EATIV5	recovery	enalaprilat	urine	RIA	EATIV5_recovery_enalaprilat	72.0	hr	77.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P6	NA	NA	EATIV5	recovery	enalaprilat	urine	RIA	EATIV5_recovery_enalaprilat	72.0	hr	84.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P7	NA	NA	EATIV5	recovery	enalaprilat	urine	RIA	EATIV5_recovery_enalaprilat	72.0	hr	99.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P8	NA	NA	EATIV5	recovery	enalaprilat	urine	RIA	EATIV5_recovery_enalaprilat	72.0	hr	83.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P9	NA	NA	EATIV5	recovery	enalaprilat	urine	RIA	EATIV5_recovery_enalaprilat	72.0	hr	97.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P10	NA	NA	EATIV5	recovery	enalaprilat	urine	RIA	EATIV5_recovery_enalaprilat	72.0	hr	89.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P11	NA	NA	EATIV5	recovery	enalaprilat	urine	RIA	EATIV5_recovery_enalaprilat	72.0	hr	87.0	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P12	NA	NA	EATIV5	recovery	enalaprilat	urine	RIA	EATIV5_recovery_enalaprilat	72.0	hr	NA	NA	NA	NA	NA	NA	NA	percent	NA
+Dickstein1987	P1	NA	NA	ENAPO10	cumulative amount	enalaprilat	urine	RIA	ENAPO10_cumulative amount_enalaprilat	72.0	hr	1.8	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P2	NA	NA	ENAPO10	cumulative amount	enalaprilat	urine	RIA	ENAPO10_cumulative amount_enalaprilat	72.0	hr	2.8	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P3	NA	NA	ENAPO10	cumulative amount	enalaprilat	urine	RIA	ENAPO10_cumulative amount_enalaprilat	72.0	hr	3.4	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P4	NA	NA	ENAPO10	cumulative amount	enalaprilat	urine	RIA	ENAPO10_cumulative amount_enalaprilat	72.0	hr	NA	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P5	NA	NA	ENAPO10	cumulative amount	enalaprilat	urine	RIA	ENAPO10_cumulative amount_enalaprilat	72.0	hr	3.5	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P6	NA	NA	ENAPO10	cumulative amount	enalaprilat	urine	RIA	ENAPO10_cumulative amount_enalaprilat	72.0	hr	3.8	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P7	NA	NA	ENAPO10	cumulative amount	enalaprilat	urine	RIA	ENAPO10_cumulative amount_enalaprilat	72.0	hr	2.1	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P8	NA	NA	ENAPO10	cumulative amount	enalaprilat	urine	RIA	ENAPO10_cumulative amount_enalaprilat	72.0	hr	4.4	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P9	NA	NA	ENAPO10	cumulative amount	enalaprilat	urine	RIA	ENAPO10_cumulative amount_enalaprilat	72.0	hr	4.5	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P10	NA	NA	ENAPO10	cumulative amount	enalaprilat	urine	RIA	ENAPO10_cumulative amount_enalaprilat	72.0	hr	3.3	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P11	NA	NA	ENAPO10	cumulative amount	enalaprilat	urine	RIA	ENAPO10_cumulative amount_enalaprilat	72.0	hr	5.8	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P12	NA	NA	ENAPO10	cumulative amount	enalaprilat	urine	RIA	ENAPO10_cumulative amount_enalaprilat	72.0	hr	NA	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P1	NA	NA	ENAPO10	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAPO10_cumulative amount_enalapril+enalaprilat	72.0	hr	5.8	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P2	NA	NA	ENAPO10	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAPO10_cumulative amount_enalapril+enalaprilat	72.0	hr	4.4	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P3	NA	NA	ENAPO10	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAPO10_cumulative amount_enalapril+enalaprilat	72.0	hr	5.2	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P4	NA	NA	ENAPO10	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAPO10_cumulative amount_enalapril+enalaprilat	72.0	hr	NA	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P5	NA	NA	ENAPO10	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAPO10_cumulative amount_enalapril+enalaprilat	72.0	hr	5.6	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P6	NA	NA	ENAPO10	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAPO10_cumulative amount_enalapril+enalaprilat	72.0	hr	4.5	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P7	NA	NA	ENAPO10	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAPO10_cumulative amount_enalapril+enalaprilat	72.0	hr	4.1	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P8	NA	NA	ENAPO10	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAPO10_cumulative amount_enalapril+enalaprilat	72.0	hr	5.6	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P9	NA	NA	ENAPO10	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAPO10_cumulative amount_enalapril+enalaprilat	72.0	hr	5.6	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P10	NA	NA	ENAPO10	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAPO10_cumulative amount_enalapril+enalaprilat	72.0	hr	5.4	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P11	NA	NA	ENAPO10	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAPO10_cumulative amount_enalapril+enalaprilat	72.0	hr	6.7	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P12	NA	NA	ENAPO10	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAPO10_cumulative amount_enalapril+enalaprilat	72.0	hr	NA	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P1	NA	NA	ENAIV5	cumulative amount	enalaprilat	urine	RIA	ENAIV5_cumulative amount_enalaprilat	72.0	hr	0.9	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P2	NA	NA	ENAIV5	cumulative amount	enalaprilat	urine	RIA	ENAIV5_cumulative amount_enalaprilat	72.0	hr	2.1	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P3	NA	NA	ENAIV5	cumulative amount	enalaprilat	urine	RIA	ENAIV5_cumulative amount_enalaprilat	72.0	hr	1.85	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P4	NA	NA	ENAIV5	cumulative amount	enalaprilat	urine	RIA	ENAIV5_cumulative amount_enalaprilat	72.0	hr	2.1	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P5	NA	NA	ENAIV5	cumulative amount	enalaprilat	urine	RIA	ENAIV5_cumulative amount_enalaprilat	72.0	hr	2.15	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P6	NA	NA	ENAIV5	cumulative amount	enalaprilat	urine	RIA	ENAIV5_cumulative amount_enalaprilat	72.0	hr	2.4	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P7	NA	NA	ENAIV5	cumulative amount	enalaprilat	urine	RIA	ENAIV5_cumulative amount_enalaprilat	72.0	hr	1.7	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P8	NA	NA	ENAIV5	cumulative amount	enalaprilat	urine	RIA	ENAIV5_cumulative amount_enalaprilat	72.0	hr	2.25	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P9	NA	NA	ENAIV5	cumulative amount	enalaprilat	urine	RIA	ENAIV5_cumulative amount_enalaprilat	72.0	hr	2.3	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P10	NA	NA	ENAIV5	cumulative amount	enalaprilat	urine	RIA	ENAIV5_cumulative amount_enalaprilat	72.0	hr	1.75	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P11	NA	NA	ENAIV5	cumulative amount	enalaprilat	urine	RIA	ENAIV5_cumulative amount_enalaprilat	72.0	hr	3.25	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P12	NA	NA	ENAIV5	cumulative amount	enalaprilat	urine	RIA	ENAIV5_cumulative amount_enalaprilat	72.0	hr	NA	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P1	NA	NA	ENAIV5	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAIV5_cumulative amount_enalapril+enalaprilat	72.0	hr	4.2	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P2	NA	NA	ENAIV5	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAIV5_cumulative amount_enalapril+enalaprilat	72.0	hr	4.95	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P3	NA	NA	ENAIV5	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAIV5_cumulative amount_enalapril+enalaprilat	72.0	hr	3.7	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P4	NA	NA	ENAIV5	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAIV5_cumulative amount_enalapril+enalaprilat	72.0	hr	4.0	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P5	NA	NA	ENAIV5	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAIV5_cumulative amount_enalapril+enalaprilat	72.0	hr	4.3	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P6	NA	NA	ENAIV5	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAIV5_cumulative amount_enalapril+enalaprilat	72.0	hr	2.75	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P7	NA	NA	ENAIV5	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAIV5_cumulative amount_enalapril+enalaprilat	72.0	hr	4.05	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P8	NA	NA	ENAIV5	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAIV5_cumulative amount_enalapril+enalaprilat	72.0	hr	3.35	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P9	NA	NA	ENAIV5	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAIV5_cumulative amount_enalapril+enalaprilat	72.0	hr	3.85	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P10	NA	NA	ENAIV5	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAIV5_cumulative amount_enalapril+enalaprilat	72.0	hr	3.0	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P11	NA	NA	ENAIV5	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAIV5_cumulative amount_enalapril+enalaprilat	72.0	hr	4.15	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P12	NA	NA	ENAIV5	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAIV5_cumulative amount_enalapril+enalaprilat	72.0	hr	NA	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P1	NA	NA	EATIV5	cumulative amount	enalaprilat	urine	RIA	EATIV5_cumulative amount_enalaprilat	72.0	hr	4.55	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P2	NA	NA	EATIV5	cumulative amount	enalaprilat	urine	RIA	EATIV5_cumulative amount_enalaprilat	72.0	hr	4.35	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P3	NA	NA	EATIV5	cumulative amount	enalaprilat	urine	RIA	EATIV5_cumulative amount_enalaprilat	72.0	hr	NA	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P4	NA	NA	EATIV5	cumulative amount	enalaprilat	urine	RIA	EATIV5_cumulative amount_enalaprilat	72.0	hr	4.2	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P5	NA	NA	EATIV5	cumulative amount	enalaprilat	urine	RIA	EATIV5_cumulative amount_enalaprilat	72.0	hr	3.85	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P6	NA	NA	EATIV5	cumulative amount	enalaprilat	urine	RIA	EATIV5_cumulative amount_enalaprilat	72.0	hr	4.2	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P7	NA	NA	EATIV5	cumulative amount	enalaprilat	urine	RIA	EATIV5_cumulative amount_enalaprilat	72.0	hr	4.95	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P8	NA	NA	EATIV5	cumulative amount	enalaprilat	urine	RIA	EATIV5_cumulative amount_enalaprilat	72.0	hr	4.15	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P9	NA	NA	EATIV5	cumulative amount	enalaprilat	urine	RIA	EATIV5_cumulative amount_enalaprilat	72.0	hr	4.85	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P10	NA	NA	EATIV5	cumulative amount	enalaprilat	urine	RIA	EATIV5_cumulative amount_enalaprilat	72.0	hr	4.45	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P11	NA	NA	EATIV5	cumulative amount	enalaprilat	urine	RIA	EATIV5_cumulative amount_enalaprilat	72.0	hr	4.35	NA	NA	NA	NA	NA	NA	mg	NA
+Dickstein1987	P12	NA	NA	EATIV5	cumulative amount	enalaprilat	urine	RIA	EATIV5_cumulative amount_enalaprilat	72.0	hr	NA	NA	NA	NA	NA	NA	NA	mg	NA

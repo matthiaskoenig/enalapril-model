@@ -1,0 +1,5 @@
+study	name	time	time_end	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+Wade1992	ENA10	0	NA	hr	oral	single dose	dosing	NR	enalapril maleate	10	mg	NA
+Wade1992	CAP50	S0T24R5	NA	hr	oral	multiple dose	dosing	NR	captopril	50	mg	NA
+Wade1992	CAPENA10	120	NA	hr	oral	single dose	dosing	NR	enalapril maleate	10	mg	NA
+Wade1992	PLACEBO	0	NA	hr	oral	single dose	dosing	NR	placebo	0	mg	NA

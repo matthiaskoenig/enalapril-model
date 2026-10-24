@@ -1,0 +1,10 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Kelly1986		S1	6.0	ENA10S	concentration	enalaprilat	serum	RIA	S1_enalaprilat	1.0	hr		1.1150144576641161e-05	4.07239429785091	1.3200720471945813e-06	5.389171565563202e-07		mole/meter^3	ng/ml	dimensionless
+Kelly1986		S1	6.0	ENA10S	concentration	enalaprilat	serum	RIA	S1_enalaprilat	2.0	hr		5.9566276446160036e-05	22.5394928507888	1.256394323425462e-05	5.129208346869461e-06		mole/meter^3	ng/ml	dimensionless
+Kelly1986		S1	6.0	ENA10S	concentration	enalaprilat	serum	RIA	S1_enalaprilat	3.0	hr		9.327009352892505e-05	34.0652620633226	1.1042300165748567e-05	4.50800016545568e-06		mole/meter^3	ng/ml	dimensionless
+Kelly1986		S1	6.0	ENA10S	concentration	enalaprilat	serum	RIA	S1_enalaprilat	5.0	hr		0.00010130151282830455	37.4377760097842	1.5080930940109895e-05	6.156764274903443e-06		mole/meter^3	ng/ml	dimensionless
+Kelly1986		S1	6.0	ENA10S	concentration	enalaprilat	serum	RIA	S1_enalaprilat	6.0	hr		9.109464242603051e-05	25.0649726851028	4.6908293081072105e-05	1.9150230458925484e-05		mole/meter^3	ng/ml	dimensionless
+Kelly1986		S1	6.0	ENA10S	concentration	enalaprilat	serum	RIA	S1_enalaprilat	8.0	hr		6.70267770118237e-05	18.2262762572541	3.603588937078982e-05	1.4711590230969799e-05		mole/meter^3	ng/ml	dimensionless
+Kelly1986		S1	6.0	ENA10S	concentration	enalaprilat	serum	RIA	S1_enalaprilat	10.0	hr		3.9412397873547336e-05	10.717228003927	2.118945402011745e-05	8.650558379575572e-06		mole/meter^3	ng/ml	dimensionless
+Kelly1986		S1	6.0	ENA10S	concentration	enalaprilat	serum	RIA	S1_enalaprilat	12.0	hr		2.8999356421170482e-05	7.34664815464052	1.938072748679135e-05	7.912148864428566e-06		mole/meter^3	ng/ml	dimensionless
+Kelly1986		S1	6.0	ENA10S	concentration	enalaprilat	serum	RIA	S1_enalaprilat	24.0	hr		7.73414051176497e-06	2.10310845701237	4.158138646752208e-06	1.6975529940483122e-06		mole/meter^3	ng/ml	dimensionless

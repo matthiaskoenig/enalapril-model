@@ -1,0 +1,8 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Shionoiri1985		all	13.0	ENA10	concentration	bradykinin	plasma	RIA	ENA10_bradykinin	0.0	hr		24.7057489511278	17.8964838313968	24.5511545374186	6.809265119731		pg/ml	pg/ml	dimensionless
+Shionoiri1985		all	13.0	ENA10	concentration	bradykinin	plasma	RIA	ENA10_bradykinin	1.0	hr		33.6649176880492	27.707532290818	21.4796585174175	5.9573853972312		pg/ml	pg/ml	dimensionless
+Shionoiri1985		all	13.0	ENA10	concentration	bradykinin	plasma	RIA	ENA10_bradykinin	2.0	hr		23.902524508035	19.6464245585458	15.345586601383	4.2560999494892		pg/ml	pg/ml	dimensionless
+Shionoiri1985		all	13.0	ENA10	concentration	bradykinin	plasma	RIA	ENA10_bradykinin	4.0	hr		15.0142770258426	12.8858147182216	7.67427998801993	2.128462307621		pg/ml	pg/ml	dimensionless
+Shionoiri1985		all	13.0	ENA10	concentration	bradykinin	plasma	RIA	ENA10_bradykinin	6.0	hr		17.1889206156127	14.634930779618	9.20854131069276	2.5539898359947		pg/ml	pg/ml	dimensionless
+Shionoiri1985		all	13.0	ENA10	concentration	bradykinin	plasma	RIA	ENA10_bradykinin	9.0	hr		22.7908750734464	18.5355997897099	15.3426132267265	4.2552752837365		pg/ml	pg/ml	dimensionless
+Shionoiri1985		all	13.0	ENA10	concentration	bradykinin	plasma	RIA	ENA10_bradykinin	24.0	hr		16.0962384933353	14.3949530455934	6.13407191603413	1.7012854477419		pg/ml	pg/ml	dimensionless

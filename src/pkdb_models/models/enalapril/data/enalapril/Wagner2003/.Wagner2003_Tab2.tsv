@@ -1,0 +1,81 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Wagner2003	NA	ena	20.0	ENA5	cardiac index	NA	NA	NR	NA	0.0	hr	NA	2.9	NA	NA	0.5	NA	NA	l/min/m^2 	NA
+Wagner2003	NA	ena	20.0	ENA5	cardiac index	NA	NA	NR	NA	1.0	hr	NA	3.4	NA	NA	0.6	NA	NA	l/min/m^2 	NA
+Wagner2003	NA	ena	20.0	ENA5	cardiac index	NA	NA	NR	NA	3.0	hr	NA	3.3	NA	NA	0.7	NA	NA	l/min/m^2 	NA
+Wagner2003	NA	ena	20.0	ENA5	cardiac index	NA	NA	NR	NA	6.0	hr	NA	3.3	NA	NA	0.5	NA	NA	l/min/m^2 	NA
+Wagner2003	NA	ena	20.0	ENA5	cardiac index	NA	NA	NR	NA	12.0	hr	NA	3.4	NA	NA	0.6	NA	NA	l/min/m^2 	NA
+Wagner2003	NA	ena	20.0	ENA5	cardiac index	NA	NA	NR	NA	24.0	hr	NA	3.3	NA	NA	0.5	NA	NA	l/min/m^2 	NA
+Wagner2003	NA	ena	20.0	ENA5	cardiac index	NA	NA	NR	NA	48.0	hr	NA	3.4	NA	NA	0.7	NA	NA	l/min/m^2 	NA
+Wagner2003	NA	ena	20.0	ENA5	cardiac index	NA	NA	NR	NA	72.0	hr	NA	3.4	NA	NA	0.7	NA	NA	l/min/m^2 	NA
+Wagner2003	NA	ena	20.0	ENA5	MAP	NA	NA	sphygmomanometer	NA	0.0	hr	NA	79.0	NA	NA	9.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	MAP	NA	NA	sphygmomanometer	NA	1.0	hr	NA	71.0	NA	NA	10.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	MAP	NA	NA	sphygmomanometer	NA	3.0	hr	NA	73.0	NA	NA	11.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	MAP	NA	NA	sphygmomanometer	NA	6.0	hr	NA	75.0	NA	NA	13.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	MAP	NA	NA	sphygmomanometer	NA	12.0	hr	NA	73.0	NA	NA	11.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	MAP	NA	NA	sphygmomanometer	NA	24.0	hr	NA	75.0	NA	NA	10.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	MAP	NA	NA	sphygmomanometer	NA	48.0	hr	NA	79.0	NA	NA	1.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	MAP	NA	NA	sphygmomanometer	NA	72.0	hr	NA	77.0	NA	NA	13.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	0.0	hr	NA	123.0	NA	NA	16.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	1.0	hr	NA	112.0	NA	NA	13.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	3.0	hr	NA	114.0	NA	NA	14.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	6.0	hr	NA	119.0	NA	NA	16.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	12.0	hr	NA	116.0	NA	NA	19.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	24.0	hr	NA	119.0	NA	NA	18.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	48.0	hr	NA	119.0	NA	NA	15.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	72.0	hr	NA	118.0	NA	NA	17.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	0.0	hr	NA	62.0	NA	NA	8.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	1.0	hr	NA	54.0	NA	NA	10.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	3.0	hr	NA	56.0	NA	NA	11.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	6.0	hr	NA	56.0	NA	NA	11.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	12.0	hr	NA	55.0	NA	NA	9.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	24.0	hr	NA	57.0	NA	NA	9.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	48.0	hr	NA	59.0	NA	NA	10.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	72.0	hr	NA	59.0	NA	NA	10.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	heart rate	NA	NA	electrocardiography	NA	0.0	hr	NA	94.0	NA	NA	11.0	NA	NA	1/min	NA
+Wagner2003	NA	ena	20.0	ENA5	heart rate	NA	NA	electrocardiography	NA	1.0	hr	NA	94.0	NA	NA	12.0	NA	NA	1/min	NA
+Wagner2003	NA	ena	20.0	ENA5	heart rate	NA	NA	electrocardiography	NA	3.0	hr	NA	92.0	NA	NA	12.0	NA	NA	1/min	NA
+Wagner2003	NA	ena	20.0	ENA5	heart rate	NA	NA	electrocardiography	NA	6.0	hr	NA	94.0	NA	NA	9.0	NA	NA	1/min	NA
+Wagner2003	NA	ena	20.0	ENA5	heart rate	NA	NA	electrocardiography	NA	12.0	hr	NA	96.0	NA	NA	11.0	NA	NA	1/min	NA
+Wagner2003	NA	ena	20.0	ENA5	heart rate	NA	NA	electrocardiography	NA	24.0	hr	NA	94.0	NA	NA	12.0	NA	NA	1/min	NA
+Wagner2003	NA	ena	20.0	ENA5	heart rate	NA	NA	electrocardiography	NA	48.0	hr	NA	99.0	NA	NA	11.0	NA	NA	1/min	NA
+Wagner2003	NA	ena	20.0	ENA5	heart rate	NA	NA	electrocardiography	NA	72.0	hr	NA	95.0	NA	NA	10.0	NA	NA	1/min	NA
+Wagner2003	NA	plac	20.0	ENA5	cardiac index	NA	NA	NR	NA	0.0	hr	NA	3.4	NA	NA	0.7	NA	NA	l/min/m^2 	NA
+Wagner2003	NA	plac	20.0	ENA5	cardiac index	NA	NA	NR	NA	1.0	hr	NA	3.3	NA	NA	0.6	NA	NA	l/min/m^2 	NA
+Wagner2003	NA	plac	20.0	ENA5	cardiac index	NA	NA	NR	NA	3.0	hr	NA	3.2	NA	NA	0.7	NA	NA	l/min/m^2 	NA
+Wagner2003	NA	plac	20.0	ENA5	cardiac index	NA	NA	NR	NA	6.0	hr	NA	3.2	NA	NA	0.7	NA	NA	l/min/m^2 	NA
+Wagner2003	NA	plac	20.0	ENA5	cardiac index	NA	NA	NR	NA	12.0	hr	NA	3.2	NA	NA	0.7	NA	NA	l/min/m^2 	NA
+Wagner2003	NA	plac	20.0	ENA5	cardiac index	NA	NA	NR	NA	24.0	hr	NA	3.1	NA	NA	0.8	NA	NA	l/min/m^2 	NA
+Wagner2003	NA	plac	20.0	ENA5	cardiac index	NA	NA	NR	NA	48.0	hr	NA	3.1	NA	NA	0.8	NA	NA	l/min/m^2 	NA
+Wagner2003	NA	plac	20.0	ENA5	cardiac index	NA	NA	NR	NA	72.0	hr	NA	2.9	NA	NA	0.5	NA	NA	l/min/m^2 	NA
+Wagner2003	NA	plac	20.0	ENA5	MAP	NA	NA	NR	NA	0.0	hr	NA	82.0	NA	NA	9.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	MAP	NA	NA	NR	NA	1.0	hr	NA	81.0	NA	NA	10.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	MAP	NA	NA	NR	NA	3.0	hr	NA	81.0	NA	NA	8.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	MAP	NA	NA	NR	NA	6.0	hr	NA	80.0	NA	NA	10.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	MAP	NA	NA	NR	NA	12.0	hr	NA	78.0	NA	NA	10.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	MAP	NA	NA	NR	NA	24.0	hr	NA	80.0	NA	NA	9.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	MAP	NA	NA	NR	NA	48.0	hr	NA	78.0	NA	NA	11.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	MAP	NA	NA	NR	NA	72.0	hr	NA	80.0	NA	NA	13.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	0.0	hr	NA	128.0	NA	NA	12.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	1.0	hr	NA	130.0	NA	NA	18.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	3.0	hr	NA	130.0	NA	NA	15.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	6.0	hr	NA	127.0	NA	NA	20.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	12.0	hr	NA	126.0	NA	NA	20.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	24.0	hr	NA	128.0	NA	NA	18.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	48.0	hr	NA	125.0	NA	NA	20.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	72.0	hr	NA	128.0	NA	NA	19.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	0.0	hr	NA	63.0	NA	NA	10.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	1.0	hr	NA	61.0	NA	NA	8.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	3.0	hr	NA	61.0	NA	NA	8.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	6.0	hr	NA	61.0	NA	NA	7.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	12.0	hr	NA	60.0	NA	NA	7.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	24.0	hr	NA	61.0	NA	NA	6.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	48.0	hr	NA	60.0	NA	NA	8.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	72.0	hr	NA	61.0	NA	NA	9.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	heart rate	NA	NA	electrocardiography	NA	0.0	hr	NA	101.0	NA	NA	17.0	NA	NA	1/min	NA
+Wagner2003	NA	plac	20.0	ENA5	heart rate	NA	NA	electrocardiography	NA	1.0	hr	NA	98.0	NA	NA	15.0	NA	NA	1/min	NA
+Wagner2003	NA	plac	20.0	ENA5	heart rate	NA	NA	electrocardiography	NA	3.0	hr	NA	100.0	NA	NA	15.0	NA	NA	1/min	NA
+Wagner2003	NA	plac	20.0	ENA5	heart rate	NA	NA	electrocardiography	NA	6.0	hr	NA	100.0	NA	NA	18.0	NA	NA	1/min	NA
+Wagner2003	NA	plac	20.0	ENA5	heart rate	NA	NA	electrocardiography	NA	12.0	hr	NA	95.0	NA	NA	14.0	NA	NA	1/min	NA
+Wagner2003	NA	plac	20.0	ENA5	heart rate	NA	NA	electrocardiography	NA	24.0	hr	NA	95.0	NA	NA	14.0	NA	NA	1/min	NA
+Wagner2003	NA	plac	20.0	ENA5	heart rate	NA	NA	electrocardiography	NA	48.0	hr	NA	99.0	NA	NA	15.0	NA	NA	1/min	NA
+Wagner2003	NA	plac	20.0	ENA5	heart rate	NA	NA	electrocardiography	NA	72.0	hr	NA	97.0	NA	NA	14.0	NA	NA	1/min	NA

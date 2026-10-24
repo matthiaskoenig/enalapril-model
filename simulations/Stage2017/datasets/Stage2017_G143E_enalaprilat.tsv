@@ -1,0 +1,10 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	median	mean_pm	sd	se	comments	value_unit	median_unit	count_unit
+Stage2017		G143E	6.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	G143E_enalaprilat	1.0	hr		2.540438514294947e-06					ng/ml	mole/meter^3	dimensionless
+Stage2017		G143E	6.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	G143E_enalaprilat	2.0	hr		2.7730995924531253e-05					ng/ml	mole/meter^3	dimensionless
+Stage2017		G143E	6.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	G143E_enalaprilat	3.0	hr		5.6241556773978056e-05					ng/ml	mole/meter^3	dimensionless
+Stage2017		G143E	6.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	G143E_enalaprilat	4.0	hr		6.366437062426147e-05					ng/ml	mole/meter^3	dimensionless
+Stage2017		G143E	6.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	G143E_enalaprilat	5.0	hr		5.7615742582076135e-05					ng/ml	mole/meter^3	dimensionless
+Stage2017		G143E	6.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	G143E_enalaprilat	9.0	hr		3.4972697243109233e-05					ng/ml	mole/meter^3	dimensionless
+Stage2017		G143E	6.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	G143E_enalaprilat	24.0	hr		6.892444442954291e-06					ng/ml	mole/meter^3	dimensionless
+Stage2017		G143E	6.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	G143E_enalaprilat	48.0	hr		3.0459031064425124e-06					ng/ml	mole/meter^3	dimensionless
+Stage2017		G143E	6.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	G143E_enalaprilat	72.0	hr		2.3232213688647898e-06					ng/ml	mole/meter^3	dimensionless

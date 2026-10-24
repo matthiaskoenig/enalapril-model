@@ -1,0 +1,11 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Tarkiainen2015		control	12.0	ENA10	concentration	enalapril	plasma	LC/MS	control_ENA10_enalapril	0.5	hr		9.695080159253303e-05	21.329382332874	6.341353430229171e-05	1.8305910549846848e-05		mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		control	12.0	ENA10	concentration	enalapril	plasma	LC/MS	control_ENA10_enalapril	1.0	hr		0.00021546359981993178	98.0427831810459	7.079197052430764e-05	2.043588161933653e-05		mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		control	12.0	ENA10	concentration	enalapril	plasma	LC/MS	control_ENA10_enalapril	1.5	hr		0.00015828616478128938	76.5174116041686	7.078730947805267e-05	2.043453609118153e-05		mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		control	12.0	ENA10	concentration	enalapril	plasma	LC/MS	control_ENA10_enalapril	2.0	hr		0.00010251484390623294	49.5257461638283	4.571554167121481e-05	1.3196940145012715e-05		mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		control	12.0	ENA10	concentration	enalapril	plasma	LC/MS	control_ENA10_enalapril	3.0	hr		3.6416224566021166e-05	17.5888640650711	1.6222305386673477e-05	4.682976190936123e-06		mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		control	12.0	ENA10	concentration	enalapril	plasma	LC/MS	control_ENA10_enalapril	4.0	hr		1.3887598480872671e-05	6.46296271522029	5.163507041534729e-06	1.490576090196302e-06		mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		control	12.0	ENA10	concentration	enalapril	plasma	LC/MS	control_ENA10_enalapril	5.0	hr		6.08319849795469e-06					mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		control	12.0	ENA10	concentration	enalapril	plasma	LC/MS	control_ENA10_enalapril	7.0	hr		1.8223031308283485e-06					mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		control	12.0	ENA10	concentration	enalapril	plasma	LC/MS	control_ENA10_enalapril	9.0	hr		1.0227211448526445e-06					mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		control	12.0	ENA10	concentration	enalapril	plasma	LC/MS	control_ENA10_enalapril	12.0	hr		1.1422599799652913e-06					mole/meter^3	ng/ml	dimensionless

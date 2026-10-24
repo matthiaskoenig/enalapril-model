@@ -1,0 +1,13 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Schwartz1985		HT	1.0	ENA40	concentration	enalaprilat	serum	RIA	HT_ENA40_enalaprilat	23.0708820870974	min		1.3797519106520671e-05					mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985		HT	1.0	ENA40	concentration	enalaprilat	serum	RIA	HT_ENA40_enalaprilat	52.9059630648563	min		2.4130172618434786e-05					mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985		HT	1.0	ENA40	concentration	enalaprilat	serum	RIA	HT_ENA40_enalaprilat	117.006564162341	min		0.00015341124503254222					mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985		HT	1.0	ENA40	concentration	enalaprilat	serum	RIA	HT_ENA40_enalaprilat	170.208877671476	min		0.00020271180233289877					mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985		HT	1.0	ENA40	concentration	enalaprilat	serum	RIA	HT_ENA40_enalaprilat	233.16112079738	min		0.00024307786522927258					mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985		HT	1.0	ENA40	concentration	enalaprilat	serum	RIA	HT_ENA40_enalaprilat	349.019326988141	min		0.0002504285594657462					mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985		HT	1.0	ENA40	concentration	enalaprilat	serum	RIA	HT_ENA40_enalaprilat	462.906802724449	min		0.0002552506784025969					mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985		HT	1.0	ENA40	concentration	enalaprilat	serum	RIA	HT_ENA40_enalaprilat	602.124832685478	min		0.00019655949072504606					mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985		HT	1.0	ENA40	concentration	enalaprilat	serum	RIA	HT_ENA40_enalaprilat	717.753367281923	min		0.0001450595689203579					mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985		HT	1.0	ENA40	concentration	enalaprilat	serum	RIA	HT_ENA40_enalaprilat	831.418580185022	min		0.00010705750040523822					mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985		HT	1.0	ENA40	concentration	enalaprilat	serum	RIA	HT_ENA40_enalaprilat	1200.09335038995	min		5.689703968157394e-05					mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985		HT	1.0	ENA40	concentration	enalaprilat	serum	RIA	HT_ENA40_enalaprilat	1435.41042066946	min		3.7608420535495204e-05					mole/meter^3	mole/meter^3	dimensionless

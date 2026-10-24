@@ -1,0 +1,10 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Ohnishi1989		cirrhosis	7.0		blood pressure diastolic			sphygmomanometer	cirrhosis_blood pressure diastolic	0.0	hr		77.2559210427635	71.9607313744019	14.0097550074034	5.2951896683616		mmHg	mmHg	dimensionless
+Ohnishi1989		cirrhosis	7.0		blood pressure diastolic			sphygmomanometer	cirrhosis_blood pressure diastolic	1.0	hr		74.6445124420645	68.9225877094302	15.1387898631803	5.72192473263436		mmHg	mmHg	dimensionless
+Ohnishi1989		cirrhosis	7.0		blood pressure diastolic			sphygmomanometer	cirrhosis_blood pressure diastolic	2.0	hr		70.972265970691	65.2518411855585	15.1348213751107	5.72042478513251		mmHg	mmHg	dimensionless
+Ohnishi1989		cirrhosis	7.0		blood pressure diastolic			sphygmomanometer	cirrhosis_blood pressure diastolic	3.0	hr		66.6644167454139	62.6389326373577	10.6504298565594	4.02548410805622		mmHg	mmHg	dimensionless
+Ohnishi1989		cirrhosis	7.0		blood pressure diastolic			sphygmomanometer	cirrhosis_blood pressure diastolic	4.0	hr		70.8312709055183	66.5939192128275	11.2109787963783	4.23735169269075		mmHg	mmHg	dimensionless
+Ohnishi1989		cirrhosis	7.0		blood pressure diastolic			sphygmomanometer	cirrhosis_blood pressure diastolic	6.0	hr		66.8781592644258	61.3681021164259	14.5782409233614	5.51005714799983		mmHg	mmHg	dimensionless
+Ohnishi1989		cirrhosis	7.0		blood pressure diastolic			sphygmomanometer	cirrhosis_blood pressure diastolic	8.0	hr		72.4575889843855	68.642472513462	10.09384940481	3.81511647092351		mmHg	mmHg	dimensionless
+Ohnishi1989		cirrhosis	7.0		blood pressure diastolic			sphygmomanometer	cirrhosis_blood pressure diastolic	12.0	hr		76.2040828571	70.4851580194693	15.1308528870412	5.71892483763068		mmHg	mmHg	dimensionless
+Ohnishi1989		cirrhosis	7.0		blood pressure diastolic			sphygmomanometer	cirrhosis_blood pressure diastolic	24.0	hr		75.5707300244491	71.968981085662	9.52933197692157	3.60174893878714		mmHg	mmHg	dimensionless

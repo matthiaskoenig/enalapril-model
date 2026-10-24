@@ -1,0 +1,13 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Sunaga1995	A	NA	12.0	PLACEBO	concentration	bradykinin	plasma	RIA	A_PLACEBO_bradykinin	0.0	hr	27.181611748208	NA	NA	NA	NA	pg/ml	NA
+Sunaga1995	A	NA	12.0	PLACEBO	concentration	bradykinin	plasma	RIA	A_PLACEBO_bradykinin	4.0	hr	12.8344758365902	NA	NA	NA	NA	pg/ml	NA
+Sunaga1995	A	NA	12.0	PLACEBO	concentration	bradykinin	plasma	RIA	A_PLACEBO_bradykinin	8.0	hr	18.7213929285811	NA	NA	NA	NA	pg/ml	NA
+Sunaga1995	A	NA	12.0	ENA5	concentration	bradykinin	plasma	RIA	A_ENA5_bradykinin	0.0	hr	20.4048946120829	NA	NA	NA	NA	pg/ml	NA
+Sunaga1995	A	NA	12.0	ENA5	concentration	bradykinin	plasma	RIA	A_ENA5_bradykinin	4.0	hr	337.746741552238	NA	NA	NA	NA	pg/ml	NA
+Sunaga1995	A	NA	12.0	ENA5	concentration	bradykinin	plasma	RIA	A_ENA5_bradykinin	8.0	hr	407.606722617294	NA	NA	NA	NA	pg/ml	NA
+Sunaga1995	B	NA	12.0	PLACEBO	concentration	bradykinin	plasma	RIA	B_PLACEBO_bradykinin	0.0	hr	18.2483994248937	NA	NA	NA	NA	pg/ml	NA
+Sunaga1995	B	NA	12.0	PLACEBO	concentration	bradykinin	plasma	RIA	B_PLACEBO_bradykinin	4.0	hr	23.6132006411024	NA	NA	NA	NA	pg/ml	NA
+Sunaga1995	B	NA	12.0	PLACEBO	concentration	bradykinin	plasma	RIA	B_PLACEBO_bradykinin	8.0	hr	192.346380777998	NA	NA	NA	NA	pg/ml	NA
+Sunaga1995	B	NA	12.0	ENA5	concentration	bradykinin	plasma	RIA	B_ENA5_bradykinin	0.0	hr	33.1227321163003	NA	NA	NA	NA	pg/ml	NA
+Sunaga1995	B	NA	12.0	ENA5	concentration	bradykinin	plasma	RIA	B_ENA5_bradykinin	4.0	hr	28.5812593589922	NA	NA	NA	NA	pg/ml	NA
+Sunaga1995	B	NA	12.0	ENA5	concentration	bradykinin	plasma	RIA	B_ENA5_bradykinin	8.0	hr	28.9797573550911	NA	NA	NA	NA	pg/ml	NA

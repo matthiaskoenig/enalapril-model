@@ -1,0 +1,9 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Arafat2005	all	48.0	NA	species	48.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Arafat2005	all	48.0	NA	sex	48.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Arafat2005	all	48.0	NA	healthy	48.0	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Arafat2005	all	48.0	NA	overnight fast	48.0	NA	Y	NA	NA	NA	NA	NA	NA	NA	Following 10 hr fast
+Arafat2005	healthy	24.0	all	age	24.0	NA	NA	28.3	NA	6.1	NA	18.0	43.0	yr	NA
+Arafat2005	healthy	24.0	all	weight	24.0	NA	NA	76.7	NA	9.0	NA	60.0	90.0	kg	NA
+Arafat2005	20mg	24.0	all	age	24.0	NA	NA	30.0	NA	7.4	NA	19.0	43.0	yr	NA
+Arafat2005	20mg	24.0	all	weight	24.0	NA	NA	76.1	NA	8.9	NA	60.0	90.0	kg	NA

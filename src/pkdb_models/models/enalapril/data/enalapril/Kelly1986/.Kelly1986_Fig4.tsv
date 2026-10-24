@@ -1,0 +1,25 @@
+study	individual	group	count	intervention	time	time_unit	x_measurement_type	x_substance	x_tissue	x_method	x_label	x	x_unit	y_measurement_type	y_substance	y_tissue	y_method	y_label	y	y_unit	comments
+Kelly1986	I1_s	NA	10	ENA10S	48	hr	gfr	NA	NA	NR	gfr_I1_s	4.93464942944154	ml/min/(1.73*m^2) 	 cumulative amount	enalaprilat	urine	RIA	enalaprilat_I1_s	0.664194049128461	mg	NA
+Kelly1986	I2_s	NA	10	ENA10S	48	hr	gfr	NA	NA	NR	gfr_I2_s	6.26512305814601	ml/min/(1.73*m^2) 	 cumulative amount	enalaprilat	urine	RIA	enalaprilat_I2_s	0.390246985263041	mg	NA
+Kelly1986	I3_s	NA	10	ENA10S	48	hr	gfr	NA	NA	NR	gfr_I3_s	10.3399651621618	ml/min/(1.73*m^2) 	 cumulative amount	enalaprilat	urine	RIA	enalaprilat_I3_s	0.429034691693031	mg	NA
+Kelly1986	I4_s	NA	10	ENA10S	48	hr	gfr	NA	NA	NR	gfr_I4_s	9.79820122998898	ml/min/(1.73*m^2) 	 cumulative amount	enalaprilat	urine	RIA	enalaprilat_I4_s	0.839836791443005	mg	NA
+Kelly1986	I5_s	NA	10	ENA10S	48	hr	gfr	NA	NA	NR	gfr_I5_s	10.0280835634131	ml/min/(1.73*m^2) 	 cumulative amount	enalaprilat	urine	RIA	enalaprilat_I5_s	1.21145619793579	mg	NA
+Kelly1986	I6_s	NA	10	ENA10S	48	hr	gfr	NA	NA	NR	gfr_I6_s	8.22267777369625	ml/min/(1.73*m^2) 	 cumulative amount	enalaprilat	urine	RIA	enalaprilat_I6_s	0.585686467356313	mg	NA
+Kelly1986	I7_s	NA	10	ENA10S	48	hr	gfr	NA	NA	NR	gfr_I7_s	20.3083267173039	ml/min/(1.73*m^2) 	 cumulative amount	enalaprilat	urine	RIA	enalaprilat_I7_s	1.2692980689094	mg	NA
+Kelly1986	I8_s	NA	10	ENA10S	48	hr	gfr	NA	NA	NR	gfr_I8_s	20.1438542024623	ml/min/(1.73*m^2) 	 cumulative amount	enalaprilat	urine	RIA	enalaprilat_I8_s	1.57248995745991	mg	NA
+Kelly1986	I9_s	NA	10	ENA10S	48	hr	gfr	NA	NA	NR	gfr_I9_s	21.212214572644	ml/min/(1.73*m^2) 	 cumulative amount	enalaprilat	urine	RIA	enalaprilat_I9_s	0.594407776500653	mg	NA
+Kelly1986	I10_s	NA	10	ENA10S	48	hr	gfr	NA	NA	NR	gfr_I10_s	29.7467739450889	ml/min/(1.73*m^2) 	 cumulative amount	enalaprilat	urine	RIA	enalaprilat_I10_s	0.642611968890837	mg	NA
+Kelly1986	I11_s	NA	10	ENA10S	48	hr	gfr	NA	NA	NR	gfr_I11_s	28.8087592278797	ml/min/(1.73*m^2) 	 cumulative amount	enalaprilat	urine	RIA	enalaprilat_I11_s	0.965426803016119	mg	NA
+Kelly1986	I12_s	NA	10	ENA10S	48	hr	gfr	NA	NA	NR	gfr_I12_s	28.2930644263013	ml/min/(1.73*m^2) 	 cumulative amount	enalaprilat	urine	RIA	enalaprilat_I12_s	3.64517543339929	mg	NA
+Kelly1986	I13_s	NA	10	ENA10S	48	hr	gfr	NA	NA	NR	gfr_I13_s	44.5502482492208	ml/min/(1.73*m^2) 	 cumulative amount	enalaprilat	urine	RIA	enalaprilat_I13_s	1.36512187318552	mg	NA
+Kelly1986	I14_s	NA	10	ENA10S	48	hr	gfr	NA	NA	NR	gfr_I14_s	57.5274614591603	ml/min/(1.73*m^2) 	 cumulative amount	enalaprilat	urine	RIA	enalaprilat_I14_s	1.24670482239417	mg	NA
+Kelly1986	I15_s	NA	10	ENA10S	48	hr	gfr	NA	NA	NR	gfr_I15_s	53.3421810382623	ml/min/(1.73*m^2) 	 cumulative amount	enalaprilat	urine	RIA	enalaprilat_I15_s	2.06856181346352	mg	NA
+Kelly1986	I16_s	NA	10	ENA10S	48	hr	gfr	NA	NA	NR	gfr_I16_s	76.8048725575002	ml/min/(1.73*m^2) 	 cumulative amount	enalaprilat	urine	RIA	enalaprilat_I16_s	2.12532932026716	mg	NA
+Kelly1986	I17_s	NA	10	ENA10S	48	hr	gfr	NA	NA	NR	gfr_I17_s	71.8057612778614	ml/min/(1.73*m^2) 	 cumulative amount	enalaprilat	urine	RIA	enalaprilat_I17_s	0.551164618659967	mg	NA
+Kelly1986	I18_s	NA	10	ENA10S	48	hr	gfr	NA	NA	NR	gfr_I18_s	88.5705821710846	ml/min/(1.73*m^2) 	 cumulative amount	enalaprilat	urine	RIA	enalaprilat_I18_s	1.50823350041276	mg	NA
+Kelly1986	I19_s	NA	10	ENA10S	48	hr	gfr	NA	NA	NR	gfr_I19_s	103.381640222298	ml/min/(1.73*m^2) 	 cumulative amount	enalaprilat	urine	RIA	enalaprilat_I19_s	2.30898239543711	mg	NA
+Kelly1986	I20_s	NA	10	ENA10S	48	hr	gfr	NA	NA	NR	gfr_I20_s	103.272149873801	ml/min/(1.73*m^2) 	 cumulative amount	enalaprilat	urine	RIA	enalaprilat_I20_s	3.17940696677765	mg	NA
+Kelly1986	I21_s	NA	10	ENA10S	48	hr	gfr	NA	NA	NR	gfr_I21_s	117.531490324797	ml/min/(1.73*m^2) 	 cumulative amount	enalaprilat	urine	RIA	enalaprilat_I21_s	2.2882692862193	mg	NA
+Kelly1986	I22_s	NA	10	ENA10S	48	hr	gfr	NA	NA	NR	gfr_I22_s	125.932386154921	ml/min/(1.73*m^2) 	 cumulative amount	enalaprilat	urine	RIA	enalaprilat_I22_s	0.957511266999245	mg	NA
+Kelly1986	I23_s	NA	10	ENA10S	48	hr	gfr	NA	NA	NR	gfr_I23_s	119.514640186749	ml/min/(1.73*m^2) 	 cumulative amount	enalaprilat	urine	RIA	enalaprilat_I23_s	2.74776536202517	mg	NA
+Kelly1986	I24_s	NA	10	ENA10S	48	hr	gfr	NA	NA	NR	gfr_I24_s	123.163844485786	ml/min/(1.73*m^2) 	 cumulative amount	enalaprilat	urine	RIA	enalaprilat_I24_s	3.72872304708637	mg	NA

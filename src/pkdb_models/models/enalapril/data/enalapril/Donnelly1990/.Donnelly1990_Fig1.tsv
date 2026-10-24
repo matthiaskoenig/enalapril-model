@@ -1,0 +1,97 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Donnelly1990	NA	all	13.0	PLAC	blood pressure systolic	NA	NA	sphygmomanometer	PLAC_blood pressure systolic	0.0	hr	NA	177.371492851204	197.560931870425	20.189439019221	5.599542892819593	mmHg	error bar is SD (Fig1 caption)
+Donnelly1990	NA	all	13.0	PLAC	blood pressure systolic	NA	NA	sphygmomanometer	PLAC_blood pressure systolic	0.5	hr	NA	168.548802556286	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	PLAC	blood pressure systolic	NA	NA	sphygmomanometer	PLAC_blood pressure systolic	1.0	hr	NA	168.558991832276	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	PLAC	blood pressure systolic	NA	NA	sphygmomanometer	PLAC_blood pressure systolic	1.5	hr	NA	161.471739024112	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	PLAC	blood pressure systolic	NA	NA	sphygmomanometer	PLAC_blood pressure systolic	2.5	hr	NA	165.591059521675	185.780090969856	20.189031448180998	5.599429852951661	mmHg	error bar is SD (Fig1 caption)
+Donnelly1990	NA	all	13.0	PLAC	blood pressure systolic	NA	NA	sphygmomanometer	PLAC_blood pressure systolic	3.5	hr	NA	162.613753077161	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	PLAC	blood pressure systolic	NA	NA	sphygmomanometer	PLAC_blood pressure systolic	4.0	hr	NA	159.468934935359	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	PLAC	blood pressure systolic	NA	NA	sphygmomanometer	PLAC_blood pressure systolic	5.0	hr	NA	157.596553579289	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	PLAC	blood pressure systolic	NA	NA	sphygmomanometer	PLAC_blood pressure systolic	6.0	hr	NA	154.460702000359	165.028611486982	10.567909486622995	2.931010732960118	mmHg	error bar is SD (Fig1 caption)
+Donnelly1990	NA	all	13.0	PLAC	blood pressure systolic	NA	NA	sphygmomanometer	PLAC_blood pressure systolic	7.0	hr	NA	158.739382774418	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	PLAC	blood pressure systolic	NA	NA	sphygmomanometer	PLAC_blood pressure systolic	8.0	hr	NA	161.44117119614	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	PLAC	blood pressure systolic	NA	NA	sphygmomanometer	PLAC_blood pressure systolic	24.0	hr	NA	169.723014721466	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAs20	blood pressure systolic	NA	NA	sphygmomanometer	ENAs20_blood pressure systolic	0.0	hr	NA	170.589918322764	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAs20	blood pressure systolic	NA	NA	sphygmomanometer	ENAs20_blood pressure systolic	0.5	hr	NA	158.612220610052	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAs20	blood pressure systolic	NA	NA	sphygmomanometer	ENAs20_blood pressure systolic	1.0	hr	NA	146.476792905003	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAs20	blood pressure systolic	NA	NA	sphygmomanometer	ENAs20_blood pressure systolic	1.5	hr	NA	141.597759989566	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAs20	blood pressure systolic	NA	NA	sphygmomanometer	ENAs20_blood pressure systolic	2.5	hr	NA	136.726470923882	157.073639935441	20.347169011559004	5.64328932166984	mmHg	error bar is SD (Fig1 caption)
+Donnelly1990	NA	all	13.0	ENAs20	blood pressure systolic	NA	NA	sphygmomanometer	ENAs20_blood pressure systolic	3.5	hr	NA	128.543667161186	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAs20	blood pressure systolic	NA	NA	sphygmomanometer	ENAs20_blood pressure systolic	4.0	hr	NA	129.815696375878	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAs20	blood pressure systolic	NA	NA	sphygmomanometer	ENAs20_blood pressure systolic	5.0	hr	NA	125.892825119418	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAs20	blood pressure systolic	NA	NA	sphygmomanometer	ENAs20_blood pressure systolic	6.0	hr	NA	121.652863594124	142.315492590359	20.662628996235014	5.730782179370336	mmHg	error bar is SD (Fig1 caption)
+Donnelly1990	NA	all	13.0	ENAs20	blood pressure systolic	NA	NA	sphygmomanometer	ENAs20_blood pressure systolic	7.0	hr	NA	126.720194329872	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAs20	blood pressure systolic	NA	NA	sphygmomanometer	ENAs20_blood pressure systolic	8.0	hr	NA	127.371900422244	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAs20	blood pressure systolic	NA	NA	sphygmomanometer	ENAs20_blood pressure systolic	24.0	hr	NA	150.637685648609	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure systolic	NA	NA	sphygmomanometer	ENAm20_blood pressure systolic	168.0	hr	NA	150.242749311205	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure systolic	NA	NA	sphygmomanometer	ENAm20_blood pressure systolic	168.5	hr	NA	140.157403935506	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure systolic	NA	NA	sphygmomanometer	ENAm20_blood pressure systolic	169.0	hr	NA	136.223935832016	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure systolic	NA	NA	sphygmomanometer	ENAm20_blood pressure systolic	169.5	hr	NA	136.077210257748	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure systolic	NA	NA	sphygmomanometer	ENAm20_blood pressure systolic	170.5	hr	NA	135.149171000505	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure systolic	NA	NA	sphygmomanometer	ENAm20_blood pressure systolic	171.5	hr	NA	126.335854839499	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure systolic	NA	NA	sphygmomanometer	ENAm20_blood pressure systolic	172.0	hr	NA	126.503366536787	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure systolic	NA	NA	sphygmomanometer	ENAm20_blood pressure systolic	173.0	hr	NA	125.419635142405	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure systolic	NA	NA	sphygmomanometer	ENAm20_blood pressure systolic	174.0	hr	NA	121.179673617111	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure systolic	NA	NA	sphygmomanometer	ENAm20_blood pressure systolic	175.0	hr	NA	121.199644598053	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure systolic	NA	NA	sphygmomanometer	ENAm20_blood pressure systolic	176.0	hr	NA	128.31787280523	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure systolic	NA	NA	sphygmomanometer	ENAm20_blood pressure systolic	192.0	hr	NA	143.854888407049	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure systolic	NA	NA	sphygmomanometer	ENAm20_blood pressure systolic	1008.0	hr	NA	147.246287027829	127.056440437568	20.189846590261	5.599655932687525	mmHg	error bar is SD (Fig1 caption)
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure systolic	NA	NA	sphygmomanometer	ENAm20_blood pressure systolic	1008.5	hr	NA	139.369161544857	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure systolic	NA	NA	sphygmomanometer	ENAm20_blood pressure systolic	1009.0	hr	NA	137.131346679428	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure systolic	NA	NA	sphygmomanometer	ENAm20_blood pressure systolic	1009.5	hr	NA	135.130830303722	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure systolic	NA	NA	sphygmomanometer	ENAm20_blood pressure systolic	1010.5	hr	NA	130.417271230376	110.070102218817	20.347169011559004	5.64328932166984	mmHg	error bar is SD (Fig1 caption)
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure systolic	NA	NA	sphygmomanometer	ENAm20_blood pressure systolic	1011.5	hr	NA	124.285772510149	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure systolic	NA	NA	sphygmomanometer	ENAm20_blood pressure systolic	1012.0	hr	NA	123.348766690034	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure systolic	NA	NA	sphygmomanometer	ENAm20_blood pressure systolic	1013.0	hr	NA	121.160925349288	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure systolic	NA	NA	sphygmomanometer	ENAm20_blood pressure systolic	1014.0	hr	NA	116.921371395034	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure systolic	NA	NA	sphygmomanometer	ENAm20_blood pressure systolic	1015.0	hr	NA	124.038784460131	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure systolic	NA	NA	sphygmomanometer	ENAm20_blood pressure systolic	1016.0	hr	NA	124.21730057549	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure systolic	NA	NA	sphygmomanometer	ENAm20_blood pressure systolic	1032.0	hr	NA	143.224376008738	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	PLAC	blood pressure diastolic	NA	NA	sphygmomanometer	PLAC_blood pressure diastolic	0.0	hr	NA	106.099506110488	116.190355941062	10.090849830574001	2.7986981905493593	mmHg	error bar is SD (Fig1 caption)
+Donnelly1990	NA	all	13.0	PLAC	blood pressure diastolic	NA	NA	sphygmomanometer	PLAC_blood pressure diastolic	0.5	hr	NA	102.286984455107	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	PLAC	blood pressure diastolic	NA	NA	sphygmomanometer	PLAC_blood pressure diastolic	1.0	hr	NA	100.292633940369	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	PLAC	blood pressure diastolic	NA	NA	sphygmomanometer	PLAC_blood pressure diastolic	1.5	hr	NA	98.3896617943283	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	PLAC	blood pressure diastolic	NA	NA	sphygmomanometer	PLAC_blood pressure diastolic	2.5	hr	NA	98.400467462606	103.764307233338	5.363839770732	1.4876614866728641	mmHg	error bar is SD (Fig1 caption)
+Donnelly1990	NA	all	13.0	PLAC	blood pressure diastolic	NA	NA	sphygmomanometer	PLAC_blood pressure diastolic	3.5	hr	NA	96.2294677621109	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	PLAC	blood pressure diastolic	NA	NA	sphygmomanometer	PLAC_blood pressure diastolic	4.0	hr	NA	97.2353345352683	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	PLAC	blood pressure diastolic	NA	NA	sphygmomanometer	PLAC_blood pressure diastolic	5.0	hr	NA	93.3380118744899	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	PLAC	blood pressure diastolic	NA	NA	sphygmomanometer	PLAC_blood pressure diastolic	6.0	hr	NA	94.3488116701218	99.6217428838215	5.272931213699692	1.4624479894606774	mmHg	error bar is SD (Fig1 caption)
+Donnelly1990	NA	all	13.0	PLAC	blood pressure diastolic	NA	NA	sphygmomanometer	PLAC_blood pressure diastolic	7.0	hr	NA	95.360081277418	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	PLAC	blood pressure diastolic	NA	NA	sphygmomanometer	PLAC_blood pressure diastolic	8.0	hr	NA	97.2811411725325	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	PLAC	blood pressure diastolic	NA	NA	sphygmomanometer	PLAC_blood pressure diastolic	24.0	hr	NA	102.236244795368	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAs20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAs20_blood pressure diastolic	0.0	hr	NA	101.281352587781	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAs20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAs20_blood pressure diastolic	0.5	hr	NA	100.286996200398	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAs20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAs20_blood pressure diastolic	1.0	hr	NA	94.2926691762441	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAs20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAs20_blood pressure diastolic	1.5	hr	NA	89.2078975340761	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAs20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAs20_blood pressure diastolic	2.5	hr	NA	86.3096293773235	97.088758310011	10.779128932687499	2.9895924670494	mmHg	error bar is SD (Fig1 caption)
+Donnelly1990	NA	all	13.0	ENAs20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAs20_blood pressure diastolic	3.5	hr	NA	83.3202177577065	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAs20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAs20_blood pressure diastolic	4.0	hr	NA	81.2349586859369	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAs20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAs20_blood pressure diastolic	5.0	hr	NA	80.2469447560211	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAs20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAs20_blood pressure diastolic	6.0	hr	NA	80.1668418672666	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAs20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAs20_blood pressure diastolic	7.0	hr	NA	80.1783522530407	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAs20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAs20_blood pressure diastolic	8.0	hr	NA	83.2809884837417	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAs20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAs20_blood pressure diastolic	24.0	hr	NA	91.2360744886395	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAm20_blood pressure diastolic	168.0	hr	NA	93.1904910119157	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAm20_blood pressure diastolic	168.5	hr	NA	90.1047680011277	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAm20_blood pressure diastolic	169.0	hr	NA	88.1106523922224	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAm20_blood pressure diastolic	169.5	hr	NA	86.2985888032137	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAm20_blood pressure diastolic	170.502733716621	hr	NA	84.1278240085507	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAm20_blood pressure diastolic	171.5	hr	NA	82.7745315096812	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAm20_blood pressure diastolic	171.950270435339	hr	NA	83.1442732894452	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAm20_blood pressure diastolic	173.0	hr	NA	79.6101150451314	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAm20_blood pressure diastolic	174.0	hr	NA	75.803231129721	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAm20_blood pressure diastolic	175.0	hr	NA	80.9965292663305	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAm20_blood pressure diastolic	176.0	hr	NA	81.0082745579367	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAm20_blood pressure diastolic	192.0	hr	NA	92.5090291929224	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAm20_blood pressure diastolic	1008.0	hr	NA	92.0995883275293	81.463287154762	10.636301172767304	2.9499791738223293	mmHg	error bar is SD (Fig1 caption)
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAm20_blood pressure diastolic	1008.5	hr	NA	88.9231916655412	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAm20_blood pressure diastolic	1009.0	hr	NA	86.1104292316819	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAm20_blood pressure diastolic	1009.5	hr	NA	86.1170065949814	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAm20_blood pressure diastolic	1010.5	hr	NA	83.3096469952609	72.6731109166615	10.636536078599406	2.95004432497791	mmHg	error bar is SD (Fig1 caption)
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAm20_blood pressure diastolic	1011.5	hr	NA	82.2293150733201	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAm20_blood pressure diastolic	1012.0	hr	NA	84.1442674167994	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAm20_blood pressure diastolic	1013.0	hr	NA	77.9742308302161	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAm20_blood pressure diastolic	1014.0	hr	NA	77.0759509281718	66.5303234066046	10.545627521567212	2.9248308277657546	mmHg	error bar is SD (Fig1 caption)
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAm20_blood pressure diastolic	1015.0	hr	NA	74.9963295963732	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAm20_blood pressure diastolic	1016.0	hr	NA	79.0082863032284	NA	NA	NA	mmHg	NA
+Donnelly1990	NA	all	13.0	ENAm20	blood pressure diastolic	NA	NA	sphygmomanometer	ENAm20_blood pressure diastolic	1032.0	hr	NA	92.1453949647936	NA	NA	NA	mmHg	NA

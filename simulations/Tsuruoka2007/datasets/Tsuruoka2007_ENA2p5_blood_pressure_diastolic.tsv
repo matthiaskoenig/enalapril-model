@@ -1,0 +1,6 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Tsuruoka2007		ena	6.0	ENA2.5	blood pressure diastolic			sphygmomanometer	ENA2.5_blood pressure diastolic	1344.0	hr		75.0		12.2474487139159	5.0		mmHg	mmHg	dimensionless
+Tsuruoka2007		ena	6.0	ENA2.5	blood pressure diastolic			sphygmomanometer	ENA2.5_blood pressure diastolic	1345.0	hr		70.8		13.2272446110292	5.4		mmHg	mmHg	dimensionless
+Tsuruoka2007		ena	6.0	ENA2.5	blood pressure diastolic			sphygmomanometer	ENA2.5_blood pressure diastolic	1346.0	hr		69.2		14.6969384566991	6.0		mmHg	mmHg	dimensionless
+Tsuruoka2007		ena	6.0	ENA2.5	blood pressure diastolic			sphygmomanometer	ENA2.5_blood pressure diastolic	1347.0	hr		71.7		14.4519894824208	5.9		mmHg	mmHg	dimensionless
+Tsuruoka2007		ena	6.0	ENA2.5	blood pressure diastolic			sphygmomanometer	ENA2.5_blood pressure diastolic	1348.0	hr		76.7		12.0024997396376	4.9		mmHg	mmHg	dimensionless

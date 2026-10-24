@@ -1,0 +1,10 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Witte1993	all	10.0	NA	species	10.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Witte1993	all	10.0	NA	healthy	10.0	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Witte1993	all	10.0	NA	disease	10.0	NA	hypertension	NA	NA	NA	NA	NA	NA	NA	NA
+Witte1993	all	10.0	NA	sex	6.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Witte1993	all	10.0	NA	sex	4.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Witte1993	all	10.0	NA	age	10.0	NA	NA	NA	NA	NA	NA	39.0	62.0	yr	NA
+Witte1993	all	10.0	NA	blood pressure diastolic	10.0	NA	NA	NA	NA	NA	NA	95.0	NA	mmHg	NA
+Witte1993	morning	10.0	all	species	10.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Witte1993	night	10.0	all	species	10.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA

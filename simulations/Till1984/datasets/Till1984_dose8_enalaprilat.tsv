@@ -1,0 +1,19 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Till1984		all	12	ENA10m	concentration	enalaprilat	serum	RIA	last_enalaprilat	168.0	hr		1.0019070696837456e-05				times after the 8th dose (168 hr), figure x positions	mole/meter^3	ng/ml	dimensionless
+Till1984		all	12	ENA10m	concentration	enalaprilat	serum	RIA	last_enalaprilat	168.5	hr		1.4545223099807948e-05					mole/meter^3	ng/ml	dimensionless
+Till1984		all	12	ENA10m	concentration	enalaprilat	serum	RIA	last_enalaprilat	169.0	hr		4.521074711335139e-05					mole/meter^3	ng/ml	dimensionless
+Till1984		all	12	ENA10m	concentration	enalaprilat	serum	RIA	last_enalaprilat	170.0	hr		9.000828604418882e-05					mole/meter^3	ng/ml	dimensionless
+Till1984		all	12	ENA10m	concentration	enalaprilat	serum	RIA	last_enalaprilat	171.0	hr		0.00011069909582652608					mole/meter^3	ng/ml	dimensionless
+Till1984		all	12	ENA10m	concentration	enalaprilat	serum	RIA	last_enalaprilat	172.0	hr		9.673125683479548e-05					mole/meter^3	ng/ml	dimensionless
+Till1984		all	12	ENA10m	concentration	enalaprilat	serum	RIA	last_enalaprilat	174.0	hr		7.738703294525732e-05					mole/meter^3	ng/ml	dimensionless
+Till1984		all	12	ENA10m	concentration	enalaprilat	serum	RIA	last_enalaprilat	176.0	hr		5.164807367352959e-05					mole/meter^3	ng/ml	dimensionless
+Till1984		all	12	ENA10m	concentration	enalaprilat	serum	RIA	last_enalaprilat	180.0	hr		2.6049588511305925e-05					mole/meter^3	ng/ml	dimensionless
+Till1984		all	12	ENA10m	concentration	enalaprilat	serum	RIA	last_enalaprilat	183.0	hr		1.7291535992563095e-05					mole/meter^3	ng/ml	dimensionless
+Till1984		all	12	ENA10m	concentration	enalaprilat	serum	RIA	last_enalaprilat	190.0	hr		8.944281178488554e-06					mole/meter^3	ng/ml	dimensionless
+Till1984		all	12	ENA10m	concentration	enalaprilat	serum	RIA	last_enalaprilat	192.0	hr		8.445206852370681e-06					mole/meter^3	ng/ml	dimensionless
+Till1984		all	12	ENA10m	concentration	enalaprilat	serum	RIA	last_enalaprilat	204.0	hr		6.110063519989203e-06					mole/meter^3	ng/ml	dimensionless
+Till1984		all	12	ENA10m	concentration	enalaprilat	serum	RIA	last_enalaprilat	216.0	hr		4.006378648088512e-06					mole/meter^3	ng/ml	dimensionless
+Till1984		all	12	ENA10m	concentration	enalaprilat	serum	RIA	last_enalaprilat	228.0	hr		3.4566725686183958e-06					mole/meter^3	ng/ml	dimensionless
+Till1984		all	12	ENA10m	concentration	enalaprilat	serum	RIA	last_enalaprilat	240.0	hr		2.7028206334954605e-06					mole/meter^3	ng/ml	dimensionless
+Till1984		all	12	ENA10m	concentration	enalaprilat	serum	RIA	last_enalaprilat	252.0	hr		2.4814161244457563e-06					mole/meter^3	ng/ml	dimensionless
+Till1984		all	12	ENA10m	concentration	enalaprilat	serum	RIA	last_enalaprilat	264.0	hr		2.0540580693149296e-06					mole/meter^3	ng/ml	dimensionless

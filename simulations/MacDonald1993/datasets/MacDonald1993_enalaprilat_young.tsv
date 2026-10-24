@@ -1,0 +1,15 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+MacDonald1993		young	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_young	0.484796617924339	hr		6.04444036259713					nmol/l	nmol/l	dimensionless
+MacDonald1993		young	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_young	1.07372415752517	hr		21.5597599351086					nmol/l	nmol/l	dimensionless
+MacDonald1993		young	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_young	1.54676874513407	hr		56.5414456242597					nmol/l	nmol/l	dimensionless
+MacDonald1993		young	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_young	2.09562730382227	hr		89.9442741368623					nmol/l	nmol/l	dimensionless
+MacDonald1993		young	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_young	3.11147686307501	hr		119.397857768147					nmol/l	nmol/l	dimensionless
+MacDonald1993		young	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_young	4.37235256459927	hr		115.968692884887					nmol/l	nmol/l	dimensionless
+MacDonald1993		young	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_young	5.22763793415173	hr		108.333846446902					nmol/l	nmol/l	dimensionless
+MacDonald1993		young	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_young	6.13740558710339	hr		89.3875603283189					nmol/l	nmol/l	dimensionless
+MacDonald1993		young	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_young	8.20744409022312	hr		57.2801273766959					nmol/l	nmol/l	dimensionless
+MacDonald1993		young	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_young	9.99440533250682	hr		40.6946200945574					nmol/l	nmol/l	dimensionless
+MacDonald1993		young	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_young	12.0278340473107	hr		28.0529527053038					nmol/l	nmol/l	dimensionless
+MacDonald1993		young	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_young	24.1145412464901	hr		8.75894566423261					nmol/l	nmol/l	dimensionless
+MacDonald1993		young	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_young	47.8051100115491	hr		3.05548175944688					nmol/l	nmol/l	dimensionless
+MacDonald1993		young	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_young	72.0603919680315	hr		1.81954107122436					nmol/l	nmol/l	dimensionless

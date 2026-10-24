@@ -1,0 +1,2 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	min	max	comments	mean_unit	value_unit	count_unit
+Oguchi1993		Ena1	6.0	ENA5	recovery	enalaprilat	urine	GC/MS	Ena1_recovery_enalaprilat	48.0	hr		2.142049777176064e-06		1.3179489799021725e-06	5.380504179636558e-07				count*mole	percent	dimensionless

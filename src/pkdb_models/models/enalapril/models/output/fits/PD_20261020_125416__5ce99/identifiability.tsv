@@ -1,0 +1,5 @@
+parameter	value	unit	lower_bound	upper_bound	ci_lower	ci_upper	identifiability	n_points	cost_min	converged
+ANG1ANG2_EC50_eat	1.2801334606964112e-05	mM	1e-07	0.0001	9.291149831591705e-06	1.6507425974019336e-05	identifiable	17	31.663119522278194	True
+RENSEC_ang2_E	5.157030482265481	dimensionless	0.1	50.0	0.7987671855471594		non_identifiable_upper	15	31.663119522278194	True
+RENSEC_ang2_t	70.86960666984189	min	1.0	600.0		299.24294077873054	non_identifiable_lower	15	31.663119522278194	True
+BP_ang2_fe	0.15770254549216242	dimensionless	0.01	1.0	0.0959430492257037	0.21602932151128842	identifiable	15	31.663119522278194	True

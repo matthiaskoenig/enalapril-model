@@ -1,0 +1,16 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	min	max	comments	mean_unit	value_unit	count_unit
+Schwartz1985		HT	5.0	control	blood pressure			sphygmomanometer	HT_placebo40_blood pressure_standing	0.0	min		111.0		9.0	4.02492235949962			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	control	blood pressure			sphygmomanometer	HT_placebo40_blood pressure_standing	60.0	min		110.0		7.0	3.13049516849971			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	control	blood pressure			sphygmomanometer	HT_placebo40_blood pressure_standing	120.0	min		105.0		7.0	3.13049516849971			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	control	blood pressure			sphygmomanometer	HT_placebo40_blood pressure_standing	180.0	min		103.0		4.0	1.78885438199983			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	control	blood pressure			sphygmomanometer	HT_placebo40_blood pressure_standing	240.0	min		105.0		5.0	2.23606797749979			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	control	blood pressure			sphygmomanometer	HT_placebo40_blood pressure_standing	300.0	min		105.0		6.0	2.68328157299975			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	control	blood pressure			sphygmomanometer	HT_placebo40_blood pressure_standing	360.0	min		104.0		6.0	2.68328157299975			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	control	blood pressure			sphygmomanometer	HT_placebo40_blood pressure_standing	420.0	min		103.0		6.0	2.68328157299975			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	control	blood pressure			sphygmomanometer	HT_placebo40_blood pressure_standing	480.0	min		106.0		8.0	3.57770876399966			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	control	blood pressure			sphygmomanometer	HT_placebo40_blood pressure_standing	540.0	min		105.0		8.0	3.57770876399966			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	control	blood pressure			sphygmomanometer	HT_placebo40_blood pressure_standing	600.0	min		106.0		4.0	1.78885438199983			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	control	blood pressure			sphygmomanometer	HT_placebo40_blood pressure_standing	660.0	min		108.0		7.0	3.13049516849971			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	control	blood pressure			sphygmomanometer	HT_placebo40_blood pressure_standing	720.0	min		112.0		9.0	4.02492235949962			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	control	blood pressure			sphygmomanometer	HT_placebo40_blood pressure_standing	1380.0	min								standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	control	blood pressure			sphygmomanometer	HT_placebo40_blood pressure_standing	1440.0	min								standing	mmHg	mmHg	dimensionless

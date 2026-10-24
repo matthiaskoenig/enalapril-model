@@ -1,0 +1,10 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	age	NA	NA	NR	NA	0.0	hr	NA	58.0	NA	10.5830052442584	4.0	NA	NA	yr	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	weight	NA	NA	NR	NA	0.0	hr	NA	58.0	NA	7.93725393319377	3.0	NA	NA	kg	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	concentration	bilirubin	NA	NR	NA	0.0	hr	NA	2.1	NA	0.793725393319377	0.3	NA	NA	mg/dl	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	concentration	albumin	NA	NR	NA	0.0	hr	NA	3.2	NA	0.529150262212918	0.2	NA	NA	g/dl	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	concentration	ast	NA	NR	NA	0.0	hr	NA	53.0	NA	23.8117617995813	9.0	NA	NA	IU/l	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	prothrombin time ratio	NA	NA	NR	NA	0.0	hr	NA	67.0	NA	10.5830052442584	4.0	NA	NA	percent	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	retention ratio	indocyanine green	NA	NR	NA	0.0	hr	NA	37.0	NA	8.46640419540669	3.2	NA	NA	percent	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	concentration	creatinine	serum	NR	NA	0.0	hr	NA	1.0	NA	0.0793725393319377	0.03	NA	NA	mg/dl	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	clearance	creatinine	urine	NR	NA	0.0	hr	NA	72.0	NA	10.5830052442584	4.0	NA	NA	ml/min	NA

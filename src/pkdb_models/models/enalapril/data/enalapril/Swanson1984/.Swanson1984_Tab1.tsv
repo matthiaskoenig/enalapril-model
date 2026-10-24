@@ -1,0 +1,12 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Swanson1984	NA	fasting	12.0	ENA40	cmax	enalaprilat	serum	RIA	NA	NA	NA	NA	154.0	NA	39.0	11.2583302491977	ng/ml	NA
+Swanson1984	NA	fasting	12.0	ENA40	tmax	enalaprilat	serum	RIA	NA	NA	NA	NA	3.3	NA	0.5	0.144337567297406	hr	NA
+Swanson1984	NA	fasting	12.0	ENA40	auc_end	enalaprilat	serum	RIA	NA	24.0	hr	NA	1209.0	NA	203.0	58.601052322747	ng/ml*hr	NA
+Swanson1984	NA	fasting	12.0	ENA40	auc_end	enalaprilat	serum	RIA	NA	48.0	hr	NA	1304.0	NA	240.0	69.2820323027551	ng/ml*hr	NA
+Swanson1984	NA	fasting	12.0	ENA40	recovery	enalaprilat	urine	RIA	NA	48.0	hr	NA	30.5	NA	7.5	2.1650635094611	percent	NA
+Swanson1984	NA	fasting	12.0	ENA40	recovery	enalapril+enalaprilat	urine	RIA	NA	48.0	hr	NA	53.1	NA	10.1	2.91561885940761	percent	NA
+Swanson1984	NA	fed	12.0	ENA40	cmax	enalaprilat	serum	RIA	NA	NA	NA	NA	147.0	NA	36.0	10.3923048454133	ng/ml	NA
+Swanson1984	NA	fed	12.0	ENA40	tmax	enalaprilat	serum	RIA	NA	NA	NA	NA	3.4	NA	0.5	0.144337567297406	hr	NA
+Swanson1984	NA	fed	12.0	ENA40	auc_end	enalaprilat	serum	RIA	NA	24.0	hr	NA	1173.0	NA	212.0	61.1991285341003	ng/ml*hr	NA
+Swanson1984	NA	fed	12.0	ENA40	auc_end	enalaprilat	serum	RIA	NA	48.0	hr	NA	1262.0	NA	220.0	63.5085296108588	ng/ml*hr	NA
+Swanson1984	NA	fed	12.0	ENA40	recovery	enalaprilat	urine	RIA	NA	48.0	hr	NA	31.6	NA	8.8	2.54034118443435	percent	NA

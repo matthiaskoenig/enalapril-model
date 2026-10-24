@@ -1,0 +1,16 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+MacDonald1993		elder	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_elder	0.0	hr		0.0				manually set to zero	nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_elder	0.901436111452068	hr		105.946974346385					nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_elder	1.5421627592979	hr		330.385417945256					nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_elder	1.91422609549527	hr		396.231741745428					nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_elder	2.90580581809255	hr		404.259236528784					nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_elder	4.01580950042961	hr		342.389836749724					nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_elder	4.79440284767399	hr		276.500552350559					nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_elder	5.75593469988953	hr		238.830244261691					nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_elder	6.5530870258991	hr		201.166073401252					nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_elder	8.32326009574076	hr		143.304283785443					nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_elder	10.1058058180925	hr		104.259236528784					nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_elder	12.5564747759912	hr		81.3182766662576					nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_elder	24.1903031790843	hr		24.4323063704431					nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_elder	48.0129618264392	hr		4.72566588928453					nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_elder	72.1741008960354	hr		0.0					nmol/l	nmol/l	dimensionless

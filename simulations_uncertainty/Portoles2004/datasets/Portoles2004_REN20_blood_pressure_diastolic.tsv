@@ -1,0 +1,6 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Portoles2004		all	23.0	REN20	blood pressure diastolic			sphygmomanometer	REN20_blood pressure diastolic	0.0	hr		67.7966101694915	77.5005989550146	9.70398878552314	2.023421535629782		mmHg	mmHg	dimensionless
+Portoles2004		all	23.0	REN20	blood pressure diastolic			sphygmomanometer	REN20_blood pressure diastolic	5.0	hr		58.3764495985726	68.6529884032113	10.2765388046387	2.14280646738403		mmHg	mmHg	dimensionless
+Portoles2004		all	23.0	REN20	blood pressure diastolic			sphygmomanometer	REN20_blood pressure diastolic	12.0	hr		61.2326749076079	71.7930419268509	10.560367019243	2.201988741245112		mmHg	mmHg	dimensionless
+Portoles2004		all	23.0	REN20	blood pressure diastolic			sphygmomanometer	REN20_blood pressure diastolic	24.0	hr		66.6580349178028	78.35860838537	11.7005734675672	2.43973822072153		mmHg	mmHg	dimensionless
+Portoles2004		all	23.0	REN20	blood pressure diastolic			sphygmomanometer	REN20_blood pressure diastolic	36.0	hr		67.8015037593983	77.5071237415571	9.70561998215881	2.0237616636404807		mmHg	mmHg	dimensionless

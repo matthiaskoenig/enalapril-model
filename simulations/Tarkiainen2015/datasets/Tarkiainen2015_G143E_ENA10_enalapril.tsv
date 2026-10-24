@@ -1,0 +1,11 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Tarkiainen2015		G143E	10.0	ENA10	concentration	enalapril	plasma	LC/MS	G143E_ENA10_enalapril	0.5	hr		0.00010913258339643594	69.301707492185	0.00010478932021204788	3.313729263307898e-05		mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		G143E	10.0	ENA10	concentration	enalapril	plasma	LC/MS	G143E_ENA10_enalapril	1.0	hr		0.00017564107257708647	55.361052767707	3.9950612665446366e-05	1.2633492994198093e-05		mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		G143E	10.0	ENA10	concentration	enalapril	plasma	LC/MS	G143E_ENA10_enalapril	1.5	hr		0.00013205212580338997	41.2444759573149	3.143820362079543e-05	9.941632898586602e-06		mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		G143E	10.0	ENA10	concentration	enalapril	plasma	LC/MS	G143E_ENA10_enalapril	2.0	hr		8.939663982236848e-05	25.8928770507521	2.8816835365239656e-05	9.112683471224746e-06		mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		G143E	10.0	ENA10	concentration	enalapril	plasma	LC/MS	G143E_ENA10_enalapril	3.0	hr		3.547861769114486e-05	10.7107341458303	9.822265197616254e-06	3.1060729806671223e-06		mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		G143E	10.0	ENA10	concentration	enalapril	plasma	LC/MS	G143E_ENA10_enalapril	4.0	hr		1.3420868084535104e-05	3.81855721592709	4.581184636130094e-06	1.4486977831940801e-06		mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		G143E	10.0	ENA10	concentration	enalapril	plasma	LC/MS	G143E_ENA10_enalapril	5.0	hr		6.08319849795469e-06					mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		G143E	10.0	ENA10	concentration	enalapril	plasma	LC/MS	G143E_ENA10_enalapril	7.0	hr		1.609789646183643e-06					mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		G143E	10.0	ENA10	concentration	enalapril	plasma	LC/MS	G143E_ENA10_enalapril	9.0	hr		1.203357606800644e-06					mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		G143E	10.0	ENA10	concentration	enalapril	plasma	LC/MS	G143E_ENA10_enalapril	12.0	hr		1.1581984913136441e-06					mole/meter^3	ng/ml	dimensionless

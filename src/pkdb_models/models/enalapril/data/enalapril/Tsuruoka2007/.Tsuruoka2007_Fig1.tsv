@@ -1,0 +1,9 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Tsuruoka2007	NA	ena	6.0	ENA2.5	concentration	enalaprilat	plasma	HPLC	enalaprilat_plasma	1345.0	hr	NA	67.2839506172834	NA	24.19249128674756	9.876543209876594	ng/ml	se from the end point of the error bar (mean - end)
+Tsuruoka2007	NA	ena	6.0	ENA2.5	concentration	enalaprilat	plasma	HPLC	enalaprilat_plasma	1346.0	hr	NA	63.5802469135798	NA	27.216552697591084	11.1111111111112	ng/ml	se from the end point of the error bar (mean - end)
+Tsuruoka2007	NA	ena	6.0	ENA2.5	concentration	enalaprilat	plasma	HPLC	enalaprilat_plasma	1347.0	hr	NA	54.9382716049378	NA	21.16842987590383	8.641975308641904	ng/ml	se from the end point of the error bar (mean - end)
+Tsuruoka2007	NA	ena	6.0	ENA2.5	concentration	enalaprilat	plasma	HPLC	enalaprilat_arterial blood	1344.0	hr	NA	137.654320987654	NA	72.57747386024326	29.629629629630017	ng/ml	se from the end point of the error bar (mean - end)
+Tsuruoka2007	NA	ena	6.0	ENA2.5	concentration	enalaprilat	plasma	HPLC	enalaprilat_arterial blood	1345.0	hr	NA	110.493827160493	NA	42.33685975180815	17.283950617284006	ng/ml	se from the end point of the error bar (mean - end)
+Tsuruoka2007	NA	ena	6.0	ENA2.5	concentration	enalaprilat	plasma	HPLC	enalaprilat_arterial blood	1346.0	hr	NA	96.9135802469133	NA	42.33685975180742	17.283950617283708	ng/ml	se from the end point of the error bar (mean - end)
+Tsuruoka2007	NA	ena	6.0	ENA2.5	concentration	enalaprilat	plasma	HPLC	enalaprilat_arterial blood	1347.0	hr	NA	79.6296296296292	NA	36.28873693012135	14.814814814814895	ng/ml	se from the end point of the error bar (mean - end)
+Tsuruoka2007	NA	ena	6.0	ENA2.5	concentration	enalaprilat	plasma	HPLC	enalaprilat_arterial blood	1348.0	hr	NA	69.7530864197528	NA	33.264675519277844	13.580246913580297	ng/ml	se from the end point of the error bar (mean - end)

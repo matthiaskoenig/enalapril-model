@@ -1,0 +1,4 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	median	mean_pm	sd	se	min	max	unit	comments
+Lowenthal1985	NA	II	9.0	ENA10	concentration	enalaprilat	serum	RIA	II_median	48.0	hr	NA	1986.0	NA	NA	NA	1430.0	790.0	3181.0	ng/ml	95% conf interval ; min max?
+Lowenthal1985	NA	II	7.0	ENA10	concentration	enalaprilat	serum	RIA	II_median	48.0	hr	NA	2497.0	NA	NA	NA	1267.0	1167.0	3828.0	ng/ml	excluding patient IIA and IIC
+Lowenthal1985	NA	III	9.0	ENA10	concentration	enalaprilat	serum	RIA	III_median	48.0	hr	NA	409.0	NA	NA	NA	96.0	335.0	483.0	ng/ml	excluding subject IIIB; 95% conf interval

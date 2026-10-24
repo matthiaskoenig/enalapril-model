@@ -1,0 +1,9 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Ohnishi1989		healthy	7.0		blood pressure diastolic			sphygmomanometer	healthy_blood pressure diastolic	0.0	hr		75.1252456164034	70.6760263390781	11.7715277361973	4.44921927732531		mmHg	mmHg	dimensionless
+Ohnishi1989		healthy	7.0		blood pressure diastolic			sphygmomanometer	healthy_blood pressure diastolic	1.0	hr		70.8158964436245	67.8512502062428	7.8437166693953	2.96464623738169		mmHg	mmHg	dimensionless
+Ohnishi1989		healthy	7.0		blood pressure diastolic			sphygmomanometer	healthy_blood pressure diastolic	2.0	hr		66.7199148029819	62.2721954731584	11.7675592481277	4.44771932982346		mmHg	mmHg	dimensionless
+Ohnishi1989		healthy	7.0		blood pressure diastolic			sphygmomanometer	healthy_blood pressure diastolic	4.0	hr		57.0613778517752	52.4002909898154	12.3320766760162	4.66108686195983		mmHg	mmHg	dimensionless
+Ohnishi1989		healthy	7.0		blood pressure diastolic			sphygmomanometer	healthy_blood pressure diastolic	6.0	hr		67.9239976600819	63.2629107981221	12.3320766760162	4.66108686195983		mmHg	mmHg	dimensionless
+Ohnishi1989		healthy	7.0		blood pressure diastolic			sphygmomanometer	healthy_blood pressure diastolic	8.0	hr		67.5711350102746	62.275945341913	14.0097550074034	5.2951896683616		mmHg	mmHg	dimensionless
+Ohnishi1989		healthy	7.0		blood pressure diastolic			sphygmomanometer	healthy_blood pressure diastolic	12.0	hr		65.1734689285875	59.0293089741859	16.2559192547486	6.14415995440159		mmHg	mmHg	dimensionless
+Ohnishi1989		healthy	7.0		blood pressure diastolic			sphygmomanometer	healthy_blood pressure diastolic	24.0	hr		67.5107621233257	63.0615428460004	11.7715277361972	4.44921927732528		mmHg	mmHg	dimensionless

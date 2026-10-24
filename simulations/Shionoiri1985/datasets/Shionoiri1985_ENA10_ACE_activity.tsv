@@ -1,0 +1,8 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Shionoiri1985		all	13.0	ENA10	ACE activity		serum	Spectrophotometry	ENA10_ACE activity	0.0	hr		30.3896103896104	25.7142857142857	16.8571228463252	4.6753246753247		nmol/ml/min	nmol/ml/min	dimensionless
+Shionoiri1985		all	13.0	ENA10	ACE activity		serum	Spectrophotometry	ENA10_ACE activity	1.0	hr		18.4415584415585	14.025974025974	15.9206160215296	4.4155844155845		nmol/ml/min	nmol/ml/min	dimensionless
+Shionoiri1985		all	13.0	ENA10	ACE activity		serum	Spectrophotometry	ENA10_ACE activity	2.0	hr		5.97402597402597	3.63636363636364	8.42856142316255	2.33766233766233		nmol/ml/min	nmol/ml/min	dimensionless
+Shionoiri1985		all	13.0	ENA10	ACE activity		serum	Spectrophotometry	ENA10_ACE activity	4.0	hr		1.03896103896104					nmol/ml/min	nmol/ml/min	dimensionless
+Shionoiri1985		all	13.0	ENA10	ACE activity		serum	Spectrophotometry	ENA10_ACE activity	6.0	hr		1.2987012987013					nmol/ml/min	nmol/ml/min	dimensionless
+Shionoiri1985		all	13.0	ENA10	ACE activity		serum	Spectrophotometry	ENA10_ACE activity	9.0	hr		1.55844155844156	0.259740259740262	4.6825341239792	1.2987012987013		nmol/ml/min	nmol/ml/min	dimensionless
+Shionoiri1985		all	13.0	ENA10	ACE activity		serum	Spectrophotometry	ENA10_ACE activity	24.0	hr		9.61038961038961	7.7922077922078	6.55554777357086	1.81818181818181		nmol/ml/min	nmol/ml/min	dimensionless

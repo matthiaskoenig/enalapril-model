@@ -1,0 +1,28 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Tsuruoka2007	all	18.0	NA	species	18.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Tsuruoka2007	all	18.0	NA	healthy	18.0	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Tsuruoka2007	all	18.0	NA	disease	18.0	NA	renal disease	NA	NA	NA	NA	NA	NA	NA	NA
+Tsuruoka2007	all	18.0	NA	sex	12.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Tsuruoka2007	all	18.0	NA	sex	6.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Tsuruoka2007	all	18.0	NA	medical procedure	18.0	NA	hemodialysis	NA	NA	NA	NA	NA	NA	NA	NA
+Tsuruoka2007	imid	6.0	all	species	6.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Tsuruoka2007	imid	6.0	all	age	6.0	NA	NA	61.0	NA	6.0	NA	NA	NA	yr	NA
+Tsuruoka2007	imid	6.0	all	sex	2.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Tsuruoka2007	imid	6.0	all	sex	4.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Tsuruoka2007	imid	6.0	all	medical procedure	6.0	NA	hemodialysis	NA	NA	NA	NA	NA	NA	NA	NA
+Tsuruoka2007	imid	6.0	all	blood pressure systolic	6.0	NA	NA	163.0	NA	8.0	NA	NA	NA	mmHg	NA
+Tsuruoka2007	imid	6.0	all	blood pressure diastolic	6.0	NA	NA	75.0	NA	5.0	NA	NA	NA	mmHg	NA
+Tsuruoka2007	ena	6.0	all	species	6.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Tsuruoka2007	ena	6.0	all	age	6.0	NA	NA	60.0	NA	8.0	NA	NA	NA	yr	NA
+Tsuruoka2007	ena	6.0	all	sex	5.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Tsuruoka2007	ena	6.0	all	sex	1.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Tsuruoka2007	ena	6.0	all	medical procedure	6.0	NA	hemodialysis	NA	NA	NA	NA	NA	NA	NA	NA
+Tsuruoka2007	ena	6.0	all	blood pressure systolic	6.0	NA	NA	152.0	NA	7.0	NA	NA	NA	mmHg	NA
+Tsuruoka2007	ena	6.0	all	blood pressure diastolic	6.0	NA	NA	73.0	NA	4.0	NA	NA	NA	mmHg	NA
+Tsuruoka2007	quin	6.0	all	species	6.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Tsuruoka2007	quin	6.0	all	age	6.0	NA	NA	57.0	NA	9.0	NA	NA	NA	yr	NA
+Tsuruoka2007	quin	6.0	all	sex	5.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Tsuruoka2007	quin	6.0	all	sex	1.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Tsuruoka2007	quin	6.0	all	medical procedure	6.0	NA	hemodialysis	NA	NA	NA	NA	NA	NA	NA	NA
+Tsuruoka2007	quin	6.0	all	blood pressure systolic	6.0	NA	NA	148.0	NA	5.0	NA	NA	NA	mmHg	NA
+Tsuruoka2007	quin	6.0	all	blood pressure diastolic	6.0	NA	NA	65.0	NA	5.0	NA	NA	NA	mmHg	NA

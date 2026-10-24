@@ -1,0 +1,30 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Johnston1992	NA	lis	6.0	LISs	concentration	lisinopril	serum	RIA	LISs_lisinopril	1.54856195762835	hr	NA	0.292409296961564	NA	NA	NA	ng/ml	timepoints from digitized plots
+Johnston1992	NA	lis	6.0	LISs	concentration	lisinopril	serum	RIA	LISs_lisinopril	2.71102499151597	hr	NA	1.66811864100004	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISs	concentration	lisinopril	serum	RIA	LISs_lisinopril	3.68593045522858	hr	NA	3.66432338806382	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISs	concentration	lisinopril	serum	RIA	LISs_lisinopril	4.56963264168323	hr	NA	6.1179873023802	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISs	concentration	lisinopril	serum	RIA	LISs_lisinopril	5.80027088282349	hr	NA	7.48921706620042	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISs	concentration	lisinopril	serum	RIA	LISs_lisinopril	6.85532009017307	hr	NA	9.05981458487635	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISs	concentration	lisinopril	serum	RIA	LISs_lisinopril	7.60244461143162	hr	NA	10.2041759069706	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISs	concentration	lisinopril	serum	RIA	LISs_lisinopril	8.78816296601542	hr	NA	11.4906782313081	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISs	concentration	lisinopril	serum	RIA	LISs_lisinopril	9.70951301691957	hr	NA	11.7629812394584	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISs	concentration	lisinopril	serum	RIA	LISs_lisinopril	10.7609262132157	hr	NA	10.6868254910457	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISs	concentration	lisinopril	serum	RIA	LISs_lisinopril	11.8558957919232	hr	NA	9.47999939227682	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISs	concentration	lisinopril	serum	RIA	LISs_lisinopril	12.7314169535075	hr	NA	8.31059341778105	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISs	concentration	lisinopril	serum	RIA	LISs_lisinopril	24.6018567896446	hr	NA	2.44722799198519	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISs	concentration	lisinopril	serum	RIA	LISs_lisinopril	32.7084191835943	hr	NA	1.35865222594645	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISs	concentration	lisinopril	serum	RIA	LISs_lisinopril	48.7960258399186	hr	NA	0.67492567715706	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISm	concentration	lisinopril	serum	RIA	LISm_lisinopril	145.584770567703	hr	NA	5.06204079888424	NA	NA	NA	ng/ml	timepoints from digitized plots
+Johnston1992	NA	lis	6.0	LISm	concentration	lisinopril	serum	RIA	LISm_lisinopril	146.776094439327	hr	NA	8.86343472574154	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISm	concentration	lisinopril	serum	RIA	LISm_lisinopril	147.698807994376	hr	NA	10.101959740826	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISm	concentration	lisinopril	serum	RIA	LISm_lisinopril	148.57948017162	hr	NA	13.2859953197855	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISm	concentration	lisinopril	serum	RIA	LISm_lisinopril	149.852765792408	hr	NA	14.7829914621262	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISm	concentration	lisinopril	serum	RIA	LISm_lisinopril	150.731619964125	hr	NA	16.8490336945322	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISm	concentration	lisinopril	serum	RIA	LISm_lisinopril	151.563433242837	hr	NA	14.9482079466134	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISm	concentration	lisinopril	serum	RIA	LISm_lisinopril	152.834749357638	hr	NA	14.2429600763958	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISm	concentration	lisinopril	serum	RIA	LISm_lisinopril	153.668077640956	hr	NA	14.2372970524545	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISm	concentration	lisinopril	serum	RIA	LISm_lisinopril	154.852886992777	hr	NA	14.9247607753907	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISm	concentration	lisinopril	serum	RIA	LISm_lisinopril	156.735204465022	hr	NA	11.1986308654227	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISm	concentration	lisinopril	serum	RIA	LISm_lisinopril	168.650564187715	hr	NA	3.5848207569683	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISm	concentration	lisinopril	serum	RIA	LISm_lisinopril	176.756823580744	hr	NA	1.94329479373655	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISm	concentration	lisinopril	serum	RIA	LISm_lisinopril	192.671416711107	hr	NA	1.16848662484057	NA	NA	NA	ng/ml	NA

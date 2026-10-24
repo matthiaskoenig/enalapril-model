@@ -1,0 +1,23 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Weisser1992	NA	all	19.0	ENA10	relative ACE activity	NA	serum	enzymatic assay	ENA10_relative ACE activity	0.0	hr	NA	99.9980302843777	NA	NA	NA	percent	NA
+Weisser1992	NA	all	19.0	ENA10	relative ACE activity	NA	serum	enzymatic assay	ENA10_relative ACE activity	0.5	hr	NA	78.6847223932045	NA	NA	NA	percent	NA
+Weisser1992	NA	all	19.0	ENA10	relative ACE activity	NA	serum	enzymatic assay	ENA10_relative ACE activity	1.0	hr	NA	40.2046042102671	NA	NA	NA	percent	NA
+Weisser1992	NA	all	19.0	ENA10	relative ACE activity	NA	serum	enzymatic assay	ENA10_relative ACE activity	2.0	hr	NA	13.8850178505478	NA	NA	NA	percent	NA
+Weisser1992	NA	all	19.0	ENA10	relative ACE activity	NA	serum	enzymatic assay	ENA10_relative ACE activity	4.0	hr	NA	7.51594238581805	NA	NA	NA	percent	NA
+Weisser1992	NA	all	19.0	ENA10	relative ACE activity	NA	serum	enzymatic assay	ENA10_relative ACE activity	6.0	hr	NA	9.6737658500554	NA	NA	NA	percent	NA
+Weisser1992	NA	all	19.0	ENA10	relative ACE activity	NA	serum	enzymatic assay	ENA10_relative ACE activity	8.0	hr	NA	7.56813984980919	NA	NA	NA	percent	NA
+Weisser1992	NA	all	19.0	ENA10	relative ACE activity	NA	serum	enzymatic assay	ENA10_relative ACE activity	10.0	hr	NA	9.51668102917641	NA	NA	NA	percent	NA
+Weisser1992	NA	all	19.0	ENA10	relative ACE activity	NA	serum	enzymatic assay	ENA10_relative ACE activity	12.0	hr	NA	10.8196479133325	NA	NA	NA	percent	NA
+Weisser1992	NA	all	19.0	ENA10	relative ACE activity	NA	serum	enzymatic assay	ENA10_relative ACE activity	24.0	hr	NA	27.1850301612705	30.3843407608027	13.9454715923594	3.1993105995322	percent	NA
+Weisser1992	NA	all	19.0	ENA10	relative ACE activity	NA	serum	enzymatic assay	ENA10_relative ACE activity	32.0	hr	NA	39.6592391973409	43.711436661332	17.663119244809	4.0521974639911	percent	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	relative ACE activity	NA	serum	enzymatic assay	HCTZ25, ENA10_relative ACE activity	0.0	hr	NA	99.5735565677705	NA	NA	NA	percent	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	relative ACE activity	NA	serum	enzymatic assay	HCTZ25, ENA10_relative ACE activity	0.5	hr	NA	81.241413270959	NA	NA	NA	percent	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	relative ACE activity	NA	serum	enzymatic assay	HCTZ25, ENA10_relative ACE activity	1.0	hr	NA	48.2009109934753	NA	NA	NA	percent	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	relative ACE activity	NA	serum	enzymatic assay	HCTZ25, ENA10_relative ACE activity	2.0	hr	NA	14.3114612827773	NA	NA	NA	percent	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	relative ACE activity	NA	serum	enzymatic assay	HCTZ25, ENA10_relative ACE activity	4.0	hr	NA	6.87627723747384	NA	NA	NA	percent	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	relative ACE activity	NA	serum	enzymatic assay	HCTZ25, ENA10_relative ACE activity	6.0	hr	NA	5.4093315277607	NA	NA	NA	percent	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	relative ACE activity	NA	serum	enzymatic assay	HCTZ25, ENA10_relative ACE activity	8.0	hr	NA	5.86335097870246	NA	NA	NA	percent	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	relative ACE activity	NA	serum	enzymatic assay	HCTZ25, ENA10_relative ACE activity	10.0	hr	NA	8.44958759079158	NA	NA	NA	percent	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	relative ACE activity	NA	serum	enzymatic assay	HCTZ25, ENA10_relative ACE activity	12.0	hr	NA	9.54130247445525	NA	NA	NA	percent	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	relative ACE activity	NA	serum	enzymatic assay	HCTZ25, ENA10_relative ACE activity	24.0	hr	NA	22.0686938323279	18.656161516681	14.8748835054717	3.4125323156469	percent	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	relative ACE activity	NA	serum	enzymatic assay	HCTZ25, ENA10_relative ACE activity	32.0	hr	NA	31.9832574172104	28.1432968115228	16.7380002273695	3.8399606056876	percent	NA

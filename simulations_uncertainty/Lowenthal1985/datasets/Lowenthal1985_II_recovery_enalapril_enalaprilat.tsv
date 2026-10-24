@@ -1,0 +1,2 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	median	mean_pm	mean_sd	mean_se	min	max	comments	mean_unit	value_unit	median_unit	count_unit
+Lowenthal1985		II	9.0	ENA10	recovery	enalapril+enalaprilat	urine	RIA	II_recovery_enalapril+enalaprilat	48.0	hr		7.715439955705254e-06			3.451644190710245e-06					count*mole	percent	percent	dimensionless

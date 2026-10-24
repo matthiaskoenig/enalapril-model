@@ -1,0 +1,20 @@
+study	name	group_count	parent	measurement_type	count	substance	tissue	choice	mean	median	sd	se	min	max	unit	comments
+Ishizaki1988	all	7	NA	species	7	NA	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Ishizaki1988	all	7	NA	healthy	7	NA	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Ishizaki1988	all	7	NA	sex	7	NA	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Ishizaki1988	all	7	NA	medication	7	NA	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Ishizaki1988	all	7	NA	weight (categorial)	7	NA	NA	normal	NA	NA	NA	NA	NA	NA	NA	weighted within 10% of normal body weight
+Ishizaki1988	all	7	NA	obesity index	7	NA	NA	NA	NA	NA	NA	NA	0.9	1.1	dimensionless	weighted within 10% of normal body weight
+Ishizaki1988	all	7	NA	abstinence alcohol	7	NA	NA	NA	NA	NA	NA	NA	3.0	NA	day	NA
+Ishizaki1988	all	7	NA	abstinence	7	methylxanthine	NA	NA	NA	NA	NA	NA	3.0	NA	day	NA
+Ishizaki1988	all	7	NA	age	7	NA	NA	NA	30.2857142857143	NA	NA	NA	23.0	39.0	yr	NA
+Ishizaki1988	all	7	NA	weight	7	NA	NA	NA	68.2857142857143	NA	NA	NA	58.0	81.0	kg	NA
+Ishizaki1988	all	7	NA	height	7	NA	NA	NA	168.142857142857	NA	NA	NA	160.0	175.0	cm	NA
+Ishizaki1988	all	7	NA	blood pressure systolic	7	NA	NA	NA	123.428571428571	NA	NA	NA	108.0	134.0	mmHg	NA
+Ishizaki1988	all	7	NA	blood pressure diastolic	7	NA	NA	NA	76.2857142857143	NA	NA	NA	66.0	84.0	mmHg	NA
+Ishizaki1988	all	7	NA	heart rate	7	NA	NA	NA	67.4285714285714	NA	NA	NA	58.0	74.0	1/min	NA
+Ishizaki1988	all	7	NA	concentration	7	got	NA	NA	17.5714285714286	NA	NA	NA	11.0	24.0	IU/L	NA
+Ishizaki1988	all	7	NA	concentration	7	alt	NA	NA	17.1428571428571	NA	NA	NA	8.0	23.0	IU/L	NA
+Ishizaki1988	all	7	NA	retention ratio	7	indocyanine green	NA	NA	5.47142857142857	NA	NA	NA	1.8	8.0	percent	NA
+Ishizaki1988	all	7	NA	concentration	7	creatinine	serum	NA	0.985714285714286	NA	NA	NA	0.9	1.1	mg/dl	NA
+Ishizaki1988	all	7	NA	clearance	7	creatinine	urine	NA	117.128571428571	NA	NA	NA	103.3	126.5	ml/min	NA

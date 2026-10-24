@@ -1,0 +1,10 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Sunaga1995		night	12.0	PLACEBO	blood pressure diastolic			sphygmomanometer	night_PLACEBO_blood pressure diastolic	0.0	hr		74.773413897281	84.7432024169185	9.9697885196375	2.87803004278818		mmHg	mmHg	dimensionless
+Sunaga1995		night	12.0	PLACEBO	blood pressure diastolic			sphygmomanometer	night_PLACEBO_blood pressure diastolic	0.5	hr		72.356495468278	83.8368580060423	11.4803625377643	3.31409520078636		mmHg	mmHg	dimensionless
+Sunaga1995		night	12.0	PLACEBO	blood pressure diastolic			sphygmomanometer	night_PLACEBO_blood pressure diastolic	1.0	hr		73.8670694864048	85.9516616314199	12.0845921450151	3.48852126398565		mmHg	mmHg	dimensionless
+Sunaga1995		night	12.0	PLACEBO	blood pressure diastolic			sphygmomanometer	night_PLACEBO_blood pressure diastolic	2.0	hr		71.4501510574018	86.8580060422961	15.4078549848943	4.44786461158172		mmHg	mmHg	dimensionless
+Sunaga1995		night	12.0	PLACEBO	blood pressure diastolic			sphygmomanometer	night_PLACEBO_blood pressure diastolic	4.0	hr		70.8459214501511	80.8157099697885	9.9697885196374	2.87803004278815		mmHg	mmHg	dimensionless
+Sunaga1995		night	12.0	PLACEBO	blood pressure diastolic			sphygmomanometer	night_PLACEBO_blood pressure diastolic	6.0	hr		72.0543806646526	83.8368580060423	11.7824773413897	3.40130823238601		mmHg	mmHg	dimensionless
+Sunaga1995		night	12.0	PLACEBO	blood pressure diastolic			sphygmomanometer	night_PLACEBO_blood pressure diastolic	8.0	hr		74.773413897281	88.9728096676737	14.1993957703927	4.09901248518313		mmHg	mmHg	dimensionless
+Sunaga1995		night	12.0	PLACEBO	blood pressure diastolic			sphygmomanometer	night_PLACEBO_blood pressure diastolic	12.0	hr		72.356495468278	85.3474320241692	12.9909365558912	3.75016035878457		mmHg	mmHg	dimensionless
+Sunaga1995		night	12.0	PLACEBO	blood pressure diastolic			sphygmomanometer	night_PLACEBO_blood pressure diastolic	24.0	hr		72.0543806646526	84.1389728096677	12.0845921450151	3.48852126398565		mmHg	mmHg	dimensionless

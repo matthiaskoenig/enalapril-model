@@ -1,0 +1,6 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Johnston1992		ena	7.0	ENAs	concentration	enalapril	serum	RIA	ENAs_enalapril	10.1305483028721	hr		6.472702071646902e-05				timepoints from digitized plots	mole/meter^3	ng/ml	dimensionless
+Johnston1992		ena	7.0	ENAs	concentration	enalapril	serum	RIA	ENAs_enalapril	20.2088772845953	hr		6.585084976145361e-05					mole/meter^3	ng/ml	dimensionless
+Johnston1992		ena	7.0	ENAs	concentration	enalapril	serum	RIA	ENAs_enalapril	30.4960835509138	hr		5.196420967834145e-05					mole/meter^3	ng/ml	dimensionless
+Johnston1992		ena	7.0	ENAs	concentration	enalapril	serum	RIA	ENAs_enalapril	40.5744125326371	hr		3.470735131612948e-05					mole/meter^3	ng/ml	dimensionless
+Johnston1992		ena	7.0	ENAs	concentration	enalapril	serum	RIA	ENAs_enalapril	50.5483028720627	hr		3.393515649740003e-05					mole/meter^3	ng/ml	dimensionless

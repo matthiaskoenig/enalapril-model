@@ -1,0 +1,79 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Donnelly1990	P1	NA	NA	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	24.0	hr	NA	-58.0	NA	NA	NA	NA	NA	mmHg	maximum decrease in sys BP
+Donnelly1990	P2	NA	NA	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	24.0	hr	NA	-71.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	24.0	hr	NA	-78.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P4	NA	NA	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	24.0	hr	NA	-30.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P5	NA	NA	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	24.0	hr	NA	-63.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P6	NA	NA	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	24.0	hr	NA	-51.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P7	NA	NA	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	24.0	hr	NA	-81.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P8	NA	NA	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	24.0	hr	NA	-21.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P9	NA	NA	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	24.0	hr	NA	-29.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P10	NA	NA	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	24.0	hr	NA	-22.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P11	NA	NA	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	24.0	hr	NA	-24.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P12	NA	NA	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	24.0	hr	NA	-60.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P13	NA	NA	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	24.0	hr	NA	-41.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P1	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	-816.0	hr	NA	-56.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P2	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	-816.0	hr	NA	-53.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	-816.0	hr	NA	-57.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P4	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	-816.0	hr	NA	-32.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P5	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	-816.0	hr	NA	-76.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P6	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	-816.0	hr	NA	-58.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P7	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	-816.0	hr	NA	NA	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P8	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	-816.0	hr	NA	-42.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P9	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	-816.0	hr	NA	-26.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P10	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	-816.0	hr	NA	-31.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P11	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	-816.0	hr	NA	-26.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P12	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	-816.0	hr	NA	-48.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P13	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	-816.0	hr	NA	-28.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P1	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	24.0	hr	NA	-52.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P2	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	24.0	hr	NA	-56.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	24.0	hr	NA	-81.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P4	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	24.0	hr	NA	-39.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P5	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	24.0	hr	NA	-72.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P6	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	24.0	hr	NA	-55.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P7	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	24.0	hr	NA	-76.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P8	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	24.0	hr	NA	-37.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P9	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	24.0	hr	NA	-25.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P10	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	24.0	hr	NA	-37.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P11	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	24.0	hr	NA	-23.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P12	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	24.0	hr	NA	-64.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P13	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	NA	24.0	hr	NA	-28.0	NA	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P1	NA	NA	ENAs20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	68.7	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P2	NA	NA	ENAs20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	73.8	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P3	NA	NA	ENAs20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	89.4	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P4	NA	NA	ENAs20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	86.2	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P5	NA	NA	ENAs20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	79.4	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P6	NA	NA	ENAs20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	103.2	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P7	NA	NA	ENAs20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	78.3	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P8	NA	NA	ENAs20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	96.0	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P9	NA	NA	ENAs20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	72.0	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P10	NA	NA	ENAs20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	50.8	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P11	NA	NA	ENAs20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	72.1	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P12	NA	NA	ENAs20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	89.4	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P13	NA	NA	ENAs20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	42.7	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P1	NA	NA	ENAm20	IC50	NA	NA	HPLC	NA	-816.0	hr	NA	60.6	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P2	NA	NA	ENAm20	IC50	NA	NA	HPLC	NA	-816.0	hr	NA	85.6	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P3	NA	NA	ENAm20	IC50	NA	NA	HPLC	NA	-816.0	hr	NA	20.3	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P4	NA	NA	ENAm20	IC50	NA	NA	HPLC	NA	-816.0	hr	NA	62.5	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P5	NA	NA	ENAm20	IC50	NA	NA	HPLC	NA	-816.0	hr	NA	84.5	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P6	NA	NA	ENAm20	IC50	NA	NA	HPLC	NA	-816.0	hr	NA	113.2	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P7	NA	NA	ENAm20	IC50	NA	NA	HPLC	NA	-816.0	hr	NA	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P8	NA	NA	ENAm20	IC50	NA	NA	HPLC	NA	-816.0	hr	NA	71.9	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P9	NA	NA	ENAm20	IC50	NA	NA	HPLC	NA	-816.0	hr	NA	67.2	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P10	NA	NA	ENAm20	IC50	NA	NA	HPLC	NA	-816.0	hr	NA	56.7	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P11	NA	NA	ENAm20	IC50	NA	NA	HPLC	NA	-816.0	hr	NA	72.2	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P12	NA	NA	ENAm20	IC50	NA	NA	HPLC	NA	-816.0	hr	NA	47.1	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P13	NA	NA	ENAm20	IC50	NA	NA	HPLC	NA	-816.0	hr	NA	21.4	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P1	NA	NA	ENAm20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	59.3	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P2	NA	NA	ENAm20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	85.3	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P3	NA	NA	ENAm20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	14.9	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P4	NA	NA	ENAm20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	95.4	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P5	NA	NA	ENAm20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	88.5	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P6	NA	NA	ENAm20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	109.4	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P7	NA	NA	ENAm20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	78.9	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P8	NA	NA	ENAm20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	69.0	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P9	NA	NA	ENAm20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	72.9	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P10	NA	NA	ENAm20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	63.8	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P11	NA	NA	ENAm20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	54.9	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P12	NA	NA	ENAm20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	93.5	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P13	NA	NA	ENAm20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	20.9	NA	NA	NA	NA	NA	ng/ml	NA

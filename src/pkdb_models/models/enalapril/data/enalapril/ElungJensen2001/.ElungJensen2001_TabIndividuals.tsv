@@ -1,0 +1,10 @@
+study	name	group	measurement_type	substance	choice	value	unit	comments
+ElungJensen2001	P1	pk_study	gfr	NA	NA	7	ml/min/(1.73*m^2)	NA
+ElungJensen2001	P2	pk_study	gfr	NA	NA	7	ml/min/(1.73*m^2)	NA
+ElungJensen2001	P3	pk_study	gfr	NA	NA	8	ml/min/(1.73*m^2)	NA
+ElungJensen2001	P4	pk_study	gfr	NA	NA	12	ml/min/(1.73*m^2)	NA
+ElungJensen2001	P5	pk_study	gfr	NA	NA	14	ml/min/(1.73*m^2)	NA
+ElungJensen2001	P6	pk_study	gfr	NA	NA	18	ml/min/(1.73*m^2)	NA
+ElungJensen2001	P7	pk_study	gfr	NA	NA	26	ml/min/(1.73*m^2)	NA
+ElungJensen2001	P8	pk_study	gfr	NA	NA	27	ml/min/(1.73*m^2)	NA
+ElungJensen2001	P9	pk_study	gfr	NA	NA	45	ml/min/(1.73*m^2)	NA

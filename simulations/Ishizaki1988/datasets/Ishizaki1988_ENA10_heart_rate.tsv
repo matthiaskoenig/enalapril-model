@@ -1,0 +1,9 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Ishizaki1988		all	7.0	ENA10	heart rate	enalapril		electrocardiography	ENA10_heart rate	0.0	hr		77.2732852539512	79.9048642013196	6.96250345016991	2.6315789473684		1/min	1/min	dimensionless
+Ishizaki1988		all	7.0	ENA10	heart rate	enalapril		electrocardiography	ENA10_heart rate	1.0	hr		73.0197943839189	76.177689120761	8.35500414020395	3.1578947368421		1/min	1/min	dimensionless
+Ishizaki1988		all	7.0	ENA10	heart rate	enalapril		electrocardiography	ENA10_heart rate	2.0	hr		78.7663035138867	81.9241982507288	8.35500414020395	3.1578947368421		1/min	1/min	dimensionless
+Ishizaki1988		all	7.0	ENA10	heart rate	enalapril		electrocardiography	ENA10_heart rate	4.0	hr		78.6803744054012	74.4698480896117	11.140005520272	4.21052631578949		1/min	1/min	dimensionless
+Ishizaki1988		all	7.0	ENA10	heart rate	enalapril		electrocardiography	ENA10_heart rate	6.0	hr		83.3282185054472	88.0650606107104	12.5325062103061	4.73684210526321		1/min	1/min	dimensionless
+Ishizaki1988		all	7.0	ENA10	heart rate	enalapril		electrocardiography	ENA10_heart rate	8.0	hr		81.137026239067	84.2949209759091	8.35500414020395	3.1578947368421		1/min	1/min	dimensionless
+Ishizaki1988		all	7.0	ENA10	heart rate	enalapril		electrocardiography	ENA10_heart rate	12.0	hr		82.0147307043117	85.6989412306275	9.74750483023798	3.68421052631579		1/min	1/min	dimensionless
+Ishizaki1988		all	7.0	ENA10	heart rate	enalapril		electrocardiography	ENA10_heart rate	24.0	hr		77.8057388368881	74.6509129967776	8.34688460265278	3.15482584011049		1/min	1/min	dimensionless

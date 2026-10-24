@@ -1,0 +1,47 @@
+Study	PK-DB	PMID	route	substance	dosing	dose [mg]	healthy	hyper\-tension	renal impairment	hepatic impairment	cardiac impairment	CES1
+Arafat2005	PKDB00741	15985045	po	enamal	single	10	TRUE	-	-	-	-	-
+Baba1990	PKDB00740	2165799	po	enamal	single	10	TRUE	-	-	TRUE	-	-
+Biollaz1982	PKDB00768	6289859	po	enamal	single	10	TRUE	-	-	-	-	-
+Dayyih2017	PKDB00769	28894622	po	enamal	single	20	TRUE	-	-	-	-	-
+Dickstein1987	PKDB00770	3034316	po, iv	enamal, eat	single	5, 10	TRUE	-	-	-	TRUE	-
+Donnelly1990	PKDB00771	2154407	po	enamal	single, multi	20	-	TRUE	-	-	-	-
+Fruncillo1987	PKDB00773	3037160	po	enamal	single, multi	5	-	TRUE	TRUE	-	-	-
+Ghosh2012	PKDB00746	21341376	po	enamal	single	20	TRUE	-	-	-	-	-
+Gu2004	PKDB00747	15556550	po	enamal	single	10	TRUE	-	-	-	-	-
+He2014	PKDB00774	24721587	po	enamal	single	40	TRUE	-	-	-	-	-
+Her2021	PKDB00775	33963573	po	enamal	multi	2.5	TRUE	-	-	-	-	wt, G143E
+Hockings1986	PKDB00776	3011046	po, iv	enamal, eat	single	10	TRUE	-	TRUE	-	-	-
+Howes1991	PKDB00777	1932608	po	enamal	single	10	TRUE	-	-	-	-	-
+Ishizaki1988	PKDB00750	2468049	po	enamal	single	10	TRUE	-	-	-	-	-
+Johnston1992	PKDB00778	1329474	po	enamal	single, multi	2.5	-	-	-	-	TRUE	-
+Kelly1986	PKDB00779	3004546	po	enamal	single, multi	10	TRUE	-	TRUE	-	-	-
+Lee2003	PKDB00780	12772271	po	enamal	single	20	TRUE	-	-	-	-	-
+Lees1987a	PKDB00781	3034468	po	enamal	multi	10	TRUE	-	TRUE	-	-	-
+Lowenthal1985	PKDB00782	2998676	po	enamal	single	10	TRUE	-	TRUE	-	-	-
+Lu2009	PKDB00745	19046843	po	enamal	single	10	TRUE	-	-	-	-	-
+MacDonald1993	PKDB00783	9114905	po	enamal	single	10	TRUE	-	TRUE	-	-	-
+Marzo2002	PKDB00784	12040965	po	enamal	multi	10, 20	TRUE	-	-	-	-	-
+Matalka2002	PKDB00785	12165071	po	enamal	single	10, 20	TRUE	-	-	-	-	-
+Moffett2014	PKDB00786	27129124	po	enamal	single	10	TRUE	-	-	-	-	-
+Mujais1992	PKDB00787	1310827	iv	eat	multi	1.5	TRUE	-	-	-	-	-
+Najib2003a	PKDB00788	14520685	po	enamal	single	20	TRUE	-	-	-	-	-
+Niopas2004	PKDB00789	15112862	po	enamal	single	20	TRUE	-	-	-	-	-
+Oguchi1993	PKDB00790	8504625	po	enamal	single	5	TRUE	TRUE	TRUE	-	-	-
+Ohnishi1989	PKDB00791	2543535	po	enamal	single	10	TRUE	-	-	TRUE	-	-
+Portoles2004	PKDB00792	24936102	po	enamal	single	20	TRUE	-	-	-	-	-
+Ribeiro1996	PKDB00793	8839663	po	enamal	single	20	TRUE	-	-	-	-	-
+Schwartz1985	PKDB00794	2410720	po	enamal	single	2.5, 5, 10, 20, 40	-	TRUE	-	-	TRUE	-
+Shionoiri1985	PKDB00749	2982051	po	enamal	single	10	-	TRUE	-	-	-	-
+Shioya1992	PKDB00795	1322206	po	enamal	single	5	TRUE	-	-	-	-	-
+Stage2017	PKDB00797	28639420	po	enamal	single	10	TRUE	-	-	-	-	wt, c4, c3, ca3, G143E, CES1A1c
+Sunaga1995	PKDB00798	8582461	po	enamal	single	5	-	TRUE	-	-	-	-
+Swanson1984	PKDB00799	6097665	po	enamal	single	40	TRUE	-	-	-	-	-
+Tarkiainen2015	PKDB00800	25919042	po	enamal	single	10	TRUE	-	-	-	-	wt, G143E
+Thongnopnua2005	PKDB00801	15797799	po	enamal	single	5	TRUE	-	-	-	-	-
+Till1984	PKDB00802	6091806	po	enamal	single, multi	10	TRUE	-	-	-	-	-
+Ulm1982	PKDB00804	6289858	po	enamal	single	9.8	TRUE	-	-	-	-	-
+VanHecken2020	PKDB00805	31411383	po	enamal	single	10	-	-	-	-	-	-
+Wade1992	PKDB00806	1312853	po	enamal	single	10	TRUE	-	-	-	-	-
+Weisser1991	PKDB00807	1647954	po	enamal	single	10	TRUE	-	-	-	-	-
+Weisser1992	PKDB00808	1330574	po	enamal	single	10	-	TRUE	TRUE	-	-	-
+Witte1993	PKDB00809	8394796	po	enamal	single	10	-	TRUE	-	-	-	-

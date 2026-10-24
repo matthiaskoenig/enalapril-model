@@ -1,0 +1,27 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Lee2003	NA	all	12.0	ENA20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_plasma	0.0	hr	NA	0.0	2.72822815649931	NA	NA	ng/ml	NA
+Lee2003	NA	all	12.0	ENA20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_plasma	0.25	hr	NA	0.0	2.71771843500693	NA	NA	ng/ml	NA
+Lee2003	NA	all	12.0	ENA20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_plasma	0.5	hr	NA	1.7149954617112	4.44226818898392	2.72727272727272	0.7872958216222149	ng/ml	NA
+Lee2003	NA	all	12.0	ENA20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_plasma	0.75	hr	NA	5.4234940046816	9.39043615344195	3.96694214876035	1.1451575587232303	ng/ml	NA
+Lee2003	NA	all	12.0	ENA20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_plasma	1.0	hr	NA	13.5952801796207	20.2894950556538	6.69421487603307	1.9324533803454451	ng/ml	NA
+Lee2003	NA	all	12.0	ENA20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_plasma	1.25	hr	NA	28.7092151148904	37.8827688338986	9.17355371900828	2.648176854547462	ng/ml	NA
+Lee2003	NA	all	12.0	ENA20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_plasma	1.5	hr	NA	45.0623417570344	55.9714326661253	10.9090909090909	3.1491832864888654	ng/ml	NA
+Lee2003	NA	all	12.0	ENA20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_plasma	2.0	hr	NA	62.6451058137869	74.7933884297521	12.1482826159652	3.50690711925958	ng/ml	NA
+Lee2003	NA	all	12.0	ENA20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_plasma	2.5	hr	NA	80.7237376391344	95.8481822958965	15.1244446567621	4.366051096962598	ng/ml	NA
+Lee2003	NA	all	12.0	ENA20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_plasma	3.0	hr	NA	87.6448669564802	102.02550996035	14.3806430038695	4.151334054701982	ng/ml	NA
+Lee2003	NA	all	12.0	ENA20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_plasma	4.0	hr	NA	88.5955190369274	102.480294272202	13.8847752352744	4.0081893598615626	ng/ml	NA
+Lee2003	NA	all	12.0	ENA20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_plasma	6.0	hr	NA	66.6946925906464	78.8429752066116	12.1482826159652	3.50690711925958	ng/ml	NA
+Lee2003	NA	all	12.0	ENA20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_plasma	12.0	hr	NA	19.0904313762958	25.0408445994363	5.95041322314052	1.7177363380848438	ng/ml	NA
+Lee2003	NA	all	12.0	ENA20	concentration	enalapril	plasma	LC MS/MS	enalapril_plasma	0.0	hr	NA	0.0	0.0	NA	NA	ng/ml	NA
+Lee2003	NA	all	12.0	ENA20	concentration	enalapril	plasma	LC MS/MS	enalapril_plasma	0.25	hr	NA	26.5193713275689	51.3122820427077	24.7929107151388	7.157096837689871	ng/ml	NA
+Lee2003	NA	all	12.0	ENA20	concentration	enalapril	plasma	LC MS/MS	enalapril_plasma	0.5	hr	NA	109.566235131133	149.236134333349	39.6698992022166	11.451713491562538	ng/ml	NA
+Lee2003	NA	all	12.0	ENA20	concentration	enalapril	plasma	LC MS/MS	enalapril_plasma	0.75	hr	NA	152.448287393111	169.804137008551	17.3558496154398	5.010202223744416	ng/ml	NA
+Lee2003	NA	all	12.0	ENA20	concentration	enalapril	plasma	LC MS/MS	enalapril_plasma	1.0	hr	NA	134.587971146037	157.396455357569	22.808484211532	6.584242249667665	ng/ml	NA
+Lee2003	NA	all	12.0	ENA20	concentration	enalapril	plasma	LC MS/MS	enalapril_plasma	1.25	hr	NA	103.089380404147	128.626570486791	25.5371900826446	7.371951784280751	ng/ml	NA
+Lee2003	NA	all	12.0	ENA20	concentration	enalapril	plasma	LC MS/MS	enalapril_plasma	1.5	hr	NA	77.0453351168012	95.1449863851335	18.0996512683323	5.224919266005002	ng/ml	NA
+Lee2003	NA	all	12.0	ENA20	concentration	enalapril	plasma	LC MS/MS	enalapril_plasma	2.0	hr	NA	45.0418000286629	56.9426264749439	11.900826446281	3.4354726761696766	ng/ml	NA
+Lee2003	NA	all	12.0	ENA20	concentration	enalapril	plasma	LC MS/MS	enalapril_plasma	2.5	hr	NA	29.6493574738451	37.8311756556633	8.18181818181819	2.3618874648666535	ng/ml	NA
+Lee2003	NA	all	12.0	ENA20	concentration	enalapril	plasma	LC MS/MS	enalapril_plasma	3.0	hr	NA	19.9589165432571	25.165528113505	5.20661157024796	1.5030192958242399	ng/ml	NA
+Lee2003	NA	all	12.0	ENA20	concentration	enalapril	plasma	LC MS/MS	enalapril_plasma	4.0	hr	NA	8.01748435484643	10.7452347967325	2.72775044188603	0.78743372595251	ng/ml	NA
+Lee2003	NA	all	12.0	ENA20	concentration	enalapril	plasma	LC MS/MS	enalapril_plasma	6.0	hr	NA	2.97568432618357	5.95136865236708	2.97568432618351	0.8590060733727	ng/ml	NA
+Lee2003	NA	all	12.0	ENA20	concentration	enalapril	plasma	LC MS/MS	enalapril_plasma	12.0	hr	NA	0.0	0.0	NA	NA	ng/ml	NA

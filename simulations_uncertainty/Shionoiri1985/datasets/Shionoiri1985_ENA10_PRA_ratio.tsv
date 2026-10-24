@@ -1,0 +1,8 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Shionoiri1985		all	13.0	ENA10	renin activity		plasma	NR	ENA10_renin activity	0.0	hr		1.0	0.7539407920030746	0.8871790912329733	0.24605920799692513		dimensionless	dimensionless	dimensionless
+Shionoiri1985		all	13.0	ENA10	renin activity		plasma	NR	ENA10_renin activity	1.0	hr		1.246059207996914	0.9384851980007612	1.108973864041202	0.3075740099961524		dimensionless	dimensionless	dimensionless
+Shionoiri1985		all	13.0	ENA10	renin activity		plasma	NR	ENA10_renin activity	2.0	hr		2.4148404459823003	1.9842368319876897	1.5525634096576728	0.4306036139946104		dimensionless	dimensionless	dimensionless
+Shionoiri1985		all	13.0	ENA10	renin activity		plasma	NR	ENA10_renin activity	4.0	hr		4.936947327950757	4.198769703959993	2.661537273698879	0.738177623990764		dimensionless	dimensionless	dimensionless
+Shionoiri1985		all	13.0	ENA10	renin activity		plasma	NR	ENA10_renin activity	6.0	hr		5.244521337946909	4.383314109957678	3.1051268193153803	0.8612072279892322		dimensionless	dimensionless	dimensionless
+Shionoiri1985		all	13.0	ENA10	renin activity		plasma	NR	ENA10_renin activity	9.0	hr		4.014225297962295	3.2760476739715325	2.661537273698879	0.738177623990764		dimensionless	dimensionless	dimensionless
+Shionoiri1985		all	13.0	ENA10	renin activity		plasma	NR	ENA10_renin activity	24.0	hr		2.5378700499807683	2.0457516339869177	1.7743581824659465	0.49211841599385026		dimensionless	dimensionless	dimensionless

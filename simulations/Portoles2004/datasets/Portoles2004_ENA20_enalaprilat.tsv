@@ -1,0 +1,17 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	time_raw	mean_unit	value_unit	count_unit
+Portoles2004		all	23.0	ENA20	concentration	enalaprilat	plasma	RP-HPLC 	ENA20_enalaprilat	0.0	hr		0.0					0.0	mole/meter^3	ng/ml	dimensionless
+Portoles2004		all	23.0	ENA20	concentration	enalaprilat	plasma	RP-HPLC 	ENA20_enalaprilat	0.5	hr		2.454011302334753e-06					0.3	mole/meter^3	ng/ml	dimensionless
+Portoles2004		all	23.0	ENA20	concentration	enalaprilat	plasma	RP-HPLC 	ENA20_enalaprilat	0.75	hr		1.4724067814008208e-05					0.4	mole/meter^3	ng/ml	dimensionless
+Portoles2004		all	23.0	ENA20	concentration	enalaprilat	plasma	RP-HPLC 	ENA20_enalaprilat	1.0	hr		4.417220344202448e-05					0.5	mole/meter^3	ng/ml	dimensionless
+Portoles2004		all	23.0	ENA20	concentration	enalaprilat	plasma	RP-HPLC 	ENA20_enalaprilat	1.25	hr		8.343638427937941e-05					0.75	mole/meter^3	ng/ml	dimensionless
+Portoles2004		all	23.0	ENA20	concentration	enalaprilat	plasma	RP-HPLC 	ENA20_enalaprilat	1.75	hr		0.00014049214705866067					1.0	mole/meter^3	ng/ml	dimensionless
+Portoles2004		all	23.0	ENA20	concentration	enalaprilat	plasma	RP-HPLC 	ENA20_enalaprilat	2.25	hr		0.00017484830529134634					1.25	mole/meter^3	ng/ml	dimensionless
+Portoles2004		all	23.0	ENA20	concentration	enalaprilat	plasma	RP-HPLC 	ENA20_enalaprilat	3.0	hr		0.00019263988723327267					1.5	mole/meter^3	ng/ml	dimensionless
+Portoles2004		all	23.0	ENA20	concentration	enalaprilat	plasma	RP-HPLC 	ENA20_enalaprilat	3.25	hr		0.00019325339005885642					1.6	mole/meter^3	ng/ml	dimensionless
+Portoles2004		all	23.0	ENA20	concentration	enalaprilat	plasma	RP-HPLC 	ENA20_enalaprilat	3.5	hr		0.0001920263844076889					1.75	mole/meter^3	ng/ml	dimensionless
+Portoles2004		all	23.0	ENA20	concentration	enalaprilat	plasma	RP-HPLC 	ENA20_enalaprilat	3.75	hr		0.00018650485897743585					2.0	mole/meter^3	ng/ml	dimensionless
+Portoles2004		all	23.0	ENA20	concentration	enalaprilat	plasma	RP-HPLC 	ENA20_enalaprilat	5.0	hr		0.00015337570639591773					2.75	mole/meter^3	ng/ml	dimensionless
+Portoles2004		all	23.0	ENA20	concentration	enalaprilat	plasma	RP-HPLC 	ENA20_enalaprilat	8.0	hr		9.018491536079968e-05					4.0	mole/meter^3	ng/ml	dimensionless
+Portoles2004		all	23.0	ENA20	concentration	enalaprilat	plasma	RP-HPLC 	ENA20_enalaprilat	12.0	hr		4.417220344202448e-05					6.5	mole/meter^3	ng/ml	dimensionless
+Portoles2004		all	23.0	ENA20	concentration	enalaprilat	plasma	RP-HPLC 	ENA20_enalaprilat	24.0	hr		1.1043050860506193e-05					20.0	mole/meter^3	ng/ml	dimensionless
+Portoles2004		all	23.0	ENA20	concentration	enalaprilat	plasma	RP-HPLC 	ENA20_enalaprilat	36.0	hr		4.29451977908581e-06					36.0	mole/meter^3	ng/ml	dimensionless

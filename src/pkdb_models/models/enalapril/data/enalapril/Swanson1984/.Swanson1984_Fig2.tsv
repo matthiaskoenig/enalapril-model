@@ -1,0 +1,15 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Swanson1984	NA	fasting	9.0	ENA40	excretion rate	enalaprilat	urine	RIA	enalaprilat_urine_rate_fasting	0.0	hr	NA	0.0	NA	NA	NA	μg/hr	NA
+Swanson1984	NA	fasting	9.0	ENA40	excretion rate	enalaprilat	urine	RIA	enalaprilat_urine_rate_fasting	1.0	hr	NA	282.555568057418	NA	NA	NA	μg/hr	NA
+Swanson1984	NA	fasting	9.0	ENA40	excretion rate	enalaprilat	urine	RIA	enalaprilat_urine_rate_fasting	3.0	hr	NA	971.334137552886	NA	NA	NA	μg/hr	NA
+Swanson1984	NA	fasting	9.0	ENA40	excretion rate	enalaprilat	urine	RIA	enalaprilat_urine_rate_fasting	5.0	hr	NA	930.22153082754	NA	NA	NA	μg/hr	NA
+Swanson1984	NA	fasting	9.0	ENA40	excretion rate	enalaprilat	urine	RIA	enalaprilat_urine_rate_fasting	7.0	hr	NA	828.547258790982	NA	NA	NA	μg/hr	NA
+Swanson1984	NA	fasting	9.0	ENA40	excretion rate	enalaprilat	urine	RIA	enalaprilat_urine_rate_fasting	10.0	hr	NA	328.477919582465	NA	NA	NA	μg/hr	NA
+Swanson1984	NA	fasting	9.0	ENA40	excretion rate	enalaprilat	urine	RIA	enalaprilat_urine_rate_fasting	18.0	hr	NA	110.028827885145	NA	NA	NA	μg/hr	NA
+Swanson1984	NA	fed	10.0	ENA40	excretion rate	enalaprilat	urine	RIA	enalaprilat_urine_rate_fed	0.0	hr	NA	0.0	NA	NA	NA	μg/hr	NA
+Swanson1984	NA	fed	10.0	ENA40	excretion rate	enalaprilat	urine	RIA	enalaprilat_urine_rate_fed	1.0	hr	NA	278.214240258875	NA	NA	NA	μg/hr	NA
+Swanson1984	NA	fed	10.0	ENA40	excretion rate	enalaprilat	urine	RIA	enalaprilat_urine_rate_fed	3.0	hr	NA	878.715875301926	NA	NA	NA	μg/hr	NA
+Swanson1984	NA	fed	10.0	ENA40	excretion rate	enalaprilat	urine	RIA	enalaprilat_urine_rate_fed	5.0	hr	NA	848.099430107101	NA	NA	NA	μg/hr	NA
+Swanson1984	NA	fed	10.0	ENA40	excretion rate	enalaprilat	urine	RIA	enalaprilat_urine_rate_fed	7.0	hr	NA	897.810512296844	NA	NA	NA	μg/hr	NA
+Swanson1984	NA	fed	10.0	ENA40	excretion rate	enalaprilat	urine	RIA	enalaprilat_urine_rate_fed	10.0	hr	NA	320.652756164597	NA	NA	NA	μg/hr	NA
+Swanson1984	NA	fed	10.0	ENA40	excretion rate	enalaprilat	urine	RIA	enalaprilat_urine_rate_fed	18.0	hr	NA	128.729816910023	NA	NA	NA	μg/hr	NA

@@ -1,0 +1,4 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Shioya1992	all	5	NA	healthy	5	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Shioya1992	all	5	NA	sex	5	NA	NR	NA	NA	NA	NA	NA	NA	NA	NA
+Shioya1992	all	5	NA	species	5	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA

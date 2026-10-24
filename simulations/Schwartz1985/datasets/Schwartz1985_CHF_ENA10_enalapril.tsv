@@ -1,0 +1,13 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Schwartz1985	CHF1		1.0	ENA10	concentration	enalapril	serum	RIA	CHF_ENA10_enalapril	2880.0	min	2.7980555787621462e-06						mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985	CHF1		1.0	ENA10	concentration	enalapril	serum	RIA	CHF_ENA10_enalapril	2903.8040768304186	min	6.910737416826977e-06						mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985	CHF1		1.0	ENA10	concentration	enalapril	serum	RIA	CHF_ENA10_enalapril	2933.3858422119097	min	9.501599801347149e-06						mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985	CHF1		1.0	ENA10	concentration	enalapril	serum	RIA	CHF_ENA10_enalapril	3010.365663488744	min	0.00014315314674784928						mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985	CHF1		1.0	ENA10	concentration	enalapril	serum	RIA	CHF_ENA10_enalapril	3065.103134658661	min	0.00035320004097656054						mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985	CHF1		1.0	ENA10	concentration	enalapril	serum	RIA	CHF_ENA10_enalapril	3132.866667289179	min	0.0003340833511926682						mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985	CHF1		1.0	ENA10	concentration	enalapril	serum	RIA	CHF_ENA10_enalapril	3253.014576116086	min	0.0001756087676193291						mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985	CHF1		1.0	ENA10	concentration	enalapril	serum	RIA	CHF_ENA10_enalapril	3403.1224263023732	min	0.0001612687846527147						mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985	CHF1		1.0	ENA10	concentration	enalapril	serum	RIA	CHF_ENA10_enalapril	3513.493785774981	min	8.040276529972638e-05						mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985	CHF1		1.0	ENA10	concentration	enalapril	serum	RIA	CHF_ENA10_enalapril	3720.958325941005	min	4.443629217272273e-05						mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985	CHF1		1.0	ENA10	concentration	enalapril	serum	RIA	CHF_ENA10_enalapril	3942.96163147918	min	2.4545989112404892e-05						mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985	CHF1		1.0	ENA10	concentration	enalapril	serum	RIA	CHF_ENA10_enalapril	4266.10600132595	min	9.062621493252513e-06						mole/meter^3	mole/meter^3	dimensionless

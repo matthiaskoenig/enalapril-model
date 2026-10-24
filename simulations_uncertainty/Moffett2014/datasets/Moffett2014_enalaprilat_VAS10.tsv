@@ -1,0 +1,14 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Moffett2014		all	45.0	VAS10	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_VAS10	0.0	hr		0.0					mole/meter^3	ng/ml	dimensionless
+Moffett2014		all	45.0	VAS10	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_VAS10	1.0	hr		1.8512266000188437e-05	10.750499788551	8.281327432851752e-05	1.2345074055860241e-05		mole/meter^3	ng/ml	dimensionless
+Moffett2014		all	45.0	VAS10	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_VAS10	2.0	hr		9.072882843573534e-05	36.0178145784476	8.488366401884479e-05	1.2653709528359332e-05		mole/meter^3	ng/ml	dimensionless
+Moffett2014		all	45.0	VAS10	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_VAS10	3.0	hr		0.00012158823755640402	46.66138845104	8.281096104394741e-05	1.2344729211756905e-05		mole/meter^3	ng/ml	dimensionless
+Moffett2014		all	45.0	VAS10	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_VAS10	4.0	hr		0.00011911432595896453	46.0145467302295	8.695174042460195e-05	1.296200015675509e-05		mole/meter^3	ng/ml	dimensionless
+Moffett2014		all	45.0	VAS10	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_VAS10	6.0	hr		8.330433489058956e-05	33.3236419207258	8.281327432851781e-05	1.234507405586027e-05		mole/meter^3	ng/ml	dimensionless
+Moffett2014		all	45.0	VAS10	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_VAS10	8.0	hr		5.798794988718364e-05	24.5035754104033	8.281327432851781e-05	1.234507405586027e-05		mole/meter^3	ng/ml	dimensionless
+Moffett2014		all	45.0	VAS10	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_VAS10	12.0	hr		2.9884534840495636e-05	14.8200520933451	8.488366401884479e-05	1.2653709528359332e-05		mole/meter^3	ng/ml	dimensionless
+Moffett2014		all	45.0	VAS10	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_VAS10	16.0	hr		1.752221857946788e-05	10.4056937449541	8.28155876130879e-05	1.2345418899963575e-05		mole/meter^3	ng/ml	dimensionless
+Moffett2014		all	45.0	VAS10	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_VAS10	24.0	hr		9.771847356655518e-06	7.81292049517513	8.488366401884507e-05	1.2653709528359363e-05		mole/meter^3	ng/ml	dimensionless
+Moffett2014		all	45.0	VAS10	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_VAS10	36.0	hr		5.0912783418732435e-06	6.07471358271501	8.281327432851781e-05	1.234507405586027e-05		mole/meter^3	ng/ml	dimensionless
+Moffett2014		all	45.0	VAS10	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_VAS10	48.0	hr		3.8053546804775978e-06	5.62670600899619	8.281327432851752e-05	1.2345074055860241e-05		mole/meter^3	ng/ml	dimensionless
+Moffett2014		all	45.0	VAS10	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_VAS10	72.0	hr		2.4680492476826645e-06	5.16091749644381	8.28155876130879e-05	1.2345418899963575e-05		mole/meter^3	ng/ml	dimensionless

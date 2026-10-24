@@ -1,0 +1,25 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Najib2003a	NA	all	24.0	NAR20	auc_end	enalapril	plasma	LC MS/MS	NA	48.0	hr	NA	199.96	NA	67.77	13.833493322368	ng/ml*hr	NA
+Najib2003a	NA	all	24.0	NAR20	auc_inf	enalapril	plasma	LC MS/MS	NA	NA	NA	NA	201.72	NA	67.88	13.8559469783435	ng/ml*hr	NA
+Najib2003a	NA	all	24.0	NAR20	cmax	enalapril	plasma	LC MS/MS	NA	NA	NA	NA	123.99	NA	43.77	8.93451383680164	ng/ml	NA
+Najib2003a	NA	all	24.0	NAR20	tmax	enalapril	plasma	LC MS/MS	NA	NA	NA	NA	0.86	NA	0.16	0.032659863237109	hr	NA
+Najib2003a	NA	all	24.0	NAR20	thalf	enalapril	plasma	LC MS/MS	NA	NA	NA	NA	1.28	NA	0.72	0.146969384566991	hr	NA
+Najib2003a	NA	all	24.0	NAR20	kel	enalapril	plasma	LC MS/MS	NA	NA	NA	NA	1.53846153846154	NA	3.846153846	0.785092866245256	1/hr	NA
+Najib2003a	NA	all	24.0	NAR20	auc_end	enalapril	plasma	LC MS/MS	NA	48.0	hr	NA	492.94	NA	148.77	30.3675490861545	ng/ml*hr	NA
+Najib2003a	NA	all	24.0	NAR20	auc_inf	enalapril	plasma	LC MS/MS	NA	NA	NA	NA	518.36	NA	148.91	30.3961264664869	ng/ml*hr	NA
+Najib2003a	NA	all	24.0	NAR20	cmax	enalapril	plasma	LC MS/MS	NA	NA	NA	NA	54.41	NA	23.5	4.79691741295039	ng/ml	NA
+Najib2003a	NA	all	24.0	NAR20	tmax	enalapril	plasma	LC MS/MS	NA	NA	NA	NA	3.92	NA	1.21	0.246990215730637	hr	NA
+Najib2003a	NA	all	24.0	NAR20	thalf	enalapril	plasma	LC MS/MS	NA	NA	NA	NA	11.79	NA	4.83	0.985919621470229	hr	NA
+Najib2003a	NA	all	24.0	NAR20	kel	enalapril	plasma	LC MS/MS	NA	NA	NA	NA	14.2857142857143	NA	25.0	5.10310363079829	1/hr	NA
+Najib2003a	NA	all	24.0	REN20	auc_end	enalaprilat	plasma	LC MS/MS	NA	48.0	hr	NA	196.78	NA	63.57	12.9761719123939	ng/ml*hr	NA
+Najib2003a	NA	all	24.0	REN20	auc_inf	enalaprilat	plasma	LC MS/MS	NA	NA	NA	NA	198.51	NA	63.32	12.9251408760859	ng/ml*hr	NA
+Najib2003a	NA	all	24.0	REN20	cmax	enalaprilat	plasma	LC MS/MS	NA	NA	NA	NA	121.28	NA	37.54	7.66282041200671	ng/ml	NA
+Najib2003a	NA	all	24.0	REN20	tmax	enalaprilat	plasma	LC MS/MS	NA	NA	NA	NA	0.96	NA	0.3	0.0612372435695795	hr	NA
+Najib2003a	NA	all	24.0	REN20	thalf	enalaprilat	plasma	LC MS/MS	NA	NA	NA	NA	1.24	NA	0.5	0.102062072615966	hr	NA
+Najib2003a	NA	all	24.0	REN20	kel	enalaprilat	plasma	LC MS/MS	NA	NA	NA	NA	1.53846153846154	NA	4.16666666666667	0.850517271799715	1/hr	NA
+Najib2003a	NA	all	24.0	REN20	auc_end	enalaprilat	plasma	LC MS/MS	NA	48.0	hr	NA	476.89	NA	117.47	23.978463340395	ng/ml*hr	NA
+Najib2003a	NA	all	24.0	REN20	auc_inf	enalaprilat	plasma	LC MS/MS	NA	NA	NA	NA	505.54	NA	115.97	23.6722771225471	ng/ml*hr	NA
+Najib2003a	NA	all	24.0	REN20	cmax	enalaprilat	plasma	LC MS/MS	NA	NA	NA	NA	53.87	NA	24.12	4.92347438299419	ng/ml	NA
+Najib2003a	NA	all	24.0	REN20	tmax	enalaprilat	plasma	LC MS/MS	NA	NA	NA	NA	3.71	NA	0.91	0.185752972161058	hr	NA
+Najib2003a	NA	all	24.0	REN20	thalf	enalaprilat	plasma	LC MS/MS	NA	NA	NA	NA	12.35	NA	5.66	1.15534266201273	hr	NA
+Najib2003a	NA	all	24.0	REN20	kel	enalaprilat	plasma	LC MS/MS	NA	NA	NA	NA	14.2857142857143	NA	25.0	5.10310363079829	1/hr	NA

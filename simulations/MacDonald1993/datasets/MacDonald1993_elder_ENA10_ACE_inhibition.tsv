@@ -1,0 +1,15 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+MacDonald1993		elder	9.0	ENA10	ACE inhibition		plasma	HPLC	elder_ENA10_ACE inhibition	0.0	hr		6.12189476134437					percent	percent	dimensionless
+MacDonald1993		elder	9.0	ENA10	ACE inhibition		plasma	HPLC	elder_ENA10_ACE inhibition	1.27186437171049	hr		31.8166535193782					percent	percent	dimensionless
+MacDonald1993		elder	9.0	ENA10	ACE inhibition		plasma	HPLC	elder_ENA10_ACE inhibition	1.68992228012777	hr		57.2340260445628					percent	percent	dimensionless
+MacDonald1993		elder	9.0	ENA10	ACE inhibition		plasma	HPLC	elder_ENA10_ACE inhibition	2.3938237918504	hr		68.4044795613547					percent	percent	dimensionless
+MacDonald1993		elder	9.0	ENA10	ACE inhibition		plasma	HPLC	elder_ENA10_ACE inhibition	3.09772530357304	hr		79.5749330781466					percent	percent	dimensionless
+MacDonald1993		elder	9.0	ENA10	ACE inhibition		plasma	HPLC	elder_ENA10_ACE inhibition	4.10422997840395	hr		81.5263355274218					percent	percent	dimensionless
+MacDonald1993		elder	9.0	ENA10	ACE inhibition		plasma	HPLC	elder_ENA10_ACE inhibition	5.27646807795264	hr		83.1977653920262					percent	percent	dimensionless
+MacDonald1993		elder	9.0	ENA10	ACE inhibition		plasma	HPLC	elder_ENA10_ACE inhibition	6.43939531094415	hr		82.0759352894774					percent	percent	dimensionless
+MacDonald1993		elder	9.0	ENA10	ACE inhibition		plasma	HPLC	elder_ENA10_ACE inhibition	8.27642928267532	hr		83.1861268088298					percent	percent	dimensionless
+MacDonald1993		elder	9.0	ENA10	ACE inhibition		plasma	HPLC	elder_ENA10_ACE inhibition	10.0	hr		76.7545164168681					percent	percent	dimensionless
+MacDonald1993		elder	9.0	ENA10	ACE inhibition		plasma	HPLC	elder_ENA10_ACE inhibition	12.0	hr		74.5115027997258					percent	percent	dimensionless
+MacDonald1993		elder	9.0	ENA10	ACE inhibition		plasma	HPLC	elder_ENA10_ACE inhibition	24.0	hr		56.0294326837279					percent	percent	dimensionless
+MacDonald1993		elder	9.0	ENA10	ACE inhibition		plasma	HPLC	elder_ENA10_ACE inhibition	48.0	hr		18.7866130429722					percent	percent	dimensionless
+MacDonald1993		elder	9.0	ENA10	ACE inhibition		plasma	HPLC	elder_ENA10_ACE inhibition	72.0	hr		13.6656364365244					percent	percent	dimensionless

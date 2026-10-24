@@ -1,0 +1,14 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	min	max	comments	mean_unit	value_unit	count_unit
+Schwartz1985		HT	5.0	ENA20	blood pressure			sphygmomanometer	HT_ENA20_blood pressure_standing	0.0	min		113.0		15.0	6.70820393249937			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	ENA20	blood pressure			sphygmomanometer	HT_ENA20_blood pressure_standing	60.0	min		106.0		17.0	7.60263112349928			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	ENA20	blood pressure			sphygmomanometer	HT_ENA20_blood pressure_standing	120.0	min		105.0		17.0	7.60263112349928			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	ENA20	blood pressure			sphygmomanometer	HT_ENA20_blood pressure_standing	180.0	min		100.0		18.0	8.04984471899924			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	ENA20	blood pressure			sphygmomanometer	HT_ENA20_blood pressure_standing	240.0	min		99.0		19.0	8.4970583144992			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	ENA20	blood pressure			sphygmomanometer	HT_ENA20_blood pressure_standing	300.0	min		97.0		20.0	8.94427190999916			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	ENA20	blood pressure			sphygmomanometer	HT_ENA20_blood pressure_standing	360.0	min		97.0		20.0	8.94427190999916			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	ENA20	blood pressure			sphygmomanometer	HT_ENA20_blood pressure_standing	420.0	min		98.0		23.0	10.285912696499			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	ENA20	blood pressure			sphygmomanometer	HT_ENA20_blood pressure_standing	480.0	min		102.0		23.0	10.285912696499			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	ENA20	blood pressure			sphygmomanometer	HT_ENA20_blood pressure_standing	540.0	min		99.0		20.0	8.94427190999916			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	ENA20	blood pressure			sphygmomanometer	HT_ENA20_blood pressure_standing	600.0	min		99.0		18.0	8.04984471899924			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	ENA20	blood pressure			sphygmomanometer	HT_ENA20_blood pressure_standing	660.0	min		101.0		20.0	8.94427190999916			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	ENA20	blood pressure			sphygmomanometer	HT_ENA20_blood pressure_standing	720.0	min		102.0		23.0	10.285912696499			standing	mmHg	mmHg	dimensionless

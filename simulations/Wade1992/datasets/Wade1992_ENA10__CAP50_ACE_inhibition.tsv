@@ -1,0 +1,28 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	0.0	hr		88.898897202805					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	0.200000000000003	hr		81.7572503440746					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	1.0	hr		79.7747250200211					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	1.5	hr		76.7997381675887					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	2.0	hr		74.023563318526					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	3.0	hr		78.5902450642672					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	4.0	hr		79.7831170844849					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	6.0	hr		75.4232397844598					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	8.0	hr		66.3020647675558					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	10.0	hr		57.3795019429627					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	12.0	hr		52.820812639568					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	24.0	hr		34.2040166818257					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	48.0	hr		7.28567066981462					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	72.0	hr		3.18574755711002					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	564.0	hr		0.0				After 1 month	percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	564.2	hr		5.7653083244484				After 1 month	percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	565.0	hr		44.0608960167266				After 1 month	percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	565.5	hr		59.7364731909506				After 1 month	percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	566.0	hr		59.9364840606722				After 1 month	percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	567.0	hr		66.4870898078777				After 1 month	percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	567.5	hr		68.0761871574239				After 1 month	percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	568.5	hr		70.8567578497772				After 1 month	percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	570.0	hr		69.8678929204544				After 1 month	percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	572.0	hr		58.5639818987166				After 1 month	percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	574.0	hr		53.8084787025389				After 1 month	percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	576.0	hr		46.4718162505535				After 1 month	percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	ACE inhibition		plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	588.0	hr		19.9181254206023				After 1 month	percent	percent	dimensionless

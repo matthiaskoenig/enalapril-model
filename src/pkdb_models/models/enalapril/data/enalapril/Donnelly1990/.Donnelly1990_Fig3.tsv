@@ -1,0 +1,43 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Donnelly1990	P3	NA	1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	0.0	hr	0.561791786582745	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P3	NA	1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	0.5	hr	4.79328398627914	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P3	NA	1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	1.0	hr	38.2400730647918	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P3	NA	1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	1.5	hr	64.3766659940741	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P3	NA	1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	2.0	hr	101.193143803829	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P3	NA	1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	2.5	hr	106.828053481728	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P3	NA	1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	3.0	hr	145.890105455434	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P3	NA	1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	3.5	hr	126.525280630396	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P3	NA	1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	4.0	hr	119.519875110181	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P3	NA	1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	5.0	hr	121.522784957998	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P3	NA	1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	6.0	hr	76.895383537058	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P3	NA	1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	7.0	hr	50.2453192867686	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P3	NA	1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	8.0	hr	37.0787889085946	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P3	NA	1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	12.0	hr	21.6985440141032	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P3	NA	1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	24.0	hr	8.00526746174182	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P3	NA	1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	32.0	hr	3.01923260728734	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P3	NA	1.0	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	0.0	hr	0.0	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	1.0	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	0.5	hr	-6.532059857512	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	1.0	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	1.0	hr	-19.7952897987124	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	1.0	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	1.5	hr	-23.0382976075666	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	1.0	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	2.5	hr	-38.8949382447194	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	1.0	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	3.5	hr	-37.5036555393092	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	1.0	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	4.0	hr	-44.5247798898676	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	1.0	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	5.0	hr	-45.2552655321537	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	1.0	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	6.0	hr	-69.6562237501173	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	1.0	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	7.0	hr	-54.7826898547124	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	1.0	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	8.0	hr	-39.4213359051742	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	1.0	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	12.0	hr	-30.2249323336345	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	1.0	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	24.0	hr	-20.6975080110759	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	1.0	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	32.0	hr	-17.5752107768413	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	1.0	ENAs20	relative ACE activity	NA	plasma	HPLC	ENAs20_P3_relative ACE activity	0.0	hr	100.0	NA	NA	NA	NA	percent	times of Fig3A (filled circles)
+Donnelly1990	P3	NA	1.0	ENAs20	relative ACE activity	NA	plasma	HPLC	ENAs20_P3_relative ACE activity	1.0	hr	36.5220166385006	NA	NA	NA	NA	percent	times of Fig3A (filled circles)
+Donnelly1990	P3	NA	1.0	ENAs20	relative ACE activity	NA	plasma	HPLC	ENAs20_P3_relative ACE activity	2.0	hr	15.6346782908909	NA	NA	NA	NA	percent	times of Fig3A (filled circles)
+Donnelly1990	P3	NA	1.0	ENAs20	relative ACE activity	NA	plasma	HPLC	ENAs20_P3_relative ACE activity	3.0	hr	12.5883965678559	NA	NA	NA	NA	percent	times of Fig3A (filled circles)
+Donnelly1990	P3	NA	1.0	ENAs20	relative ACE activity	NA	plasma	HPLC	ENAs20_P3_relative ACE activity	4.0	hr	15.1070187781509	NA	NA	NA	NA	percent	times of Fig3A (filled circles)
+Donnelly1990	P3	NA	1.0	ENAs20	relative ACE activity	NA	plasma	HPLC	ENAs20_P3_relative ACE activity	5.0	hr	17.050111334344	NA	NA	NA	NA	percent	times of Fig3A (filled circles)
+Donnelly1990	P3	NA	1.0	ENAs20	relative ACE activity	NA	plasma	HPLC	ENAs20_P3_relative ACE activity	6.0	hr	16.4970661405786	NA	NA	NA	NA	percent	times of Fig3A (filled circles)
+Donnelly1990	P3	NA	1.0	ENAs20	relative ACE activity	NA	plasma	HPLC	ENAs20_P3_relative ACE activity	7.0	hr	18.0561096081176	NA	NA	NA	NA	percent	times of Fig3A (filled circles)
+Donnelly1990	P3	NA	1.0	ENAs20	relative ACE activity	NA	plasma	HPLC	ENAs20_P3_relative ACE activity	8.0	hr	19.425123120553	NA	NA	NA	NA	percent	times of Fig3A (filled circles)
+Donnelly1990	P3	NA	1.0	ENAs20	relative ACE activity	NA	plasma	HPLC	ENAs20_P3_relative ACE activity	12.0	hr	30.9821357336099	NA	NA	NA	NA	percent	times of Fig3A (filled circles)
+Donnelly1990	P3	NA	1.0	ENAs20	relative ACE activity	NA	plasma	HPLC	ENAs20_P3_relative ACE activity	24.0	hr	72.6614347986915	NA	NA	NA	NA	percent	times of Fig3A (filled circles)
+Donnelly1990	P3	NA	1.0	ENAs20	relative ACE activity	NA	plasma	HPLC	ENAs20_P3_relative ACE activity	32.0	hr	80.1911904433791	NA	NA	NA	NA	percent	times of Fig3A (filled circles)

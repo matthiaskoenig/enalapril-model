@@ -1,0 +1,47 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Stage2017	all	43.0	NA	species	43.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Stage2017	all	43.0	NA	healthy	43.0	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Stage2017	all	43.0	NA	sex	19.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Stage2017	all	43.0	NA	sex	24.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Stage2017	all	43.0	NA	overnight fast	43.0	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Stage2017	control	16.0	all	species	16.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	control; two copies of CES1 without non-synonymous SNPS
+Stage2017	control	16.0	all	sex	8.0	NA	F	NA	NA	NA	NA	NA	NA	NA	control; two copies of CES1 without non-synonymous SNPS
+Stage2017	control	16.0	all	sex	8.0	NA	M	NA	NA	NA	NA	NA	NA	NA	control; two copies of CES1 without non-synonymous SNPS
+Stage2017	control	16.0	all	age	16.0	NA	NA	NA	25.0	NA	NA	22.0	32.0	yr	control; two copies of CES1 without non-synonymous SNPS
+Stage2017	control	16.0	all	height	16.0	NA	NA	NA	171.0	NA	NA	160.0	196.0	cm	control; two copies of CES1 without non-synonymous SNPS
+Stage2017	control	16.0	all	weight	16.0	NA	NA	NA	67.0	NA	NA	54.0	102.0	kg	control; two copies of CES1 without non-synonymous SNPS
+Stage2017	control	16.0	all	bmi	16.0	NA	NA	NA	24.0	NA	NA	20.0	30.0	kg/m^2	control; two copies of CES1 without non-synonymous SNPS
+Stage2017	copies4	5.0	all	species	5.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	4copies of CES1
+Stage2017	copies4	5.0	all	sex	4.0	NA	F	NA	NA	NA	NA	NA	NA	NA	4copies
+Stage2017	copies4	5.0	all	sex	1.0	NA	M	NA	NA	NA	NA	NA	NA	NA	4copies
+Stage2017	copies4	5.0	all	age	5.0	NA	NA	NA	25.0	NA	NA	21.0	26.0	yr	4copies
+Stage2017	copies4	5.0	all	height	5.0	NA	NA	NA	175.0	NA	NA	165.0	183.0	cm	4copies
+Stage2017	copies4	5.0	all	weight	5.0	NA	NA	NA	71.0	NA	NA	60.0	77.0	kg	4copies
+Stage2017	copies4	5.0	all	bmi	5.0	NA	NA	NA	25.0	NA	NA	19.0	26.0	kg/m^2	4copies
+Stage2017	G143E	6.0	all	species	6.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	G143E; volunteers carrying the G143 allele
+Stage2017	G143E	6.0	all	sex	3.0	NA	F	NA	NA	NA	NA	NA	NA	NA	G143E; volunteers carrying the G143 allele
+Stage2017	G143E	6.0	all	sex	3.0	NA	M	NA	NA	NA	NA	NA	NA	NA	G143E; volunteers carrying the G143 allele
+Stage2017	G143E	6.0	all	age	6.0	NA	NA	NA	24.0	NA	NA	23.0	30.0	yr	G143E; volunteers carrying the G143 allele
+Stage2017	G143E	6.0	all	height	6.0	NA	NA	NA	178.0	NA	NA	174.0	183.0	cm	G143E; volunteers carrying the G143 allele
+Stage2017	G143E	6.0	all	weight	6.0	NA	NA	NA	68.0	NA	NA	59.0	80.0	kg	G143E; volunteers carrying the G143 allele
+Stage2017	G143E	6.0	all	bmi	6.0	NA	NA	NA	22.0	NA	NA	19.0	25.0	kg/m^2	G143E; volunteers carrying the G143 allele
+Stage2017	copies_active3	2.0	all	species	2.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	CES1A2_high; 3 copies in which CES1A2 has increased activity
+Stage2017	copies_active3	2.0	all	sex	2.0	NA	M	NA	NA	NA	NA	NA	NA	NA	CES1A2_high; 3 copies in which CES1A2 has increased activity
+Stage2017	copies_active3	2.0	all	age	2.0	NA	NA	NA	NA	NA	NA	22.0	23.0	yr	CES1A2_high; 3 copies in which CES1A2 has increased activity
+Stage2017	copies_active3	2.0	all	height	2.0	NA	NA	NA	NA	NA	NA	184.0	189.0	cm	CES1A2_high; 3 copies in which CES1A2 has increased activity
+Stage2017	copies_active3	2.0	all	weight	2.0	NA	NA	NA	NA	NA	NA	63.0	74.0	kg	CES1A2_high; 3 copies in which CES1A2 has increased activity
+Stage2017	copies_active3	2.0	all	bmi	2.0	NA	NA	NA	NA	NA	NA	18.0	22.0	kg/m^2	CES1A2_high; 3 copies in which CES1A2 has increased activity
+Stage2017	CES1A1c	4.0	all	species	4.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	CES1A1c
+Stage2017	CES1A1c	4.0	all	sex	3.0	NA	F	NA	NA	NA	NA	NA	NA	NA	CES1A1c
+Stage2017	CES1A1c	4.0	all	sex	1.0	NA	M	NA	NA	NA	NA	NA	NA	NA	CES1A1c
+Stage2017	CES1A1c	4.0	all	age	4.0	NA	NA	NA	24.0	NA	NA	22.0	29.0	yr	CES1A1c
+Stage2017	CES1A1c	4.0	all	height	4.0	NA	NA	NA	171.0	NA	NA	161.0	186.0	cm	CES1A1c
+Stage2017	CES1A1c	4.0	all	weight	4.0	NA	NA	NA	66.0	NA	NA	58.0	85.0	kg	CES1A1c
+Stage2017	CES1A1c	4.0	all	bmi	4.0	NA	NA	NA	23.0	NA	NA	22.0	25.0	kg/m^2	CES1A1c
+Stage2017	copies_normal3	10.0	all	species	10.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	CES1A2_low
+Stage2017	copies_normal3	10.0	all	sex	6.0	NA	F	NA	NA	NA	NA	NA	NA	NA	CES1A2_low
+Stage2017	copies_normal3	10.0	all	sex	4.0	NA	M	NA	NA	NA	NA	NA	NA	NA	CES1A2_low
+Stage2017	copies_normal3	10.0	all	age	10.0	NA	NA	NA	25.0	NA	NA	23.0	28.0	yr	CES1A2_low
+Stage2017	copies_normal3	10.0	all	height	10.0	NA	NA	NA	171.0	NA	NA	159.0	197.0	cm	CES1A2_low
+Stage2017	copies_normal3	10.0	all	weight	10.0	NA	NA	NA	61.0	NA	NA	49.0	80.0	kg	CES1A2_low
+Stage2017	copies_normal3	10.0	all	bmi	10.0	NA	NA	NA	21.0	NA	NA	19.0	23.0	kg/m^2	CES1A2_low

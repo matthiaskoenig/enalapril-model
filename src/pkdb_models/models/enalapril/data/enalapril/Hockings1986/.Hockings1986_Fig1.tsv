@@ -1,0 +1,23 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Hockings1986	NA	young	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_young_enalaprilat	0.083333	hr	NA	2677.0	NA	NA	NA	ng/ml	first sample at 5 min, read from Fig1
+Hockings1986	NA	young	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_young_enalaprilat	0.3	hr	NA	763.432897328956	NA	NA	NA	ng/ml	NA
+Hockings1986	NA	young	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_young_enalaprilat	1.0	hr	NA	430.628748362047	NA	NA	NA	ng/ml	NA
+Hockings1986	NA	young	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_young_enalaprilat	2.0	hr	NA	182.432094101022	NA	NA	NA	ng/ml	NA
+Hockings1986	NA	young	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_young_enalaprilat	4.0	hr	NA	63.5099715650313	NA	NA	NA	ng/ml	NA
+Hockings1986	NA	young	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_young_enalaprilat	6.0	hr	NA	25.2011848064791	NA	NA	NA	ng/ml	NA
+Hockings1986	NA	young	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_young_enalaprilat	8.0	hr	NA	11.0313528048772	NA	NA	NA	ng/ml	NA
+Hockings1986	NA	young	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_young_enalaprilat	24.0	hr	NA	1.75121413498342	NA	NA	NA	ng/ml	NA
+Hockings1986	NA	young	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_young_enalaprilat	48.0	hr	NA	1.18256264499291	NA	NA	NA	ng/ml	NA
+Hockings1986	NA	young	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_young_enalaprilat	72.0	hr	NA	0.859568792142027	NA	NA	NA	ng/ml	NA
+Hockings1986	NA	young	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_young_enalaprilat	96.0	hr	NA	0.604682682574954	NA	NA	NA	ng/ml	NA
+Hockings1986	NA	elder	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_elder_enalaprilat	0.083333	hr	NA	1764.0	NA	NA	NA	ng/ml	first sample at 5 min, read from Fig1
+Hockings1986	NA	elder	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_elder_enalaprilat	0.3	hr	NA	863.091497625593	NA	NA	NA	ng/ml	NA
+Hockings1986	NA	elder	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_elder_enalaprilat	1.0	hr	NA	537.053760609965	NA	NA	NA	ng/ml	NA
+Hockings1986	NA	elder	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_elder_enalaprilat	2.0	hr	NA	315.581764817748	NA	NA	NA	ng/ml	NA
+Hockings1986	NA	elder	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_elder_enalaprilat	4.0	hr	NA	122.189460640444	NA	NA	NA	ng/ml	NA
+Hockings1986	NA	elder	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_elder_enalaprilat	6.0	hr	NA	62.4794391699167	NA	NA	NA	ng/ml	NA
+Hockings1986	NA	elder	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_elder_enalaprilat	8.0	hr	NA	34.6708489583935	NA	NA	NA	ng/ml	NA
+Hockings1986	NA	elder	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_elder_enalaprilat	24.0	hr	NA	2.86077120730127	NA	NA	NA	ng/ml	NA
+Hockings1986	NA	elder	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_elder_enalaprilat	48.0	hr	NA	1.29389946370576	NA	NA	NA	ng/ml	NA
+Hockings1986	NA	elder	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_elder_enalaprilat	72.0	hr	NA	0.940496136826172	NA	NA	NA	ng/ml	NA
+Hockings1986	NA	elder	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_elder_enalaprilat	96.0	hr	NA	0.70635510878089	NA	NA	NA	ng/ml	NA

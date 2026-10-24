@@ -1,0 +1,4 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Donnelly1990	NA	all	13.0	ENAs20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	77.1	NA	16.9	4.68721665810319	NA	NA	ng/ml	NA
+Donnelly1990	NA	all	12.0	ENAm20	IC50	NA	NA	HPLC	NA	-816.0	hr	NA	63.6	NA	26.2	7.5632885263841	NA	NA	ng/ml	NA
+Donnelly1990	NA	all	13.0	ENAm20	IC50	NA	NA	HPLC	NA	24.0	hr	NA	69.8	NA	27.8	7.71033272753069	NA	NA	ng/ml	NA

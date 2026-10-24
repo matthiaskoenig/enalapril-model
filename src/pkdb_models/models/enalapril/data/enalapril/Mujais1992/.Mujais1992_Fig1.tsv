@@ -1,0 +1,8 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	concentration	enalaprilat	plasma	RIA	enalaprilat	45.0	min	NA	152.132439497521	160.714976539573	29.7307804293519	8.582537042052	ng/ml	assuming normally total enalaprilat is reported
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	concentration	enalaprilat	plasma	RIA	enalaprilat	60.0	min	NA	159.880183262132	169.819777498991	34.4317644497172	9.93959423685899	ng/ml	assuming normally total enalaprilat is reported
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	concentration	enalaprilat	plasma	RIA	enalaprilat	75.0	min	NA	173.955610330325	181.183577148605	25.0384115293659	7.22796681828001	ng/ml	assuming normally total enalaprilat is reported
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	concentration	enalaprilat	plasma	RIA	enalaprilat	90.0	min	NA	178.993384657047	186.674809194056	26.6092351452117	7.68142453700901	ng/ml	assuming normally total enalaprilat is reported
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	concentration	enalaprilat	plasma	RIA	enalaprilat	105.0	min	NA	193.517295501898	201.646374825221	28.1599568135061	8.129079323323	ng/ml	assuming normally total enalaprilat is reported
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	concentration	enalaprilat	plasma	RIA	enalaprilat	120.0	min	NA	196.294413157735	203.524037956705	25.044154942952	7.22962479897001	ng/ml	assuming normally total enalaprilat is reported
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	concentration	enalaprilat	plasma	RIA	enalaprilat	135.0	min	NA	205.852671835882	214.436037868279	29.7336521361449	8.58336603239698	ng/ml	assuming normally total enalaprilat is reported

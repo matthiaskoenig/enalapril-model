@@ -1,0 +1,29 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Ishizaki1988	NA	all	7.0	ENA10	concentration	enalapril	serum	RIA	ENA10_enalapril	0.0	hr	NA	0.0	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	ENA10	concentration	enalapril	serum	RIA	ENA10_enalapril	0.5	hr	NA	38.7382037228399	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	ENA10	concentration	enalapril	serum	RIA	ENA10_enalapril	1.0	hr	NA	60.7410287102393	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	ENA10	concentration	enalapril	serum	RIA	ENA10_enalapril	2.0	hr	NA	38.4487085367384	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	ENA10	concentration	enalapril	serum	RIA	ENA10_enalapril	4.0	hr	NA	5.28779504932464	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	concentration	enalapril	serum	RIA	CIM400, ENA10_enalapril	0.0	hr	NA	0.0	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	concentration	enalapril	serum	RIA	CIM400, ENA10_enalapril	0.5	hr	NA	42.932120130127	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	concentration	enalapril	serum	RIA	CIM400, ENA10_enalapril	1.0	hr	NA	70.1426456860895	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	concentration	enalapril	serum	RIA	CIM400, ENA10_enalapril	2.0	hr	NA	34.6927638248892	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	concentration	enalapril	serum	RIA	CIM400, ENA10_enalapril	4.0	hr	NA	6.76827193192997	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	0.0	hr	NA	0.0	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	0.5	hr	NA	0.742894248587566	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	1.0	hr	NA	9.71628103749817	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	2.0	hr	NA	39.6180729496695	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	4.0	hr	NA	46.226150791732	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	6.0	hr	NA	32.8103846670825	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	8.0	hr	NA	21.0122224352301	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	12.0	hr	NA	9.22929667514091	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	24.0	hr	NA	2.07757267599279	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	concentration	enalaprilat	serum	RIA	CIM400, ENA10_enalaprilat	0.0	hr	NA	0.0	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	concentration	enalaprilat	serum	RIA	CIM400, ENA10_enalaprilat	0.5	hr	NA	0.45191442298645	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	concentration	enalaprilat	serum	RIA	CIM400, ENA10_enalaprilat	1.0	hr	NA	5.15322031595236	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	concentration	enalaprilat	serum	RIA	CIM400, ENA10_enalaprilat	2.0	hr	NA	36.9928733334075	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	concentration	enalaprilat	serum	RIA	CIM400, ENA10_enalaprilat	4.0	hr	NA	49.5065900327177	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	concentration	enalaprilat	serum	RIA	CIM400, ENA10_enalaprilat	6.0	hr	NA	36.3642173537639	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	concentration	enalaprilat	serum	RIA	CIM400, ENA10_enalaprilat	8.0	hr	NA	21.3754767616192	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	concentration	enalaprilat	serum	RIA	CIM400, ENA10_enalaprilat	12.0	hr	NA	9.66092686704287	NA	NA	NA	ng/ml	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	concentration	enalaprilat	serum	RIA	CIM400, ENA10_enalaprilat	24.0	hr	NA	2.09545401730392	NA	NA	NA	ng/ml	NA

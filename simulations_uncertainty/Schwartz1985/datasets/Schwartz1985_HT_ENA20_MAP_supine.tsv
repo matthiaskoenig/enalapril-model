@@ -1,0 +1,14 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	min	max	comments	mean_unit	value_unit	count_unit
+Schwartz1985		HT	5.0	ENA20	blood pressure			sphygmomanometer	HT_ENA20_blood pressure_supine	0.0	min		111.0		16.0	7.15541752799933			supine	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	ENA20	blood pressure			sphygmomanometer	HT_ENA20_blood pressure_supine	60.0	min		111.0		18.0	8.04984471899924			supine	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	ENA20	blood pressure			sphygmomanometer	HT_ENA20_blood pressure_supine	120.0	min		102.0		13.0	5.81377674149945			supine	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	ENA20	blood pressure			sphygmomanometer	HT_ENA20_blood pressure_supine	180.0	min		99.0		20.0	8.94427190999916			supine	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	ENA20	blood pressure			sphygmomanometer	HT_ENA20_blood pressure_supine	240.0	min		99.0		19.0	8.4970583144992			supine	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	ENA20	blood pressure			sphygmomanometer	HT_ENA20_blood pressure_supine	300.0	min		96.0		20.0	8.94427190999916			supine	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	ENA20	blood pressure			sphygmomanometer	HT_ENA20_blood pressure_supine	360.0	min		96.0		17.0	7.60263112349928			supine	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	ENA20	blood pressure			sphygmomanometer	HT_ENA20_blood pressure_supine	420.0	min		98.0		22.0	9.83869910099907			supine	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	ENA20	blood pressure			sphygmomanometer	HT_ENA20_blood pressure_supine	480.0	min		98.0		17.0	7.60263112349928			supine	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	ENA20	blood pressure			sphygmomanometer	HT_ENA20_blood pressure_supine	540.0	min		95.0		15.0	6.70820393249937			supine	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	ENA20	blood pressure			sphygmomanometer	HT_ENA20_blood pressure_supine	600.0	min		98.0		18.0	8.04984471899924			supine	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	ENA20	blood pressure			sphygmomanometer	HT_ENA20_blood pressure_supine	660.0	min		99.0		15.0	6.70820393249937			supine	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5.0	ENA20	blood pressure			sphygmomanometer	HT_ENA20_blood pressure_supine	720.0	min		101.0		15.0	6.70820393249937			supine	mmHg	mmHg	dimensionless

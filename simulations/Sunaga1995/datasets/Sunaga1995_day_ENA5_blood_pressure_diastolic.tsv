@@ -1,0 +1,10 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Sunaga1995		day	12.0	ENA5	blood pressure diastolic			sphygmomanometer	day_ENA5_blood pressure diastolic	0.0	hr		74.7460530176276	85.3202388410026	10.574185823375	3.05250451579334		mmHg	mmHg	dimensionless
+Sunaga1995		day	12.0	ENA5	blood pressure diastolic			sphygmomanometer	day_ENA5_blood pressure diastolic	0.5	hr		71.4163937546091	80.1778620082627	8.76146825365359	2.52921802737163		mmHg	mmHg	dimensionless
+Sunaga1995		day	12.0	ENA5	blood pressure diastolic			sphygmomanometer	day_ENA5_blood pressure diastolic	1.0	hr		70.2007786914495	80.4728449198709	10.2720662284214	2.96529010105638		mmHg	mmHg	dimensionless
+Sunaga1995		day	12.0	ENA5	blood pressure diastolic			sphygmomanometer	day_ENA5_blood pressure diastolic	2.0	hr		70.1857123599426	81.0620177782712	10.8763054183286	3.1397189305303		mmHg	mmHg	dimensionless
+Sunaga1995		day	12.0	ENA5	blood pressure diastolic			sphygmomanometer	day_ENA5_blood pressure diastolic	4.0	hr		68.0486721804154	80.1318700489259	12.0831978685105	3.48811877102803		mmHg	mmHg	dimensionless
+Sunaga1995		day	12.0	ENA5	blood pressure diastolic			sphygmomanometer	day_ENA5_blood pressure diastolic	6.0	hr		65.0005154271305	73.1577444908769	8.1572290637464	2.35478919789771		mmHg	mmHg	dimensionless
+Sunaga1995		day	12.0	ENA5	blood pressure diastolic			sphygmomanometer	day_ENA5_blood pressure diastolic	8.0	hr		67.3920973126423	77.6633705762476	10.2712732636053	2.96506119183136		mmHg	mmHg	dimensionless
+Sunaga1995		day	12.0	ENA5	blood pressure diastolic			sphygmomanometer	day_ENA5_blood pressure diastolic	12.0	hr		65.8315425544568	75.1956640683853	9.3641215139285	2.70318903839549		mmHg	mmHg	dimensionless
+Sunaga1995		day	12.0	ENA5	blood pressure diastolic			sphygmomanometer	day_ENA5_blood pressure diastolic	24.0	hr		70.5155857234615	81.39189114179	10.8763054183285	3.13971893053027		mmHg	mmHg	dimensionless

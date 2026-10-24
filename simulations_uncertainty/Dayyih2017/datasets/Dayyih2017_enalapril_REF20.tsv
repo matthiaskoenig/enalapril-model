@@ -1,0 +1,16 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Dayyih2017		all	30.0	REF20	concentration	enalapril	plasma	LC MS/MS	enalapril_REF20	0.0	hr		0.0					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	REF20	concentration	enalapril	plasma	LC MS/MS	enalapril_REF20	0.25	hr		2.4138632881810572e-05					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	REF20	concentration	enalapril	plasma	LC MS/MS	enalapril_REF20	0.5	hr		0.00017550573354433287					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	REF20	concentration	enalapril	plasma	LC MS/MS	enalapril_REF20	0.75	hr		0.00029424943238969285					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	REF20	concentration	enalapril	plasma	LC MS/MS	enalapril_REF20	1.0	hr		0.00028968082108155285					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	REF20	concentration	enalapril	plasma	LC MS/MS	enalapril_REF20	1.33	hr		0.00022899975767206354					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	REF20	concentration	enalapril	plasma	LC MS/MS	enalapril_REF20	1.66	hr		0.00016440468994783936					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	REF20	concentration	enalapril	plasma	LC MS/MS	enalapril_REF20	2.0	hr		0.00011938251488059079					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	REF20	concentration	enalapril	plasma	LC MS/MS	enalapril_REF20	2.5	hr		7.435890427169e-05					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	REF20	concentration	enalapril	plasma	LC MS/MS	enalapril_REF20	3.0	hr		4.760399672873743e-05					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	REF20	concentration	enalapril	plasma	LC MS/MS	enalapril_REF20	3.5	hr		3.194080176153942e-05					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	REF20	concentration	enalapril	plasma	LC MS/MS	enalapril_REF20	4.0	hr		2.1497954012581333e-05					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	REF20	concentration	enalapril	plasma	LC MS/MS	enalapril_REF20	4.5	hr		1.4969110578357443e-05					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	REF20	concentration	enalapril	plasma	LC MS/MS	enalapril_REF20	5.0	hr		1.1050799638666564e-05					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	REF20	concentration	enalapril	plasma	LC MS/MS	enalapril_REF20	6.0	hr		6.47572839309233e-06					mole/meter^3	ng/ml	dimensionless

@@ -1,0 +1,5 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Her2021	NA	control	15.0	ENA10m	blood pressure systolic	enalapril	NA	sphygmomanometer	control_blood pressure systolic	0.0	hr	NA	118.011595196721	93.9640299542582	24.0475652424627	6.2090546467263	mmHg	NA
+Her2021	NA	control	15.0	ENA10m	blood pressure systolic	enalapril	NA	sphygmomanometer	control_blood pressure systolic	168.0	hr	NA	99.3240810728674	113.35793156652	14.033850493653	3.62352461633886	mmHg	NA
+Her2021	NA	G143E	6.0	ENA10m	blood pressure systolic	enalapril	NA	sphygmomanometer	G143E_blood pressure systolic	0.0	hr	NA	116.09649122807	101.008771929824	15.0877192982456	6.15953561050742	mmHg	NA
+Her2021	NA	G143E	6.0	ENA10m	blood pressure systolic	enalapril	NA	sphygmomanometer	G143E_blood pressure systolic	168.0	hr	NA	118.026315789474	98.9912280701754	19.0350877192983	7.77104202023321	mmHg	NA

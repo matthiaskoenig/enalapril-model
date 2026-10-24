@@ -1,0 +1,7 @@
+study	name	time	time_end	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+Schwartz1985	ENA2.5	0	NA	hr	oral	single dose	dosing	NR	enalapril maleate	2.5	mg	substance ena or enamal?
+Schwartz1985	ENA5	0	NA	hr	oral	single dose	dosing	NR	enalapril maleate	5.0	mg	NA
+Schwartz1985	ENA10	0	NA	hr	oral	single dose	dosing	NR	enalapril maleate	10.0	mg	NA
+Schwartz1985	ENA20	0	NA	hr	oral	single dose	dosing	NR	enalapril maleate	20.0	mg	NA
+Schwartz1985	ENA40	0	NA	hr	oral	single dose	dosing	NR	enalapril maleate	40.0	mg	NA
+Schwartz1985	control	0	NA	hr	oral	single dose	dosing	NR	NR	0.0	mg	NA

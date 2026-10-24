@@ -1,0 +1,21 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Dayyih2017		all	30.0	TEST20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_TEST20	0.0	hr		0.0					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_TEST20	0.25	hr		6.988597404474882e-07					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_TEST20	0.5	hr		1.3977194808949734e-06					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_TEST20	0.75	hr		8.386316885369794e-06					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_TEST20	1.0	hr		2.51589506561095e-05					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_TEST20	1.33	hr		5.625820910602262e-05					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_TEST20	1.66	hr		8.840575716660696e-05					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_TEST20	2.0	hr		0.0001146129974333877					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_TEST20	2.5	hr		0.00013977194808949706					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_TEST20	3.0	hr		0.00015514686237934192					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_TEST20	3.5	hr		0.0001575928714709082					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_TEST20	4.0	hr		0.0001575928714709082					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_TEST20	4.5	hr		0.0001499054143259856					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_TEST20	5.0	hr		0.000134530500036141					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_TEST20	6.0	hr		0.00011705900652495396					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_TEST20	8.0	hr		8.211601950257956e-05					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_TEST20	10.0	hr		5.730649871669371e-05					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_TEST20	12.0	hr		4.018443507573044e-05					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_TEST20	24.0	hr		9.784036366264765e-06					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalaprilat	plasma	LC MS/MS	enalaprilat_TEST20	48.0	hr		3.144868832013677e-06					mole/meter^3	ng/ml	dimensionless

@@ -1,0 +1,3 @@
+study	name	time	time_end	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+Sunaga1995	PLACEBO	0	NA	day	oral	single dose	dosing	tablet	placebo	0	mg	washout between day and night with crossover
+Sunaga1995	ENA5	0	NA	day	oral	single dose	dosing	tablet	enalapril maleate	5	mg	washout between day and night with crossover

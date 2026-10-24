@@ -1,0 +1,7 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Swanson1984		fasting	9.0	ENA40	excretion rate	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_urine_rate_fasting	1.0	hr		9.910566031573995e-10				re-digitized: y axis log 100-1000, linear 1000-1400	mole/second	μg/hr	dimensionless
+Swanson1984		fasting	9.0	ENA40	excretion rate	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_urine_rate_fasting	3.0	hr		9.248798549176053e-10					mole/second	μg/hr	dimensionless
+Swanson1984		fasting	9.0	ENA40	excretion rate	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_urine_rate_fasting	5.0	hr		8.228241467887661e-10					mole/second	μg/hr	dimensionless
+Swanson1984		fasting	9.0	ENA40	excretion rate	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_urine_rate_fasting	7.0	hr		7.773774642626423e-10					mole/second	μg/hr	dimensionless
+Swanson1984		fasting	9.0	ENA40	excretion rate	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_urine_rate_fasting	10.0	hr		2.830451280135775e-10					mole/second	μg/hr	dimensionless
+Swanson1984		fasting	9.0	ENA40	excretion rate	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_urine_rate_fasting	18.0	hr		9.727184681029987e-11					mole/second	μg/hr	dimensionless

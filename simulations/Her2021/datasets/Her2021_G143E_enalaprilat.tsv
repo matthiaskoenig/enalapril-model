@@ -1,0 +1,18 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Her2021		G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	144.0	hr		9.503645494713794e-06					mole/meter^3	ng/ml	dimensionless
+Her2021		G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	144.5	hr		9.861126883922237e-06					mole/meter^3	ng/ml	dimensionless
+Her2021		G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	145.0	hr		2.0181122846265118e-05					mole/meter^3	ng/ml	dimensionless
+Her2021		G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	145.5	hr		5.007142917300404e-05					mole/meter^3	ng/ml	dimensionless
+Her2021		G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	146.0	hr		7.640404977313792e-05					mole/meter^3	ng/ml	dimensionless
+Her2021		G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	146.5	hr		8.885954120579109e-05					mole/meter^3	ng/ml	dimensionless
+Her2021		G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	147.0	hr		0.00010380579941209454					mole/meter^3	ng/ml	dimensionless
+Her2021		G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	147.5	hr		0.00010380800949796293					mole/meter^3	ng/ml	dimensionless
+Her2021		G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	148.0	hr		0.00010131669020284529					mole/meter^3	ng/ml	dimensionless
+Her2021		G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	149.0	hr		9.669540065208862e-05					mole/meter^3	ng/ml	dimensionless
+Her2021		G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	150.0	hr		8.068609114310022e-05					mole/meter^3	ng/ml	dimensionless
+Her2021		G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	152.0	hr		5.8275267916384804e-05					mole/meter^3	ng/ml	dimensionless
+Her2021		G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	154.0	hr		3.9066859112934054e-05					mole/meter^3	ng/ml	dimensionless
+Her2021		G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	156.0	hr		2.7686574455241746e-05					mole/meter^3	ng/ml	dimensionless
+Her2021		G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	168.0	hr		8.508001811014123e-06					mole/meter^3	ng/ml	dimensionless
+Her2021		G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	192.0	hr		3.2413671866939573e-06					mole/meter^3	ng/ml	dimensionless
+Her2021		G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	216.0	hr		1.1776995071055898e-06					mole/meter^3	ng/ml	dimensionless

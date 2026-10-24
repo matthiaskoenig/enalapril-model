@@ -1,0 +1,13 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Donnelly1990		all	13.0	ENAs20	blood pressure diastolic			sphygmomanometer	ENAs20_blood pressure diastolic	0.0	hr		101.281352587781					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAs20	blood pressure diastolic			sphygmomanometer	ENAs20_blood pressure diastolic	0.5	hr		100.286996200398					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAs20	blood pressure diastolic			sphygmomanometer	ENAs20_blood pressure diastolic	1.0	hr		94.2926691762441					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAs20	blood pressure diastolic			sphygmomanometer	ENAs20_blood pressure diastolic	1.5	hr		89.2078975340761					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAs20	blood pressure diastolic			sphygmomanometer	ENAs20_blood pressure diastolic	2.5	hr		86.3096293773235	97.088758310011	10.7791289326875	2.9895924670494	error bar is SD (Fig1 caption)	mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAs20	blood pressure diastolic			sphygmomanometer	ENAs20_blood pressure diastolic	3.5	hr		83.3202177577065					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAs20	blood pressure diastolic			sphygmomanometer	ENAs20_blood pressure diastolic	4.0	hr		81.2349586859369					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAs20	blood pressure diastolic			sphygmomanometer	ENAs20_blood pressure diastolic	5.0	hr		80.2469447560211					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAs20	blood pressure diastolic			sphygmomanometer	ENAs20_blood pressure diastolic	6.0	hr		80.1668418672666					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAs20	blood pressure diastolic			sphygmomanometer	ENAs20_blood pressure diastolic	7.0	hr		80.1783522530407					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAs20	blood pressure diastolic			sphygmomanometer	ENAs20_blood pressure diastolic	8.0	hr		83.2809884837417					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAs20	blood pressure diastolic			sphygmomanometer	ENAs20_blood pressure diastolic	24.0	hr		91.2360744886395					mmHg	mmHg	dimensionless

@@ -1,0 +1,49 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Ishizaki1988	NA	all	7.0	ENA10	blood pressure systolic	enalapril	NA	sphygmomanometer	ENA10_blood pressure systolic	0.0	hr	NA	119.793675479523	115.893208916537	10.3196645227838	3.900466562986	mmHg	NA
+Ishizaki1988	NA	all	7.0	ENA10	blood pressure systolic	enalapril	NA	sphygmomanometer	ENA10_blood pressure systolic	1.0	hr	NA	117.991705546915	111.965785381026	15.9430861792714	6.02592016588901	mmHg	NA
+Ishizaki1988	NA	all	7.0	ENA10	blood pressure systolic	enalapril	NA	sphygmomanometer	ENA10_blood pressure systolic	2.0	hr	NA	118.317262830482	123.636080870917	14.0722698037949	5.31881804043501	mmHg	NA
+Ishizaki1988	NA	all	7.0	ENA10	blood pressure systolic	enalapril	NA	sphygmomanometer	ENA10_blood pressure systolic	4.0	hr	NA	115.065837221358	107.97407983411	18.7630264050634	7.091757387248	mmHg	NA
+Ishizaki1988	NA	all	7.0	ENA10	blood pressure systolic	enalapril	NA	sphygmomanometer	ENA10_blood pressure systolic	6.0	hr	NA	118.55365474339	126.0	19.7011777253155	7.44634525661	mmHg	NA
+Ishizaki1988	NA	all	7.0	ENA10	blood pressure systolic	enalapril	NA	sphygmomanometer	ENA10_blood pressure systolic	8.0	hr	NA	118.84810782789	125.939865215137	18.7630264050607	7.091757387247	mmHg	NA
+Ishizaki1988	NA	all	7.0	ENA10	blood pressure systolic	enalapril	NA	sphygmomanometer	ENA10_blood pressure systolic	12.0	hr	NA	121.568688439606	127.951270088128	16.8867237645539	6.38258164852199	mmHg	NA
+Ishizaki1988	NA	all	7.0	ENA10	blood pressure systolic	enalapril	NA	sphygmomanometer	ENA10_blood pressure systolic	24.0	hr	NA	120.502851218247	125.112493519958	12.1959671632907	4.60964230171099	mmHg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	blood pressure systolic	enalapril	NA	sphygmomanometer	CIM400, ENA10_blood pressure systolic	0.0	hr	NA	122.632452047693	128.660445826853	15.9485724443018	6.02799377916	mmHg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	blood pressure systolic	enalapril	NA	sphygmomanometer	CIM400, ENA10_blood pressure systolic	1.0	hr	NA	123.667185069984	130.049766718507	16.8867237645565	6.38258164852299	mmHg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	blood pressure systolic	enalapril	NA	sphygmomanometer	CIM400, ENA10_blood pressure systolic	2.0	hr	NA	116.191809227579	109.807153965785	16.8922100295869	6.384655261794	mmHg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	blood pressure systolic	enalapril	NA	sphygmomanometer	CIM400, ENA10_blood pressure systolic	4.0	hr	NA	117.195438050803	120.741316744427	9.38151320253167	3.54587869362399	mmHg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	blood pressure systolic	enalapril	NA	sphygmomanometer	CIM400, ENA10_blood pressure systolic	6.0	hr	NA	117.13530326594	112.171073094867	13.1341184835428	4.964230171073	mmHg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	blood pressure systolic	enalapril	NA	sphygmomanometer	CIM400, ENA10_blood pressure systolic	8.0	hr	NA	115.656817003628	109.985484707102	15.0049348590166	5.671332296526	mmHg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	blood pressure systolic	enalapril	NA	sphygmomanometer	CIM400, ENA10_blood pressure systolic	12.0	hr	NA	119.795749092794	114.122343182996	15.0104211240496	5.67340590979799	mmHg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	blood pressure systolic	enalapril	NA	sphygmomanometer	CIM400, ENA10_blood pressure systolic	24.0	hr	NA	117.664074650077	110.926905132192	17.8248750848086	6.73716951788499	mmHg	NA
+Ishizaki1988	NA	all	7.0	ENA10	blood pressure diastolic	enalapril	NA	sphygmomanometer	ENA10_blood pressure diastolic	0.0	hr	NA	74.1102471055814	71.1553481942284	7.81792766877553	2.954898911353	mmHg	NA
+Ishizaki1988	NA	all	7.0	ENA10	blood pressure diastolic	enalapril	NA	sphygmomanometer	ENA10_blood pressure diastolic	1.0	hr	NA	71.4197338862968	68.7603248660791	7.03613490189796	2.65940902021769	mmHg	NA
+Ishizaki1988	NA	all	7.0	ENA10	blood pressure diastolic	enalapril	NA	sphygmomanometer	ENA10_blood pressure diastolic	2.0	hr	NA	67.2534992223949	62.8211508553654	11.7268915031633	4.43234836702949	mmHg	NA
+Ishizaki1988	NA	all	7.0	ENA10	blood pressure diastolic	enalapril	NA	sphygmomanometer	ENA10_blood pressure diastolic	4.0	hr	NA	56.5553827544496	52.7140141696906	10.1633059694085	3.841368584759	mmHg	NA
+Ishizaki1988	NA	all	7.0	ENA10	blood pressure diastolic	enalapril	NA	sphygmomanometer	ENA10_blood pressure diastolic	6.0	hr	NA	67.1359944703645	70.6818731639882	9.38151320253092	3.54587869362371	mmHg	NA
+Ishizaki1988	NA	all	7.0	ENA10	blood pressure diastolic	enalapril	NA	sphygmomanometer	ENA10_blood pressure diastolic	8.0	hr	NA	67.6682218766199	62.3511318472437	14.0676979162705	5.3170900293762	mmHg	NA
+Ishizaki1988	NA	all	7.0	ENA10	blood pressure diastolic	enalapril	NA	sphygmomanometer	ENA10_blood pressure diastolic	12.0	hr	NA	64.8878520822533	59.2752721617418	14.8494906831481	5.6125799205115	mmHg	NA
+Ishizaki1988	NA	all	7.0	ENA10	blood pressure diastolic	enalapril	NA	sphygmomanometer	ENA10_blood pressure diastolic	24.0	hr	NA	68.0794885087264	72.2163469846206	10.9450987362857	4.1368584758942	mmHg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	blood pressure diastolic	enalapril	NA	sphygmomanometer	CIM400, ENA10_blood pressure diastolic	0.0	hr	NA	76.7696561257991	80.3155348194228	9.38151320253088	3.54587869362369	mmHg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	blood pressure diastolic	enalapril	NA	sphygmomanometer	CIM400, ENA10_blood pressure diastolic	1.0	hr	NA	80.5816485225505	84.4230171073094	10.1633059694082	3.84136858475891	mmHg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	blood pressure diastolic	enalapril	NA	sphygmomanometer	CIM400, ENA10_blood pressure diastolic	2.0	hr	NA	73.163297045101	76.1181959564541	7.81792766877579	2.9548989113531	mmHg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	blood pressure diastolic	enalapril	NA	sphygmomanometer	CIM400, ENA10_blood pressure diastolic	4.0	hr	NA	60.9894591325384	65.715569379644	12.5041123825154	4.7261102471056	mmHg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	blood pressure diastolic	enalapril	NA	sphygmomanometer	CIM400, ENA10_blood pressure diastolic	6.0	hr	NA	65.0675652324174	59.748747191982	14.0722698037959	5.3188180404354	mmHg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	blood pressure diastolic	enalapril	NA	sphygmomanometer	CIM400, ENA10_blood pressure diastolic	8.0	hr	NA	71.5078624503196	74.4627613616727	7.81792766877579	2.9548989113531	mmHg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	blood pressure diastolic	enalapril	NA	sphygmomanometer	CIM400, ENA10_blood pressure diastolic	12.0	hr	NA	70.7993779160186	77.00466562986	16.4176481044289	6.2052877138414	mmHg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	blood pressure diastolic	enalapril	NA	sphygmomanometer	CIM400, ENA10_blood pressure diastolic	24.0	hr	NA	66.3048211508553	62.4651805771556	10.1587340818828	3.8396405736997	mmHg	NA
+Ishizaki1988	NA	all	7.0	ENA10	heart rate	enalapril	NA	electrocardiography	ENA10_heart rate	0.0	hr	NA	77.2732852539512	79.9048642013196	6.96250345016991	2.6315789473684	1/min	NA
+Ishizaki1988	NA	all	7.0	ENA10	heart rate	enalapril	NA	electrocardiography	ENA10_heart rate	1.0	hr	NA	73.0197943839189	76.177689120761	8.35500414020395	3.1578947368421	1/min	NA
+Ishizaki1988	NA	all	7.0	ENA10	heart rate	enalapril	NA	electrocardiography	ENA10_heart rate	2.0	hr	NA	78.7663035138867	81.9241982507288	8.35500414020395	3.1578947368421	1/min	NA
+Ishizaki1988	NA	all	7.0	ENA10	heart rate	enalapril	NA	electrocardiography	ENA10_heart rate	4.0	hr	NA	78.6803744054012	74.4698480896117	11.140005520272	4.21052631578949	1/min	NA
+Ishizaki1988	NA	all	7.0	ENA10	heart rate	enalapril	NA	electrocardiography	ENA10_heart rate	6.0	hr	NA	83.3282185054472	88.0650606107104	12.5325062103061	4.73684210526321	1/min	NA
+Ishizaki1988	NA	all	7.0	ENA10	heart rate	enalapril	NA	electrocardiography	ENA10_heart rate	8.0	hr	NA	81.137026239067	84.2949209759091	8.35500414020395	3.1578947368421	1/min	NA
+Ishizaki1988	NA	all	7.0	ENA10	heart rate	enalapril	NA	electrocardiography	ENA10_heart rate	12.0	hr	NA	82.0147307043117	85.6989412306275	9.74750483023798	3.68421052631579	1/min	NA
+Ishizaki1988	NA	all	7.0	ENA10	heart rate	enalapril	NA	electrocardiography	ENA10_heart rate	24.0	hr	NA	77.8057388368881	74.6509129967776	8.34688460265278	3.15482584011049	1/min	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	heart rate	enalaprilat	NA	electrocardiography	CIM400, ENA10_heart rate	0.0	hr	NA	74.6447752033144	70.9605646769986	9.74750483023798	3.68421052631579	1/min	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	heart rate	enalaprilat	NA	electrocardiography	CIM400, ENA10_heart rate	1.0	hr	NA	72.4934785944452	69.3355838576032	8.35500414020368	3.157894736842	1/min	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	heart rate	enalaprilat	NA	electrocardiography	CIM400, ENA10_heart rate	2.0	hr	NA	74.5588460948289	71.4009513579868	8.35500414020395	3.1578947368421	1/min	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	heart rate	enalaprilat	NA	electrocardiography	CIM400, ENA10_heart rate	4.0	hr	NA	82.8878318244591	85.5194107718275	6.96250345016991	2.6315789473684	1/min	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	heart rate	enalaprilat	NA	electrocardiography	CIM400, ENA10_heart rate	6.0	hr	NA	80.6966395580788	77.0154979284947	9.73938529268659	3.6811416295841	1/min	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	heart rate	enalaprilat	NA	electrocardiography	CIM400, ENA10_heart rate	8.0	hr	NA	76.9264999232775	73.7686051864354	8.35500414020398	3.15789473684211	1/min	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	heart rate	enalaprilat	NA	electrocardiography	CIM400, ENA10_heart rate	12.0	hr	NA	79.3831517569433	75.1726254411538	11.1400055202721	4.21052631578951	1/min	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	heart rate	enalaprilat	NA	electrocardiography	CIM400, ENA10_heart rate	24.0	hr	NA	80.4373177842565	83.0719656283566	6.9706229877213	2.63464784410009	1/min	NA

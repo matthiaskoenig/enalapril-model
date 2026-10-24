@@ -1,0 +1,25 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Till1984	NA	all	12.0	ENA10m	muliple_dosing_cmin	enalaprilat	serum	RIA	ENA10m_trough_enalaprilat	24.0	hr	NA	2.4	NA	NA	NA	NA	NA	ng/ml	NA
+Till1984	NA	all	12.0	ENA10m	muliple_dosing_cmin	enalaprilat	serum	RIA	ENA10m_trough_enalaprilat	48.0	hr	NA	2.6	NA	NA	NA	NA	NA	ng/ml	NA
+Till1984	NA	all	11.0	ENA10m	muliple_dosing_cmin	enalaprilat	serum	RIA	ENA10m_trough_enalaprilat	72.0	hr	NA	3.1	NA	NA	NA	NA	NA	ng/ml	NA
+Till1984	NA	all	12.0	ENA10m	muliple_dosing_cmin	enalaprilat	serum	RIA	ENA10m_trough_enalaprilat	96.0	hr	NA	3.0	NA	NA	NA	NA	NA	ng/ml	NA
+Till1984	NA	all	12.0	ENA10m	muliple_dosing_cmin	enalaprilat	serum	RIA	ENA10m_trough_enalaprilat	120.0	hr	NA	3.6	NA	NA	NA	NA	NA	ng/ml	NA
+Till1984	NA	all	11.0	ENA10m	muliple_dosing_cmin	enalaprilat	serum	RIA	ENA10m_trough_enalaprilat	144.0	hr	NA	3.1	NA	NA	NA	NA	NA	ng/ml	NA
+Till1984	NA	all	12.0	ENA10m	muliple_dosing_cmin	enalaprilat	serum	RIA	ENA10m_trough_enalaprilat	168.0	hr	NA	3.4	NA	NA	NA	NA	NA	ng/ml	NA
+Till1984	NA	all	12.0	ENA10m	muliple_dosing_cmin	enalaprilat	serum	RIA	ENA10m_trough_enalaprilat	192.0	hr	NA	2.9	NA	NA	NA	NA	NA	ng/ml	NA
+Till1984	NA	all	12.0	ENA10m	amount	enalaprilat	urine	RIA	ENA10m_interval amount_enalaprilat	24.0	hr	NA	2.41	NA	NA	NA	NA	NA	mg	amount excreted 0-24 hr after the dose
+Till1984	NA	all	12.0	ENA10m	amount	enalaprilat	urine	RIA	ENA10m_interval amount_enalaprilat	48.0	hr	NA	3.28	NA	NA	NA	NA	NA	mg	amount excreted 0-24 hr after the dose
+Till1984	NA	all	11.0	ENA10m	amount	enalaprilat	urine	RIA	ENA10m_interval amount_enalaprilat	72.0	hr	NA	3.15	NA	NA	NA	NA	NA	mg	amount excreted 0-24 hr after the dose
+Till1984	NA	all	12.0	ENA10m	amount	enalaprilat	urine	RIA	ENA10m_interval amount_enalaprilat	96.0	hr	NA	3.06	NA	NA	NA	NA	NA	mg	amount excreted 0-24 hr after the dose
+Till1984	NA	all	11.0	ENA10m	amount	enalaprilat	urine	RIA	ENA10m_interval amount_enalaprilat	120.0	hr	NA	3.13	NA	NA	NA	NA	NA	mg	amount excreted 0-24 hr after the dose
+Till1984	NA	all	11.0	ENA10m	amount	enalaprilat	urine	RIA	ENA10m_interval amount_enalaprilat	144.0	hr	NA	3.53	NA	NA	NA	NA	NA	mg	amount excreted 0-24 hr after the dose
+Till1984	NA	all	12.0	ENA10m	amount	enalaprilat	urine	RIA	ENA10m_interval amount_enalaprilat	168.0	hr	NA	3.03	NA	NA	NA	NA	NA	mg	amount excreted 0-24 hr after the dose
+Till1984	NA	all	10.0	ENA10m	amount	enalaprilat	urine	RIA	ENA10m_interval amount_enalaprilat	192.0	hr	NA	2.67	NA	NA	NA	NA	NA	mg	amount excreted 0-24 hr after the dose
+Till1984	NA	all	12.0	ENA10m	amount	enalapril+enalaprilat	urine	RIA	ENA10m_interval amount_enalapril+enalaprilat	24.0	hr	NA	3.69	NA	NA	NA	NA	NA	mg	amount excreted 0-24 hr after the dose
+Till1984	NA	all	12.0	ENA10m	amount	enalapril+enalaprilat	urine	RIA	ENA10m_interval amount_enalapril+enalaprilat	48.0	hr	NA	4.84	NA	NA	NA	NA	NA	mg	amount excreted 0-24 hr after the dose
+Till1984	NA	all	11.0	ENA10m	amount	enalapril+enalaprilat	urine	RIA	ENA10m_interval amount_enalapril+enalaprilat	72.0	hr	NA	4.54	NA	NA	NA	NA	NA	mg	amount excreted 0-24 hr after the dose
+Till1984	NA	all	12.0	ENA10m	amount	enalapril+enalaprilat	urine	RIA	ENA10m_interval amount_enalapril+enalaprilat	96.0	hr	NA	4.23	NA	NA	NA	NA	NA	mg	amount excreted 0-24 hr after the dose
+Till1984	NA	all	11.0	ENA10m	amount	enalapril+enalaprilat	urine	RIA	ENA10m_interval amount_enalapril+enalaprilat	120.0	hr	NA	4.4	NA	NA	NA	NA	NA	mg	amount excreted 0-24 hr after the dose
+Till1984	NA	all	11.0	ENA10m	amount	enalapril+enalaprilat	urine	RIA	ENA10m_interval amount_enalapril+enalaprilat	144.0	hr	NA	5.0	NA	NA	NA	NA	NA	mg	amount excreted 0-24 hr after the dose
+Till1984	NA	all	12.0	ENA10m	amount	enalapril+enalaprilat	urine	RIA	ENA10m_interval amount_enalapril+enalaprilat	168.0	hr	NA	4.39	NA	NA	NA	NA	NA	mg	amount excreted 0-24 hr after the dose
+Till1984	NA	all	10.0	ENA10m	amount	enalapril+enalaprilat	urine	RIA	ENA10m_interval amount_enalapril+enalaprilat	192.0	hr	NA	3.95	NA	NA	NA	NA	NA	mg	amount excreted 0-24 hr after the dose

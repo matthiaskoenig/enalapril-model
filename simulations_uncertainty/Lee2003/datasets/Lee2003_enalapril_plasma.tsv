@@ -1,0 +1,14 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Lee2003		all	12.0	ENA20	concentration	enalapril	plasma	LC MS/MS	enalapril_plasma	0.0	hr		0.0	0.0				mole/meter^3	ng/ml	dimensionless
+Lee2003		all	12.0	ENA20	concentration	enalapril	plasma	LC MS/MS	enalapril_plasma	0.25	hr		7.044655014260691e-05	51.3122820427077	6.586034813199e-05	1.901224486146345e-05		mole/meter^3	ng/ml	dimensionless
+Lee2003		all	12.0	ENA20	concentration	enalapril	plasma	LC MS/MS	enalapril_plasma	0.5	hr		0.0002910537803389776	149.236134333349	0.00010537985643709084	3.042054424055926e-05		mole/meter^3	ng/ml	dimensionless
+Lee2003		all	12.0	ENA20	concentration	enalapril	plasma	LC MS/MS	enalapril_plasma	0.75	hr		0.00040496645977534403	169.804137008551	4.610440100933227e-05	1.330919416678222e-05		mole/meter^3	ng/ml	dimensionless
+Lee2003		all	12.0	ENA20	concentration	enalapril	plasma	LC MS/MS	enalapril_plasma	1.0	hr		0.0003575219842438173	157.396455357569	6.058888074070513e-05	1.7490503302772116e-05		mole/meter^3	ng/ml	dimensionless
+Lee2003		all	12.0	ENA20	concentration	enalapril	plasma	LC MS/MS	enalapril_plasma	1.25	hr		0.00027384854324436105	128.626570486791	6.783746565621268e-05	1.9582989528878192e-05		mole/meter^3	ng/ml	dimensionless
+Lee2003		all	12.0	ENA20	concentration	enalapril	plasma	LC MS/MS	enalapril_plasma	1.5	hr		0.00020466465801613137	95.1449863851335	4.808024952359072e-05	1.387957250257474e-05		mole/meter^3	ng/ml	dimensionless
+Lee2003		all	12.0	ENA20	concentration	enalapril	plasma	LC MS/MS	enalapril_plasma	2.0	hr		0.00011964987348451427	56.9426264749439	3.1613576228138003e-05	9.126053372681117e-06		mole/meter^3	ng/ml	dimensionless
+Lee2003		all	12.0	ENA20	concentration	enalapril	plasma	LC MS/MS	enalapril_plasma	2.5	hr		7.876110342804201e-05	37.8311756556633	2.173433365684489e-05	6.274161693718269e-06		mole/meter^3	ng/ml	dimensionless
+Lee2003		all	12.0	ENA20	concentration	enalapril	plasma	LC MS/MS	enalapril_plasma	3.0	hr		5.301923630425529e-05	25.165528113505	1.3830939599810439e-05	3.9926483505480066e-06		mole/meter^3	ng/ml	dimensionless
+Lee2003		all	12.0	ENA20	concentration	enalapril	plasma	LC MS/MS	enalapril_plasma	4.0	hr		2.1297794229160276e-05	10.7452347967325	7.246046895579188e-06	2.0917535628616484e-06		mole/meter^3	ng/ml	dimensionless
+Lee2003		all	12.0	ENA20	concentration	enalapril	plasma	LC MS/MS	enalapril_plasma	6.0	hr		7.904663066998781e-06	5.95136865236708	7.904663066998623e-06	2.2818796747924737e-06		mole/meter^3	ng/ml	dimensionless
+Lee2003		all	12.0	ENA20	concentration	enalapril	plasma	LC MS/MS	enalapril_plasma	12.0	hr		0.0	0.0				mole/meter^3	ng/ml	dimensionless

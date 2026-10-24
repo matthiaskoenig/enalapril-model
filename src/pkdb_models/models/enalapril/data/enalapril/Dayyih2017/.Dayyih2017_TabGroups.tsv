@@ -1,0 +1,5 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Dayyih2017	all	30	NA	species	30	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Dayyih2017	all	30	NA	sex	30	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Dayyih2017	all	30	NA	healthy	30	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Dayyih2017	all	30	NA	overnight fast	30	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA

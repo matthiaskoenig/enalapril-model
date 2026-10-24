@@ -1,0 +1,9 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Matalka2002		all	48.0	ENA10	blood pressure diastolic	enalaprilat	plasma	sphygmomanometer	ENA10_blood pressure diastolic	0.0	hr		79.9604743083005	78.6758893280633	8.89986580964247	1.28458498023716		mmHg	mmHg	dimensionless
+Matalka2002		all	48.0	ENA10	blood pressure diastolic	enalaprilat	plasma	sphygmomanometer	ENA10_blood pressure diastolic	1.0	hr		75.909090909091	74.4268774703558	10.2690759342028	1.48221343873517		mmHg	mmHg	dimensionless
+Matalka2002		all	48.0	ENA10	blood pressure diastolic	enalaprilat	plasma	sphygmomanometer	ENA10_blood pressure diastolic	2.0	hr		73.6363636363637	75.612648221344	13.6921012456037	1.97628458498022		mmHg	mmHg	dimensionless
+Matalka2002		all	48.0	ENA10	blood pressure diastolic	enalaprilat	plasma	sphygmomanometer	ENA10_blood pressure diastolic	4.0	hr		70.8695652173914	72.8458498023717	13.6921012456038	1.97628458498023		mmHg	mmHg	dimensionless
+Matalka2002		all	48.0	ENA10	blood pressure diastolic	enalaprilat	plasma	sphygmomanometer	ENA10_blood pressure diastolic	6.0	hr		69.8814229249013	71.6600790513835	12.3228911210434	1.77865612648222		mmHg	mmHg	dimensionless
+Matalka2002		all	48.0	ENA10	blood pressure diastolic	enalaprilat	plasma	sphygmomanometer	ENA10_blood pressure diastolic	8.0	hr		76.00790513834	77.7865612648222	12.3228911210434	1.77865612648222		mmHg	mmHg	dimensionless
+Matalka2002		all	48.0	ENA10	blood pressure diastolic	enalaprilat	plasma	sphygmomanometer	ENA10_blood pressure diastolic	12.0	hr		75.810276679842	77.6877470355732	13.0074961833235	1.87747035573122		mmHg	mmHg	dimensionless
+Matalka2002		all	48.0	ENA10	blood pressure diastolic	enalaprilat	plasma	sphygmomanometer	ENA10_blood pressure diastolic	24.0	hr		75.711462450593	77.3913043478262	11.6382860587631	1.67984189723319		mmHg	mmHg	dimensionless

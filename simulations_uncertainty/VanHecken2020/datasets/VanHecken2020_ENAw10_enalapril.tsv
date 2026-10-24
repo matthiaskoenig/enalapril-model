@@ -1,0 +1,19 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+VanHecken2020		all	24.0	ENAw10	concentration	enalapril	serum	HPLC MS/MS	ENAw10_enalapril	0.0	hr		4.0006303585222557e-07					mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	24.0	ENAw10	concentration	enalapril	serum	HPLC MS/MS	ENAw10_enalapril	0.16	hr		2.0003151792611596e-06					mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	24.0	ENAw10	concentration	enalapril	serum	HPLC MS/MS	ENAw10_enalapril	0.33	hr		3.6805799298405326e-05	0.451807228915655	3.560561019084853e-05	7.267964745668325e-06		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	24.0	ENAw10	concentration	enalapril	serum	HPLC MS/MS	ENAw10_enalapril	0.5	hr		9.161443521016097e-05	7.68072289156626	7.121122038169706e-05	1.453592949133665e-05		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	24.0	ENAw10	concentration	enalapril	serum	HPLC MS/MS	ENAw10_enalapril	0.75	hr		0.0001408221886199855	23.9457831325301	7.721216591948077e-05	1.5760867369820084e-05		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	24.0	ENAw10	concentration	enalapril	serum	HPLC MS/MS	ENAw10_enalapril	1.0	hr		0.00015162389058799586	27.1084337349397	7.961254413459435e-05	1.6250842521213493e-05		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	24.0	ENAw10	concentration	enalapril	serum	HPLC MS/MS	ENAw10_enalapril	1.25	hr		0.0001252197302217485	26.6566265060241	5.440857287590355e-05	1.1106103431583063e-05		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	24.0	ENAw10	concentration	enalapril	serum	HPLC MS/MS	ENAw10_enalapril	1.5	hr		0.00011201765003862486	24.5481927710843	4.680737519471123e-05	9.554515452170733e-06		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	24.0	ENAw10	concentration	enalapril	serum	HPLC MS/MS	ENAw10_enalapril	2.0	hr		7.441172466851509e-05	14.7590361445783	3.5205547154996454e-05	7.18630222043612e-06		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	24.0	ENAw10	concentration	enalapril	serum	HPLC MS/MS	ENAw10_enalapril	2.5	hr		4.720743823056332e-05	8.28313253012048	2.5203971258690596e-05	5.144739089630379e-06		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	24.0	ENAw10	concentration	enalapril	serum	HPLC MS/MS	ENAw10_enalapril	3.0	hr		2.8004412509656216e-05	4.51807228915662	1.6002521434089287e-05	3.2665010092891505e-06		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	24.0	ENAw10	concentration	enalapril	serum	HPLC MS/MS	ENAw10_enalapril	3.5	hr		1.8802962685054856e-05	2.56024096385542	1.2001891075566924e-05	2.449875756966846e-06		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	24.0	ENAw10	concentration	enalapril	serum	HPLC MS/MS	ENAw10_enalapril	4.0	hr		1.1601828039714706e-05	1.6566265060241	7.201134645340151e-06	1.4699254541801058e-06		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	24.0	ENAw10	concentration	enalapril	serum	HPLC MS/MS	ENAw10_enalapril	4.5	hr		7.60119768119237e-06	1.20481927710844	4.4006933943745025e-06	8.982877775545037e-07		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	24.0	ENAw10	concentration	enalapril	serum	HPLC MS/MS	ENAw10_enalapril	5.0	hr		4.000630358522336e-06	3.01204819277108	4.000630358522282e-06	8.166252523222756e-07		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	24.0	ENAw10	concentration	enalapril	serum	HPLC MS/MS	ENAw10_enalapril	6.0	hr		2.0003151792611596e-06	1.9578313253012	3.200504286817842e-06	6.533002018578222e-07		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	24.0	ENAw10	concentration	enalapril	serum	HPLC MS/MS	ENAw10_enalapril	8.0	hr		8.001260717044486e-07					mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	24.0	ENAw10	concentration	enalapril	serum	HPLC MS/MS	ENAw10_enalapril	10.0	hr		4.0006303585222557e-07					mole/meter^3	ng/ml	dimensionless

@@ -1,0 +1,6 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Ghosh2012	all	36	NA	species	36	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Ghosh2012	all	36	NA	healthy	36	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Ghosh2012	all	36	NA	sex	36	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Ghosh2012	all	36	NA	ethnicity	36	NA	indian	NA	NA	NA	NA	NA	NA	NA	NA
+Ghosh2012	all	36	NA	overnight fast	36	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA

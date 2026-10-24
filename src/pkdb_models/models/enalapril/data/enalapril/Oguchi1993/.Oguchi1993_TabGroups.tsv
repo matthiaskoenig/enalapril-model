@@ -1,0 +1,31 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	tissue	mean	median	sd	se	min	max	unit	comments
+Oguchi1993	all	27.0	NA	species	27.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Oguchi1993	all	27.0	NA	sex	27.0	NA	NR	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Oguchi1993	all	27.0	NA	healthy	27.0	NA	N	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Oguchi1993	all	27.0	NA	disease	27.0	NA	hypertension	NA	NA	NA	NA	NA	NA	NA	NA	all patients have borderline or mild hypertension; only grp2&3 have renal diseases (moderate&severe)
+Oguchi1993	Group1	12.0	all	disease	12.0	NA	hypertension	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Oguchi1993	Group1	12.0	all	clearance	12.0	creatinine	NA	urine	NA	NA	NA	NA	70.0	NA	ml/min	NA
+Oguchi1993	Group2	12.0	all	disease	12.0	NA	hypertension	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Oguchi1993	Group2	12.0	all	disease	12.0	NA	renal disease (moderate)	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Oguchi1993	Group2	12.0	all	clearance	12.0	creatinine	NA	urine	NA	NA	NA	NA	30.0	70.0	ml/min	NA
+Oguchi1993	Group3	12.0	all	disease	12.0	NA	hypertension	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Oguchi1993	Group3	12.0	all	disease	12.0	NA	renal disease (end-stage)	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Oguchi1993	Group3	12.0	all	clearance	12.0	creatinine	NA	urine	NA	NA	NA	NA	NA	30.0	ml/min	NA
+Oguchi1993	Tem1	6.0	Group1	age	6.0	NA	NA	NA	45.5	NA	11.2676528168026	4.6	NA	NA	yr	NA
+Oguchi1993	Tem1	6.0	Group1	weight	6.0	NA	NA	NA	67.2	NA	11.5126017910809	4.7	NA	NA	kg	NA
+Oguchi1993	Tem1	6.0	Group1	clearance	6.0	creatinine	NA	urine	94.1	NA	22.7802546078836	9.3	NA	NA	ml/min/(1.73*m^2)	NA
+Oguchi1993	Tem2	6.0	Group2	age	6.0	NA	NA	NA	54.2	NA	16.9014792252039	6.9	NA	NA	yr	NA
+Oguchi1993	Tem2	6.0	Group2	weight	6.0	NA	NA	NA	67.3	NA	17.3913771737606	7.1	NA	NA	kg	NA
+Oguchi1993	Tem2	6.0	Group2	clearance	6.0	creatinine	NA	urine	49.8	NA	6.61362230551458	2.7	NA	NA	ml/min/(1.73*m^2)	NA
+Oguchi1993	Tem3	6.0	Group3	age	6.0	NA	NA	NA	55.8	NA	14.9418874309774	6.1	NA	NA	yr	NA
+Oguchi1993	Tem3	6.0	Group3	weight	6.0	NA	NA	NA	51.0	NA	5.87877538267963	2.4	NA	NA	kg	NA
+Oguchi1993	Tem3	6.0	Group3	clearance	6.0	creatinine	NA	urine	9.6	NA	6.12372435695795	2.5	NA	NA	ml/min/(1.73*m^2)	NA
+Oguchi1993	Ena1	6.0	Group1	age	6.0	NA	NA	NA	36.8	NA	12.2474487139159	5.0	NA	NA	yr	NA
+Oguchi1993	Ena1	6.0	Group1	weight	6.0	NA	NA	NA	62.0	NA	14.2070405081424	5.8	NA	NA	kg	NA
+Oguchi1993	Ena1	6.0	Group1	clearance	6.0	creatinine	NA	urine	109.1	NA	19.8408669165437	8.1	NA	NA	ml/min/(1.73*m^2)	NA
+Oguchi1993	Ena2	6.0	Group2	age	6.0	NA	NA	NA	46.0	NA	19.8408669165437	8.1	NA	NA	yr	NA
+Oguchi1993	Ena2	6.0	Group2	weight	6.0	NA	NA	NA	60.4	NA	18.3711730708738	7.5	NA	NA	kg	NA
+Oguchi1993	Ena2	6.0	Group2	clearance	6.0	creatinine	NA	urine	50.2	NA	7.83836717690617	3.2	NA	NA	ml/min/(1.73*m^2)	NA
+Oguchi1993	Ena3	6.0	Group3	age	6.0	NA	NA	NA	59.2	NA	12.4923976881942	5.1	NA	NA	yr	NA
+Oguchi1993	Ena3	6.0	Group3	weight	6.0	NA	NA	NA	56.0	NA	6.36867333123626	2.6	NA	NA	kg	NA
+Oguchi1993	Ena3	6.0	Group3	clearance	6.0	creatinine	NA	urine	10.3	NA	6.12372435695795	2.5	NA	NA	ml/min/(1.73*m^2)	NA

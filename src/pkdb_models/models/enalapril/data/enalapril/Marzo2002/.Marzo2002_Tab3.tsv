@@ -1,0 +1,25 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Marzo2002	NA	Group1	10.0	ZOF30	muliple_dosing_cmax	zofenopril	plasma	LC MS/MS	NA	NA	NA	NA	67.37	NA	15.57	4.92366631688217	NA	NA	ng/ml	NA
+Marzo2002	NA	Group1	10.0	ZOF30	tmax	zofenopril	plasma	LC MS/MS	NA	NA	NA	NA	0.82	NA	0.32	0.101192885125388	NA	NA	hr	NA
+Marzo2002	NA	Group1	10.0	ZOF30	auc_end	zofenopril	plasma	LC MS/MS	NA	168.0	hr	NA	94.13	NA	49.72	15.7228445263572	NA	NA	ng/ml*hr	NA
+Marzo2002	NA	Group2	10.0	ZOF60	muliple_dosing_cmax	zofenopril	plasma	LC MS/MS	NA	NA	NA	NA	105.66	NA	49.38	15.6153270859115	NA	NA	ng/ml	NA
+Marzo2002	NA	Group2	10.0	ZOF60	tmax	zofenopril	plasma	LC MS/MS	NA	NA	NA	NA	0.8	NA	0.29	0.091706052144883	NA	NA	hr	NA
+Marzo2002	NA	Group2	10.0	ZOF60	auc_end	zofenopril	plasma	LC MS/MS	NA	168.0	hr	NA	158.12	NA	88.51	27.9893195701503	NA	NA	ng/ml*hr	NA
+Marzo2002	NA	Group1	10.0	ZOF30	muliple_dosing_cmax	zofenoprilat	plasma	LC MS/MS	NA	NA	NA	NA	341.25	NA	109.29	34.5605325479802	NA	NA	ng/ml	NA
+Marzo2002	NA	Group1	10.0	ZOF30	tmax	zofenoprilat	plasma	LC MS/MS	NA	NA	NA	NA	0.95	NA	0.48	0.151789327688082	NA	NA	hr	NA
+Marzo2002	NA	Group1	10.0	ZOF30	auc_end	zofenoprilat	plasma	LC MS/MS	NA	168.0	hr	NA	475.77	NA	73.99	23.3976924075858	NA	NA	ng/ml*hr	NA
+Marzo2002	NA	Group2	10.0	ZOF60	muliple_dosing_cmax	zofenoprilat	plasma	LC MS/MS	NA	NA	NA	NA	767.21	NA	189.57	59.947297603812	NA	NA	ng/ml	NA
+Marzo2002	NA	Group2	10.0	ZOF60	tmax	zofenoprilat	plasma	LC MS/MS	NA	NA	NA	NA	0.85	NA	0.4	0.126491106406735	NA	NA	hr	NA
+Marzo2002	NA	Group2	10.0	ZOF60	auc_end	zofenoprilat	plasma	LC MS/MS	NA	168.0	hr	NA	1083.96	NA	150.47	47.5827919525536	NA	NA	ng/ml*hr	NA
+Marzo2002	NA	Group1	10.0	ENA10	muliple_dosing_cmax	enalapril	plasma	LC MS/MS	NA	NA	NA	NA	66.88	NA	16.72	5.28732824780153	NA	NA	ng/ml	NA
+Marzo2002	NA	Group1	10.0	ENA10	tmax	enalapril	plasma	LC MS/MS	NA	NA	NA	NA	0.9	NA	0.16	0.0505964425626941	NA	NA	hr	NA
+Marzo2002	NA	Group1	10.0	ENA10	auc_end	enalapril	plasma	LC MS/MS	NA	168.0	hr	NA	107.97	NA	28.18	8.91129844635449	NA	NA	ng/ml*hr	NA
+Marzo2002	NA	Group2	10.0	ENA20	muliple_dosing_cmax	enalapril	plasma	LC MS/MS	NA	NA	NA	NA	127.8	NA	73.11	23.119411973491	NA	NA	ng/ml	NA
+Marzo2002	NA	Group2	10.0	ENA20	tmax	enalapril	plasma	LC MS/MS	NA	NA	NA	NA	0.97	NA	0.32	0.101192885125388	NA	NA	hr	NA
+Marzo2002	NA	Group2	10.0	ENA20	auc_end	enalapril	plasma	LC MS/MS	NA	168.0	hr	NA	200.53	NA	111.11	35.1360670821309	NA	NA	ng/ml*hr	NA
+Marzo2002	NA	Group1	10.0	ENA10	muliple_dosing_cmax	enalaprilat	plasma	LC MS/MS	NA	NA	NA	NA	34.98	NA	10.25	3.24133460167259	NA	NA	ng/ml	NA
+Marzo2002	NA	Group1	10.0	ENA10	tmax	enalaprilat	plasma	LC MS/MS	NA	NA	NA	NA	3.6	NA	0.7	0.221359436211787	NA	NA	hr	NA
+Marzo2002	NA	Group1	10.0	ENA10	auc_end	enalaprilat	plasma	LC MS/MS	NA	168.0	hr	NA	292.54	NA	55.87	17.6676452873607	NA	NA	ng/ml*hr	NA
+Marzo2002	NA	Group2	10.0	ENA20	muliple_dosing_cmax	enalaprilat	plasma	LC MS/MS	NA	NA	NA	NA	62.78	NA	34.18	10.8086650424555	NA	NA	ng/ml	NA
+Marzo2002	NA	Group2	10.0	ENA20	tmax	enalaprilat	plasma	LC MS/MS	NA	NA	NA	NA	3.0	NA	0.82	0.259306768133807	NA	NA	hr	NA
+Marzo2002	NA	Group2	10.0	ENA20	auc_end	enalaprilat	plasma	LC MS/MS	NA	168.0	hr	NA	493.56	NA	255.15	80.6855144991962	NA	NA	ng/ml*hr	NA

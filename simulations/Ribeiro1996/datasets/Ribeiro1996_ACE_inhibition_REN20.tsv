@@ -1,0 +1,15 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Ribeiro1996		all	18.0	REN20	ACE inhibition		serum	enzymatic assay	ACE inhibition_REN20	0.0	hr		0.0818037449345468	1.35015450420049	5.38115653680033	1.26835075926594		percent	percent	dimensionless
+Ribeiro1996		all	18.0	REN20	ACE inhibition		serum	enzymatic assay	ACE inhibition_REN20	0.5	hr		44.6017318872581	41.0842441402155	14.9234366320466	3.51748774704262		percent	percent	dimensionless
+Ribeiro1996		all	18.0	REN20	ACE inhibition		serum	enzymatic assay	ACE inhibition_REN20	1.0	hr		75.4693148731243	72.3706278242661	13.1466157501355	3.09868704885824		percent	percent	dimensionless
+Ribeiro1996		all	18.0	REN20	ACE inhibition		serum	enzymatic assay	ACE inhibition_REN20	1.5	hr		84.0888824525415	81.6977554990941	10.1446925007634	2.39112695344737		percent	percent	dimensionless
+Ribeiro1996		all	18.0	REN20	ACE inhibition		serum	enzymatic assay	ACE inhibition_REN20	2.0	hr		86.5134656671848	83.9803487480667	10.7471049062805	2.53311691911806		percent	percent	dimensionless
+Ribeiro1996		all	18.0	REN20	ACE inhibition		serum	enzymatic assay	ACE inhibition_REN20	3.0	hr		90.0942813372053	88.6875252116825	5.96836077499727	1.40675612552279		percent	percent	dimensionless
+Ribeiro1996		all	18.0	REN20	ACE inhibition		serum	enzymatic assay	ACE inhibition_REN20	4.0	hr		91.1395903551653	89.8748241953132	5.3659483694802	1.26476615985212		percent	percent	dimensionless
+Ribeiro1996		all	18.0	REN20	ACE inhibition		serum	enzymatic assay	ACE inhibition_REN20	5.0	hr		90.2161577172761	89.0886020572096	4.78381352038992	1.12755566006653		percent	percent	dimensionless
+Ribeiro1996		all	18.0	REN20	ACE inhibition		serum	enzymatic assay	ACE inhibition_REN20	6.0	hr		88.5875547169186	87.3215936905952	5.37101775858687	1.26596102632338		percent	percent	dimensionless
+Ribeiro1996		all	18.0	REN20	ACE inhibition		serum	enzymatic assay	ACE inhibition_REN20	8.0	hr		86.5939200095844	85.0487585178048	6.55556501319428	1.54516149177965		percent	percent	dimensionless
+Ribeiro1996		all	18.0	REN20	ACE inhibition		serum	enzymatic assay	ACE inhibition_REN20	10.0	hr		83.0575135434132	81.0875770210927	8.35773284063896	1.96993652232044		percent	percent	dimensionless
+Ribeiro1996		all	18.0	REN20	ACE inhibition		serum	enzymatic assay	ACE inhibition_REN20	12.0	hr		78.2515614515047	75.5776494331872	11.3444479226909	2.67391201831747		percent	percent	dimensionless
+Ribeiro1996		all	18.0	REN20	ACE inhibition		serum	enzymatic assay	ACE inhibition_REN20	18.0	hr		60.7338232604497	55.8047999219991	20.9120749634708	4.92902333845055		percent	percent	dimensionless
+Ribeiro1996		all	18.0	REN20	ACE inhibition		serum	enzymatic assay	ACE inhibition_REN20	24.0	hr		47.8623233429751	41.2461485470742	28.0700523821822	6.61617479590088		percent	percent	dimensionless

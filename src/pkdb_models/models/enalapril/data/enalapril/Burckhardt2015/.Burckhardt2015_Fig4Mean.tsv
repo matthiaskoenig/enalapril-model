@@ -1,0 +1,33 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	median	mean_pm	sd	se	min	max	unit	comments
+Burckhardt2015	NA	enalapril	9.0	ENA20	recovery	enalapril	urine	HPLC MS/MS	ENA20_recovery_enalapril	0.0	hr	NA	0.0	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	recovery	enalapril	urine	HPLC MS/MS	ENA20_recovery_enalapril	2.0	hr	NA	8.86597938144329	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	recovery	enalapril	urine	HPLC MS/MS	ENA20_recovery_enalapril	4.0	hr	NA	15.721649484536	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	recovery	enalapril	urine	HPLC MS/MS	ENA20_recovery_enalapril	8.0	hr	NA	16.5979381443298	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	recovery	enalapril	urine	HPLC MS/MS	ENA20_recovery_enalapril	12.0	hr	NA	16.701030927835	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	recovery	enalapril	urine	HPLC MS/MS	ENA20_recovery_enalapril	24.0	hr	NA	16.9072164948453	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	recovery	enalapril	urine	HPLC MS/MS	ENA20_recovery_enalapril	48.0	hr	NA	17.0103092783505	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	recovery	enalapril	urine	HPLC MS/MS	ENA20_recovery_enalapril	72.0	hr	NA	17.0103092783505	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	recovery	enalaprilat	urine	HPLC MS/MS	ENA20_recovery_enalaprilat	0.0	hr	NA	0.0	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	recovery	enalaprilat	urine	HPLC MS/MS	ENA20_recovery_enalaprilat	2.0	hr	NA	1.48148148148148	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	recovery	enalaprilat	urine	HPLC MS/MS	ENA20_recovery_enalaprilat	4.0	hr	NA	8.14814814814816	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	recovery	enalaprilat	urine	HPLC MS/MS	ENA20_recovery_enalaprilat	8.0	hr	NA	17.4074074074074	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	recovery	enalaprilat	urine	HPLC MS/MS	ENA20_recovery_enalaprilat	12.0	hr	NA	20.1234567901234	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	recovery	enalaprilat	urine	HPLC MS/MS	ENA20_recovery_enalaprilat	24.0	hr	NA	25.5555555555555	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	recovery	enalaprilat	urine	HPLC MS/MS	ENA20_recovery_enalaprilat	48.0	hr	NA	26.9135802469135	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	recovery	enalaprilat	urine	HPLC MS/MS	ENA20_recovery_enalaprilat	72.0	hr	NA	27.4074074074074	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	cumulative amount	enalapril	urine	HPLC MS/MS	ENA20_cumulative amount_enalapril	0.0	hr	NA	0.0	NA	NA	0.0	0.0	NA	NA	mg	mean of the individual curves of Fig4
+Burckhardt2015	NA	enalapril	9.0	ENA20	cumulative amount	enalapril	urine	HPLC MS/MS	ENA20_cumulative amount_enalapril	2.0	hr	NA	2.1200466200466166	NA	NA	0.7924036628931616	0.26413455429772054	NA	NA	mg	mean of the individual curves of Fig4
+Burckhardt2015	NA	enalapril	9.0	ENA20	cumulative amount	enalapril	urine	HPLC MS/MS	ENA20_cumulative amount_enalapril	4.0	hr	NA	3.053923853923849	NA	NA	0.9816735073391498	0.3272245024463833	NA	NA	mg	mean of the individual curves of Fig4
+Burckhardt2015	NA	enalapril	9.0	ENA20	cumulative amount	enalapril	urine	HPLC MS/MS	ENA20_cumulative amount_enalapril	8.0	hr	NA	3.3168298368298332	NA	NA	1.112469971341379	0.3708233237804597	NA	NA	mg	mean of the individual curves of Fig4
+Burckhardt2015	NA	enalapril	9.0	ENA20	cumulative amount	enalapril	urine	HPLC MS/MS	ENA20_cumulative amount_enalapril	12.0	hr	NA	3.3572416472416413	NA	NA	1.1301840773068195	0.3767280257689398	NA	NA	mg	mean of the individual curves of Fig4
+Burckhardt2015	NA	enalapril	9.0	ENA20	cumulative amount	enalapril	urine	HPLC MS/MS	ENA20_cumulative amount_enalapril	24.0	hr	NA	3.392766122766119	NA	NA	1.136094355997452	0.3786981186658173	NA	NA	mg	mean of the individual curves of Fig4
+Burckhardt2015	NA	enalapril	9.0	ENA20	cumulative amount	enalapril	urine	HPLC MS/MS	ENA20_cumulative amount_enalapril	48.0	hr	NA	3.3985392385392355	NA	NA	1.1418721937059415	0.38062406456864717	NA	NA	mg	mean of the individual curves of Fig4
+Burckhardt2015	NA	enalapril	9.0	ENA20	cumulative amount	enalapril	urine	HPLC MS/MS	ENA20_cumulative amount_enalapril	72.0	hr	NA	3.407863247863243	NA	NA	1.1455499029140541	0.38184996763801804	NA	NA	mg	mean of the individual curves of Fig4
+Burckhardt2015	NA	enalapril	9.0	ENA20	cumulative amount	enalaprilat	urine	HPLC MS/MS	ENA20_cumulative amount_enalaprilat	0.0	hr	NA	0.0	NA	NA	0.0	0.0	NA	NA	mg	mean of the individual curves of Fig4
+Burckhardt2015	NA	enalapril	9.0	ENA20	cumulative amount	enalaprilat	urine	HPLC MS/MS	ENA20_cumulative amount_enalaprilat	2.0	hr	NA	0.291357309310859	NA	NA	0.18760175242521898	0.06253391747507299	NA	NA	mg	mean of the individual curves of Fig4
+Burckhardt2015	NA	enalapril	9.0	ENA20	cumulative amount	enalaprilat	urine	HPLC MS/MS	ENA20_cumulative amount_enalaprilat	4.0	hr	NA	1.0699516939316065	NA	NA	0.8560501383267911	0.2853500461089304	NA	NA	mg	mean of the individual curves of Fig4
+Burckhardt2015	NA	enalapril	9.0	ENA20	cumulative amount	enalaprilat	urine	HPLC MS/MS	ENA20_cumulative amount_enalaprilat	8.0	hr	NA	2.392315382648087	NA	NA	1.509204480673174	0.5030681602243913	NA	NA	mg	mean of the individual curves of Fig4
+Burckhardt2015	NA	enalapril	9.0	ENA20	cumulative amount	enalaprilat	urine	HPLC MS/MS	ENA20_cumulative amount_enalaprilat	12.0	hr	NA	2.977201896473709	NA	NA	1.660040845567637	0.5533469485225456	NA	NA	mg	mean of the individual curves of Fig4
+Burckhardt2015	NA	enalapril	9.0	ENA20	cumulative amount	enalaprilat	urine	HPLC MS/MS	ENA20_cumulative amount_enalaprilat	24.0	hr	NA	3.5379800873837266	NA	NA	1.7178673578311197	0.5726224526103733	NA	NA	mg	mean of the individual curves of Fig4
+Burckhardt2015	NA	enalapril	9.0	ENA20	cumulative amount	enalaprilat	urine	HPLC MS/MS	ENA20_cumulative amount_enalaprilat	48.0	hr	NA	3.7025920024036783	NA	NA	1.7306647820096628	0.5768882606698876	NA	NA	mg	mean of the individual curves of Fig4
+Burckhardt2015	NA	enalapril	9.0	ENA20	cumulative amount	enalaprilat	urine	HPLC MS/MS	ENA20_cumulative amount_enalaprilat	72.0	hr	NA	3.7596908125470603	NA	NA	1.731020300892537	0.577006766964179	NA	NA	mg	mean of the individual curves of Fig4

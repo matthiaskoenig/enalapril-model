@@ -1,0 +1,14 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Lees1987a	all	12.0	NA	species	12.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Lees1987a	all	12.0	NA	sex	4.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Lees1987a	all	12.0	NA	sex	8.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Lees1987a	all	12.0	NA	healthy	12.0	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Lees1987a	young	6.0	all	age	6.0	NA	NA	24.0	NA	4.0	1.6329931618554523	22.0	31.0	yr	NA
+Lees1987a	young	6.0	all	weight	6.0	NA	NA	68.0	NA	3.0	1.2247448713915892	NA	NA	kg	NA
+Lees1987a	young	6.0	all	clearance	6.0	creatinine	NA	124.0	NA	19.0	7.756717518813398	NA	NA	ml/min	NA
+Lees1987a	young	6.0	all	sex	6.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Lees1987a	elder	6.0	all	age	6.0	NA	NA	70.0	NA	5.0	2.041241452319315	65.0	78.0	yr	NA
+Lees1987a	elder	6.0	all	weight	6.0	NA	NA	65.0	NA	9.0	3.6742346141747673	NA	NA	kg	NA
+Lees1987a	elder	6.0	all	clearance	6.0	creatinine	NA	64.0	NA	12.0	4.898979485566357	NA	NA	ml/min	NA
+Lees1987a	elder	6.0	all	sex	4.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Lees1987a	elder	6.0	all	sex	2.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA

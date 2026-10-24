@@ -1,0 +1,10 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Sunaga1995		night	12.0	ENA5	blood pressure systolic			sphygmomanometer	night_ENA5_blood pressure systolic	0.0	hr		128.851963746224	143.655589123867	14.803625377643	4.27343854838229		mmHg	mmHg	dimensionless
+Sunaga1995		night	12.0	ENA5	blood pressure systolic			sphygmomanometer	night_ENA5_blood pressure systolic	0.5	hr		121.299093655589	133.987915407855	12.688821752266	3.66294732718498		mmHg	mmHg	dimensionless
+Sunaga1995		night	12.0	ENA5	blood pressure systolic			sphygmomanometer	night_ENA5_blood pressure systolic	1.0	hr		119.486404833837	134.29003021148	14.803625377643	4.27343854838228		mmHg	mmHg	dimensionless
+Sunaga1995		night	12.0	ENA5	blood pressure systolic			sphygmomanometer	night_ENA5_blood pressure systolic	2.0	hr		117.673716012085	132.779456193354	15.105740181269	4.36065157998211		mmHg	mmHg	dimensionless
+Sunaga1995		night	12.0	ENA5	blood pressure systolic			sphygmomanometer	night_ENA5_blood pressure systolic	4.0	hr		112.235649546828	124.018126888218	11.78247734139	3.40130823238609		mmHg	mmHg	dimensionless
+Sunaga1995		night	12.0	ENA5	blood pressure systolic			sphygmomanometer	night_ENA5_blood pressure systolic	6.0	hr		108.006042296073	120.694864048338	12.688821752265	3.66294732718469		mmHg	mmHg	dimensionless
+Sunaga1995		night	12.0	ENA5	blood pressure systolic			sphygmomanometer	night_ENA5_blood pressure systolic	8.0	hr		111.027190332326	123.111782477341	12.084592145015	3.48852126398562		mmHg	mmHg	dimensionless
+Sunaga1995		night	12.0	ENA5	blood pressure systolic			sphygmomanometer	night_ENA5_blood pressure systolic	12.0	hr		111.933534743202	124.018126888218	12.084592145016	3.48852126398591		mmHg	mmHg	dimensionless
+Sunaga1995		night	12.0	ENA5	blood pressure systolic			sphygmomanometer	night_ENA5_blood pressure systolic	24.0	hr		120.392749244713	132.779456193354	12.386706948641	3.57573429558545		mmHg	mmHg	dimensionless

@@ -1,0 +1,43 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Witte1993	NA	morning	8.0	NA	blood pressure systolic	NA	NA	sphygmomanometer	morning_NA_blood pressure systolic	0.0	hr	NA	154.8	NA	10.5	NA	NA	NA	mmHg	NA
+Witte1993	NA	morning	8.0	NA	blood pressure diastolic	NA	NA	sphygmomanometer	morning_NA_blood pressure diastolic	0.0	hr	NA	90.3	NA	3.6	NA	NA	NA	mmHg	NA
+Witte1993	NA	morning	8.0	NA	heart rate	NA	NA	electrocardiography	morning_NA_heart rate	0.0	hr	NA	75.5	NA	6.1	NA	NA	NA	1/min	NA
+Witte1993	NA	morning	8.0	ENAs10	blood pressure systolic	NA	NA	sphygmomanometer	morning_ENAs10_blood pressure systolic	0.0	hr	NA	137.4	NA	20.2	NA	NA	NA	mmHg	NA
+Witte1993	NA	morning	8.0	ENAs10	blood pressure diastolic	NA	NA	sphygmomanometer	morning_ENAs10_blood pressure diastolic	0.0	hr	NA	80.5	NA	9.4	NA	NA	NA	mmHg	NA
+Witte1993	NA	morning	8.0	ENAs10	heart rate	NA	NA	electrocardiography	morning_ENAs10_heart rate	0.0	hr	NA	71.4	NA	7.7	NA	NA	NA	1/min	NA
+Witte1993	NA	morning	8.0	ENAs10	blood pressure systolic	NA	NA	sphygmomanometer	morning_ENAs10_blood pressure systolic	12.0	hr	NA	135.9	NA	10.9	NA	NA	NA	mmHg	NA
+Witte1993	NA	morning	8.0	ENAs10	blood pressure diastolic	NA	NA	sphygmomanometer	morning_ENAs10_blood pressure diastolic	12.0	hr	NA	79.2	NA	6.5	NA	NA	NA	mmHg	NA
+Witte1993	NA	morning	8.0	ENAs10	heart rate	NA	NA	electrocardiography	morning_ENAs10_heart rate	12.0	hr	NA	77.1	NA	6.4	NA	NA	NA	1/min	NA
+Witte1993	NA	morning	8.0	ENAm10	blood pressure systolic	NA	NA	sphygmomanometer	morning_ENAm10_blood pressure systolic	480.0	hr	NA	136.3	NA	15.2	NA	NA	NA	mmHg	NA
+Witte1993	NA	morning	8.0	ENAm10	blood pressure diastolic	NA	NA	sphygmomanometer	morning_ENAm10_blood pressure diastolic	480.0	hr	NA	79.5	NA	6.9	NA	NA	NA	mmHg	NA
+Witte1993	NA	morning	8.0	ENAm10	heart rate	NA	NA	electrocardiography	morning_ENAm10_heart rate	480.0	hr	NA	72.3	NA	10.4	NA	NA	NA	1/min	NA
+Witte1993	NA	morning	8.0	ENAm10	blood pressure systolic	NA	NA	sphygmomanometer	morning_ENAm10_blood pressure systolic	492.0	hr	NA	139.4	NA	14.8	NA	NA	NA	mmHg	NA
+Witte1993	NA	morning	8.0	ENAm10	blood pressure diastolic	NA	NA	sphygmomanometer	morning_ENAm10_blood pressure diastolic	492.0	hr	NA	82.8	NA	7.0	NA	NA	NA	mmHg	NA
+Witte1993	NA	morning	8.0	ENAm10	heart rate	NA	NA	electrocardiography	morning_ENAm10_heart rate	492.0	hr	NA	73.0	NA	8.7	NA	NA	NA	1/min	NA
+Witte1993	NA	night	8.0	NA	blood pressure systolic	NA	NA	sphygmomanometer	night_NA_blood pressure systolic	0.0	hr	NA	129.4	NA	11.3	NA	NA	NA	mmHg	NA
+Witte1993	NA	night	8.0	NA	blood pressure diastolic	NA	NA	sphygmomanometer	night_NA_blood pressure diastolic	0.0	hr	NA	75.1	NA	8.3	NA	NA	NA	mmHg	NA
+Witte1993	NA	night	8.0	NA	heart rate	NA	NA	electrocardiography	night_NA_heart rate	0.0	hr	NA	65.8	NA	7.9	NA	NA	NA	1/min	NA
+Witte1993	NA	night	8.0	ENAs10	blood pressure systolic	NA	NA	sphygmomanometer	night_ENAs10_blood pressure systolic	0.0	hr	NA	120.9	NA	18.6	NA	NA	NA	mmHg	NA
+Witte1993	NA	night	8.0	ENAs10	blood pressure diastolic	NA	NA	sphygmomanometer	night_ENAs10_blood pressure diastolic	0.0	hr	NA	68.1	NA	10.7	NA	NA	NA	mmHg	NA
+Witte1993	NA	night	8.0	ENAs10	heart rate	NA	NA	electrocardiography	night_ENAs10_heart rate	0.0	hr	NA	64.1	NA	10.0	NA	NA	NA	1/min	NA
+Witte1993	NA	night	8.0	ENAs10	blood pressure systolic	NA	NA	sphygmomanometer	night_ENAs10_blood pressure systolic	12.0	hr	NA	110.2	NA	14.6	NA	NA	NA	mmHg	NA
+Witte1993	NA	night	8.0	ENAs10	blood pressure diastolic	NA	NA	sphygmomanometer	night_ENAs10_blood pressure diastolic	12.0	hr	NA	63.0	NA	9.1	NA	NA	NA	mmHg	NA
+Witte1993	NA	night	8.0	ENAs10	heart rate	NA	NA	electrocardiography	night_ENAs10_heart rate	12.0	hr	NA	63.7	NA	7.7	NA	NA	NA	1/min	NA
+Witte1993	NA	night	8.0	ENAm10	blood pressure systolic	NA	NA	sphygmomanometer	night_ENAm10_blood pressure systolic	492.0	hr	NA	120.0	NA	14.1	NA	NA	NA	mmHg	NA
+Witte1993	NA	night	8.0	ENAm10	blood pressure diastolic	NA	NA	sphygmomanometer	night_ENAm10_blood pressure diastolic	492.0	hr	NA	69.3	NA	9.2	NA	NA	NA	mmHg	NA
+Witte1993	NA	night	8.0	ENAm10	heart rate	NA	NA	electrocardiography	night_ENAm10_heart rate	492.0	hr	NA	69.4	NA	10.9	NA	NA	NA	1/min	NA
+Witte1993	NA	night	8.0	ENAm10	blood pressure systolic	NA	NA	sphygmomanometer	night_ENAm10_blood pressure systolic	480.0	hr	NA	114.4	NA	13.2	NA	NA	NA	mmHg	NA
+Witte1993	NA	night	8.0	ENAm10	blood pressure diastolic	NA	NA	sphygmomanometer	night_ENAm10_blood pressure diastolic	480.0	hr	NA	64.8	NA	7.8	NA	NA	NA	mmHg	NA
+Witte1993	NA	night	8.0	ENAm10	heart rate	NA	NA	electrocardiography	night_ENAm10_heart rate	480.0	hr	NA	62.6	NA	7.3	NA	NA	NA	1/min	NA
+Witte1993	NA	morning	8.0	NA	blood pressure systolic (change)	NA	NA	sphygmomanometer	morning_NA_blood pressure systolic (change)	12.0	hr	NA	-25.4	25.4	6.9	NA	NA	NA	mmHg	NA
+Witte1993	NA	morning	8.0	NA	blood pressure diastolic (change)	NA	NA	sphygmomanometer	morning_NA_blood pressure diastolic (change)	12.0	hr	NA	-15.3	15.3	5.3	NA	NA	NA	mmHg	NA
+Witte1993	NA	night	8.0	NA	blood pressure systolic (change)	NA	NA	sphygmomanometer	night_NA_blood pressure systolic (change)	12.0	hr	NA	NA	NA	NA	NA	NA	NA	mmHg	NA
+Witte1993	NA	night	8.0	NA	blood pressure diastolic (change)	NA	NA	sphygmomanometer	night_NA_blood pressure diastolic (change)	12.0	hr	NA	NA	NA	NA	NA	NA	NA	mmHg	NA
+Witte1993	NA	morning	8.0	ENAs10	blood pressure systolic (change)	NA	NA	sphygmomanometer	morning_ENAs10_blood pressure systolic (change)	12.0	hr	NA	-16.4	16.4	8.3	NA	NA	NA	mmHg	NA
+Witte1993	NA	morning	8.0	ENAs10	blood pressure diastolic (change)	NA	NA	sphygmomanometer	morning_ENAs10_blood pressure diastolic (change)	12.0	hr	NA	-12.4	12.4	6.8	NA	NA	NA	mmHg	NA
+Witte1993	NA	night	8.0	ENAs10	blood pressure systolic (change)	NA	NA	sphygmomanometer	night_ENAs10_blood pressure systolic (change)	24.0	hr	NA	-25.7	25.7	12.9	NA	NA	NA	mmHg	NA
+Witte1993	NA	night	8.0	ENAs10	blood pressure diastolic (change)	NA	NA	sphygmomanometer	night_ENAs10_blood pressure diastolic (change)	24.0	hr	NA	-16.2	16.2	8.9	NA	NA	NA	mmHg	NA
+Witte1993	NA	morning	8.0	ENAm10	blood pressure systolic (change)	NA	NA	sphygmomanometer	morning_ENAm10_blood pressure systolic (change)	492.0	hr	NA	-16.2	16.2	5.1	NA	NA	NA	mmHg	NA
+Witte1993	NA	morning	8.0	ENAm10	blood pressure diastolic (change)	NA	NA	sphygmomanometer	morning_ENAm10_blood pressure diastolic (change)	492.0	hr	NA	-10.2	10.2	5.5	NA	NA	NA	mmHg	NA
+Witte1993	NA	night	8.0	ENAm10	blood pressure systolic (change)	NA	NA	sphygmomanometer	night_ENAm10_blood pressure systolic (change)	504.0	hr	NA	-25.0	25.0	10.9	NA	NA	NA	mmHg	NA
+Witte1993	NA	night	8.0	ENAm10	blood pressure diastolic (change)	NA	NA	sphygmomanometer	night_ENAm10_blood pressure diastolic (change)	504.0	hr	NA	-18.0	18.0	7.7	NA	NA	NA	mmHg	NA

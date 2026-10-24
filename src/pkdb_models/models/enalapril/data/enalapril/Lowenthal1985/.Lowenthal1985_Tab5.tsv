@@ -1,0 +1,11 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	median	mean_pm	sd	se	min	max	unit	comments
+Lowenthal1985	NA	II	9.0	ENA10	excretion rate	enalaprilat	urine	RIA	II_excretion rate_enalaprilat	4.0	hr	NA	55.0	NA	NA	NA	NA	NA	NA	mg/hr	NA
+Lowenthal1985	NA	II	9.0	ENA10	excretion rate	enalaprilat	urine	RIA	II_excretion rate_enalaprilat	8.0	hr	NA	112.0	NA	NA	NA	NA	NA	NA	mg/hr	NA
+Lowenthal1985	NA	II	9.0	ENA10	excretion rate	enalaprilat	urine	RIA	II_excretion rate_enalaprilat	12.0	hr	NA	80.0	NA	NA	NA	NA	NA	NA	mg/hr	NA
+Lowenthal1985	NA	II	9.0	ENA10	excretion rate	enalaprilat	urine	RIA	II_excretion rate_enalaprilat	24.0	hr	NA	63.0	NA	NA	NA	NA	NA	NA	mg/hr	NA
+Lowenthal1985	NA	II	9.0	ENA10	excretion rate	enalaprilat	urine	RIA	II_excretion rate_enalaprilat	48.0	hr	NA	17.0	NA	NA	NA	NA	NA	NA	mg/hr	NA
+Lowenthal1985	NA	III	9.0	ENA10	excretion rate	enalaprilat	urine	RIA	III_excretion rate_enalaprilat	4.0	hr	NA	186.0	NA	NA	NA	NA	NA	NA	mg/hr	NA
+Lowenthal1985	NA	III	9.0	ENA10	excretion rate	enalaprilat	urine	RIA	III_excretion rate_enalaprilat	8.0	hr	NA	228.0	NA	NA	NA	NA	NA	NA	mg/hr	NA
+Lowenthal1985	NA	III	9.0	ENA10	excretion rate	enalaprilat	urine	RIA	III_excretion rate_enalaprilat	12.0	hr	NA	122.0	NA	NA	NA	NA	NA	NA	mg/hr	NA
+Lowenthal1985	NA	III	9.0	ENA10	excretion rate	enalaprilat	urine	RIA	III_excretion rate_enalaprilat	24.0	hr	NA	39.0	NA	NA	NA	NA	NA	NA	mg/hr	NA
+Lowenthal1985	NA	III	9.0	ENA10	excretion rate	enalaprilat	urine	RIA	III_excretion rate_enalaprilat	48.0	hr	NA	6.8	NA	NA	NA	NA	NA	NA	mg/hr	NA

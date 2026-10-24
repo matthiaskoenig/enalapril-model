@@ -1,0 +1,2 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	min	max	comments	mean_unit	value_unit	count_unit
+Fruncillo1987		Group1	6.0	ENA5s	recovery	enalaprilat	urine	enzymatic assay	Group1_recovery_enalaprilat	48.0	hr		2.923745667425149e-06		1.0050375731773949e-06					count*mole	percent	dimensionless

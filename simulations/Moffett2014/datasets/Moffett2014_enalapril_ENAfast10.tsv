@@ -1,0 +1,12 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Moffett2014		all	48.0	ENAfast10	concentration	enalapril	plasma	LC MS/MS	enalapril_ENAfast10	0.0	hr		0.0					mole/meter^3	ng/ml	dimensionless
+Moffett2014		all	48.0	ENAfast10	concentration	enalapril	plasma	LC MS/MS	enalapril_ENAfast10	0.5	hr		0.00011156957943847031	48.3965517241379	0.000117723466078456	1.6991918707583092e-05		mole/meter^3	ng/ml	dimensionless
+Moffett2014		all	48.0	ENAfast10	concentration	enalapril	plasma	LC MS/MS	enalapril_ENAfast10	0.75	hr		0.00014266799669574497	59.7413793103448	0.00011105987365892118	1.6030111988285992e-05		mole/meter^3	ng/ml	dimensionless
+Moffett2014		all	48.0	ENAfast10	concentration	enalapril	plasma	LC MS/MS	enalapril_ENAfast10	1.0	hr		0.00013593534966066512	56.9655172413793	0.00010661747871256408	1.538890750875452e-05		mole/meter^3	ng/ml	dimensionless
+Moffett2014		all	48.0	ENAfast10	concentration	enalapril	plasma	LC MS/MS	enalapril_ENAfast10	1.5	hr		9.16922405729956e-05	40.9137931034483	0.00011772346607845653	1.6991918707583147e-05		mole/meter^3	ng/ml	dimensionless
+Moffett2014		all	48.0	ENAfast10	concentration	enalapril	plasma	LC MS/MS	enalapril_ENAfast10	2.0	hr		5.8990812116892245e-05	28.4827586206897	0.00011550226860527799	1.667131646781741e-05		mole/meter^3	ng/ml	dimensionless
+Moffett2014		all	48.0	ENAfast10	concentration	enalapril	plasma	LC MS/MS	enalapril_ENAfast10	2.5	hr		3.751046205258912e-05	20.2758620689655	0.00011328107113209944	1.6350714228051675e-05		mole/meter^3	ng/ml	dimensionless
+Moffett2014		all	48.0	ENAfast10	concentration	enalapril	plasma	LC MS/MS	enalapril_ENAfast10	3.0	hr		2.3724565742663222e-05	15.5689655172414	0.0001221658610248131	1.7633123187114564e-05		mole/meter^3	ng/ml	dimensionless
+Moffett2014		all	48.0	ENAfast10	concentration	enalapril	plasma	LC MS/MS	enalapril_ENAfast10	4.0	hr		1.1541680631565877e-05	10.8620689655172	0.0001199446635516348	1.7312520947348854e-05		mole/meter^3	ng/ml	dimensionless
+Moffett2014		all	48.0	ENAfast10	concentration	enalapril	plasma	LC MS/MS	enalapril_ENAfast10	6.0	hr		3.847226877188643e-06	5.31034482758621	7.10783191417093e-05	1.0259271672503014e-05		mole/meter^3	ng/ml	dimensionless
+Moffett2014		all	48.0	ENAfast10	concentration	enalapril	plasma	LC MS/MS	enalapril_ENAfast10	8.0	hr		1.6030111988286207e-06	3.98275862068965	6.219352924899541e-05	8.976862713440096e-06		mole/meter^3	ng/ml	dimensionless

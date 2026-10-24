@@ -1,0 +1,6 @@
+# the results of the simulations, fits and analyses, regenerated
+/results/
+# the COMBINE archives, created by the factory
+*.omex
+# the draft of the manuscript
+/manuscript/enalapril_draft.pdf

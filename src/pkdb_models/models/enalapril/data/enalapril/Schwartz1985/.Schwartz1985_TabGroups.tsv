@@ -1,0 +1,17 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Schwartz1985	all	13.0	NA	species	13.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Schwartz1985	all	13.0	NA	sex	8.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Schwartz1985	all	13.0	NA	sex	5.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Schwartz1985	all	13.0	NA	healthy	13.0	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Schwartz1985	CHF	8.0	all	disease	8.0	NA	congestive heart failure	NA	NA	NA	NA	NA	NA	NA	NA
+Schwartz1985	CHF	8.0	all	sex	4.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Schwartz1985	CHF	8.0	all	sex	4.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Schwartz1985	CHF	8.0	all	age	8.0	NA	NA	53.4	NA	8.6	3.04055915910215	43.0	66.0	yr	NA
+Schwartz1985	CHF	8.0	all	weight	8.0	NA	NA	77.8	NA	23.8	8.41457069611992	45.0	110.0	kg	NA
+Schwartz1985	CHF	8.0	all	renin activity	8.0	NA	NA	3.43	NA	6.0	NA	0.6	11.4	ng/ml/hr	NA
+Schwartz1985	HT	5.0	all	disease	5.0	NA	hypertension	NA	NA	NA	NA	NA	NA	NA	NA
+Schwartz1985	HT	5.0	all	sex	4.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Schwartz1985	HT	5.0	all	ethnicity	4.0	NA	caucasian	NA	NA	NA	NA	NA	NA	NA	NA
+Schwartz1985	HT	5.0	all	sex	1.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Schwartz1985	HT	5.0	all	age	5.0	NA	NA	52.3	NA	13.0	5.81377674149945	34.0	64.0	yr	NA
+Schwartz1985	HT	5.0	all	weight	5.0	NA	NA	96.8	NA	21.1	9.43620686504911	64.5	121.8	kg	NA

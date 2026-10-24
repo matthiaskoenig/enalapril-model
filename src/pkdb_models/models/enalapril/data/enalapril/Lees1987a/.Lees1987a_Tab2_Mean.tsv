@@ -1,0 +1,9 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Lees1987a	NA	young	6.0	ENA10	vd_ss	enalaprilat	serum	RIA	NA	1.0	days	NA	195.0	NA	90.0	NA	NA	NA	l	NA
+Lees1987a	NA	young	6.0	ENA10	vd_ss	enalaprilat	serum	RIA	NA	8.0	days	NA	113.0	NA	48.0	NA	NA	NA	l	NA
+Lees1987a	NA	young	6.0	ENA10	tmax	enalaprilat	serum	RIA	NA	1.0	days	NA	4.4	NA	1.6	NA	NA	NA	hr	NA
+Lees1987a	NA	young	6.0	ENA10	tmax	enalaprilat	serum	RIA	NA	8.0	days	NA	3.0	NA	1.6	NA	NA	NA	hr	NA
+Lees1987a	NA	elder	6.0	ENA10	vd_ss	enalaprilat	serum	RIA	NA	1.0	days	NA	131.0	NA	57.0	NA	NA	NA	l	NA
+Lees1987a	NA	elder	6.0	ENA10	vd_ss	enalaprilat	serum	RIA	NA	8.0	days	NA	127.0	NA	38.0	NA	NA	NA	l	NA
+Lees1987a	NA	elder	6.0	ENA10	tmax	enalaprilat	serum	RIA	NA	1.0	days	NA	4.3	NA	2.1	NA	NA	NA	hr	NA
+Lees1987a	NA	elder	6.0	ENA10	tmax	enalaprilat	serum	RIA	NA	8.0	days	NA	3.1	NA	0.8	NA	NA	NA	hr	NA

@@ -1,0 +1,14 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Burckhardt2015		enalapril	9.0	ENA20	concentration	angiotensin I	plasma	RIA	ENA20_angiotensin I	0.0	hr		1.0	0.43195201144681666	0.14398400381560536		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	concentration	angiotensin I	plasma	RIA	ENA20_angiotensin I	0.5	hr		1.0167849870673038	0.2937647900500842	0.09792159668336142		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	concentration	angiotensin I	plasma	RIA	ENA20_angiotensin I	1.0	hr		1.0854108194375638	0.3801661988883437	0.12672206629611446		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	concentration	angiotensin I	plasma	RIA	ENA20_angiotensin I	2.0	hr		1.2226624841780915	0.4666226404710785	0.1555408801570259		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	concentration	angiotensin I	plasma	RIA	ENA20_angiotensin I	3.0	hr		1.4463705905013544	0.6220901436354664	0.20736338121182216		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	concentration	angiotensin I	plasma	RIA	ENA20_angiotensin I	4.0	hr		1.4453800011006588	0.6221451763799497	0.20738172545998318		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	concentration	angiotensin I	plasma	RIA	ENA20_angiotensin I	5.0	hr		3.224313466512589	2.7821253645919453	0.9273751215306485		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	concentration	angiotensin I	plasma	RIA	ENA20_angiotensin I	6.0	hr		3.016014528644554	2.142699906444345	0.7142333021481149		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	concentration	angiotensin I	plasma	RIA	ENA20_angiotensin I	7.0	hr		2.341092950305436	1.4687689175059249	0.4895896391686416		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	concentration	angiotensin I	plasma	RIA	ENA20_angiotensin I	8.0	hr		1.8563095041549806	1.088657751362054	0.3628859171206844		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	concentration	angiotensin I	plasma	RIA	ENA20_angiotensin I	24.0	hr		1.7009520664795565	1.572505640856302	0.5241685469521006		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	concentration	angiotensin I	plasma	RIA	ENA20_angiotensin I	48.0	hr		1.1614110395685464	0.43200704419129726	0.14400234806376558		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	concentration	angiotensin I	plasma	RIA	ENA20_angiotensin I	72.0	hr		1.1057729348962704	0.4146717296791559	0.13822390989305178		dimensionless	dimensionless	dimensionless

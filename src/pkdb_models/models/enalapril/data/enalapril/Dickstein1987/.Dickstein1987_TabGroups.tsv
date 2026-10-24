@@ -1,0 +1,13 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Dickstein1987	all	22.0	NA	species	22.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Dickstein1987	all	22.0	NA	sex	12.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Dickstein1987	all	22.0	NA	sex	10.0	NA	NR	NA	NA	NA	NA	NA	NA	NA	NA
+Dickstein1987	all	22.0	NA	healthy	10.0	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Dickstein1987	all	22.0	NA	healthy	12.0	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Dickstein1987	all	22.0	NA	overnight fast	22.0	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Dickstein1987	normal	10.0	all	healthy	10.0	NA	Y	NA	NA	NA	NA	NA	NA	NA	Group count taken as 10 based on Fig3; ulm1982 & till1984 mention 12 subjects each; 
+Dickstein1987	normal	10.0	all	sex	10.0	NA	NR	NA	NA	NA	NA	NA	NA	NA	ulm1983 has data on dogs; can’t find irvin1984 on internet
+Dickstein1987	CHF	12.0	all	healthy	12.0	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Dickstein1987	CHF	12.0	all	disease	12.0	NA	congestive heart failure	NA	NA	NA	NA	NA	NA	NA	Three patients were considered to be in N.Y.H.A. Functional Class II, six patients in Class III and three patients in Class IV
+Dickstein1987	CHF	12.0	all	sex	12.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Dickstein1987	CHF	12.0	all	age	12.0	NA	NA	66.0	NA	NA	NA	52.0	74.0	yr	NA

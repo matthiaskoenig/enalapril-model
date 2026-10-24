@@ -1,0 +1,4 @@
+study	name	time	time_end	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+Kelly1986	ENA10S	0	NA	hr	oral	single dose	dosing	NR	enalapril maleate	10.0	mg	NA
+Kelly1986	ENA10M	S0T24R7	216.0	hr	oral	multiple dose	dosing	NR	enalapril maleate	10.0	mg	NA
+Kelly1986	ENA2.5M	S0T24R7	336.0	hr	oral	multiple dose	dosing	NR	enalapril maleate	2.5	mg	NA

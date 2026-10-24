@@ -1,0 +1,10 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Sunaga1995		day	12.0	ENA5	concentration	enalaprilat	serum	RIA	day_ENA5_enalaprilat	0.0	hr		3.17872717069398e-07	0.253510509091125	4.0978275390115093e-07	1.1829409163704788e-07		mole/meter^3	ng/ml	dimensionless
+Sunaga1995		day	12.0	ENA5	concentration	enalaprilat	serum	RIA	day_ENA5_enalaprilat	0.5	hr		1.0842705354040113e-06	0.704279620200907	9.372350841048057e-07	2.705564640509355e-07		mole/meter^3	ng/ml	dimensionless
+Sunaga1995		day	12.0	ENA5	concentration	enalaprilat	serum	RIA	day_ENA5_enalaprilat	1.0	hr		3.0247881628166824e-06	1.93126761237518	2.5185616931369866e-06	7.270461357516586e-07		mole/meter^3	ng/ml	dimensionless
+Sunaga1995		day	12.0	ENA5	concentration	enalaprilat	serum	RIA	day_ENA5_enalaprilat	2.0	hr		1.2702904737382922e-05	7.32344547418048	8.317703776035465e-06	2.4011142570668234e-06		mole/meter^3	ng/ml	dimensionless
+Sunaga1995		day	12.0	ENA5	concentration	enalaprilat	serum	RIA	day_ENA5_enalaprilat	4.0	hr		4.570710860800227e-05	21.945028449034	1.728207503094517e-05	4.988905335635758e-06		mole/meter^3	ng/ml	dimensionless
+Sunaga1995		day	12.0	ENA5	concentration	enalaprilat	serum	RIA	day_ENA5_enalaprilat	6.0	hr		4.836781143993891e-05	22.2794526776793	1.55812756778477e-05	4.497926853461573e-06		mole/meter^3	ng/ml	dimensionless
+Sunaga1995		day	12.0	ENA5	concentration	enalaprilat	serum	RIA	day_ENA5_enalaprilat	8.0	hr		3.468444711121933e-05	15.9207974105695	1.1013285024415488e-05	3.179261536754177e-06		mole/meter^3	ng/ml	dimensionless
+Sunaga1995		day	12.0	ENA5	concentration	enalaprilat	serum	RIA	day_ENA5_enalaprilat	12.0	hr		1.6105585344235944e-05	7.40715922484609	5.155308153365877e-06	1.4882092750506296e-06		mole/meter^3	ng/ml	dimensionless
+Sunaga1995		day	12.0	ENA5	concentration	enalaprilat	serum	RIA	day_ENA5_enalaprilat	24.0	hr		3.5388455324955743e-06	1.86564637042976	1.816150570847771e-06	5.242775104839268e-07		mole/meter^3	ng/ml	dimensionless

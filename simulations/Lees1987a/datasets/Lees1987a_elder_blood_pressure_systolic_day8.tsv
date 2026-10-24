@@ -1,0 +1,10 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Lees1987a		elder	6.0	ENA10	blood pressure systolic			sphygmomanometer	elder_blood pressure systolic	168.23961539589	hr		159.044377021468	177.184089154672	18.1397121332043	7.40550646788726		mmHg	mmHg	dimensionless
+Lees1987a		elder	6.0	ENA10	blood pressure systolic			sphygmomanometer	elder_blood pressure systolic	169.101925951983	hr		162.963215391981					mmHg	mmHg	dimensionless
+Lees1987a		elder	6.0	ENA10	blood pressure systolic			sphygmomanometer	elder_blood pressure systolic	170.210125172222	hr		158.347624072934					mmHg	mmHg	dimensionless
+Lees1987a		elder	6.0	ENA10	blood pressure systolic			sphygmomanometer	elder_blood pressure systolic	172.163749890071	hr		144.846368442138					mmHg	mmHg	dimensionless
+Lees1987a		elder	6.0	ENA10	blood pressure systolic			sphygmomanometer	elder_blood pressure systolic	174.136604813414	hr		145.928018643919	169.048529885967	23.1205112420484	9.4389091892168		mmHg	mmHg	dimensionless
+Lees1987a		elder	6.0	ENA10	blood pressure systolic			sphygmomanometer	elder_blood pressure systolic	176.021868495881	hr		145.586311181465					mmHg	mmHg	dimensionless
+Lees1987a		elder	6.0	ENA10	blood pressure systolic			sphygmomanometer	elder_blood pressure systolic	178.072465042652	hr		140.62202581616					mmHg	mmHg	dimensionless
+Lees1987a		elder	6.0	ENA10	blood pressure systolic			sphygmomanometer	elder_blood pressure systolic	180.220033418345	hr		144.194710716345					mmHg	mmHg	dimensionless
+Lees1987a		elder	6.0	ENA10	blood pressure systolic			sphygmomanometer	elder_blood pressure systolic	192.398147333861	hr		149.264429982704					mmHg	mmHg	dimensionless

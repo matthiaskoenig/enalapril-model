@@ -1,0 +1,7 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+He2014	NA	all	35.0	ENA40	auc_end	enalapril	plasma	LC MS/MS	NA	144.0	hr	NA	297.2	NA	NA	NA	NA	NA	ng/ml*hr	NA
+He2014	NA	all	35.0	ENA40	auc_inf	enalapril	plasma	LC MS/MS	NA	NA	NA	NA	302.1	NA	NA	NA	NA	NA	ng/ml*hr	NA
+He2014	NA	all	35.0	ENA40	cmax	enalapril	plasma	LC MS/MS	NA	NA	NA	NA	147.1	NA	NA	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	auc_end	enalaprilat	plasma	LC MS/MS	NA	144.0	hr	NA	1036.0	NA	NA	NA	NA	NA	ng/ml*hr	NA
+He2014	NA	all	35.0	ENA40	auc_inf	enalaprilat	plasma	LC MS/MS	NA	NA	NA	NA	1068.0	NA	NA	NA	NA	NA	ng/ml*hr	NA
+He2014	NA	all	35.0	ENA40	cmax	enalaprilat	plasma	LC MS/MS	NA	NA	NA	NA	104.1	NA	NA	NA	NA	NA	ng/ml	NA

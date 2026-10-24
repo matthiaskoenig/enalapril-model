@@ -1,0 +1,15 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Shionoiri1985	all	13.0	NA	species	13.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Shionoiri1985	all	13.0	NA	healthy	13.0	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Shionoiri1985	all	13.0	NA	disease	13.0	NA	hypertension	NA	NA	NA	NA	NA	NA	NA	essential hypertension
+Shionoiri1985	all	13.0	NA	sex	10.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Shionoiri1985	all	13.0	NA	sex	3.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Shionoiri1985	all	13.0	NA	age	13.0	NA	NA	45.6	NA	NA	NA	20.0	67.0	yr	NA
+Shionoiri1985	all	13.0	NA	medication	13.0	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Shionoiri1985	all	13.0	NA	blood pressure systolic	13.0	NA	NA	175.4	NA	NA	7.2	NA	NA	mmHg	NA
+Shionoiri1985	all	13.0	NA	blood pressure diastolic	13.0	NA	NA	111.3	NA	NA	5.0	NA	NA	mmHg	NA
+Shionoiri1985	all	13.0	NA	MAP	13.0	NA	NA	132.6	NA	NA	5.5	NA	NA	mmHg	NA
+Shionoiri1985	all	13.0	NA	renin activity	13.0	NA	NA	2.2	NA	NA	0.4	NA	NA	ng/ml/hr	NA
+Shionoiri1985	all	13.0	NA	concentration	13.0	creatinine	NA	1.2	NA	NA	0.1	NA	NA	mg/dl	serum creatinine?
+Shionoiri1985	all	13.0	NA	concentration	13.0	got	NA	20.4	NA	NA	1.5	NA	NA	mIU/ml	NA
+Shionoiri1985	all	13.0	NA	concentration	13.0	alt	NA	12.4	NA	NA	2.0	NA	NA	mIU/ml	NA

@@ -1,0 +1,13 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Donnelly1990		all	13.0	ENAm20	blood pressure diastolic			sphygmomanometer	ENAm20_blood pressure diastolic	1008.0	hr		92.0995883275293	81.463287154762	10.636301172767304	2.9499791738223293	error bar is SD (Fig1 caption)	mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAm20	blood pressure diastolic			sphygmomanometer	ENAm20_blood pressure diastolic	1008.5	hr		88.9231916655412					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAm20	blood pressure diastolic			sphygmomanometer	ENAm20_blood pressure diastolic	1009.0	hr		86.1104292316819					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAm20	blood pressure diastolic			sphygmomanometer	ENAm20_blood pressure diastolic	1009.5	hr		86.1170065949814					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAm20	blood pressure diastolic			sphygmomanometer	ENAm20_blood pressure diastolic	1010.5	hr		83.3096469952609	72.6731109166615	10.636536078599406	2.95004432497791	error bar is SD (Fig1 caption)	mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAm20	blood pressure diastolic			sphygmomanometer	ENAm20_blood pressure diastolic	1011.5	hr		82.2293150733201					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAm20	blood pressure diastolic			sphygmomanometer	ENAm20_blood pressure diastolic	1012.0	hr		84.1442674167994					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAm20	blood pressure diastolic			sphygmomanometer	ENAm20_blood pressure diastolic	1013.0	hr		77.9742308302161					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAm20	blood pressure diastolic			sphygmomanometer	ENAm20_blood pressure diastolic	1014.0	hr		77.0759509281718	66.5303234066046	10.545627521567212	2.924830827765754	error bar is SD (Fig1 caption)	mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAm20	blood pressure diastolic			sphygmomanometer	ENAm20_blood pressure diastolic	1015.0	hr		74.9963295963732					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAm20	blood pressure diastolic			sphygmomanometer	ENAm20_blood pressure diastolic	1016.0	hr		79.0082863032284					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAm20	blood pressure diastolic			sphygmomanometer	ENAm20_blood pressure diastolic	1032.0	hr		92.1453949647936					mmHg	mmHg	dimensionless

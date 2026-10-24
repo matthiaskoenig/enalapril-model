@@ -1,0 +1,47 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Donnelly1990	P3	NA	NA	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	blood pressure systolic (change)	0.0	hr	-3.10634224527507	NA	NA	NA	NA	mmHg	erect position
+Donnelly1990	P3	NA	NA	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	blood pressure systolic (change)	0.5	hr	-5.2665791055409	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	blood pressure systolic (change)	1.0	hr	-19.5476503194499	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	blood pressure systolic (change)	1.5	hr	-22.5177533892837	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	blood pressure systolic (change)	2.5	hr	-37.8816143897068	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	blood pressure systolic (change)	3.5	hr	-36.815743193607	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	blood pressure systolic (change)	4.0	hr	-40.8610672068748	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	blood pressure systolic (change)	5.0	hr	-44.6441530687212	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	blood pressure systolic (change)	6.0	hr	-43.8476436410592	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	blood pressure systolic (change)	7.0	hr	-39.0098172347014	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	blood pressure systolic (change)	8.0	hr	-38.4835600276045	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAs20	blood pressure systolic (change)	NA	NA	sphygmomanometer	blood pressure systolic (change)	12.0	hr	-28.2914449811895	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	blood pressure systolic (change)	0.0	hr	-13.6101155361636	NA	NA	NA	NA	mmHg	erect position
+Donnelly1990	P3	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	blood pressure systolic (change)	0.5	hr	-24.3921551167608	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	blood pressure systolic (change)	1.0	hr	-22.7813272188957	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	blood pressure systolic (change)	1.5	hr	-27.6347365374772	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	blood pressure systolic (change)	2.5	hr	-33.8411878631379	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	blood pressure systolic (change)	3.5	hr	-35.7374056677282	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	blood pressure systolic (change)	4.0	hr	-43.824046659692	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	blood pressure systolic (change)	5.0	hr	-40.3334743215873	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	blood pressure systolic (change)	6.0	hr	-45.4647047038139	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	blood pressure systolic (change)	7.0	hr	-41.4345183767063	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	blood pressure systolic (change)	8.0	hr	-36.8673894169769	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAm20	blood pressure systolic (change)	NA	NA	sphygmomanometer	blood pressure systolic (change)	12.0	hr	-31.7931479708826	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAs20	blood pressure diastolic (change)	NA	NA	sphygmomanometer	blood pressure diastolic (change)	0.0	hr	-5.07047060027988	NA	NA	NA	NA	mmHg	erect position
+Donnelly1990	P3	NA	NA	ENAs20	blood pressure diastolic (change)	NA	NA	sphygmomanometer	blood pressure diastolic (change)	0.5	hr	-7.87086646418463	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAs20	blood pressure diastolic (change)	NA	NA	sphygmomanometer	blood pressure diastolic (change)	1.0	hr	-13.8825376241342	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAs20	blood pressure diastolic (change)	NA	NA	sphygmomanometer	blood pressure diastolic (change)	1.5	hr	-12.80414974576	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAs20	blood pressure diastolic (change)	NA	NA	sphygmomanometer	blood pressure diastolic (change)	2.5	hr	-15.1957137494456	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAs20	blood pressure diastolic (change)	NA	NA	sphygmomanometer	blood pressure diastolic (change)	3.5	hr	-17.0508139098388	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAs20	blood pressure diastolic (change)	NA	NA	sphygmomanometer	blood pressure diastolic (change)	4.0	hr	-17.979046514009	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAs20	blood pressure diastolic (change)	NA	NA	sphygmomanometer	blood pressure diastolic (change)	5.0	hr	-16.0884551069858	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAs20	blood pressure diastolic (change)	NA	NA	sphygmomanometer	blood pressure diastolic (change)	6.0	hr	-15.270108862574	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAs20	blood pressure diastolic (change)	NA	NA	sphygmomanometer	blood pressure diastolic (change)	7.0	hr	-18.0616319148212	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAs20	blood pressure diastolic (change)	NA	NA	sphygmomanometer	blood pressure diastolic (change)	8.0	hr	-15.5035320615638	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAs20	blood pressure diastolic (change)	NA	NA	sphygmomanometer	blood pressure diastolic (change)	12.0	hr	-15.1704603624204	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAm20	blood pressure diastolic (change)	NA	NA	sphygmomanometer	blood pressure diastolic (change)	0.0	hr	-13.7658260246393	NA	NA	NA	NA	mmHg	erect position
+Donnelly1990	P3	NA	NA	ENAm20	blood pressure diastolic (change)	NA	NA	sphygmomanometer	blood pressure diastolic (change)	0.5	hr	-13.890727911818	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAm20	blood pressure diastolic (change)	NA	NA	sphygmomanometer	blood pressure diastolic (change)	1.0	hr	-17.093812920179	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAm20	blood pressure diastolic (change)	NA	NA	sphygmomanometer	blood pressure diastolic (change)	1.5	hr	-13.8736648124767	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAm20	blood pressure diastolic (change)	NA	NA	sphygmomanometer	blood pressure diastolic (change)	2.5	hr	-18.941405316862	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAm20	blood pressure diastolic (change)	NA	NA	sphygmomanometer	blood pressure diastolic (change)	3.5	hr	-17.8541446268302	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAm20	blood pressure diastolic (change)	NA	NA	sphygmomanometer	blood pressure diastolic (change)	6.0	hr	-17.0084974234722	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAm20	blood pressure diastolic (change)	NA	NA	sphygmomanometer	blood pressure diastolic (change)	7.0	hr	-16.9914343241308	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAm20	blood pressure diastolic (change)	NA	NA	sphygmomanometer	blood pressure diastolic (change)	8.0	hr	-16.1724055557453	NA	NA	NA	NA	mmHg	NA
+Donnelly1990	P3	NA	NA	ENAm20	blood pressure diastolic (change)	NA	NA	sphygmomanometer	blood pressure diastolic (change)	12.0	hr	-16.1068832542745	NA	NA	NA	NA	mmHg	NA

@@ -1,0 +1,12 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Donnelly1990		all	13.0	PLAC	relative ACE activity		plasma	HPLC	PLAC_relative ACE activity	0.0	hr		100.0					percent	percent	dimensionless
+Donnelly1990		all	13.0	PLAC	relative ACE activity		plasma	HPLC	PLAC_relative ACE activity	1.0	hr		97.6157948048252					percent	percent	dimensionless
+Donnelly1990		all	13.0	PLAC	relative ACE activity		plasma	HPLC	PLAC_relative ACE activity	2.0	hr		97.6593251128021					percent	percent	dimensionless
+Donnelly1990		all	13.0	PLAC	relative ACE activity		plasma	HPLC	PLAC_relative ACE activity	3.0	hr		92.4419665653751					percent	percent	dimensionless
+Donnelly1990		all	13.0	PLAC	relative ACE activity		plasma	HPLC	PLAC_relative ACE activity	4.0	hr		95.0109244330597					percent	percent	dimensionless
+Donnelly1990		all	13.0	PLAC	relative ACE activity		plasma	HPLC	PLAC_relative ACE activity	5.0	hr		92.2129301757117					percent	percent	dimensionless
+Donnelly1990		all	13.0	PLAC	relative ACE activity		plasma	HPLC	PLAC_relative ACE activity	6.0	hr		90.8885205555137					percent	percent	dimensionless
+Donnelly1990		all	13.0	PLAC	relative ACE activity		plasma	HPLC	PLAC_relative ACE activity	7.0	hr		94.2992876097676					percent	percent	dimensionless
+Donnelly1990		all	13.0	PLAC	relative ACE activity		plasma	HPLC	PLAC_relative ACE activity	8.0	hr		86.5544086993648					percent	percent	dimensionless
+Donnelly1990		all	13.0	PLAC	relative ACE activity		plasma	HPLC	PLAC_relative ACE activity	12.0	hr		91.8858668809699					percent	percent	dimensionless
+Donnelly1990		all	13.0	PLAC	relative ACE activity		plasma	HPLC	PLAC_relative ACE activity	24.0	hr		97.4865432749862					percent	percent	dimensionless

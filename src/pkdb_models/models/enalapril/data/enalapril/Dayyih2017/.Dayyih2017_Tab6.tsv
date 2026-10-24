@@ -1,0 +1,25 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Dayyih2017	NA	all	NA	REF20	cmax	enalapril	plasma	LC MS/MS	NA	NA	NA	121.18	NA	NA	50.23	ng/ml	NA
+Dayyih2017	NA	all	NA	REF20	tmax	enalapril	plasma	LC MS/MS	NA	NA	NA	0.897	NA	NA	0.239	hr	NA
+Dayyih2017	NA	all	NA	REF20	auc_end	enalapril	plasma	LC MS/MS	72.0	hr	NA	194.12	NA	NA	73.94	ng/ml*hr	NA
+Dayyih2017	NA	all	NA	REF20	auc_inf	enalapril	plasma	LC MS/MS	NA	NA	NA	196.18	NA	NA	74.1	ng/ml*hr	NA
+Dayyih2017	NA	all	NA	REF20	kel	enalapril	plasma	LC MS/MS	NA	NA	NA	0.326	NA	NA	0.208	1/hr	NA
+Dayyih2017	NA	all	NA	REF20	thalf	enalapril	plasma	LC MS/MS	NA	NA	NA	3.04	NA	NA	1.89	hr	NA
+Dayyih2017	NA	all	NA	TEST20	cmax	enalapril	plasma	LC MS/MS	NA	NA	NA	114.42	NA	NA	43.75	ng/ml	NA
+Dayyih2017	NA	all	NA	TEST20	tmax	enalapril	plasma	LC MS/MS	NA	NA	NA	0.921	NA	NA	0.308	hr	NA
+Dayyih2017	NA	all	NA	TEST20	auc_end	enalapril	plasma	LC MS/MS	72.0	hr	NA	186.22	NA	NA	73.49	ng/ml*hr	NA
+Dayyih2017	NA	all	NA	TEST20	auc_inf	enalapril	plasma	LC MS/MS	NA	NA	NA	189.79	NA	NA	73.2	ng/ml*hr	NA
+Dayyih2017	NA	all	NA	TEST20	kel	enalapril	plasma	LC MS/MS	NA	NA	NA	0.338	NA	NA	0.379	1/hr	NA
+Dayyih2017	NA	all	NA	TEST20	thalf	enalapril	plasma	LC MS/MS	NA	NA	NA	4.5	NA	NA	3.68	hr	NA
+Dayyih2017	NA	all	NA	REF20	cmax	enalaprilat	plasma	LC MS/MS	NA	NA	NA	62.24	NA	NA	22.14	ng/ml	NA
+Dayyih2017	NA	all	NA	REF20	tmax	enalaprilat	plasma	LC MS/MS	NA	NA	NA	3.539	NA	NA	0.639	hr	NA
+Dayyih2017	NA	all	NA	REF20	auc_end	enalaprilat	plasma	LC MS/MS	72.0	hr	NA	563.05	NA	NA	149.09	ng/ml*hr	NA
+Dayyih2017	NA	all	NA	REF20	auc_inf	enalaprilat	plasma	LC MS/MS	NA	NA	NA	582.29	NA	NA	152.18	ng/ml*hr	NA
+Dayyih2017	NA	all	NA	REF20	kel	enalaprilat	plasma	LC MS/MS	NA	NA	NA	0.036	NA	NA	0.009	1/hr	NA
+Dayyih2017	NA	all	NA	REF20	thalf	enalaprilat	plasma	LC MS/MS	NA	NA	NA	20.67	NA	NA	4.96	hr	NA
+Dayyih2017	NA	all	NA	TEST20	cmax	enalaprilat	plasma	LC MS/MS	NA	NA	NA	57.67	NA	NA	17.09	ng/ml	NA
+Dayyih2017	NA	all	NA	TEST20	tmax	enalaprilat	plasma	LC MS/MS	NA	NA	NA	3.667	NA	NA	0.592	hr	NA
+Dayyih2017	NA	all	NA	TEST20	auc_end	enalaprilat	plasma	LC MS/MS	72.0	hr	NA	550.34	NA	NA	142.39	ng/ml*hr	NA
+Dayyih2017	NA	all	NA	TEST20	auc_inf	enalaprilat	plasma	LC MS/MS	NA	NA	NA	571.31	NA	NA	142.14	ng/ml*hr	NA
+Dayyih2017	NA	all	NA	TEST20	kel	enalaprilat	plasma	LC MS/MS	NA	NA	NA	0.034	NA	NA	0.008	1/hr	NA
+Dayyih2017	NA	all	NA	TEST20	thalf	enalaprilat	plasma	LC MS/MS	NA	NA	NA	21.61	NA	NA	5.27	hr	NA

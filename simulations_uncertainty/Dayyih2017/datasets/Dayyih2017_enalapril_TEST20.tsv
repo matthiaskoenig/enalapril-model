@@ -1,0 +1,16 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Dayyih2017		all	30.0	TEST20	concentration	enalapril	plasma	LC MS/MS	enalapril_TEST20	0.0	hr		0.0					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalapril	plasma	LC MS/MS	enalapril_TEST20	0.25	hr		2.4138632881810572e-05					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalapril	plasma	LC MS/MS	enalapril_TEST20	0.5	hr		0.00014810267894541036					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalapril	plasma	LC MS/MS	enalapril_TEST20	0.75	hr		0.00025445047562398847					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalapril	plasma	LC MS/MS	enalapril_TEST20	1.0	hr		0.00026488758120633783					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalapril	plasma	LC MS/MS	enalapril_TEST20	1.33	hr		0.00022312911008537517					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalapril	plasma	LC MS/MS	enalapril_TEST20	1.66	hr		0.00016897186571432636					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalapril	plasma	LC MS/MS	enalapril_TEST20	2.0	hr		0.00012199232960429777					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalapril	plasma	LC MS/MS	enalapril_TEST20	2.5	hr		7.82743441280763e-05					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalapril	plasma	LC MS/MS	enalapril_TEST20	3.0	hr		5.086698290419733e-05					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalapril	plasma	LC MS/MS	enalapril_TEST20	3.5	hr		3.389888057514569e-05					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalapril	plasma	LC MS/MS	enalapril_TEST20	4.0	hr		2.4107768736288247e-05					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalapril	plasma	LC MS/MS	enalapril_TEST20	4.5	hr		1.6927189391963696e-05					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalapril	plasma	LC MS/MS	enalapril_TEST20	5.0	hr		1.0398345957739808e-05					mole/meter^3	ng/ml	dimensionless
+Dayyih2017		all	30.0	TEST20	concentration	enalapril	plasma	LC MS/MS	enalapril_TEST20	6.0	hr		5.8225569413395056e-06					mole/meter^3	ng/ml	dimensionless

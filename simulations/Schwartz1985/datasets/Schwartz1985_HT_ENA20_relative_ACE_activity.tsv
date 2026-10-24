@@ -1,0 +1,4 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	min	max	comments	mean_unit	value_unit	count_unit
+Schwartz1985		HT	5	ENA20	relative ACE activity			radioenzymatic assay	HT_ENA20_relative ACE activity	0	hr		100.0		42.9	19.18				percent	percent	dimensionless
+Schwartz1985		HT	5	ENA20	relative ACE activity			radioenzymatic assay	HT_ENA20_relative ACE activity	4	hr		5.38		9.66	4.32				percent	percent	dimensionless
+Schwartz1985		HT	5	ENA20	relative ACE activity			radioenzymatic assay	HT_ENA20_relative ACE activity	12	hr		3.72		3.31	1.48				percent	percent	dimensionless

@@ -1,0 +1,23 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Weisser1991	NA	morning	8.0	ENA10	cmax	enalapril	serum	RIA	NA	NA	NA	NA	72.1	NA	42.5	15.0260191002141	NA	NA	ng/ml	NA
+Weisser1991	NA	morning	8.0	ENA10	tmax	enalapril	serum	RIA	NA	NA	NA	NA	1.3	NA	0.5	0.176776695296637	NA	NA	hr	NA
+Weisser1991	NA	morning	8.0	ENA10	auc_end	enalapril	serum	RIA	NA	24.0	hr	NA	160.0	NA	91.0	32.1733585439879	NA	NA	ng/ml*hr	NA
+Weisser1991	NA	morning	8.0	ENA10	kel	enalapril	serum	RIA	NA	NA	NA	NA	0.84	NA	0.38	0.134350288425444	NA	NA	1/hr	NA
+Weisser1991	NA	morning	8.0	ENA10	kel	enalapril	serum	RIA	NA	NA	NA	NA	0.94	NA	0.47	0.166170093578839	NA	NA	1/hr	computationally derived
+Weisser1991	NA	morning	8.0	ENA10	kabs	enalapril	serum	RIA	NA	NA	NA	NA	12.0	NA	15.1	5.33865619795843	NA	NA	1/hr	computationally derived
+Weisser1991	NA	morning	8.0	ENA10	lag_absorption	enalapril	serum	RIA	NA	NA	NA	NA	0.5	NA	0.3	0.106066017177982	NA	NA	hr	computationally derived
+Weisser1991	NA	morning	8.0	ENA10	cmax	enalaprilat	serum	RIA	NA	NA	NA	NA	29.3	NA	11.6	4.10121933088198	NA	NA	ng/ml	NA
+Weisser1991	NA	morning	8.0	ENA10	tmax	enalaprilat	serum	RIA	NA	NA	NA	NA	3.9	NA	1.0	0.353553390593274	NA	NA	hr	NA
+Weisser1991	NA	morning	8.0	ENA10	auc_end	enalaprilat	serum	RIA	NA	24.0	hr	NA	217.0	NA	83.0	29.3449314192417	NA	NA	ng/ml*hr	NA
+Weisser1991	NA	morning	8.0	ENA10	kel	enalaprilat	serum	RIA	NA	NA	NA	NA	0.14	NA	0.02	0.00707106781186547	NA	NA	1/hr	NA
+Weisser1991	NA	evening	8.0	ENA10	cmax	enalapril	serum	RIA	NA	NA	NA	NA	65.4	NA	25.2	8.9095454429505	NA	NA	ng/ml	NA
+Weisser1991	NA	evening	8.0	ENA10	tmax	enalapril	serum	RIA	NA	NA	NA	NA	2.4	NA	1.4	0.494974746830583	NA	NA	hr	NA
+Weisser1991	NA	evening	8.0	ENA10	auc_end	enalapril	serum	RIA	NA	24.0	hr	NA	148.0	NA	67.0	23.6880771697493	NA	NA	ng/ml*hr	NA
+Weisser1991	NA	evening	8.0	ENA10	kel	enalapril	serum	RIA	NA	NA	NA	NA	1.3	NA	1.27	0.449012806053458	NA	NA	1/hr	NA
+Weisser1991	NA	evening	8.0	ENA10	kel	enalapril	serum	RIA	NA	NA	NA	NA	1.32	NA	1.34	0.473761543394987	NA	NA	1/hr	NA
+Weisser1991	NA	evening	8.0	ENA10	kabs	enalapril	serum	RIA	NA	NA	NA	NA	6.4	NA	9.4	3.32340187157677	NA	NA	1/hr	computationally derived
+Weisser1991	NA	evening	8.0	ENA10	lag_absorption	enalapril	serum	RIA	NA	NA	NA	NA	0.7	NA	0.4	0.14142135623731	NA	NA	hr	computationally derived
+Weisser1991	NA	evening	8.0	ENA10	cmax	enalaprilat	serum	RIA	NA	NA	NA	NA	37.3	NA	8.2	2.89913780286484	NA	NA	ng/ml	NA
+Weisser1991	NA	evening	8.0	ENA10	tmax	enalaprilat	serum	RIA	NA	NA	NA	NA	4.3	NA	0.8	0.282842712474619	NA	NA	hr	NA
+Weisser1991	NA	evening	8.0	ENA10	auc_end	enalaprilat	serum	RIA	NA	24.0	hr	NA	260.0	NA	75.0	26.5165042944955	NA	NA	ng/ml*hr	NA
+Weisser1991	NA	evening	8.0	ENA10	kel	enalaprilat	serum	RIA	NA	NA	NA	NA	0.15	NA	0.03	0.0106066017177982	NA	NA	1/hr	NA

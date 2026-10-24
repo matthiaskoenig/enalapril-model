@@ -1,0 +1,15 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Biollaz1982		ENA	12.0	ENA10	ACE inhibition		plasma	RIA	ENA_ACE inhibition	0.0	hr		1.32376446012881					percent	percent	dimensionless
+Biollaz1982		ENA	12.0	ENA10	ACE inhibition		plasma	RIA	ENA_ACE inhibition	0.25	hr		0.659112848348656					percent	percent	dimensionless
+Biollaz1982		ENA	12.0	ENA10	ACE inhibition		plasma	RIA	ENA_ACE inhibition	0.5	hr		14.5598265575794	11.6464369926097	10.092277497537	2.9133895649697		percent	percent	dimensionless
+Biollaz1982		ENA	12.0	ENA10	ACE inhibition		plasma	RIA	ENA_ACE inhibition	1.0	hr		73.1148423034926	65.0242914339067	28.0264903346867	8.0905508695859		percent	percent	dimensionless
+Biollaz1982		ENA	12.0	ENA10	ACE inhibition		plasma	RIA	ENA_ACE inhibition	1.5	hr		88.9541232137488	85.0706587963476	13.4527153606495	3.8834644174012		percent	percent	dimensionless
+Biollaz1982		ENA	12.0	ENA10	ACE inhibition		plasma	RIA	ENA_ACE inhibition	2.0	hr		93.1469671313953	91.5288569574781	5.60529806693741	1.6181101739172		percent	percent	dimensionless
+Biollaz1982		ENA	12.0	ENA10	ACE inhibition		plasma	RIA	ENA_ACE inhibition	3.0	hr		95.3909575730721	97.0090677469893	5.60529806693741	1.6181101739172		percent	percent	dimensionless
+Biollaz1982		ENA	12.0	ENA10	ACE inhibition		plasma	RIA	ENA_ACE inhibition	4.0	hr		95.3719675270213	96.666455666155	4.48423845354973	1.2944881391337		percent	percent	dimensionless
+Biollaz1982		ENA	12.0	ENA10	ACE inhibition		plasma	RIA	ENA_ACE inhibition	6.0	hr		94.3734076055135	95.3450649617826	3.36591981721224	0.971657356269091		percent	percent	dimensionless
+Biollaz1982		ENA	12.0	ENA10	ACE inhibition		plasma	RIA	ENA_ACE inhibition	8.0	hr		94.0307955246792	95.6496969505151	5.60803904398691	1.61890142583589		percent	percent	dimensionless
+Biollaz1982		ENA	12.0	ENA10	ACE inhibition		plasma	RIA	ENA_ACE inhibition	10.0	hr		94.0157617382222	95.3118323811935	4.48972040764951	1.2960706429713		percent	percent	dimensionless
+Biollaz1982		ENA	12.0	ENA10	ACE inhibition		plasma	RIA	ENA_ACE inhibition	24.0	hr		73.8847304204713	77.7681948378725	13.4527153606495	3.8834644174012		percent	percent	dimensionless
+Biollaz1982		ENA	12.0	ENA10	ACE inhibition		plasma	RIA	ENA_ACE inhibition	48.0	hr		41.4679305597316	44.3805288727825	10.0895365204871	2.9125983130509		percent	percent	dimensionless
+Biollaz1982		ENA	12.0	ENA10	ACE inhibition		plasma	RIA	ENA_ACE inhibition	72.0	hr		22.9898245003244	26.22525359624	11.2078551568249	3.2354290959156		percent	percent	dimensionless

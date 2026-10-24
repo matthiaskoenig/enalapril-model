@@ -1,0 +1,5 @@
+study	name	time	time_end	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+Marzo2002	ENA10	S0T24R7	0	hr	oral	multiple dose	dosing	tablet	enalapril maleate	10	mg	NA
+Marzo2002	ENA20	S0T24R7	0	hr	oral	multiple dose	dosing	tablet	enalapril maleate	20	mg	NA
+Marzo2002	ZOF30	S0T24R7	0	hr	oral	multiple dose	dosing	capsule	zofenopril	30	mg	zofenopril calcium
+Marzo2002	ZOF60	S0T24R7	0	hr	oral	multiple dose	dosing	capsule	zofenopril	60	mg	zofenopril calcium

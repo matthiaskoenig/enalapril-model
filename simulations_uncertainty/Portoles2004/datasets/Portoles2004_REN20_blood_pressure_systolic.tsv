@@ -1,0 +1,6 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Portoles2004		all	23.0	REN20	blood pressure systolic			sphygmomanometer	REN20_blood pressure systolic	0.0	hr		112.89756594877	127.455995922008	14.5584299732382	3.035642495460718		mmHg	mmHg	dimensionless
+Portoles2004		all	23.0	REN20	blood pressure systolic			sphygmomanometer	REN20_blood pressure systolic	5.0	hr		101.766280107047	113.471747164521	11.7054670574742	2.4407586047536243		mmHg	mmHg	dimensionless
+Portoles2004		all	23.0	REN20	blood pressure systolic			sphygmomanometer	REN20_blood pressure systolic	12.0	hr		109.191487192558	124.891754810756	15.700267618198	3.273732102947821		mmHg	mmHg	dimensionless
+Portoles2004		all	23.0	REN20	blood pressure systolic			sphygmomanometer	REN20_blood pressure systolic	24.0	hr		112.046081304957	126.033592455715	13.9875111507583	2.9165976917171665		mmHg	mmHg	dimensionless
+Portoles2004		all	23.0	REN20	blood pressure systolic			sphygmomanometer	REN20_blood pressure systolic	36.0	hr		117.755269529756	135.171556008666	17.4162864789091	3.631546770199885		mmHg	mmHg	dimensionless

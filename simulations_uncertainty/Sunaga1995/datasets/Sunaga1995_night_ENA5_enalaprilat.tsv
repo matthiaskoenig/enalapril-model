@@ -1,0 +1,10 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Sunaga1995		night	12.0	ENA5	concentration	enalaprilat	serum	RIA	night_ENA5_enalaprilat	0.0	hr		0.0	0.0				mole/meter^3	ng/ml	dimensionless
+Sunaga1995		night	12.0	ENA5	concentration	enalaprilat	serum	RIA	night_ENA5_enalaprilat	0.5	hr		5.023625387591277e-07	0.379009339420008	5.855143321707862e-07	1.690234286465937e-07		mole/meter^3	ng/ml	dimensionless
+Sunaga1995		night	12.0	ENA5	concentration	enalaprilat	serum	RIA	night_ENA5_enalaprilat	1.0	hr		2.6789921049609926e-06	1.52508361204013	1.6984809945452273e-06	4.903092297070756e-07		mole/meter^3	ng/ml	dimensionless
+Sunaga1995		night	12.0	ENA5	concentration	enalaprilat	serum	RIA	night_ENA5_enalaprilat	2.0	hr		9.427733850910235e-06	5.61115465385513	6.678057569641492e-06	1.927789167748168e-06		mole/meter^3	ng/ml	dimensionless
+Sunaga1995		night	12.0	ENA5	concentration	enalaprilat	serum	RIA	night_ENA5_enalaprilat	4.0	hr		3.440686231388206e-05	19.1301715318204	2.0502790250976773e-05	5.918645735269936e-06		mole/meter^3	ng/ml	dimensionless
+Sunaga1995		night	12.0	ENA5	concentration	enalaprilat	serum	RIA	night_ENA5_enalaprilat	6.0	hr		3.94689724534426e-05	19.0979711740387	1.534825488379523e-05	4.430659544375069e-06		mole/meter^3	ng/ml	dimensionless
+Sunaga1995		night	12.0	ENA5	concentration	enalaprilat	serum	RIA	night_ENA5_enalaprilat	8.0	hr		3.3987187896824176e-05	15.4324432664636	1.0308813138968683e-05	2.975898020404566e-06		mole/meter^3	ng/ml	dimensionless
+Sunaga1995		night	12.0	ENA5	concentration	enalaprilat	serum	RIA	night_ENA5_enalaprilat	12.0	hr		1.8629556540661772e-05	8.42917058052782	5.5648333118723185e-06	1.6064290053024395e-06		mole/meter^3	ng/ml	dimensionless
+Sunaga1995		night	12.0	ENA5	concentration	enalaprilat	serum	RIA	night_ENA5_enalaprilat	24.0	hr		4.0141605548103635e-06	1.8269844023908	1.2298634524928701e-06	3.550309976816193e-07		mole/meter^3	ng/ml	dimensionless

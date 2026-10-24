@@ -1,0 +1,10 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Sunaga1995		day	12.0	PLACEBO	blood pressure systolic			sphygmomanometer	day_PLACEBO_blood pressure systolic	0.0	hr		127.619361028951	139.704144827094	12.084783798143	3.48857658947815		mmHg	mmHg	dimensionless
+Sunaga1995		day	12.0	PLACEBO	blood pressure systolic			sphygmomanometer	day_PLACEBO_blood pressure systolic	0.5	hr		127.007985155699	139.093561918658	12.085576762959	3.48880549870313		mmHg	mmHg	dimensionless
+Sunaga1995		day	12.0	PLACEBO	blood pressure systolic			sphygmomanometer	day_PLACEBO_blood pressure systolic	1.0	hr		128.815151971707	145.733056324291	16.917904352584	4.88377831604436		mmHg	mmHg	dimensionless
+Sunaga1995		day	12.0	PLACEBO	blood pressure systolic			sphygmomanometer	day_PLACEBO_blood pressure systolic	2.0	hr		130.917301699324	143.303412127604	12.38611042828	3.57556209498994		mmHg	mmHg	dimensionless
+Sunaga1995		day	12.0	PLACEBO	blood pressure systolic			sphygmomanometer	day_PLACEBO_blood pressure systolic	4.0	hr		136.631406164508	151.737385912187	15.105979747679	4.36072073684775		mmHg	mmHg	dimensionless
+Sunaga1995		day	12.0	PLACEBO	blood pressure systolic			sphygmomanometer	day_PLACEBO_blood pressure systolic	6.0	hr		132.377942890674	145.066965878724	12.68902298805	3.66300541895201		mmHg	mmHg	dimensionless
+Sunaga1995		day	12.0	PLACEBO	blood pressure systolic			sphygmomanometer	day_PLACEBO_blood pressure systolic	8.0	hr		131.74832882665	142.020395055071	10.272066228421	2.96529010105626		mmHg	mmHg	dimensionless
+Sunaga1995		day	12.0	PLACEBO	blood pressure systolic			sphygmomanometer	day_PLACEBO_blood pressure systolic	12.0	hr		124.446708799531	140.459840296886	16.013131497355	4.62259289028339		mmHg	mmHg	dimensionless
+Sunaga1995		day	12.0	PLACEBO	blood pressure systolic			sphygmomanometer	day_PLACEBO_blood pressure systolic	24.0	hr		127.620946958583	137.893806151821	10.272859193238	2.96551901028154		mmHg	mmHg	dimensionless

@@ -1,0 +1,9 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	median	mean_pm	sd	se	comments	value_unit	median_unit	count_unit
+Stage2017		CES1A1c	4.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	CES1A1c_enalaprilat	1.0	hr		9.374231380667671e-06					ng/ml	mole/meter^3	dimensionless
+Stage2017		CES1A1c	4.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	CES1A1c_enalaprilat	2.0	hr		4.589043770195578e-05					ng/ml	mole/meter^3	dimensionless
+Stage2017		CES1A1c	4.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	CES1A1c_enalaprilat	3.0	hr		7.010764419932485e-05					ng/ml	mole/meter^3	dimensionless
+Stage2017		CES1A1c	4.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	CES1A1c_enalaprilat	4.0	hr		6.308065480808173e-05					ng/ml	mole/meter^3	dimensionless
+Stage2017		CES1A1c	4.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	CES1A1c_enalaprilat	9.0	hr		3.9658339275740144e-05					ng/ml	mole/meter^3	dimensionless
+Stage2017		CES1A1c	4.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	CES1A1c_enalaprilat	24.0	hr		9.821339127774305e-06					ng/ml	mole/meter^3	dimensionless
+Stage2017		CES1A1c	4.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	CES1A1c_enalaprilat	48.0	hr		3.631976774947129e-06					ng/ml	mole/meter^3	dimensionless
+Stage2017		CES1A1c	4.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	CES1A1c_enalaprilat	72.0	hr		2.3232213688647898e-06					ng/ml	mole/meter^3	dimensionless

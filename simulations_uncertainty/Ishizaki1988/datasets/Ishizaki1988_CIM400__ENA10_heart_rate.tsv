@@ -1,0 +1,9 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Ishizaki1988		all	7.0	CIM400, ENA10	heart rate	enalaprilat		electrocardiography	CIM400, ENA10_heart rate	0.0	hr		74.6447752033144	70.9605646769986	9.74750483023798	3.68421052631579		1/min	1/min	dimensionless
+Ishizaki1988		all	7.0	CIM400, ENA10	heart rate	enalaprilat		electrocardiography	CIM400, ENA10_heart rate	1.0	hr		72.4934785944452	69.3355838576032	8.35500414020368	3.157894736842		1/min	1/min	dimensionless
+Ishizaki1988		all	7.0	CIM400, ENA10	heart rate	enalaprilat		electrocardiography	CIM400, ENA10_heart rate	2.0	hr		74.5588460948289	71.4009513579868	8.35500414020395	3.1578947368421		1/min	1/min	dimensionless
+Ishizaki1988		all	7.0	CIM400, ENA10	heart rate	enalaprilat		electrocardiography	CIM400, ENA10_heart rate	4.0	hr		82.8878318244591	85.5194107718275	6.96250345016991	2.6315789473684		1/min	1/min	dimensionless
+Ishizaki1988		all	7.0	CIM400, ENA10	heart rate	enalaprilat		electrocardiography	CIM400, ENA10_heart rate	6.0	hr		80.6966395580788	77.0154979284947	9.73938529268659	3.6811416295841		1/min	1/min	dimensionless
+Ishizaki1988		all	7.0	CIM400, ENA10	heart rate	enalaprilat		electrocardiography	CIM400, ENA10_heart rate	8.0	hr		76.9264999232775	73.7686051864354	8.35500414020398	3.15789473684211		1/min	1/min	dimensionless
+Ishizaki1988		all	7.0	CIM400, ENA10	heart rate	enalaprilat		electrocardiography	CIM400, ENA10_heart rate	12.0	hr		79.3831517569433	75.1726254411538	11.1400055202721	4.21052631578951		1/min	1/min	dimensionless
+Ishizaki1988		all	7.0	CIM400, ENA10	heart rate	enalaprilat		electrocardiography	CIM400, ENA10_heart rate	24.0	hr		80.4373177842565	83.0719656283566	6.9706229877213	2.63464784410009		1/min	1/min	dimensionless

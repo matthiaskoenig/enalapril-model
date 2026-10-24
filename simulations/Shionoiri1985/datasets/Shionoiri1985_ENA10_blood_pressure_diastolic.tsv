@@ -1,0 +1,8 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Shionoiri1985		all	13.0	ENA10	blood pressure diastolic			sphygmomanometer	ENA10_blood pressure diastolic	0.0	hr		111.04811472233	105.055091080228	21.6081540366667	5.993023642102		mmHg	mmHg	dimensionless
+Shionoiri1985		all	13.0	ENA10	blood pressure diastolic			sphygmomanometer	ENA10_blood pressure diastolic	1.0	hr		101.806101544765	95.8197220530425	21.5841982117915	5.9863794917225		mmHg	mmHg	dimensionless
+Shionoiri1985		all	13.0	ENA10	blood pressure diastolic			sphygmomanometer	ENA10_blood pressure diastolic	2.0	hr		93.4344720668845	87.4414484247827	21.6081540366659	5.99302364210179		mmHg	mmHg	dimensionless
+Shionoiri1985		all	13.0	ENA10	blood pressure diastolic			sphygmomanometer	ENA10_blood pressure diastolic	4.0	hr		87.8268091467803	82.6775926028459	18.565764277623	5.1492165439344		mmHg	mmHg	dimensionless
+Shionoiri1985		all	13.0	ENA10	blood pressure diastolic			sphygmomanometer	ENA10_blood pressure diastolic	6.0	hr		84.7771441226953	80.4850229776867	15.4754628688317	4.29212114500861		mmHg	mmHg	dimensionless
+Shionoiri1985		all	13.0	ENA10	blood pressure diastolic			sphygmomanometer	ENA10_blood pressure diastolic	9.0	hr		87.9065389513316	82.7573224073971	18.5657642776233	5.1492165439345		mmHg	mmHg	dimensionless
+Shionoiri1985		all	13.0	ENA10	blood pressure diastolic			sphygmomanometer	ENA10_blood pressure diastolic	24.0	hr		99.1085764907812	94.8363877969105	15.4035953942083	4.2721886938707		mmHg	mmHg	dimensionless

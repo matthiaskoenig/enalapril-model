@@ -1,0 +1,9 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Lees1987a		elder	6.0	ENA10	concentration	enalaprilat	serum	RIA	elder_enalaprilat	1.02938376319889	hr		5.23760149704498e-05	40.2542409555132	6.316640875809516e-05	2.5787578390233947e-05		mole/meter^3	ng/ml	dimensionless
+Lees1987a		elder	6.0	ENA10	concentration	enalaprilat	serum	RIA	elder_enalaprilat	2.08018867924528	hr		0.00012647410994088757	77.0717933183313	9.474635254272668e-05	3.8680036453254595e-05		mole/meter^3	ng/ml	dimensionless
+Lees1987a		elder	6.0	ENA10	concentration	enalaprilat	serum	RIA	elder_enalaprilat	4.04950666435866	hr		0.00018537131374351653	93.0382335122036	8.167789012304015e-05	3.334485901142644e-05		mole/meter^3	ng/ml	dimensionless
+Lees1987a		elder	6.0	ENA10	concentration	enalaprilat	serum	RIA	elder_enalaprilat	6.19811320754717	hr		0.00014299445498240754	73.3427817206162	6.752256289799067e-05	2.7565970870843295e-05		mole/meter^3	ng/ml	dimensionless
+Lees1987a		elder	6.0	ENA10	concentration	enalaprilat	serum	RIA	elder_enalaprilat	8.04954993941492	hr		0.0001387230762973304	72.2333174658127	6.86094277033539e-05	2.800968156959821e-05		mole/meter^3	ng/ml	dimensionless
+Lees1987a		elder	6.0	ENA10	concentration	enalaprilat	serum	RIA	elder_enalaprilat	9.95343603946685	hr		0.00011812481450608795	57.0885624026311	4.5737444739291705e-05	1.8672233625001323e-05		mole/meter^3	ng/ml	dimensionless
+Lees1987a		elder	6.0	ENA10	concentration	enalaprilat	serum	RIA	elder_enalaprilat	11.9071750043275	hr		9.099014777539168e-05	41.9453219664186	2.940621417390532e-05	1.2005036665511077e-05		mole/meter^3	ng/ml	dimensionless
+Lees1987a		elder	6.0	ENA10	concentration	enalaprilat	serum	RIA	elder_enalaprilat	24.0155790202527	hr		2.1835113939745507e-05	11.4005971957763	1.0888211620127866e-05	4.445093780125956e-06		mole/meter^3	ng/ml	dimensionless

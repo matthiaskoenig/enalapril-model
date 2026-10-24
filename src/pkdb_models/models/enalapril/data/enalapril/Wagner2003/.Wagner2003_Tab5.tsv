@@ -1,0 +1,97 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Wagner2003	NA	ena	20.0	ENA5	concentration	sodium	NA	NR	NA	0.0	hr	NA	141.0	NA	8.94427190999916	2.0	NA	NA	mmol/l	NA
+Wagner2003	NA	ena	20.0	ENA5	concentration	sodium	NA	NR	NA	6.0	hr	NA	140.0	NA	8.94427190999916	2.0	NA	NA	mmol/l	NA
+Wagner2003	NA	ena	20.0	ENA5	concentration	sodium	NA	NR	NA	12.0	hr	NA	140.0	NA	8.94427190999916	2.0	NA	NA	mmol/l	NA
+Wagner2003	NA	ena	20.0	ENA5	concentration	sodium	NA	NR	NA	24.0	hr	NA	140.0	NA	8.94427190999916	2.0	NA	NA	mmol/l	NA
+Wagner2003	NA	ena	20.0	ENA5	concentration	sodium	NA	NR	NA	48.0	hr	NA	139.0	NA	8.94427190999916	2.0	NA	NA	mmol/l	NA
+Wagner2003	NA	ena	20.0	ENA5	concentration	sodium	NA	NR	NA	72.0	hr	NA	140.0	NA	8.94427190999916	2.0	NA	NA	mmol/l	NA
+Wagner2003	NA	ena	20.0	ENA5	concentration	potassium	NA	NR	NA	0.0	hr	NA	4.6	NA	1.34164078649987	0.3	NA	NA	mmol/l	NA
+Wagner2003	NA	ena	20.0	ENA5	concentration	potassium	NA	NR	NA	6.0	hr	NA	4.6	NA	8.94427190999916	2.0	NA	NA	mmol/l	NA
+Wagner2003	NA	ena	20.0	ENA5	concentration	potassium	NA	NR	NA	12.0	hr	NA	4.6	NA	0.894427190999916	0.2	NA	NA	mmol/l	NA
+Wagner2003	NA	ena	20.0	ENA5	concentration	potassium	NA	NR	NA	24.0	hr	NA	4.5	NA	0.894427190999916	0.2	NA	NA	mmol/l	NA
+Wagner2003	NA	ena	20.0	ENA5	concentration	potassium	NA	NR	NA	48.0	hr	NA	4.6	NA	0.894427190999916	0.2	NA	NA	mmol/l	NA
+Wagner2003	NA	ena	20.0	ENA5	concentration	potassium	NA	NR	NA	72.0	hr	NA	4.6	NA	0.894427190999916	0.2	NA	NA	mmol/l	NA
+Wagner2003	NA	ena	20.0	ENA5	concentration	creatinine	NA	NR	NA	0.0	hr	NA	1.3	NA	1.78885438199983	0.4	NA	NA	mg/dl	NA
+Wagner2003	NA	ena	20.0	ENA5	concentration	creatinine	NA	NR	NA	6.0	hr	NA	1.2	NA	1.34164078649987	0.3	NA	NA	mg/dl	NA
+Wagner2003	NA	ena	20.0	ENA5	concentration	creatinine	NA	NR	NA	12.0	hr	NA	1.2	NA	1.34164078649987	0.3	NA	NA	mg/dl	NA
+Wagner2003	NA	ena	20.0	ENA5	concentration	creatinine	NA	NR	NA	24.0	hr	NA	1.1	NA	1.34164078649987	0.3	NA	NA	mg/dl	NA
+Wagner2003	NA	ena	20.0	ENA5	concentration	creatinine	NA	NR	NA	48.0	hr	NA	1.1	NA	1.34164078649987	0.3	NA	NA	mg/dl	NA
+Wagner2003	NA	ena	20.0	ENA5	concentration	creatinine	NA	NR	NA	72.0	hr	NA	1.0	NA	0.894427190999916	0.2	NA	NA	mg/dl	NA
+Wagner2003	NA	ena	20.0	ENA5	concentration	urea	NA	NR	NA	0.0	hr	NA	63.0	NA	98.3869910099908	22.0	NA	NA	mg/dl	NA
+Wagner2003	NA	ena	20.0	ENA5	concentration	urea	NA	NR	NA	6.0	hr	NA	62.0	NA	116.275534829989	26.0	NA	NA	mg/dl	NA
+Wagner2003	NA	ena	20.0	ENA5	concentration	urea	NA	NR	NA	12.0	hr	NA	62.0	NA	111.80339887499	25.0	NA	NA	mg/dl	NA
+Wagner2003	NA	ena	20.0	ENA5	concentration	urea	NA	NR	NA	24.0	hr	NA	57.0	NA	102.85912696499	23.0	NA	NA	mg/dl	NA
+Wagner2003	NA	ena	20.0	ENA5	concentration	urea	NA	NR	NA	48.0	hr	NA	55.0	NA	102.85912696499	23.0	NA	NA	mg/dl	NA
+Wagner2003	NA	ena	20.0	ENA5	concentration	urea	NA	NR	NA	72.0	hr	NA	55.0	NA	107.33126291999	24.0	NA	NA	mg/dl	NA
+Wagner2003	NA	ena	20.0	ENA5	urinary volume rate	NA	NA	NR	NA	0.0	hr	NA	2.2	NA	2.68328157299975	0.6	NA	NA	ml/min	NA
+Wagner2003	NA	ena	20.0	ENA5	urinary volume rate	NA	NA	NR	NA	6.0	hr	NA	2.2	NA	2.23606797749979	0.5	NA	NA	ml/min	NA
+Wagner2003	NA	ena	20.0	ENA5	urinary volume rate	NA	NA	NR	NA	12.0	hr	NA	2.3	NA	3.57770876399966	0.8	NA	NA	ml/min	NA
+Wagner2003	NA	ena	20.0	ENA5	urinary volume rate	NA	NA	NR	NA	24.0	hr	NA	2.1	NA	1.78885438199983	0.4	NA	NA	ml/min	NA
+Wagner2003	NA	ena	20.0	ENA5	urinary volume rate	NA	NA	NR	NA	48.0	hr	NA	2.2	NA	2.23606797749979	0.5	NA	NA	ml/min	NA
+Wagner2003	NA	ena	20.0	ENA5	urinary volume rate	NA	NA	NR	NA	72.0	hr	NA	2.1	NA	2.23606797749979	0.5	NA	NA	ml/min	NA
+Wagner2003	NA	ena	20.0	ENA5	clearance	sodium	NA	NR	NA	0.0	hr	NA	1.7	NA	3.57770876399966	0.8	NA	NA	ml/min	NA
+Wagner2003	NA	ena	20.0	ENA5	clearance	sodium	NA	NR	NA	6.0	hr	NA	1.8	NA	3.13049516849971	0.7	NA	NA	ml/min	NA
+Wagner2003	NA	ena	20.0	ENA5	clearance	sodium	NA	NR	NA	12.0	hr	NA	1.8	NA	4.02492235949962	0.9	NA	NA	ml/min	NA
+Wagner2003	NA	ena	20.0	ENA5	clearance	sodium	NA	NR	NA	24.0	hr	NA	1.8	NA	3.57770876399966	0.8	NA	NA	ml/min	NA
+Wagner2003	NA	ena	20.0	ENA5	clearance	sodium	NA	NR	NA	48.0	hr	NA	1.9	NA	4.02492235949962	0.9	NA	NA	ml/min	NA
+Wagner2003	NA	ena	20.0	ENA5	clearance	sodium	NA	NR	NA	72.0	hr	NA	1.8	NA	4.47213595499958	1.0	NA	NA	ml/min	NA
+Wagner2003	NA	ena	20.0	ENA5	clearance	potassium	NA	NR	NA	0.0	hr	NA	33.0	NA	93.9148550549912	21.0	NA	NA	ml/min	NA
+Wagner2003	NA	ena	20.0	ENA5	clearance	potassium	NA	NR	NA	6.0	hr	NA	29.0	NA	53.665631459995	12.0	NA	NA	ml/min	NA
+Wagner2003	NA	ena	20.0	ENA5	clearance	potassium	NA	NR	NA	12.0	hr	NA	35.0	NA	71.5541752799933	16.0	NA	NA	ml/min	NA
+Wagner2003	NA	ena	20.0	ENA5	clearance	potassium	NA	NR	NA	24.0	hr	NA	33.0	NA	80.4984471899924	18.0	NA	NA	ml/min	NA
+Wagner2003	NA	ena	20.0	ENA5	clearance	potassium	NA	NR	NA	48.0	hr	NA	31.0	NA	80.4984471899924	18.0	NA	NA	ml/min	NA
+Wagner2003	NA	ena	20.0	ENA5	clearance	potassium	NA	NR	NA	72.0	hr	NA	38.0	NA	58.1377674149945	13.0	NA	NA	ml/min	NA
+Wagner2003	NA	ena	20.0	ENA5	clearance	creatinine	NA	NR	NA	0.0	hr	NA	66.0	NA	89.4427190999916	20.0	NA	NA	ml/min	NA
+Wagner2003	NA	ena	20.0	ENA5	clearance	creatinine	NA	NR	NA	6.0	hr	NA	70.0	NA	93.9148550549912	21.0	NA	NA	ml/min	NA
+Wagner2003	NA	ena	20.0	ENA5	clearance	creatinine	NA	NR	NA	12.0	hr	NA	72.0	NA	98.3869910099908	22.0	NA	NA	ml/min	NA
+Wagner2003	NA	ena	20.0	ENA5	clearance	creatinine	NA	NR	NA	24.0	hr	NA	75.0	NA	98.3869910099908	22.0	NA	NA	ml/min	NA
+Wagner2003	NA	ena	20.0	ENA5	clearance	creatinine	NA	NR	NA	48.0	hr	NA	78.0	NA	98.3869910099908	22.0	NA	NA	ml/min	NA
+Wagner2003	NA	ena	20.0	ENA5	clearance	creatinine	NA	NR	NA	72.0	hr	NA	80.0	NA	98.3869910099908	22.0	NA	NA	ml/min	NA
+Wagner2003	NA	plac	20.0	ENA5	concentration	sodium	NA	NR	NA	0.0	hr	NA	142.0	NA	8.94427190999916	2.0	NA	NA	mmol/l	NA
+Wagner2003	NA	plac	20.0	ENA5	concentration	sodium	NA	NR	NA	6.0	hr	NA	141.0	NA	13.4164078649987	3.0	NA	NA	mmol/l	NA
+Wagner2003	NA	plac	20.0	ENA5	concentration	sodium	NA	NR	NA	12.0	hr	NA	141.0	NA	13.4164078649987	3.0	NA	NA	mmol/l	NA
+Wagner2003	NA	plac	20.0	ENA5	concentration	sodium	NA	NR	NA	24.0	hr	NA	141.0	NA	8.94427190999916	2.0	NA	NA	mmol/l	NA
+Wagner2003	NA	plac	20.0	ENA5	concentration	sodium	NA	NR	NA	48.0	hr	NA	141.0	NA	8.94427190999916	2.0	NA	NA	mmol/l	NA
+Wagner2003	NA	plac	20.0	ENA5	concentration	sodium	NA	NR	NA	72.0	hr	NA	140.0	NA	8.94427190999916	2.0	NA	NA	mmol/l	NA
+Wagner2003	NA	plac	20.0	ENA5	concentration	potassium	NA	NR	NA	0.0	hr	NA	4.2	NA	1.34164078649987	0.3	NA	NA	mmol/l	NA
+Wagner2003	NA	plac	20.0	ENA5	concentration	potassium	NA	NR	NA	6.0	hr	NA	4.6	NA	1.34164078649987	0.3	NA	NA	mmol/l	NA
+Wagner2003	NA	plac	20.0	ENA5	concentration	potassium	NA	NR	NA	12.0	hr	NA	4.5	NA	1.34164078649987	0.3	NA	NA	mmol/l	NA
+Wagner2003	NA	plac	20.0	ENA5	concentration	potassium	NA	NR	NA	24.0	hr	NA	4.5	NA	1.34164078649987	0.3	NA	NA	mmol/l	NA
+Wagner2003	NA	plac	20.0	ENA5	concentration	potassium	NA	NR	NA	48.0	hr	NA	4.5	NA	0.894427190999916	0.2	NA	NA	mmol/l	NA
+Wagner2003	NA	plac	20.0	ENA5	concentration	potassium	NA	NR	NA	72.0	hr	NA	4.5	NA	0.894427190999916	0.2	NA	NA	mmol/l	NA
+Wagner2003	NA	plac	20.0	ENA5	concentration	creatinine	NA	NR	NA	0.0	hr	NA	1.1	NA	0.894427190999916	0.2	NA	NA	mg/dl	NA
+Wagner2003	NA	plac	20.0	ENA5	concentration	creatinine	NA	NR	NA	6.0	hr	NA	1.1	NA	0.894427190999916	0.2	NA	NA	mg/dl	NA
+Wagner2003	NA	plac	20.0	ENA5	concentration	creatinine	NA	NR	NA	12.0	hr	NA	1.0	NA	0.894427190999916	0.2	NA	NA	mg/dl	NA
+Wagner2003	NA	plac	20.0	ENA5	concentration	creatinine	NA	NR	NA	24.0	hr	NA	1.1	NA	0.894427190999916	0.2	NA	NA	mg/dl	NA
+Wagner2003	NA	plac	20.0	ENA5	concentration	creatinine	NA	NR	NA	48.0	hr	NA	1.1	NA	0.894427190999916	0.2	NA	NA	mg/dl	NA
+Wagner2003	NA	plac	20.0	ENA5	concentration	creatinine	NA	NR	NA	72.0	hr	NA	1.1	NA	0.894427190999916	0.2	NA	NA	mg/dl	NA
+Wagner2003	NA	plac	20.0	ENA5	concentration	urea	NA	NR	NA	0.0	hr	NA	60.0	NA	67.0820393249937	15.0	NA	NA	mg/dl	NA
+Wagner2003	NA	plac	20.0	ENA5	concentration	urea	NA	NR	NA	6.0	hr	NA	58.0	NA	58.1377674149945	13.0	NA	NA	mg/dl	NA
+Wagner2003	NA	plac	20.0	ENA5	concentration	urea	NA	NR	NA	12.0	hr	NA	60.0	NA	62.6099033699941	14.0	NA	NA	mg/dl	NA
+Wagner2003	NA	plac	20.0	ENA5	concentration	urea	NA	NR	NA	24.0	hr	NA	60.0	NA	76.0263112349928	17.0	NA	NA	mg/dl	NA
+Wagner2003	NA	plac	20.0	ENA5	concentration	urea	NA	NR	NA	48.0	hr	NA	62.0	NA	93.9148550549912	21.0	NA	NA	mg/dl	NA
+Wagner2003	NA	plac	20.0	ENA5	concentration	urea	NA	NR	NA	72.0	hr	NA	63.0	NA	80.4984471899924	18.0	NA	NA	mg/dl	NA
+Wagner2003	NA	plac	20.0	ENA5	urinary volume rate	NA	NA	NR	NA	0.0	hr	NA	2.3	NA	1.78885438199983	0.4	NA	NA	ml/min	NA
+Wagner2003	NA	plac	20.0	ENA5	urinary volume rate	NA	NA	NR	NA	6.0	hr	NA	2.5	NA	3.13049516849971	0.7	NA	NA	ml/min	NA
+Wagner2003	NA	plac	20.0	ENA5	urinary volume rate	NA	NA	NR	NA	12.0	hr	NA	2.3	NA	2.68328157299975	0.6	NA	NA	ml/min	NA
+Wagner2003	NA	plac	20.0	ENA5	urinary volume rate	NA	NA	NR	NA	24.0	hr	NA	2.4	NA	3.13049516849971	0.7	NA	NA	ml/min	NA
+Wagner2003	NA	plac	20.0	ENA5	urinary volume rate	NA	NA	NR	NA	48.0	hr	NA	2.3	NA	2.23606797749979	0.5	NA	NA	ml/min	NA
+Wagner2003	NA	plac	20.0	ENA5	urinary volume rate	NA	NA	NR	NA	72.0	hr	NA	2.2	NA	2.68328157299975	0.6	NA	NA	ml/min	NA
+Wagner2003	NA	plac	20.0	ENA5	clearance	sodium	NA	NR	NA	0.0	hr	NA	1.6	NA	3.13049516849971	0.7	NA	NA	ml/min	NA
+Wagner2003	NA	plac	20.0	ENA5	clearance	sodium	NA	NR	NA	6.0	hr	NA	1.8	NA	3.57770876399966	0.8	NA	NA	ml/min	NA
+Wagner2003	NA	plac	20.0	ENA5	clearance	sodium	NA	NR	NA	12.0	hr	NA	1.6	NA	3.57770876399966	0.8	NA	NA	ml/min	NA
+Wagner2003	NA	plac	20.0	ENA5	clearance	sodium	NA	NR	NA	24.0	hr	NA	1.7	NA	3.13049516849971	0.7	NA	NA	ml/min	NA
+Wagner2003	NA	plac	20.0	ENA5	clearance	sodium	NA	NR	NA	48.0	hr	NA	1.7	NA	3.57770876399966	0.8	NA	NA	ml/min	NA
+Wagner2003	NA	plac	20.0	ENA5	clearance	sodium	NA	NR	NA	72.0	hr	NA	2.0	NA	3.57770876399966	0.8	NA	NA	ml/min	NA
+Wagner2003	NA	plac	20.0	ENA5	clearance	potassium	NA	NR	NA	0.0	hr	NA	34.0	NA	102.85912696499	23.0	NA	NA	ml/min	NA
+Wagner2003	NA	plac	20.0	ENA5	clearance	potassium	NA	NR	NA	6.0	hr	NA	32.0	NA	80.4984471899924	18.0	NA	NA	ml/min	NA
+Wagner2003	NA	plac	20.0	ENA5	clearance	potassium	NA	NR	NA	12.0	hr	NA	33.0	NA	71.5541752799933	16.0	NA	NA	ml/min	NA
+Wagner2003	NA	plac	20.0	ENA5	clearance	potassium	NA	NR	NA	24.0	hr	NA	35.0	NA	89.4427190999916	20.0	NA	NA	ml/min	NA
+Wagner2003	NA	plac	20.0	ENA5	clearance	potassium	NA	NR	NA	48.0	hr	NA	34.0	NA	80.4984471899924	18.0	NA	NA	ml/min	NA
+Wagner2003	NA	plac	20.0	ENA5	clearance	potassium	NA	NR	NA	72.0	hr	NA	33.0	NA	89.4427190999916	20.0	NA	NA	ml/min	NA
+Wagner2003	NA	plac	20.0	ENA5	clearance	creatinine	NA	NR	NA	0.0	hr	NA	76.0	NA	89.4427190999916	20.0	NA	NA	ml/min	NA
+Wagner2003	NA	plac	20.0	ENA5	clearance	creatinine	NA	NR	NA	6.0	hr	NA	78.0	NA	102.85912696499	23.0	NA	NA	ml/min	NA
+Wagner2003	NA	plac	20.0	ENA5	clearance	creatinine	NA	NR	NA	12.0	hr	NA	80.0	NA	89.4427190999916	20.0	NA	NA	ml/min	NA
+Wagner2003	NA	plac	20.0	ENA5	clearance	creatinine	NA	NR	NA	24.0	hr	NA	77.0	NA	93.9148550549912	21.0	NA	NA	ml/min	NA
+Wagner2003	NA	plac	20.0	ENA5	clearance	creatinine	NA	NR	NA	48.0	hr	NA	75.0	NA	102.85912696499	23.0	NA	NA	ml/min	NA
+Wagner2003	NA	plac	20.0	ENA5	clearance	creatinine	NA	NR	NA	72.0	hr	NA	72.0	NA	98.3869910099908	22.0	NA	NA	ml/min	NA

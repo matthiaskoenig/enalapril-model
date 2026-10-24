@@ -1,0 +1,13 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Donnelly1990		all	13.0	PLAC	blood pressure systolic			sphygmomanometer	PLAC_blood pressure systolic	0.0	hr		177.371492851204	197.560931870425	20.189439019221	5.599542892819593	error bar is SD (Fig1 caption)	mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	PLAC	blood pressure systolic			sphygmomanometer	PLAC_blood pressure systolic	0.5	hr		168.548802556286					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	PLAC	blood pressure systolic			sphygmomanometer	PLAC_blood pressure systolic	1.0	hr		168.558991832276					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	PLAC	blood pressure systolic			sphygmomanometer	PLAC_blood pressure systolic	1.5	hr		161.471739024112					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	PLAC	blood pressure systolic			sphygmomanometer	PLAC_blood pressure systolic	2.5	hr		165.591059521675	185.780090969856	20.189031448181	5.599429852951661	error bar is SD (Fig1 caption)	mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	PLAC	blood pressure systolic			sphygmomanometer	PLAC_blood pressure systolic	3.5	hr		162.613753077161					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	PLAC	blood pressure systolic			sphygmomanometer	PLAC_blood pressure systolic	4.0	hr		159.468934935359					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	PLAC	blood pressure systolic			sphygmomanometer	PLAC_blood pressure systolic	5.0	hr		157.596553579289					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	PLAC	blood pressure systolic			sphygmomanometer	PLAC_blood pressure systolic	6.0	hr		154.460702000359	165.028611486982	10.567909486622996	2.931010732960118	error bar is SD (Fig1 caption)	mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	PLAC	blood pressure systolic			sphygmomanometer	PLAC_blood pressure systolic	7.0	hr		158.739382774418					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	PLAC	blood pressure systolic			sphygmomanometer	PLAC_blood pressure systolic	8.0	hr		161.44117119614					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	PLAC	blood pressure systolic			sphygmomanometer	PLAC_blood pressure systolic	24.0	hr		169.723014721466					mmHg	mmHg	dimensionless

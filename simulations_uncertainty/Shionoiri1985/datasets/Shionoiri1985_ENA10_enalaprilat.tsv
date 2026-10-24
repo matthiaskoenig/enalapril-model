@@ -1,0 +1,8 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Shionoiri1985		all	13.0	ENA10	concentration	enalaprilat	plasma	immunofluorescence	ENA10_enalaprilat	0.0	hr		0.0				MK-422	mole/meter^3	ng/ml	dimensionless
+Shionoiri1985		all	13.0	ENA10	concentration	enalaprilat	plasma	immunofluorescence	ENA10_enalaprilat	1.0	hr		5.948774627440487e-06	2.9285957075526	8.859642823571385e-06	2.457222806360249e-06	MK-422	mole/meter^3	ng/ml	dimensionless
+Shionoiri1985		all	13.0	ENA10	concentration	enalaprilat	plasma	immunofluorescence	ENA10_enalaprilat	2.0	hr		4.3319671920869384e-05	17.7451670489491	2.7454755101368943e-05	7.614579021022488e-06	MK-422	mole/meter^3	ng/ml	dimensionless
+Shionoiri1985		all	13.0	ENA10	concentration	enalaprilat	plasma	immunofluorescence	ENA10_enalaprilat	4.0	hr		9.840414498777847e-05	36.8514558403567	2.6577266560599277e-05	7.371207488147314e-06	MK-422	mole/meter^3	ng/ml	dimensionless
+Shionoiri1985		all	13.0	ENA10	concentration	enalaprilat	plasma	immunofluorescence	ENA10_enalaprilat	6.0	hr		9.796994804844435e-05	37.2985255585026	3.276954364944247e-05	9.088636146278519e-06	MK-422	mole/meter^3	ng/ml	dimensionless
+Shionoiri1985		all	13.0	ENA10	concentration	enalaprilat	plasma	immunofluorescence	ENA10_enalaprilat	9.0	hr		7.34834531384684e-05	28.2541959623481	2.7456417011484395e-05	7.615039951956064e-06	MK-422	mole/meter^3	ng/ml	dimensionless
+Shionoiri1985		all	13.0	ENA10	concentration	enalaprilat	plasma	immunofluorescence	ENA10_enalaprilat	24.0	hr		1.2693116046060433e-05	5.27812050862745	8.857980913456362e-06	2.4567618754267875e-06	MK-422	mole/meter^3	ng/ml	dimensionless

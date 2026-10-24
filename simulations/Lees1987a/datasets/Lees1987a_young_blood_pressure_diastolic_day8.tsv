@@ -1,0 +1,10 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Lees1987a		young	6.0	ENA10	blood pressure diastolic			sphygmomanometer	young_blood pressure diastolic	168.023979128192	hr		60.5202073500817	53.7635456668525	6.75666168322925	2.75839558142103		mmHg	mmHg	dimensionless
+Lees1987a		young	6.0	ENA10	blood pressure diastolic			sphygmomanometer	young_blood pressure diastolic	169.129833201419	hr		54.1262128807201					mmHg	mmHg	dimensionless
+Lees1987a		young	6.0	ENA10	blood pressure diastolic			sphygmomanometer	young_blood pressure diastolic	169.986984434087	hr		54.1325643205427					mmHg	mmHg	dimensionless
+Lees1987a		young	6.0	ENA10	blood pressure diastolic			sphygmomanometer	young_blood pressure diastolic	171.868495881336	hr		50.9454118175868					mmHg	mmHg	dimensionless
+Lees1987a		young	6.0	ENA10	blood pressure diastolic			sphygmomanometer	young_blood pressure diastolic	173.92800398675	hr		52.7390584234751	43.8470426719043	8.89201575157074	3.6301502293565		mmHg	mmHg	dimensionless
+Lees1987a		young	6.0	ENA10	blood pressure diastolic			sphygmomanometer	young_blood pressure diastolic	175.987512092164	hr		54.5327050293633					mmHg	mmHg	dimensionless
+Lees1987a		young	6.0	ENA10	blood pressure diastolic			sphygmomanometer	young_blood pressure diastolic	177.790343857181	hr		56.6801268333677					mmHg	mmHg	dimensionless
+Lees1987a		young	6.0	ENA10	blood pressure diastolic			sphygmomanometer	young_blood pressure diastolic	179.76460586873	hr		58.8288189253365					mmHg	mmHg	dimensionless
+Lees1987a		young	6.0	ENA10	blood pressure diastolic			sphygmomanometer	young_blood pressure diastolic	191.940374637235	hr		62.1201350413822					mmHg	mmHg	dimensionless

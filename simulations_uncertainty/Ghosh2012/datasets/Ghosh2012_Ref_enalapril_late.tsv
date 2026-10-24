@@ -1,0 +1,8 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	min	max	comments	mean_unit	value_unit	count_unit
+Ghosh2012		all	36.0	ENA20R	concentration	enalapril	plasma	LC MS/MS	Ref_enalapril	9.0	hr		2.212209774705458e-05							mole/meter^3	ng/ml	dimensionless
+Ghosh2012		all	36.0	ENA20R	concentration	enalapril	plasma	LC MS/MS	Ref_enalapril	12.0	hr		2.1457606356592023e-05							mole/meter^3	ng/ml	dimensionless
+Ghosh2012		all	36.0	ENA20R	concentration	enalapril	plasma	LC MS/MS	Ref_enalapril	16.0	hr		2.0187902918839402e-05							mole/meter^3	ng/ml	dimensionless
+Ghosh2012		all	36.0	ENA20R	concentration	enalapril	plasma	LC MS/MS	Ref_enalapril	24.0	hr		2.0187902918839402e-05							mole/meter^3	ng/ml	dimensionless
+Ghosh2012		all	36.0	ENA20R	concentration	enalapril	plasma	LC MS/MS	Ref_enalapril	36.0	hr		2.0813074592610082e-05							mole/meter^3	ng/ml	dimensionless
+Ghosh2012		all	36.0	ENA20R	concentration	enalapril	plasma	LC MS/MS	Ref_enalapril	48.0	hr		2.0813074592610082e-05							mole/meter^3	ng/ml	dimensionless
+Ghosh2012		all	36.0	ENA20R	concentration	enalapril	plasma	LC MS/MS	Ref_enalapril	72.0	hr		2.1457606356592023e-05							mole/meter^3	ng/ml	dimensionless

@@ -1,0 +1,11 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	median	sd	se	min	max	unit	comments
+Ribeiro1996	NA	all	18.0	EUP20	auc_end	enalaprilat	serum	RIA	NA	24.0	hr	NA	631.0	NA	NA	NA	NA	516.0	771.0	ng/ml*hr	parametric/nonparametric
+Ribeiro1996	NA	all	18.0	EUP20	cmax	enalaprilat	serum	RIA	NA	NA	NA	NA	80.0	NA	NA	NA	NA	65.0	98.0	ng/ml 	all means are geometric means
+Ribeiro1996	NA	all	18.0	EUP20	kel	enalaprilat	serum	RIA	NA	NA	NA	NA	0.17	NA	NA	NA	NA	0.15	0.2	1/hr	NA
+Ribeiro1996	NA	all	18.0	EUP20	thalf	enalaprilat	serum	RIA	NA	NA	NA	NA	4.0	NA	NA	NA	NA	3.5	4.7	hr	NA
+Ribeiro1996	NA	all	18.0	EUP20	tmax	enalaprilat	serum	RIA	NA	NA	NA	NA	NA	NA	4.0	NA	NA	1.5	8.0	hr	NA
+Ribeiro1996	NA	all	18.0	REN20	auc_end	enalaprilat	serum	RIA	NA	24.0	hr	NA	553.0	NA	NA	NA	NA	443.0	691.0	ng/ml*hr	parametric/nonparametric
+Ribeiro1996	NA	all	18.0	REN20	cmax	enalaprilat	serum	RIA	NA	NA	NA	NA	71.0	NA	NA	NA	NA	55.0	92.0	ng/ml 	all means are geometric means
+Ribeiro1996	NA	all	18.0	REN20	kel	enalaprilat	serum	RIA	NA	NA	NA	NA	0.18	NA	NA	NA	NA	0.15	0.2	1/hr	NA
+Ribeiro1996	NA	all	18.0	REN20	thalf	enalaprilat	serum	RIA	NA	NA	NA	NA	3.9	NA	NA	NA	NA	3.4	4.5	hr	NA
+Ribeiro1996	NA	all	18.0	REN20	tmax	enalaprilat	serum	RIA	NA	NA	NA	NA	NA	NA	4.0	NA	NA	1.5	8.0	hr	NA

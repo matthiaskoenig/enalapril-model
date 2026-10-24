@@ -1,0 +1,8 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Ishizaki1988		all	7.0	ENA10	recovery	enalapril	urine	RIA	ENA10_recovery_enalapril	0.0	hr		0.0					count*mole	percent	dimensionless
+Ishizaki1988		all	7.0	ENA10	recovery	enalapril	urine	RIA	ENA10_recovery_enalapril	2.0	hr		3.132580758589285e-06					count*mole	percent	dimensionless
+Ishizaki1988		all	7.0	ENA10	recovery	enalapril	urine	RIA	ENA10_recovery_enalapril	4.0	hr		4.439686210238694e-06					count*mole	percent	dimensionless
+Ishizaki1988		all	7.0	ENA10	recovery	enalapril	urine	RIA	ENA10_recovery_enalapril	6.0	hr		4.697197315698444e-06					count*mole	percent	dimensionless
+Ishizaki1988		all	7.0	ENA10	recovery	enalapril	urine	RIA	ENA10_recovery_enalapril	8.0	hr		4.829314957329394e-06					count*mole	percent	dimensionless
+Ishizaki1988		all	7.0	ENA10	recovery	enalapril	urine	RIA	ENA10_recovery_enalapril	12.0	hr		4.988391571074471e-06					count*mole	percent	dimensionless
+Ishizaki1988		all	7.0	ENA10	recovery	enalapril	urine	RIA	ENA10_recovery_enalapril	24.0	hr		5.045609343298237e-06					count*mole	percent	dimensionless

@@ -1,0 +1,19 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+VanHecken2020		all	23.0	REN10	concentration	enalapril	serum	HPLC MS/MS	REN10_enalapril	0.0	hr		0.0					mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	23.0	REN10	concentration	enalapril	serum	HPLC MS/MS	REN10_enalapril	0.16	hr		2.8004412509656216e-06					mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	23.0	REN10	concentration	enalapril	serum	HPLC MS/MS	REN10_enalapril	0.33	hr		2.9204601617213008e-05					mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	23.0	REN10	concentration	enalapril	serum	HPLC MS/MS	REN10_enalapril	0.5	hr		7.641203984777632e-05	1.20481927710844	7.321153556095856e-05	1.5265660439711946e-05		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	23.0	REN10	concentration	enalapril	serum	HPLC MS/MS	REN10_enalapril	0.75	hr		0.00011841865861226064	17.9216867469879	7.081115734584524e-05	1.4765146982672263e-05		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	23.0	REN10	concentration	enalapril	serum	HPLC MS/MS	REN10_enalapril	1.0	hr		0.00013642149522561094	25.1506024096386	6.961096823828818e-05	1.4514890254152315e-05		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	23.0	REN10	concentration	enalapril	serum	HPLC MS/MS	REN10_enalapril	1.25	hr		0.00012644552336359968	71.5	6.348840353760573e-05	1.3238247263062972e-05		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	23.0	REN10	concentration	enalapril	serum	HPLC MS/MS	REN10_enalapril	1.5	hr		0.00010521657842913699	58.3	4.9652623505692035e-05	1.0353287696685913e-05		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	23.0	REN10	concentration	enalapril	serum	HPLC MS/MS	REN10_enalapril	2.0	hr		7.121122038169706e-05	40.1	3.53111637964615e-05	7.3628866286925626e-06		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	23.0	REN10	concentration	enalapril	serum	HPLC MS/MS	REN10_enalapril	2.5	hr		4.520712305130208e-05	26.5	2.518796873725657e-05	5.25205454253697e-06		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	23.0	REN10	concentration	enalapril	serum	HPLC MS/MS	REN10_enalapril	3.0	hr		2.8804538581360656e-05	18.7	2.087048845433922e-05	4.351797671141487e-06		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	23.0	REN10	concentration	enalapril	serum	HPLC MS/MS	REN10_enalapril	3.5	hr		1.9203025720907126e-05	12.8	1.479913182224573e-05	3.085832300468977e-06		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	23.0	REN10	concentration	enalapril	serum	HPLC MS/MS	REN10_enalapril	4.0	hr		1.2401954111419148e-05	8.4	9.911961776274914e-06	2.066786901936086e-06		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	23.0	REN10	concentration	enalapril	serum	HPLC MS/MS	REN10_enalapril	4.5	hr		1.0001575896305771e-05	8.4	1.2312339991388292e-05	2.567300358975819e-06		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	23.0	REN10	concentration	enalapril	serum	HPLC MS/MS	REN10_enalapril	5.0	hr		5.200819466078996e-06	4.7	7.284347756797444e-06	1.5188915042965861e-06		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	23.0	REN10	concentration	enalapril	serum	HPLC MS/MS	REN10_enalapril	6.0	hr		2.8004412509656216e-06	2.6	4.106246999987302e-06	8.562116871759736e-07		mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	23.0	REN10	concentration	enalapril	serum	HPLC MS/MS	REN10_enalapril	8.0	hr		1.200189107556674e-06					mole/meter^3	ng/ml	dimensionless
+VanHecken2020		all	23.0	REN10	concentration	enalapril	serum	HPLC MS/MS	REN10_enalapril	10.0	hr		0.0					mole/meter^3	ng/ml	dimensionless

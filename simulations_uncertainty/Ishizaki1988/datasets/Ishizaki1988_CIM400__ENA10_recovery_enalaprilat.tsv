@@ -1,0 +1,8 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Ishizaki1988		all	7.0	CIM400, ENA10	recovery	enalaprilat	urine	RIA	CIM400, ENA10_recovery_enalaprilat	0.0	hr		0.0					count*mole	percent	dimensionless
+Ishizaki1988		all	7.0	CIM400, ENA10	recovery	enalaprilat	urine	RIA	CIM400, ENA10_recovery_enalaprilat	2.0	hr		4.0438989205538506e-07					count*mole	percent	dimensionless
+Ishizaki1988		all	7.0	CIM400, ENA10	recovery	enalaprilat	urine	RIA	CIM400, ENA10_recovery_enalaprilat	4.0	hr		2.9848054885200352e-06					count*mole	percent	dimensionless
+Ishizaki1988		all	7.0	CIM400, ENA10	recovery	enalaprilat	urine	RIA	CIM400, ENA10_recovery_enalaprilat	6.0	hr		4.840628946260113e-06					count*mole	percent	dimensionless
+Ishizaki1988		all	7.0	CIM400, ENA10	recovery	enalaprilat	urine	RIA	CIM400, ENA10_recovery_enalaprilat	8.0	hr		6.115600494420966e-06					count*mole	percent	dimensionless
+Ishizaki1988		all	7.0	CIM400, ENA10	recovery	enalaprilat	urine	RIA	CIM400, ENA10_recovery_enalaprilat	12.0	hr		7.360527978293239e-06					count*mole	percent	dimensionless
+Ishizaki1988		all	7.0	CIM400, ENA10	recovery	enalaprilat	urine	RIA	CIM400, ENA10_recovery_enalaprilat	24.0	hr		8.339289687630303e-06					count*mole	percent	dimensionless

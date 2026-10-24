@@ -1,0 +1,7 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Baba1990		cirrhosis	7.0	ENA10	concentration	enalapril	serum	enzymatic assay	enalapril_cirrhosis	0.5	hr		0.0002556557057714327	81.2330781326107	0.00010547724016048063	3.98666494917238e-05		mole/meter^3	ng/ml	dimensionless
+Baba1990		cirrhosis	7.0	ENA10	concentration	enalapril	serum	enzymatic assay	enalapril_cirrhosis	1.0	hr		0.0002154110138958867	69.5086101294409	8.140196817496582e-05	3.0767052003164855e-05		mole/meter^3	ng/ml	dimensionless
+Baba1990		cirrhosis	7.0	ENA10	concentration	enalapril	serum	enzymatic assay	enalapril_cirrhosis	2.0	hr		9.495593296920493e-05	27.9339999559944	5.4903406450004214e-05	2.075153708528724e-05		mole/meter^3	ng/ml	dimensionless
+Baba1990		cirrhosis	7.0	ENA10	concentration	enalapril	serum	enzymatic assay	enalapril_cirrhosis	4.0	hr		3.6365965339167545e-05	9.02984029425628	3.275157029082895e-05	1.2378930005197868e-05		mole/meter^3	ng/ml	dimensionless
+Baba1990		cirrhosis	7.0	ENA10	concentration	enalapril	serum	enzymatic assay	enalapril_cirrhosis	6.0	hr		1.3094683859357143e-05	2.70246832913997	1.5651727238181716e-05	5.9157968372635226e-06		mole/meter^3	ng/ml	dimensionless
+Baba1990		cirrhosis	7.0	ENA10	concentration	enalapril	serum	enzymatic assay	enalapril_cirrhosis	8.0	hr		3.1572526108551095e-06	1.72048754352945	3.7386646883371273e-06	1.4130824286855485e-06		mole/meter^3	ng/ml	dimensionless

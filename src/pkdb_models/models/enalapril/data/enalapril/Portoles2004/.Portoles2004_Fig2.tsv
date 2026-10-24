@@ -1,0 +1,21 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Portoles2004	NA	all	23.0	ENA20	blood pressure systolic	NA	NA	sphygmomanometer	ENA20_blood pressure systolic	0.0	hr	NA	114.042665987001	132.594265324328	18.5515993373264	3.868275865644231	mmHg	NA
+Portoles2004	NA	all	23.0	ENA20	blood pressure systolic	NA	NA	sphygmomanometer	ENA20_blood pressure systolic	5.0	hr	NA	102.051739518287	120.035682426405	17.9839429081178	3.7499113179220687	mmHg	NA
+Portoles2004	NA	all	23.0	ENA20	blood pressure systolic	NA	NA	sphygmomanometer	ENA20_blood pressure systolic	12.0	hr	NA	110.902612463362	131.170230661399	20.2676181980375	4.226090532896295	mmHg	NA
+Portoles2004	NA	all	23.0	ENA20	blood pressure systolic	NA	NA	sphygmomanometer	ENA20_blood pressure systolic	24.0	hr	NA	108.620568370078	122.609710717472	13.9891423473939	2.916937819727851	mmHg	NA
+Portoles2004	NA	all	23.0	ENA20	blood pressure systolic	NA	NA	sphygmomanometer	ENA20_blood pressure systolic	36.0	hr	NA	112.618631324073	130.315483624315	17.6968523002421	3.6900487880395776	mmHg	NA
+Portoles2004	NA	all	23.0	REN20	blood pressure systolic	NA	NA	sphygmomanometer	REN20_blood pressure systolic	0.0	hr	NA	112.89756594877	127.455995922008	14.5584299732382	3.035642495460718	mmHg	NA
+Portoles2004	NA	all	23.0	REN20	blood pressure systolic	NA	NA	sphygmomanometer	REN20_blood pressure systolic	5.0	hr	NA	101.766280107047	113.471747164521	11.7054670574742	2.4407586047536243	mmHg	NA
+Portoles2004	NA	all	23.0	REN20	blood pressure systolic	NA	NA	sphygmomanometer	REN20_blood pressure systolic	12.0	hr	NA	109.191487192558	124.891754810756	15.700267618198	3.273732102947821	mmHg	NA
+Portoles2004	NA	all	23.0	REN20	blood pressure systolic	NA	NA	sphygmomanometer	REN20_blood pressure systolic	24.0	hr	NA	112.046081304957	126.033592455715	13.9875111507583	2.9165976917171665	mmHg	NA
+Portoles2004	NA	all	23.0	REN20	blood pressure systolic	NA	NA	sphygmomanometer	REN20_blood pressure systolic	36.0	hr	NA	117.755269529756	135.171556008666	17.4162864789091	3.6315467701998854	mmHg	NA
+Portoles2004	NA	all	23.0	ENA20	blood pressure diastolic	NA	NA	sphygmomanometer	ENA20_blood pressure diastolic	0.0	hr	NA	71.7914107302153	79.2133554224544	7.42194469223907	1.547582448666246	mmHg	NA
+Portoles2004	NA	all	23.0	ENA20	blood pressure diastolic	NA	NA	sphygmomanometer	ENA20_blood pressure diastolic	5.0	hr	NA	60.6601248884924	69.7948260481712	9.13470115967883	1.9047168598969126	mmHg	NA
+Portoles2004	NA	all	23.0	ENA20	blood pressure diastolic	NA	NA	sphygmomanometer	ENA20_blood pressure diastolic	12.0	hr	NA	65.5145660762074	73.2219701796864	7.70740410347902	1.6071048505380217	mmHg	NA
+Portoles2004	NA	all	23.0	ENA20	blood pressure diastolic	NA	NA	sphygmomanometer	ENA20_blood pressure diastolic	24.0	hr	NA	66.0871160953229	76.362023703326	10.274907608003	2.142466339373325	mmHg	NA
+Portoles2004	NA	all	23.0	ENA20	blood pressure diastolic	NA	NA	sphygmomanometer	ENA20_blood pressure diastolic	36.0	hr	NA	68.0853319740026	77.2200331336815	9.13470115967887	1.9047168598969213	mmHg	NA
+Portoles2004	NA	all	23.0	REN20	blood pressure diastolic	NA	NA	sphygmomanometer	REN20_blood pressure diastolic	0.0	hr	NA	67.7966101694915	77.5005989550146	9.70398878552314	2.023421535629782	mmHg	NA
+Portoles2004	NA	all	23.0	REN20	blood pressure diastolic	NA	NA	sphygmomanometer	REN20_blood pressure diastolic	5.0	hr	NA	58.3764495985726	68.6529884032113	10.2765388046387	2.14280646738403	mmHg	NA
+Portoles2004	NA	all	23.0	REN20	blood pressure diastolic	NA	NA	sphygmomanometer	REN20_blood pressure diastolic	12.0	hr	NA	61.2326749076079	71.7930419268509	10.560367019243	2.2019887412451116	mmHg	NA
+Portoles2004	NA	all	23.0	REN20	blood pressure diastolic	NA	NA	sphygmomanometer	REN20_blood pressure diastolic	24.0	hr	NA	66.6580349178028	78.35860838537	11.7005734675672	2.43973822072153	mmHg	NA
+Portoles2004	NA	all	23.0	REN20	blood pressure diastolic	NA	NA	sphygmomanometer	REN20_blood pressure diastolic	36.0	hr	NA	67.8015037593983	77.5071237415571	9.70561998215881	2.0237616636404807	mmHg	NA

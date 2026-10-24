@@ -1,0 +1,79 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Ohnishi1989	NA	healthy	7.0	ENA10	recovery	enalapril	urine	RIA	enalapril_recovery_healthy	0.0	hr	NA	0.0	NA	NA	NA	percent	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	recovery	enalapril	urine	RIA	enalapril_recovery_healthy	2.0	hr	NA	15.5017343150977	12.9816831984422	6.66742854584108	2.5200511166555	percent	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	recovery	enalapril	urine	RIA	enalapril_recovery_healthy	4.0	hr	NA	22.0008519442585	19.4820178908294	6.66420849921411	2.51883405342907	percent	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	recovery	enalapril	urine	RIA	enalapril_recovery_healthy	6.0	hr	NA	23.0925576583704	20.451287044362	6.98814518988912	2.64127061400841	percent	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	recovery	enalapril	urine	RIA	enalapril_recovery_healthy	8.0	hr	NA	24.0715633177144	20.3527049230208	9.83917447342415	3.7188583946936	percent	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	recovery	enalapril	urine	RIA	enalapril_recovery_healthy	12.0	hr	NA	24.2429258199964	21.8416600742409	6.35315199504711	2.4012657457555	percent	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	recovery	enalapril	urine	RIA	enalapril_recovery_healthy	24.0	hr	NA	24.7	NA	6.08522801544856	2.3	percent	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	recovery	enalapril	urine	RIA	enalapril_recovery_cirrhosis	0.0	hr	NA	0.0	NA	NA	NA	percent	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	recovery	enalapril	urine	RIA	enalapril_recovery_cirrhosis	2.0	hr	NA	27.620763098643	22.2206535629526	14.287346883945277	5.400109535690401	percent	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	recovery	enalapril	urine	RIA	enalapril_recovery_cirrhosis	4.0	hr	NA	42.2836974380819	36.4023611026593	15.560553320256167	5.881336335422603	percent	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	recovery	enalapril	urine	RIA	enalapril_recovery_cirrhosis	8.0	hr	NA	45.9205257713138	39.5616138258383	16.824099616686087	6.358911945475498	percent	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	recovery	enalapril	urine	RIA	enalapril_recovery_cirrhosis	12.0	hr	NA	46.4421590701637	40.2020324955882	16.509823065892117	6.240126574575498	percent	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	recovery	enalapril	urine	RIA	enalapril_recovery_cirrhosis	24.0	hr	NA	47.2	NA	16.4036581286005	6.2	percent	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_healthy	0.0	hr	NA	0.0	NA	NA	NA	percent	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_healthy	2.0	hr	NA	2.66025680034079	1.10144221992334	4.12423571984607	1.55881458041745	percent	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_healthy	4.0	hr	NA	13.2418913162539	10.361832897219	7.61991833810411	2.88005841903487	percent	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_healthy	6.0	hr	NA	20.9422503499057	17.1021724578592	10.1598911174721	3.84007789204648	percent	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_healthy	8.0	hr	NA	26.0013387695491	21.8024706383497	11.1091608631082	4.19886813119942	percent	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_healthy	12.0	hr	NA	31.4503742469421	27.3715085498692	10.791664265687	4.0788656970729	percent	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_healthy	24.0	hr	NA	37.7	NA	10.0538549820454	3.8	percent	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_cirrhosis	0.0	hr	NA	0.0	NA	NA	NA	percent	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_cirrhosis	2.0	hr	NA	0.729264285279626	1.32805939268546	1.58426294047805	0.598795107405834	percent	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_cirrhosis	4.0	hr	NA	3.2816892837583	1.96166250836731	3.49246257163106	1.32002677539099	percent	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_cirrhosis	8.0	hr	NA	6.32215663603725	4.04211038763465	6.03243535099908	2.2800462484026	percent	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_cirrhosis	12.0	hr	NA	8.52260694943104	6.12255826690198	6.3499319484201	2.40004868252906	percent	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_cirrhosis	24.0	hr	NA	12.7	NA	8.46640419540669	3.2	percent	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	recovery	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_recovery_healthy	0.0	hr	NA	0.0	NA	NA	NA	percent	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	recovery	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_recovery_healthy	2.0	hr	NA	18.4240773660477	14.9946005799058	9.07354270320071	3.42947678614198	percent	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	recovery	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_recovery_healthy	4.0	hr	NA	36.1901239233691	32.1051955164528	10.8077046882038	4.08492840691629	percent	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	recovery	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_recovery_healthy	6.0	hr	NA	43.6626774166457	39.7441432677323	10.3674668619389	3.91853414891334	percent	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	recovery	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_recovery_healthy	8.0	hr	NA	49.7507496800478	44.7683723237809	13.1821314225617	4.9823773562669	percent	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	recovery	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_recovery_healthy	12.0	hr	NA	55.5296593869982	51.2844119688215	11.2318689224346	4.2452474181767	percent	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	recovery	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_recovery_healthy	24.0	hr	NA	62.4	NA	14.5516322108553	5.5	percent	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	recovery	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_recovery_cirrhosis	0.0	hr	NA	0.0	NA	NA	NA	percent	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	recovery	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_recovery_cirrhosis	2.0	hr	NA	28.4725354781449	34.7627784525892	16.6424185965508	6.29024297444428	percent	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	recovery	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_recovery_cirrhosis	4.0	hr	NA	45.5831304146919	53.0975356077502	19.8812473914045	7.51440519305828	percent	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	recovery	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_recovery_cirrhosis	8.0	hr	NA	52.2000866583996	59.7165169337054	19.8866052554158	7.51643027530578	percent	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	recovery	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_recovery_cirrhosis	12.0	hr	NA	54.4145140960413	62.3342732523076	20.9537131710073	7.9197591562663	percent	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	recovery	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_recovery_cirrhosis	24.0	hr	NA	59.9	NA	21.6951607507296	8.2	percent	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	cumulative amount	enalapril	urine	RIA	enalapril_cumulative amount_healthy	0.0	hr	NA	0.0	NA	NA	NA	mg	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	cumulative amount	enalapril	urine	RIA	enalapril_cumulative amount_healthy	2.0	hr	NA	1.55017343150977	NA	0.666742854584108	0.25200511166555	mg	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	cumulative amount	enalapril	urine	RIA	enalapril_cumulative amount_healthy	4.0	hr	NA	2.20008519442585	NA	0.666420849921411	0.251883405342907	mg	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	cumulative amount	enalapril	urine	RIA	enalapril_cumulative amount_healthy	6.0	hr	NA	2.30925576583704	NA	0.698814518988912	0.264127061400841	mg	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	cumulative amount	enalapril	urine	RIA	enalapril_cumulative amount_healthy	8.0	hr	NA	2.40715633177144	NA	0.983917447342415	0.37188583946936	mg	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	cumulative amount	enalapril	urine	RIA	enalapril_cumulative amount_healthy	12.0	hr	NA	2.42429258199964	NA	0.635315199504711	0.24012657457555	mg	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	cumulative amount	enalapril	urine	RIA	enalapril_cumulative amount_healthy	24.0	hr	NA	2.47	NA	0.608522801544856	0.23	mg	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	cumulative amount	enalapril	urine	RIA	enalapril_cumulative amount_cirrhosis	0.0	hr	NA	0.0	NA	NA	NA	mg	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	cumulative amount	enalapril	urine	RIA	enalapril_cumulative amount_cirrhosis	2.0	hr	NA	2.7620763098643	NA	1.4287346883945276	0.54001095356904	mg	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	cumulative amount	enalapril	urine	RIA	enalapril_cumulative amount_cirrhosis	4.0	hr	NA	4.22836974380819	NA	1.5560553320256165	0.5881336335422602	mg	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	cumulative amount	enalapril	urine	RIA	enalapril_cumulative amount_cirrhosis	8.0	hr	NA	4.59205257713138	NA	1.6824099616686088	0.6358911945475498	mg	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	cumulative amount	enalapril	urine	RIA	enalapril_cumulative amount_cirrhosis	12.0	hr	NA	4.64421590701637	NA	1.650982306589212	0.6240126574575499	mg	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	cumulative amount	enalapril	urine	RIA	enalapril_cumulative amount_cirrhosis	24.0	hr	NA	4.72	NA	1.64036581286005	0.62	mg	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	cumulative amount	enalaprilat	urine	RIA	enalaprilat_cumulative amount_healthy	0.0	hr	NA	0.0	NA	NA	NA	mg	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	cumulative amount	enalaprilat	urine	RIA	enalaprilat_cumulative amount_healthy	2.0	hr	NA	0.266025680034079	NA	0.412423571984607	0.155881458041745	mg	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	cumulative amount	enalaprilat	urine	RIA	enalaprilat_cumulative amount_healthy	4.0	hr	NA	1.32418913162539	NA	0.761991833810411	0.288005841903487	mg	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	cumulative amount	enalaprilat	urine	RIA	enalaprilat_cumulative amount_healthy	6.0	hr	NA	2.09422503499057	NA	1.01598911174721	0.384007789204648	mg	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	cumulative amount	enalaprilat	urine	RIA	enalaprilat_cumulative amount_healthy	8.0	hr	NA	2.60013387695491	NA	1.11091608631082	0.419886813119942	mg	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	cumulative amount	enalaprilat	urine	RIA	enalaprilat_cumulative amount_healthy	12.0	hr	NA	3.14503742469421	NA	1.0791664265687	0.40788656970729	mg	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	cumulative amount	enalaprilat	urine	RIA	enalaprilat_cumulative amount_healthy	24.0	hr	NA	3.77	NA	1.00538549820454	0.38	mg	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	cumulative amount	enalaprilat	urine	RIA	enalaprilat_cumulative amount_cirrhosis	0.0	hr	NA	0.0	NA	NA	NA	mg	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	cumulative amount	enalaprilat	urine	RIA	enalaprilat_cumulative amount_cirrhosis	2.0	hr	NA	0.0729264285279626	NA	0.158426294047805	0.0598795107405834	mg	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	cumulative amount	enalaprilat	urine	RIA	enalaprilat_cumulative amount_cirrhosis	4.0	hr	NA	0.32816892837583	NA	0.349246257163106	0.132002677539099	mg	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	cumulative amount	enalaprilat	urine	RIA	enalaprilat_cumulative amount_cirrhosis	8.0	hr	NA	0.632215663603725	NA	0.603243535099908	0.22800462484026	mg	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	cumulative amount	enalaprilat	urine	RIA	enalaprilat_cumulative amount_cirrhosis	12.0	hr	NA	0.852260694943104	NA	0.63499319484201	0.240004868252906	mg	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	cumulative amount	enalaprilat	urine	RIA	enalaprilat_cumulative amount_cirrhosis	24.0	hr	NA	1.27	NA	0.846640419540669	0.32	mg	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	cumulative amount	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_cumulative amount_healthy	0.0	hr	NA	0.0	NA	NA	NA	mg	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	cumulative amount	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_cumulative amount_healthy	2.0	hr	NA	1.84240773660477	NA	0.907354270320071	0.342947678614198	mg	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	cumulative amount	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_cumulative amount_healthy	4.0	hr	NA	3.61901239233691	NA	1.08077046882038	0.408492840691629	mg	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	cumulative amount	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_cumulative amount_healthy	6.0	hr	NA	4.36626774166457	NA	1.03674668619389	0.391853414891334	mg	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	cumulative amount	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_cumulative amount_healthy	8.0	hr	NA	4.97507496800478	NA	1.31821314225617	0.49823773562669	mg	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	cumulative amount	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_cumulative amount_healthy	12.0	hr	NA	5.55296593869982	NA	1.12318689224346	0.42452474181767	mg	NA
+Ohnishi1989	NA	healthy	7.0	ENA10	cumulative amount	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_cumulative amount_healthy	24.0	hr	NA	6.24	NA	1.45516322108552	0.55	mg	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	cumulative amount	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_cumulative amount_cirrhosis	0.0	hr	NA	0.0	NA	NA	NA	mg	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	cumulative amount	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_cumulative amount_cirrhosis	2.0	hr	NA	2.84725354781449	NA	1.66424185965508	0.629024297444428	mg	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	cumulative amount	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_cumulative amount_cirrhosis	4.0	hr	NA	4.55831304146919	NA	1.98812473914045	0.751440519305828	mg	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	cumulative amount	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_cumulative amount_cirrhosis	8.0	hr	NA	5.22000866583996	NA	1.98866052554158	0.751643027530578	mg	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	cumulative amount	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_cumulative amount_cirrhosis	12.0	hr	NA	5.44145140960413	NA	2.09537131710073	0.79197591562663	mg	NA
+Ohnishi1989	NA	cirrhosis	7.0	ENA10	cumulative amount	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_cumulative amount_cirrhosis	24.0	hr	NA	5.99	NA	2.16951607507296	0.82	mg	NA

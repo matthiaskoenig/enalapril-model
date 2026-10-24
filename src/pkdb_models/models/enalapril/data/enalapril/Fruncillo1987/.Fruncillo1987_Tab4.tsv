@@ -1,0 +1,13 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Fruncillo1987	I19	NA	1.0	ENA5s	clearance	enalaprilat	urine	NR	NA	NR	NR	130.0	NA	NA	NA	NA	NA	NA	ml/min	NA
+Fruncillo1987	I19	NA	1.0	ENA5m2	clearance	enalaprilat	urine	NR	NA	NR	NR	51.0	NA	NA	NA	NA	NA	NA	ml/min	NA
+Fruncillo1987	I20	NA	1.0	ENA5s	clearance	enalaprilat	urine	NR	NA	NR	NR	42.0	NA	NA	NA	NA	NA	NA	ml/min	NA
+Fruncillo1987	I20	NA	1.0	ENA5m2	clearance	enalaprilat	urine	NR	NA	NR	NR	41.0	NA	NA	NA	NA	NA	NA	ml/min	NA
+Fruncillo1987	I21	NA	1.0	ENA5s	clearance	enalaprilat	urine	NR	NA	NR	NR	51.0	NA	NA	NA	NA	NA	NA	ml/min	NA
+Fruncillo1987	I21	NA	1.0	ENA5m2	clearance	enalaprilat	urine	NR	NA	NR	NR	71.0	NA	NA	NA	NA	NA	NA	ml/min	NA
+Fruncillo1987	I22	NA	1.0	ENA5s	clearance	enalaprilat	urine	NR	NA	NR	NR	49.0	NA	NA	NA	NA	NA	NA	ml/min	NA
+Fruncillo1987	I22	NA	1.0	ENA5m2	clearance	enalaprilat	urine	NR	NA	NR	NR	82.0	NA	NA	NA	NA	NA	NA	ml/min	NA
+Fruncillo1987	I23	NA	1.0	ENA5s	clearance	enalaprilat	urine	NR	NA	NR	NR	69.0	NA	NA	NA	NA	NA	NA	ml/min	NA
+Fruncillo1987	I23	NA	1.0	ENA5m2	clearance	enalaprilat	urine	NR	NA	NR	NR	40.0	NA	NA	NA	NA	NA	NA	ml/min	NA
+Fruncillo1987	I24	NA	1.0	ENA5s	clearance	enalaprilat	urine	NR	NA	NR	NR	NA	NA	NA	NA	NA	NA	NA	ml/min	NA
+Fruncillo1987	I24	NA	1.0	ENA5m2	clearance	enalaprilat	urine	NR	NA	NR	NR	51.0	NA	NA	NA	NA	NA	NA	ml/min	NA

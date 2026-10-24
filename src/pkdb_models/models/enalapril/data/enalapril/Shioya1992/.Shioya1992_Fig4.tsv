@@ -1,0 +1,13 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Shioya1992	NA	all	5.0	ENA5	recovery	enalaprilat	urine	GC/MS	recovery_enalaprilat	0.0	hr	NA	0.0	NA	NA	NA	percent	cumulative excretion
+Shioya1992	NA	all	5.0	ENA5	recovery	enalaprilat	urine	GC/MS	recovery_enalaprilat	4.09313617023967	hr	NA	2.08759807051594	3.06776585723588	0.980167786719946	0.438344360092263	percent	cumulative excretion
+Shioya1992	NA	all	5.0	ENA5	recovery	enalaprilat	urine	GC/MS	recovery_enalaprilat	8.17221214209398	hr	NA	10.6138060527131	12.4343615064137	1.8205554537006	0.814177150256504	percent	cumulative excretion
+Shioya1992	NA	all	5.0	ENA5	recovery	enalaprilat	urine	GC/MS	recovery_enalaprilat	12.1010260657365	hr	NA	13.4483837726092	16.480777862774	3.03239409016481	1.35612786403543	percent	cumulative excretion
+Shioya1992	NA	all	5.0	ENA5	recovery	enalaprilat	urine	GC/MS	recovery_enalaprilat	23.9610057087946	hr	NA	18.0327734120637	21.6719877099705	3.63921429790677	1.62750611096174	percent	cumulative excretion
+Shioya1992	NA	all	5.0	ENA5	recovery	enalaprilat	urine	GC/MS	recovery_enalaprilat	48.1469745917548	hr	NA	22.2546261466585	26.2204365995056	3.96581045284712	1.77356435168908	percent	cumulative excretion
+Shioya1992	NA	all	5.0	ENA5	recovery	enalapril	urine	GC/MS	recovery_enalapril	0.129879818178367	hr	NA	0.0	NA	NA	NA	percent	cumulative excretion
+Shioya1992	NA	all	5.0	ENA5	recovery	enalapril	urine	GC/MS	recovery_enalapril	4.14179052580337	hr	NA	9.64577656675749	12.2587354672297	2.61295890047225	1.16855074477381	percent	cumulative excretion
+Shioya1992	NA	all	5.0	ENA5	recovery	enalapril	urine	GC/MS	recovery_enalapril	8.10100077760989	hr	NA	13.4600479209999	15.2796550699533	1.81960714895338	0.81375305548087	percent	cumulative excretion
+Shioya1992	NA	all	5.0	ENA5	recovery	enalapril	urine	GC/MS	recovery_enalapril	12.1332431390152	hr	NA	13.5882587228232	10.228604664395	3.35965405842822	1.50248297110571	percent	cumulative excretion
+Shioya1992	NA	all	5.0	ENA5	recovery	enalapril	urine	GC/MS	recovery_enalapril	23.9056752878105	hr	NA	13.553930090974	11.9211389772217	1.63279111375231	0.730206384681552	percent	cumulative excretion
+Shioya1992	NA	all	5.0	ENA5	recovery	enalapril	urine	GC/MS	recovery_enalapril	48.0333803271019	hr	NA	14.6499807178035	16.5162444603198	1.86626374251629	0.834618518441919	percent	cumulative excretion

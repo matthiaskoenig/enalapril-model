@@ -1,0 +1,21 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Dickstein1987	NA	normal	10.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_normal	2.0	hr	NA	0.0574251030703641	NA	NA	NA	dimensionless 	NA
+Dickstein1987	NA	normal	10.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_normal	4.0	hr	NA	0.271983352475903	NA	NA	NA	dimensionless 	NA
+Dickstein1987	NA	normal	10.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_normal	8.0	hr	NA	0.723109899182469	NA	NA	NA	dimensionless 	NA
+Dickstein1987	NA	normal	10.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_normal	12.0	hr	NA	0.913366201254815	NA	NA	NA	dimensionless 	NA
+Dickstein1987	NA	normal	10.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_normal	72.0	hr	NA	0.647104784079633	NA	NA	NA	dimensionless 	NA
+Dickstein1987	NA	CHF	12.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_CHF	2.0	hr	NA	0.128947992113783	NA	NA	NA	dimensionless 	NA
+Dickstein1987	NA	CHF	12.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_CHF	4.0	hr	NA	0.61076255140496	NA	NA	NA	dimensionless 	NA
+Dickstein1987	NA	CHF	12.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_CHF	8.0	hr	NA	0.912277549021906	NA	NA	NA	dimensionless 	NA
+Dickstein1987	NA	CHF	12.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_CHF	12.0	hr	NA	0.964420865660835	NA	NA	NA	dimensionless 	NA
+Dickstein1987	NA	CHF	12.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_CHF	72.0	hr	NA	0.644456077570378	NA	NA	NA	dimensionless 	NA
+Dickstein1987	NA	normal	10.0	ENA10	cumulative amount	enalaprilat	urine	RIA	enalaprilat_cumulative amount_normal	2.0	hr	NA	0.574251030703641	NA	NA	NA	mg	NA
+Dickstein1987	NA	normal	10.0	ENA10	cumulative amount	enalaprilat	urine	RIA	enalaprilat_cumulative amount_normal	4.0	hr	NA	2.71983352475903	NA	NA	NA	mg	NA
+Dickstein1987	NA	normal	10.0	ENA10	cumulative amount	enalaprilat	urine	RIA	enalaprilat_cumulative amount_normal	8.0	hr	NA	7.23109899182469	NA	NA	NA	mg	NA
+Dickstein1987	NA	normal	10.0	ENA10	cumulative amount	enalaprilat	urine	RIA	enalaprilat_cumulative amount_normal	12.0	hr	NA	9.13366201254815	NA	NA	NA	mg	NA
+Dickstein1987	NA	normal	10.0	ENA10	cumulative amount	enalaprilat	urine	RIA	enalaprilat_cumulative amount_normal	72.0	hr	NA	6.47104784079633	NA	NA	NA	mg	NA
+Dickstein1987	NA	CHF	12.0	ENA10	cumulative amount	enalaprilat	urine	RIA	enalaprilat_cumulative amount_CHF	2.0	hr	NA	1.28947992113783	NA	NA	NA	mg	NA
+Dickstein1987	NA	CHF	12.0	ENA10	cumulative amount	enalaprilat	urine	RIA	enalaprilat_cumulative amount_CHF	4.0	hr	NA	6.1076255140496	NA	NA	NA	mg	NA
+Dickstein1987	NA	CHF	12.0	ENA10	cumulative amount	enalaprilat	urine	RIA	enalaprilat_cumulative amount_CHF	8.0	hr	NA	9.12277549021906	NA	NA	NA	mg	NA
+Dickstein1987	NA	CHF	12.0	ENA10	cumulative amount	enalaprilat	urine	RIA	enalaprilat_cumulative amount_CHF	12.0	hr	NA	9.64420865660835	NA	NA	NA	mg	NA
+Dickstein1987	NA	CHF	12.0	ENA10	cumulative amount	enalaprilat	urine	RIA	enalaprilat_cumulative amount_CHF	72.0	hr	NA	6.44456077570378	NA	NA	NA	mg	NA

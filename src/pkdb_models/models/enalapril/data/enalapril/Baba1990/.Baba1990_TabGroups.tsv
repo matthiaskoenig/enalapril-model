@@ -1,0 +1,26 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Baba1990	all	17.0	NA	species	17.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Baba1990	all	17.0	NA	sex	17.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Baba1990	all	17.0	NA	healthy	10.0	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Baba1990	all	17.0	NA	healthy	7.0	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Baba1990	all	17.0	NA	concentration	17.0	creatinine	NA	NA	NA	NA	NA	NA	130.0	µmole/l	NA
+Baba1990	healthy	10.0	all	healthy	10.0	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Baba1990	healthy	10.0	all	ethnicity	10.0	NA	japanese	NA	NA	NA	NA	NA	NA	NA	not stated if japanese
+Baba1990	healthy	10.0	all	age	10.0	NA	NA	49.8	NA	13.5	NA	NA	NA	yr	NA
+Baba1990	healthy	10.0	all	gamma-globulin measurement	10.0	NA	NA	12.0	NA	1.5	NA	NA	NA	percent	NA
+Baba1990	healthy	10.0	all	concentration	10.0	albumin	NA	43.0	NA	6.0	NA	NA	NA	g/L	serum albumin concentration
+Baba1990	healthy	10.0	all	concentration	10.0	bile acids	NA	5.2	NA	1.8	NA	NA	NA	µmol/L	total bile acids
+Baba1990	healthy	10.0	all	retention ratio	10.0	indocyanine green	NA	5.4	NA	2.5	NA	NA	NA	percent	NA
+Baba1990	healthy	10.0	all	gfr	10.0	NA	NA	114.0	NA	19.9	NA	NA	NA	ml/min	NA
+Baba1990	cirrhosis	7.0	all	healthy	7.0	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Baba1990	cirrhosis	7.0	all	disease	7.0	NA	liver cirrhosis	NA	NA	NA	NA	NA	NA	NA	NA
+Baba1990	cirrhosis	7.0	all	disease	1.0	NA	alcoholic liver cirrhosis	NA	NA	NA	NA	NA	NA	NA	NA
+Baba1990	cirrhosis	7.0	all	disease	6.0	NA	postnecrotic cirrhosis	NA	NA	NA	NA	NA	NA	NA	NA
+Baba1990	cirrhosis	7.0	all	ethnicity	7.0	NA	japanese	NA	NA	NA	NA	NA	NA	NA	NA
+Baba1990	cirrhosis	7.0	all	age	7.0	NA	NA	52.5	NA	9.7	NA	NA	NA	yr	NA
+Baba1990	cirrhosis	7.0	all	gamma-globulin measurement	7.0	NA	NA	23.6	NA	3.7	NA	NA	NA	percent	NA
+Baba1990	cirrhosis	7.0	all	concentration	7.0	albumin	NA	41.0	NA	5.0	NA	NA	NA	g/L	serum albumin concentration
+Baba1990	cirrhosis	7.0	all	concentration	7.0	bile acids	NA	22.7	NA	13.2	NA	NA	NA	µmol/L	total bile acids
+Baba1990	cirrhosis	7.0	all	retention ratio	7.0	indocyanine green	NA	19.5	NA	6.3	NA	NA	NA	percent	ICG retention at 15 min; ICD-R15
+Baba1990	cirrhosis	7.0	all	gfr	7.0	NA	NA	72.0	NA	6.3	NA	NA	NA	ml/min	NA
+Baba1990	cirrhosis	7.0	all	child-pugh score	7.0	NA	child-pugh class A	NA	NA	NA	NA	NA	NA	NA	inferred from ICG retention and ICG model (Köller); between A ~0.4 and B~0.7

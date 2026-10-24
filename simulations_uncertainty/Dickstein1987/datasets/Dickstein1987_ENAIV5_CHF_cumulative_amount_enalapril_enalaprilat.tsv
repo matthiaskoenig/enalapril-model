@@ -1,0 +1,2 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	min	max	comments	mean_unit	value_unit	count_unit
+Dickstein1987		CHF	11.0	ENAIV5	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAIV5_CHF_cumulative amount_enalapril+enalaprilat	72.0	hr		7.816958902490849e-06		1.3197463082127405e-06	3.9791848389076294e-07				mole	mg	dimensionless

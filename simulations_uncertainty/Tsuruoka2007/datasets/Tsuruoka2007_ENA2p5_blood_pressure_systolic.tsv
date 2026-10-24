@@ -1,0 +1,6 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Tsuruoka2007		ena	6.0	ENA2.5	blood pressure systolic			sphygmomanometer	ENA2.5_blood pressure systolic	1344.0	hr		153.3		20.0858158908221	8.2		mmHg	mmHg	dimensionless
+Tsuruoka2007		ena	6.0	ENA2.5	blood pressure systolic			sphygmomanometer	ENA2.5_blood pressure systolic	1345.0	hr		146.7		18.3711730708738	7.5		mmHg	mmHg	dimensionless
+Tsuruoka2007		ena	6.0	ENA2.5	blood pressure systolic			sphygmomanometer	ENA2.5_blood pressure systolic	1346.0	hr		145.0		21.555509736492	8.8		mmHg	mmHg	dimensionless
+Tsuruoka2007		ena	6.0	ENA2.5	blood pressure systolic			sphygmomanometer	ENA2.5_blood pressure systolic	1347.0	hr		145.0		29.3938769133981	12.0		mmHg	mmHg	dimensionless
+Tsuruoka2007		ena	6.0	ENA2.5	blood pressure systolic			sphygmomanometer	ENA2.5_blood pressure systolic	1348.0	hr		143.3		17.6363261480389	7.2		mmHg	mmHg	dimensionless

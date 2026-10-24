@@ -1,0 +1,5 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Baba1990		healthy	10.0	ENA10	concentration	enalapril	serum	enzymatic assay	enalapril_healthy	0.5	hr		9.387549607430191e-05	27.193805591745	6.842335987344875e-05	2.1637366236146844e-05		mole/meter^3	ng/ml	dimensionless
+Baba1990		healthy	10.0	ENA10	concentration	enalapril	serum	enzymatic assay	enalapril_healthy	1.0	hr		0.00016078884408814978	50.3083477044673	8.585209313745584e-05	2.7148815620727185e-05		mole/meter^3	ng/ml	dimensionless
+Baba1990		healthy	10.0	ENA10	concentration	enalapril	serum	enzymatic assay	enalapril_healthy	2.0	hr		6.980023960835386e-05	22.5251500507109	3.150897568575738e-05	9.964012990585919e-06		mole/meter^3	ng/ml	dimensionless
+Baba1990		healthy	10.0	ENA10	concentration	enalapril	serum	enzymatic assay	enalapril_healthy	4.0	hr		3.137211832341232e-06	1.92108458445792	6.21701545748774e-06	1.9659929094134972e-06		mole/meter^3	ng/ml	dimensionless

@@ -1,0 +1,14 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Burckhardt2015		enalapril	9.0	ENA20	concentration	angiotensin II	plasma	ELISA	ENA20_angiotensin II	0.0	hr		1.0	1.0105263157894848	0.3368421052631615		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	concentration	angiotensin II	plasma	ELISA	ENA20_angiotensin II	0.5	hr		0.7894736842105265	1.010526315789482	0.33684210526316055		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	concentration	angiotensin II	plasma	ELISA	ENA20_angiotensin II	1.0	hr		0.5578947368421042	0.69473684210527	0.23157894736842333		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	concentration	angiotensin II	plasma	ELISA	ENA20_angiotensin II	2.0	hr		0.8315789473684241	1.0210526315789519	0.340350877192984		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	concentration	angiotensin II	plasma	ELISA	ENA20_angiotensin II	3.0	hr		0.8736842105263188	1.0315789473684305	0.34385964912281014		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	concentration	angiotensin II	plasma	ELISA	ENA20_angiotensin II	4.0	hr		0.705263157894743	0.9263157894736865	0.30877192982456225		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	concentration	angiotensin II	plasma	ELISA	ENA20_angiotensin II	5.0	hr		0.7789473684210536	0.8631578947368489	0.28771929824561626		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	concentration	angiotensin II	plasma	ELISA	ENA20_angiotensin II	6.0	hr		0.8421052631578971	0.9684210526315871	0.3228070175438624		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	concentration	angiotensin II	plasma	ELISA	ENA20_angiotensin II	7.0	hr		0.8000000000000054	1.2210526315789523	0.4070175438596508		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	concentration	angiotensin II	plasma	ELISA	ENA20_angiotensin II	8.0	hr		0.705263157894743	1.0631578947368407	0.35438596491228025		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	concentration	angiotensin II	plasma	ELISA	ENA20_angiotensin II	24.0	hr		1.0842105263157924	1.1578947368421146	0.3859649122807049		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	concentration	angiotensin II	plasma	ELISA	ENA20_angiotensin II	48.0	hr		1.4421052631579017	1.0842105263157924	0.3614035087719308		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	concentration	angiotensin II	plasma	ELISA	ENA20_angiotensin II	72.0	hr		1.8210526315789572	1.1157894736841938	0.3719298245613979		dimensionless	dimensionless	dimensionless

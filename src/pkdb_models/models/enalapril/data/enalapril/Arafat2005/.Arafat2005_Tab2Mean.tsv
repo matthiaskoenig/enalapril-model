@@ -1,0 +1,9 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Arafat2005	NA	healthy	24.0	REN10	cmax	enalaprilat	plasma	ELISA	NA	NA	NA	NA	57.2	NA	29.0	NA	NA	NA	ng/ml	NA
+Arafat2005	NA	healthy	24.0	REN10	tmax	enalaprilat	plasma	ELISA	NA	NA	NA	NA	4.3	NA	1.5	NA	NA	NA	hr	NA
+Arafat2005	NA	healthy	24.0	REN10	auc_inf	enalaprilat	plasma	ELISA	NA	NA	NA	NA	255.9	NA	121.8	NA	NA	NA	ng/ml*hr	NA
+Arafat2005	NA	healthy	24.0	REN10	auc_end	enalaprilat	plasma	ELISA	NA	24.0	hr	NA	235.5	NA	102.5	NA	NA	NA	ng/ml*hr	NA
+Arafat2005	NA	healthy	24.0	ENA10	cmax	enalaprilat	plasma	ELISA	NA	NA	NA	NA	54.8	NA	29.5	NA	NA	NA	ng/ml	NA
+Arafat2005	NA	healthy	24.0	ENA10	tmax	enalaprilat	plasma	ELISA	NA	NA	NA	NA	4.6	NA	1.6	NA	NA	NA	hr	NA
+Arafat2005	NA	healthy	24.0	ENA10	auc_inf	enalaprilat	plasma	ELISA	NA	NA	NA	NA	266.9	NA	122.7	NA	NA	NA	ng/ml*hr	NA
+Arafat2005	NA	healthy	24.0	ENA10	auc_end	enalaprilat	plasma	ELISA	NA	24.0	hr	NA	248.3	NA	115.7	NA	NA	NA	ng/ml*hr	NA

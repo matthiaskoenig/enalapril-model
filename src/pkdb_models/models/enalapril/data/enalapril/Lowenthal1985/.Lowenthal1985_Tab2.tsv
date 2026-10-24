@@ -1,0 +1,21 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	median	mean_pm	sd	se	min	max	unit	comments
+Lowenthal1985	IA	NA	1.0	ENA10	auc_end	enalaprilat	serum	enzymatic assay	IA_enalaprilat_withoutdialysis	6.0	hr	264.0	NA	NA	NA	NA	NA	NA	NA	ng/ml*hr	NA
+Lowenthal1985	IB	NA	1.0	ENA10	auc_end	enalaprilat	serum	enzymatic assay	IB_enalaprilat_withoutdialysis	6.0	hr	321.0	NA	NA	NA	NA	NA	NA	NA	ng/ml*hr	NA
+Lowenthal1985	IC	NA	1.0	ENA10	auc_end	enalaprilat	serum	enzymatic assay	IC_enalaprilat_withoutdialysis	6.0	hr	354.0	NA	NA	NA	NA	NA	NA	NA	ng/ml*hr	NA
+Lowenthal1985	ID	NA	1.0	ENA10	auc_end	enalaprilat	serum	enzymatic assay	ID_enalaprilat_withoutdialysis	6.0	hr	493.0	NA	NA	NA	NA	NA	NA	NA	ng/ml*hr	NA
+Lowenthal1985	IE	NA	1.0	ENA10	auc_end	enalaprilat	serum	enzymatic assay	IE_enalaprilat_withoutdialysis	6.0	hr	339.0	NA	NA	NA	NA	NA	NA	NA	ng/ml*hr	NA
+Lowenthal1985	IF	NA	1.0	ENA10	auc_end	enalaprilat	serum	enzymatic assay	IF_enalaprilat_withoutdialysis	6.0	hr	517.0	NA	NA	NA	NA	NA	NA	NA	ng/ml*hr	NA
+Lowenthal1985	IG	NA	1.0	ENA10	auc_end	enalaprilat	serum	enzymatic assay	IG_enalaprilat_withoutdialysis	6.0	hr	137.0	NA	NA	NA	NA	NA	NA	NA	ng/ml*hr	NA
+Lowenthal1985	IH	NA	1.0	ENA10	auc_end	enalaprilat	serum	enzymatic assay	IH_enalaprilat_withoutdialysis	6.0	hr	194.0	NA	NA	NA	NA	NA	NA	NA	ng/ml*hr	NA
+Lowenthal1985	II	NA	1.0	ENA10	auc_end	enalaprilat	serum	enzymatic assay	II_enalaprilat_withoutdialysis	6.0	hr	466.0	NA	NA	NA	NA	NA	NA	NA	ng/ml*hr	NA
+Lowenthal1985	IJ	NA	1.0	ENA10	auc_end	enalaprilat	serum	enzymatic assay	IJ_enalaprilat_withoutdialysis	6.0	hr	226.0	NA	NA	NA	NA	NA	NA	NA	ng/ml*hr	NA
+Lowenthal1985	IA	NA	1.0	ENA10	auc_end	enalaprilat	serum	enzymatic assay	IA_enalaprilat_withdialysis	6.0	hr	205.0	NA	NA	NA	NA	NA	NA	NA	ng/ml*hr	NA
+Lowenthal1985	IB	NA	1.0	ENA10	auc_end	enalaprilat	serum	enzymatic assay	IB_enalaprilat_withdialysis	6.0	hr	245.0	NA	NA	NA	NA	NA	NA	NA	ng/ml*hr	NA
+Lowenthal1985	IC	NA	1.0	ENA10	auc_end	enalaprilat	serum	enzymatic assay	IC_enalaprilat_withdialysis	6.0	hr	78.0	NA	NA	NA	NA	NA	NA	NA	ng/ml*hr	NA
+Lowenthal1985	ID	NA	1.0	ENA10	auc_end	enalaprilat	serum	enzymatic assay	ID_enalaprilat_withdialysis	6.0	hr	149.0	NA	NA	NA	NA	NA	NA	NA	ng/ml*hr	NA
+Lowenthal1985	IE	NA	1.0	ENA10	auc_end	enalaprilat	serum	enzymatic assay	IE_enalaprilat_withdialysis	6.0	hr	280.0	NA	NA	NA	NA	NA	NA	NA	ng/ml*hr	NA
+Lowenthal1985	IF	NA	1.0	ENA10	auc_end	enalaprilat	serum	enzymatic assay	IF_enalaprilat_withdialysis	6.0	hr	327.0	NA	NA	NA	NA	NA	NA	NA	ng/ml*hr	NA
+Lowenthal1985	IG	NA	1.0	ENA10	auc_end	enalaprilat	serum	enzymatic assay	IG_enalaprilat_withdialysis	6.0	hr	9.0	NA	NA	NA	NA	NA	NA	NA	ng/ml*hr	NA
+Lowenthal1985	IH	NA	1.0	ENA10	auc_end	enalaprilat	serum	enzymatic assay	IH_enalaprilat_withdialysis	6.0	hr	121.0	NA	NA	NA	NA	NA	NA	NA	ng/ml*hr	NA
+Lowenthal1985	II	NA	1.0	ENA10	auc_end	enalaprilat	serum	enzymatic assay	II_enalaprilat_withdialysis	6.0	hr	NA	NA	NA	NA	NA	NA	NA	NA	ng/ml*hr	NA
+Lowenthal1985	IJ	NA	1.0	ENA10	auc_end	enalaprilat	serum	enzymatic assay	IJ_enalaprilat_withdialysis	6.0	hr	90.0	NA	NA	NA	NA	NA	NA	NA	ng/ml*hr	NA

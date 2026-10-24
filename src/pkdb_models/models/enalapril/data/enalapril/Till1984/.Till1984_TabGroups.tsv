@@ -1,0 +1,7 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Till1984	all	12	NA	species	12	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Till1984	all	12	NA	healthy	12	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Till1984	all	12	NA	sex	12	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Till1984	all	12	NA	age	12	NA	NA	NA	NA	NA	NA	20.0	23.0	yr	NA
+Till1984	all	12	NA	weight	12	NA	NA	NA	NA	NA	NA	60.0	103.0	kg	NA
+Till1984	all	12	NA	overnight fast	12	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA

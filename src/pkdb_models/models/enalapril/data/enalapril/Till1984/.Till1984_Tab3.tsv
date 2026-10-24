@@ -1,0 +1,9 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Till1984	NA	all	12.0	ENA10m	recovery	enalaprilat	urine	RIA	NA	24.0	hr	NA	NA	2.41	NA	NA	NA	NA	mg	recovery in mg units
+Till1984	NA	all	12.0	ENA10m	recovery	enalaprilat	urine	RIA	NA	48.0	hr	NA	NA	3.28	NA	NA	NA	NA	mg	NA
+Till1984	NA	all	11.0	ENA10m	recovery	enalaprilat	urine	RIA	NA	72.0	hr	NA	NA	3.15	NA	NA	NA	NA	mg	NA
+Till1984	NA	all	12.0	ENA10m	recovery	enalaprilat	urine	RIA	NA	96.0	hr	NA	NA	3.06	NA	NA	NA	NA	mg	NA
+Till1984	NA	all	11.0	ENA10m	recovery	enalaprilat	urine	RIA	NA	120.0	hr	NA	NA	3.13	NA	NA	NA	NA	mg	NA
+Till1984	NA	all	11.0	ENA10m	recovery	enalaprilat	urine	RIA	NA	144.0	hr	NA	NA	3.53	NA	NA	NA	NA	mg	NA
+Till1984	NA	all	12.0	ENA10m	recovery	enalaprilat	urine	RIA	NA	168.0	hr	NA	NA	3.03	NA	NA	NA	NA	mg	NA
+Till1984	NA	all	10.0	ENA10m	recovery	enalaprilat	urine	RIA	NA	192.0	hr	NA	NA	2.67	NA	NA	NA	NA	mg	NA

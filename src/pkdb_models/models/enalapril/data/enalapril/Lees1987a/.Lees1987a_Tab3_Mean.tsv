@@ -1,0 +1,5 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Lees1987a	NA	young	6.0	ENA10	IC50 ACE	enalaprilat	serum	RIA	NA	1.0	days	NA	6.8	NA	2.8	NA	NA	NA	ng/ml	NA
+Lees1987a	NA	young	6.0	ENA10	IC50 ACE	enalaprilat	serum	RIA	NA	8.0	days	NA	11.3	NA	5.4	NA	NA	NA	ng/ml	NA
+Lees1987a	NA	elder	6.0	ENA10	IC50 ACE	enalaprilat	serum	RIA	NA	1.0	days	NA	8.9	NA	4.9	NA	NA	NA	ng/ml	NA
+Lees1987a	NA	elder	6.0	ENA10	IC50 ACE	enalaprilat	serum	RIA	NA	8.0	days	NA	16.4	NA	4.4	NA	NA	NA	ng/ml	NA

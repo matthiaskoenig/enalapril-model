@@ -1,0 +1,29 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	median	mean_pm	sd	se	min	max	unit	comments
+Burckhardt2015	NA	aliskiren	13	ALIS300	blood pressure systolic	NA	NA	NR	ALIS300_blood pressure systolic	0	hr	NA	125	NA	NA	14	3.8829013735766	NA	NA	mmHg	baseline
+Burckhardt2015	NA	aliskiren	13	ALIS300	blood pressure systolic	NA	NA	NR	ALIS300_blood pressure systolic	24	hr	NA	118	NA	NA	12	3.32820117735137	NA	NA	mmHg	NA
+Burckhardt2015	NA	aliskiren	13	ALIS300	blood pressure systolic	NA	NA	NR	ALIS300_blood pressure systolic	192	hr	NA	118	NA	NA	12	3.32820117735137	NA	NA	mmHg	NA
+Burckhardt2015	NA	aliskiren	13	ALIS300	blood pressure diastolic	NA	NA	NR	ALIS300_blood pressure diastolic	0	hr	NA	70	NA	NA	6	1.66410058867569	NA	NA	mmHg	baseline
+Burckhardt2015	NA	aliskiren	13	ALIS300	blood pressure diastolic	NA	NA	NR	ALIS300_blood pressure diastolic	24	hr	NA	65	NA	NA	7	1.9414506867883	NA	NA	mmHg	NA
+Burckhardt2015	NA	aliskiren	13	ALIS300	blood pressure diastolic	NA	NA	NR	ALIS300_blood pressure diastolic	192	hr	NA	66	NA	NA	7	1.9414506867883	NA	NA	mmHg	NA
+Burckhardt2015	NA	aliskiren	13	ALIS300	blood pressure diastolic (change relative)	NA	NA	NR	ALIS300_blood pressure diastolic (change relative)	24	hr	NA	-0.93	NA	NA	0.07	0.019414506867883	NA	NA	dimensionless	NA
+Burckhardt2015	NA	aliskiren	13	ALIS300	blood pressure diastolic (change relative)	NA	NA	NR	ALIS300_blood pressure diastolic (change relative)	192	hr	NA	-0.95	NA	NA	0.06	0.0166410058867569	NA	NA	dimensionless	NA
+Burckhardt2015	NA	aliskiren	13	ALIS300	heart rate	NA	NA	electrocardiography	ALIS300_heart rate	0	hr	NA	59	NA	NA	10	2.77350098112615	NA	NA	1/min	baseline
+Burckhardt2015	NA	aliskiren	13	ALIS300	heart rate	NA	NA	electrocardiography	ALIS300_heart rate	24	hr	NA	62	NA	NA	9	2.49615088301353	NA	NA	1/min	NA
+Burckhardt2015	NA	aliskiren	13	ALIS300	heart rate	NA	NA	electrocardiography	ALIS300_heart rate	192	hr	NA	63	NA	NA	10	2.77350098112615	NA	NA	1/min	NA
+Burckhardt2015	NA	enalapril	9	ENA20	blood pressure systolic	NA	NA	NR	ENA20_blood pressure systolic	0	hr	NA	109	NA	NA	11	3.66666666666667	NA	NA	mmHg	baseline
+Burckhardt2015	NA	enalapril	9	ENA20	blood pressure systolic	NA	NA	NR	ENA20_blood pressure systolic	24	hr	NA	107	NA	NA	10	3.33333333333333	NA	NA	mmHg	NA
+Burckhardt2015	NA	enalapril	9	ENA20	blood pressure systolic	NA	NA	NR	ENA20_blood pressure systolic	72	hr	NA	107	NA	NA	10	3.33333333333333	NA	NA	mmHg	NA
+Burckhardt2015	NA	enalapril	9	ENA20	blood pressure systolic (change relative)	NA	NA	NR	ENA20_blood pressure systolic (change relative)	24	hr	NA	-0.98	NA	NA	0.04	0.01333	NA	NA	dimensionless	NA
+Burckhardt2015	NA	enalapril	9	ENA20	blood pressure systolic (change relative)	NA	NA	NR	ENA20_blood pressure systolic (change relative)	72	hr	NA	-0.99	NA	NA	0.04	0.01333	NA	NA	dimensionless	NA
+Burckhardt2015	NA	enalapril	9	ENA20	blood pressure diastolic	NA	NA	NR	ENA20_blood pressure diastolic	0	hr	NA	67	NA	NA	6	2	NA	NA	mmHg	baseline
+Burckhardt2015	NA	enalapril	9	ENA20	blood pressure diastolic	NA	NA	NR	ENA20_blood pressure diastolic	24	hr	NA	64	NA	NA	6	2	NA	NA	mmHg	NA
+Burckhardt2015	NA	enalapril	9	ENA20	blood pressure diastolic	NA	NA	NR	ENA20_blood pressure diastolic	72	hr	NA	64	NA	NA	6	2	NA	NA	mmHg	NA
+Burckhardt2015	NA	enalapril	9	ENA20	blood pressure diastolic (change relative)	NA	NA	NR	ENA20_blood pressure diastolic (change relative)	24	hr	NA	-0.95	NA	NA	0.04	0.0133333333333333	NA	NA	dimensionless	NA
+Burckhardt2015	NA	enalapril	9	ENA20	blood pressure diastolic (change relative)	NA	NA	NR	ENA20_blood pressure diastolic (change relative)	72	hr	NA	-0.96	NA	NA	0.04	0.0133333333333333	NA	NA	dimensionless	NA
+Burckhardt2015	NA	enalapril	9	ENA20	heart rate	NA	NA	electrocardiography	ENA20_heart rate	0	hr	NA	65	NA	NA	10	3.33333333333333	NA	NA	1/min	baseline
+Burckhardt2015	NA	enalapril	9	ENA20	heart rate	NA	NA	electrocardiography	ENA20_heart rate	24	hr	NA	69	NA	NA	9	3	NA	NA	1/min	NA
+Burckhardt2015	NA	enalapril	9	ENA20	heart rate	NA	NA	electrocardiography	ENA20_heart rate	72	hr	NA	69	NA	NA	9	3	NA	NA	1/min	NA
+Burckhardt2015	NA	aliskiren	13	ALIS300	heart rate (change relative)	NA	NA	electrocardiography	ALIS300_heart rate (change relative)	24	hr	NA	106	NA	NA	7	NA	NA	NA	percent	NA
+Burckhardt2015	NA	aliskiren	13	ALIS300	heart rate (change relative)	NA	NA	electrocardiography	ALIS300_heart rate (change relative)	192	hr	NA	107	NA	NA	7	NA	NA	NA	percent	NA
+Burckhardt2015	NA	enalapril	9	ENA20	heart rate (change relative)	NA	NA	electrocardiography	ENA20_heart rate (change relative)	24	hr	NA	107	NA	NA	10	NA	NA	NA	percent	NA
+Burckhardt2015	NA	enalapril	9	ENA20	heart rate (change relative)	NA	NA	electrocardiography	ENA20_heart rate (change relative)	72	hr	NA	107	NA	NA	10	NA	NA	NA	percent	NA

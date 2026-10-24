@@ -1,0 +1,65 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Fruncillo1987	NA	Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	1.15944089573772	hr	NA	22.4373516774173	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	1.95004861321652	hr	NA	11.2428256301423	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	2.92557473367275	hr	NA	5.33856753055314	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	4.25738868618862	hr	NA	6.20796002216345	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	6.0716966535289	hr	NA	2.64476806791214	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	8.30803006701306	hr	NA	0.992336884363269	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	12.0445359790075	hr	NA	0.846706323899937	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	23.9199606912486	hr	NA	0.844510888315057	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group2	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group2_enalapril	1.21514223286254	hr	NA	38.087880150126	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group2	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group2_enalapril	1.93549601162535	hr	NA	30.4872821552905	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group2	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group2_enalapril	3.14135468830042	hr	NA	19.3000742266317	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group2	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group2_enalapril	4.11838625030057	hr	NA	13.8188033830617	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group2	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group2_enalapril	5.93344693841281	hr	NA	10.46710505682	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group2	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group2_enalapril	8.00367996821846	hr	NA	8.8117466258246	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group2	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group2_enalapril	12.0716339267979	hr	NA	8.46047693224467	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group2	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group2_enalapril	23.8369104994093	hr	NA	0.843047264591817	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group3	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group3_enalapril	1.0565690569036	hr	NA	40.1998891827752	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group3	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group3_enalapril	2.04162964047129	hr	NA	60.3078837046407	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group3	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group3_enalapril	2.98880327851714	hr	NA	23.1040322833575	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group3	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group3_enalapril	4.18864018901655	hr	NA	10.2248753306221	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group3	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group3_enalapril	6.1592631699999	hr	NA	3.91519345969284	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group3	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group3_enalapril	8.15623137800174	hr	NA	5.00778856909871	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group3	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group3_enalapril	12.1358660993382	hr	NA	3.17459985572853	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group3	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group3_enalapril	24.0316142724222	hr	NA	8.8827323764022	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	0.89021776630111	hr	NA	63.4597973926589	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	3.23393934325113	hr	NA	45.3137904718096	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	4.0162671322384	hr	NA	31.7928345164292	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	6.14847417226851	hr	NA	24.2171181248889	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	8.11081722476033	hr	NA	15.5810063458543	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	12.0641067190783	hr	NA	6.34554065214891	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	23.8534703563924	hr	NA	5.49590708080248	NA	NA	NA	ng/ml	NA
+Fruncillo1987	NA	Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	287.835686	hr	NA	0.720912575693077	NA	NA	NA	ng/ml	last dose on day 13 (288 hr), shifted by 24 hr
+Fruncillo1987	NA	Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	288.946903	hr	NA	6.8489472417178	NA	NA	NA	ng/ml	last dose on day 13 (288 hr), shifted by 24 hr
+Fruncillo1987	NA	Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	289.867775	hr	NA	5.57600785170648	NA	NA	NA	ng/ml	last dose on day 13 (288 hr), shifted by 24 hr
+Fruncillo1987	NA	Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	290.70141	hr	NA	3.24605099905563	NA	NA	NA	ng/ml	last dose on day 13 (288 hr), shifted by 24 hr
+Fruncillo1987	NA	Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	291.875738	hr	NA	2.39495564896953	NA	NA	NA	ng/ml	last dose on day 13 (288 hr), shifted by 24 hr
+Fruncillo1987	NA	Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	293.89005	hr	NA	1.32867909853528	NA	NA	NA	ng/ml	last dose on day 13 (288 hr), shifted by 24 hr
+Fruncillo1987	NA	Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	299.955842	hr	NA	5.74304179552236	NA	NA	NA	ng/ml	last dose on day 13 (288 hr), shifted by 24 hr
+Fruncillo1987	NA	Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	311.798416	hr	NA	2.30717949667607	NA	NA	NA	ng/ml	last dose on day 13 (288 hr), shifted by 24 hr
+Fruncillo1987	NA	Group2	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group2_enalapril	287.838225	hr	NA	1.56682283661418	NA	NA	NA	ng/ml	last dose on day 13 (288 hr), shifted by 24 hr
+Fruncillo1987	NA	Group2	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group2_enalapril	288.758208	hr	NA	27.9978148552805	NA	NA	NA	ng/ml	last dose on day 13 (288 hr), shifted by 24 hr
+Fruncillo1987	NA	Group2	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group2_enalapril	289.989931	hr	NA	18.2642914020111	NA	NA	NA	ng/ml	last dose on day 13 (288 hr), shifted by 24 hr
+Fruncillo1987	NA	Group2	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group2_enalapril	290.717918	hr	NA	8.74446769504273	NA	NA	NA	ng/ml	last dose on day 13 (288 hr), shifted by 24 hr
+Fruncillo1987	NA	Group2	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group2_enalapril	291.79993	hr	NA	5.14453436047485	NA	NA	NA	ng/ml	last dose on day 13 (288 hr), shifted by 24 hr
+Fruncillo1987	NA	Group2	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group2_enalapril	293.898938	hr	NA	4.28936501175909	NA	NA	NA	ng/ml	last dose on day 13 (288 hr), shifted by 24 hr
+Fruncillo1987	NA	Group2	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group2_enalapril	295.827919	hr	NA	2.80050369437609	NA	NA	NA	ng/ml	last dose on day 13 (288 hr), shifted by 24 hr
+Fruncillo1987	NA	Group2	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group2_enalapril	300.028476	hr	NA	1.93607525786567	NA	NA	NA	ng/ml	last dose on day 13 (288 hr), shifted by 24 hr
+Fruncillo1987	NA	Group2	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group2_enalapril	311.797147	hr	NA	1.88422436621552	NA	NA	NA	ng/ml	last dose on day 13 (288 hr), shifted by 24 hr
+Fruncillo1987	NA	Group3	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group3_enalapril	287.933081	hr	NA	5.16157108201703	NA	NA	NA	ng/ml	last dose on day 13 (288 hr), shifted by 24 hr
+Fruncillo1987	NA	Group3	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group3_enalapril	289.97063	hr	NA	39.8353734190108	NA	NA	NA	ng/ml	last dose on day 13 (288 hr), shifted by 24 hr
+Fruncillo1987	NA	Group3	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group3_enalapril	291.006294	hr	NA	20.797577822633	NA	NA	NA	ng/ml	last dose on day 13 (288 hr), shifted by 24 hr
+Fruncillo1987	NA	Group3	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group3_enalapril	291.912562	hr	NA	14.6606544323254	NA	NA	NA	ng/ml	last dose on day 13 (288 hr), shifted by 24 hr
+Fruncillo1987	NA	Group3	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group3_enalapril	293.940842	hr	NA	18.2468843169571	NA	NA	NA	ng/ml	last dose on day 13 (288 hr), shifted by 24 hr
+Fruncillo1987	NA	Group3	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group3_enalapril	295.959599	hr	NA	18.6609507231348	NA	NA	NA	ng/ml	last dose on day 13 (288 hr), shifted by 24 hr
+Fruncillo1987	NA	Group3	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group3_enalapril	299.963461	hr	NA	8.28077257828564	NA	NA	NA	ng/ml	last dose on day 13 (288 hr), shifted by 24 hr
+Fruncillo1987	NA	Group3	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group3_enalapril	311.831432	hr	NA	13.3040128886503	NA	NA	NA	ng/ml	last dose on day 13 (288 hr), shifted by 24 hr
+Fruncillo1987	NA	Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	336.0	hr	NA	2.83494750097225	NA	NA	NA	ng/ml	last dose on day 15 (336 hr), shifted by 72 hr
+Fruncillo1987	NA	Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	337.0	hr	NA	43.646784318809	NA	NA	NA	ng/ml	last dose on day 15 (336 hr), shifted by 72 hr
+Fruncillo1987	NA	Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	338.0	hr	NA	48.29410566471	NA	NA	NA	ng/ml	last dose on day 15 (336 hr), shifted by 72 hr
+Fruncillo1987	NA	Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	339.0	hr	NA	29.8914834910465	NA	NA	NA	ng/ml	last dose on day 15 (336 hr), shifted by 72 hr
+Fruncillo1987	NA	Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	340.0	hr	NA	18.6783578081888	NA	NA	NA	ng/ml	last dose on day 15 (336 hr), shifted by 72 hr
+Fruncillo1987	NA	Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	344.0	hr	NA	3.6460435917854	NA	NA	NA	ng/ml	last dose on day 15 (336 hr), shifted by 72 hr
+Fruncillo1987	NA	Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	348.0	hr	NA	1.30201292568663	NA	NA	NA	ng/ml	last dose on day 15 (336 hr), shifted by 72 hr
+Fruncillo1987	NA	Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	360.0	hr	NA	3.36493768633922	NA	NA	NA	ng/ml	last dose on day 15 (336 hr), shifted by 72 hr

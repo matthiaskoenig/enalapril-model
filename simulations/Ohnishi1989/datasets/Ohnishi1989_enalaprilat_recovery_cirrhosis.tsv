@@ -1,0 +1,7 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Ohnishi1989		cirrhosis	7.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_cirrhosis	0.0	hr		0.0					count*mole	percent	dimensionless
+Ohnishi1989		cirrhosis	7.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_cirrhosis	2.0	hr		1.4806828433987528e-07	1.32805939268546	3.2166541029756423e-07	1.2157809728841553e-07		count*mole	percent	dimensionless
+Ohnishi1989		cirrhosis	7.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_cirrhosis	4.0	hr		6.663072795294353e-07	1.96166250836731	7.091022439201947e-07	2.6801545593295816e-07		count*mole	percent	dimensionless
+Ohnishi1989		cirrhosis	7.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_cirrhosis	8.0	hr		1.2836373662081294e-06	4.04211038763465	1.2248129667712408e-06	4.6293578752056014e-07		count*mole	percent	dimensionless
+Ohnishi1989		cirrhosis	7.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_cirrhosis	12.0	hr		1.7304121627476714e-06	6.12255826690198	1.289276807127625e-06	4.873008289690122e-07		count*mole	percent	dimensionless
+Ohnishi1989		cirrhosis	7.0	ENA10	recovery	enalaprilat	urine	RIA	enalaprilat_recovery_cirrhosis	24.0	hr		2.578581248354124e-06		1.7190008739576678e-06	6.497212594278109e-07		count*mole	percent	dimensionless

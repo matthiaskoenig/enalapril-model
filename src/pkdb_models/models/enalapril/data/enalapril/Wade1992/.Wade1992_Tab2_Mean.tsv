@@ -1,0 +1,7 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Wade1992	NA	all	8.0	ENA10	ACE activity	NA	NA	enzymatic assay	NA	72.0	hr	NA	2109.0	NA	863.0	NA	NA	NA	eu/ml*hr	NA
+Wade1992	NA	all	8.0	CAPENA10	ACE activity	NA	NA	enzymatic assay	NA	72.0	hr	NA	2114.0	NA	558.0	NA	NA	NA	eu/ml*hr	NA
+Wade1992	NA	all	8.0	CAPENA10	ACE activity	NA	NA	enzymatic assay	NA	1.0	month	NA	808.0	NA	494.0	NA	NA	NA	eu/ml*hr	NA
+Wade1992	NA	all	7.0	ENA10	ACE activity	NA	NA	enzymatic assay	NA	72.0	hr	NA	2247.0	NA	831.0	NA	NA	NA	eu/ml*hr	NA
+Wade1992	NA	all	7.0	CAPENA10	ACE activity	NA	NA	enzymatic assay	NA	72.0	hr	NA	2024.0	NA	575.0	NA	NA	NA	eu/ml*hr	NA
+Wade1992	NA	all	7.0	CAPENA10	ACE activity	NA	NA	enzymatic assay	NA	1.0	month	NA	781.0	NA	527.0	NA	NA	NA	eu/ml*hr	NA

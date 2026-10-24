@@ -1,0 +1,2 @@
+study	group	count	intervention	measurement_type	substance	tissue	method	label	time_start	time	time_unit	mean	min	max	mean_sd	mean_se	comments	mean_unit	count_unit
+Ulm1982	all	11.0	ENAPO10	cumulative amount	enalapril+enalaprilat	feces	isotope dilution	enalapril+enalaprilat_feces		72.0	hr	6.2					total fecal drug (enalapril + MK-422) 31 % of 20 µmol (text; Tab1 enalapril 6 (10) %, MK-422 27 (16) %, n = 11)	µmole	dimensionless

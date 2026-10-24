@@ -1,0 +1,9 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Ohnishi1989		healthy	7.0		heart rate			electrocardiography	healthy_heart rate	0.0	hr		69.6606719952635	65.9106719952634	9.92156741649225	3.75000000000001		1/min	1/min	dimensionless
+Ohnishi1989		healthy	7.0		heart rate			electrocardiography	healthy_heart rate	1.0	hr		66.0146536412078	63.100207223209	7.7109004314478	2.91444641799879		1/min	1/min	dimensionless
+Ohnishi1989		healthy	7.0		heart rate			electrocardiography	healthy_heart rate	2.0	hr		74.6625222024867	70.2897424511545	11.5692877600837	4.37277975133215		1/min	1/min	dimensionless
+Ohnishi1989		healthy	7.0		heart rate			electrocardiography	healthy_heart rate	4.0	hr		74.2432652457075	68.6182652457075	14.8823511247383	5.62499999999999		1/min	1/min	dimensionless
+Ohnishi1989		healthy	7.0		heart rate			electrocardiography	healthy_heart rate	6.0	hr		79.4534487862641	73.8240082889283	14.8940995763861	5.62944049733572		1/min	1/min	dimensionless
+Ohnishi1989		healthy	7.0		heart rate			electrocardiography	healthy_heart rate	8.0	hr		75.7030787448194	69.8675251628182	15.4394235403673	5.83555358200118		1/min	1/min	dimensionless
+Ohnishi1989		healthy	7.0		heart rate			electrocardiography	healthy_heart rate	12.0	hr		76.9523386619301	71.3273386619301	14.8823511247383	5.625		1/min	1/min	dimensionless
+Ohnishi1989		healthy	7.0		heart rate			electrocardiography	healthy_heart rate	24.0	hr		72.7934428656009	66.9601095322676	15.4335493145434	5.83333333333333		1/min	1/min	dimensionless

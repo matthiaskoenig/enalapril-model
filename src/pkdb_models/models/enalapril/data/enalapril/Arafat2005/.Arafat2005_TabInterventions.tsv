@@ -1,0 +1,4 @@
+study	name	time	time_end	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+Arafat2005	ENA10	0	NA	hr	oral	single dose	dosing	tablet	enalapril maleate	10	mg	original formulation (Enalapril)
+Arafat2005	REN10	0	NA	hr	oral	single dose	dosing	tablet	enalapril maleate	10	mg	alternative formulation (Renitec)
+Arafat2005	ENA20	0	NA	hr	oral	single dose	dosing	tablet	enalapril maleate	20	mg	NA

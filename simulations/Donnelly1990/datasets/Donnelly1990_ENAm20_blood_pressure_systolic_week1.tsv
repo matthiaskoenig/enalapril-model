@@ -1,0 +1,13 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Donnelly1990		all	13.0	ENAm20	blood pressure systolic			sphygmomanometer	ENAm20_blood pressure systolic	168.0	hr		150.242749311205					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAm20	blood pressure systolic			sphygmomanometer	ENAm20_blood pressure systolic	168.5	hr		140.157403935506					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAm20	blood pressure systolic			sphygmomanometer	ENAm20_blood pressure systolic	169.0	hr		136.223935832016					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAm20	blood pressure systolic			sphygmomanometer	ENAm20_blood pressure systolic	169.5	hr		136.077210257748					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAm20	blood pressure systolic			sphygmomanometer	ENAm20_blood pressure systolic	170.5	hr		135.149171000505					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAm20	blood pressure systolic			sphygmomanometer	ENAm20_blood pressure systolic	171.5	hr		126.335854839499					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAm20	blood pressure systolic			sphygmomanometer	ENAm20_blood pressure systolic	172.0	hr		126.503366536787					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAm20	blood pressure systolic			sphygmomanometer	ENAm20_blood pressure systolic	173.0	hr		125.419635142405					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAm20	blood pressure systolic			sphygmomanometer	ENAm20_blood pressure systolic	174.0	hr		121.179673617111					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAm20	blood pressure systolic			sphygmomanometer	ENAm20_blood pressure systolic	175.0	hr		121.199644598053					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAm20	blood pressure systolic			sphygmomanometer	ENAm20_blood pressure systolic	176.0	hr		128.31787280523					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	ENAm20	blood pressure systolic			sphygmomanometer	ENAm20_blood pressure systolic	192.0	hr		143.854888407049					mmHg	mmHg	dimensionless

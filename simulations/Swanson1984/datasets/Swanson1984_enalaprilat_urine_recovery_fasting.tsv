@@ -1,0 +1,2 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Swanson1984		fasting	11.0	ENA40	recovery	enalaprilat	urine	RIA	enalaprilat_urine_recovery_fasting	48.0	hr		2.6021539477977397e-05		6.398739215896081e-06	1.8471569043859114e-06		count*mole	percent	dimensionless

@@ -1,0 +1,52 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Ohnishi1989	NA	healthy	7.0	NA	blood pressure systolic	NA	NA	sphygmomanometer	healthy_blood pressure systolic	0.0	hr	NA	119.615938442155	114.953351632693	12.3360451640857	4.66258680946169	mmHg	NA
+Ohnishi1989	NA	healthy	7.0	NA	blood pressure systolic	NA	NA	sphygmomanometer	healthy_blood pressure systolic	1.0	hr	NA	117.004529841456	110.645502407416	16.8244051707065	6.3590274340398	mmHg	NA
+Ohnishi1989	NA	healthy	7.0	NA	blood pressure systolic	NA	NA	sphygmomanometer	healthy_blood pressure systolic	2.0	hr	NA	117.35926742564	109.940902068428	19.6271498698011	7.41836535721251	mmHg	NA
+Ohnishi1989	NA	healthy	7.0	NA	blood pressure systolic	NA	NA	sphygmomanometer	healthy_blood pressure systolic	4.0	hr	NA	113.828391006315	106.624893128741	19.0586639538431	7.20349787757428	mmHg	NA
+Ohnishi1989	NA	healthy	7.0	NA	blood pressure systolic	NA	NA	sphygmomanometer	healthy_blood pressure systolic	6.0	hr	NA	118.982585609504	110.933117340893	21.2968912250493	8.04946826861061	mmHg	NA
+Ohnishi1989	NA	healthy	7.0	NA	blood pressure systolic	NA	NA	sphygmomanometer	healthy_blood pressure systolic	8.0	hr	NA	118.205987790427	110.158019469319	21.2929227369798	8.04796832110877	mmHg	NA
+Ohnishi1989	NA	healthy	7.0	NA	blood pressure systolic	NA	NA	sphygmomanometer	healthy_blood pressure systolic	12.0	hr	NA	121.315378961736	113.689645862395	20.1757933454115	7.62573309934152	mmHg	NA
+Ohnishi1989	NA	healthy	7.0	NA	blood pressure systolic	NA	NA	sphygmomanometer	healthy_blood pressure systolic	24.0	hr	NA	120.052423165189	114.330498432555	15.1387898631803	5.72192473263436	mmHg	NA
+Ohnishi1989	NA	healthy	7.0	NA	blood pressure diastolic	NA	NA	sphygmomanometer	healthy_blood pressure diastolic	0.0	hr	NA	75.1252456164034	70.6760263390781	11.7715277361973	4.44921927732531	mmHg	NA
+Ohnishi1989	NA	healthy	7.0	NA	blood pressure diastolic	NA	NA	sphygmomanometer	healthy_blood pressure diastolic	1.0	hr	NA	70.8158964436245	67.8512502062428	7.8437166693953	2.96464623738169	mmHg	NA
+Ohnishi1989	NA	healthy	7.0	NA	blood pressure diastolic	NA	NA	sphygmomanometer	healthy_blood pressure diastolic	2.0	hr	NA	66.7199148029819	62.2721954731584	11.7675592481277	4.44771932982346	mmHg	NA
+Ohnishi1989	NA	healthy	7.0	NA	blood pressure diastolic	NA	NA	sphygmomanometer	healthy_blood pressure diastolic	4.0	hr	NA	57.0613778517752	52.4002909898154	12.3320766760162	4.66108686195983	mmHg	NA
+Ohnishi1989	NA	healthy	7.0	NA	blood pressure diastolic	NA	NA	sphygmomanometer	healthy_blood pressure diastolic	6.0	hr	NA	67.9239976600819	63.2629107981221	12.3320766760162	4.66108686195983	mmHg	NA
+Ohnishi1989	NA	healthy	7.0	NA	blood pressure diastolic	NA	NA	sphygmomanometer	healthy_blood pressure diastolic	8.0	hr	NA	67.5711350102746	62.275945341913	14.0097550074034	5.2951896683616	mmHg	NA
+Ohnishi1989	NA	healthy	7.0	NA	blood pressure diastolic	NA	NA	sphygmomanometer	healthy_blood pressure diastolic	12.0	hr	NA	65.1734689285875	59.0293089741859	16.2559192547486	6.14415995440159	mmHg	NA
+Ohnishi1989	NA	healthy	7.0	NA	blood pressure diastolic	NA	NA	sphygmomanometer	healthy_blood pressure diastolic	24.0	hr	NA	67.5107621233257	63.0615428460004	11.7715277361972	4.44921927732528	mmHg	NA
+Ohnishi1989	NA	healthy	7.0	NA	heart rate	NA	NA	electrocardiography	healthy_heart rate	0.0	hr	NA	69.6606719952635	65.9106719952634	9.92156741649225	3.75000000000001	1/min	NA
+Ohnishi1989	NA	healthy	7.0	NA	heart rate	NA	NA	electrocardiography	healthy_heart rate	1.0	hr	NA	66.0146536412078	63.100207223209	7.7109004314478	2.91444641799879	1/min	NA
+Ohnishi1989	NA	healthy	7.0	NA	heart rate	NA	NA	electrocardiography	healthy_heart rate	2.0	hr	NA	74.6625222024867	70.2897424511545	11.5692877600837	4.37277975133215	1/min	NA
+Ohnishi1989	NA	healthy	7.0	NA	heart rate	NA	NA	electrocardiography	healthy_heart rate	4.0	hr	NA	74.2432652457075	68.6182652457075	14.8823511247383	5.62499999999999	1/min	NA
+Ohnishi1989	NA	healthy	7.0	NA	heart rate	NA	NA	electrocardiography	healthy_heart rate	6.0	hr	NA	79.4534487862641	73.8240082889283	14.8940995763861	5.62944049733572	1/min	NA
+Ohnishi1989	NA	healthy	7.0	NA	heart rate	NA	NA	electrocardiography	healthy_heart rate	8.0	hr	NA	75.7030787448194	69.8675251628182	15.4394235403673	5.83555358200118	1/min	NA
+Ohnishi1989	NA	healthy	7.0	NA	heart rate	NA	NA	electrocardiography	healthy_heart rate	12.0	hr	NA	76.9523386619301	71.3273386619301	14.8823511247383	5.625	1/min	NA
+Ohnishi1989	NA	healthy	7.0	NA	heart rate	NA	NA	electrocardiography	healthy_heart rate	24.0	hr	NA	72.7934428656009	66.9601095322676	15.4335493145434	5.83333333333333	1/min	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	blood pressure systolic	NA	NA	sphygmomanometer	cirrhosis_blood pressure systolic	0.0	hr	NA	123.444554440595	117.512262070828	15.6953703149297	5.93229236976707	mmHg	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	blood pressure systolic	NA	NA	sphygmomanometer	cirrhosis_blood pressure systolic	1.0	hr	NA	122.950321738739	117.018029368972	15.6953703149297	5.93229236976707	mmHg	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	blood pressure systolic	NA	NA	sphygmomanometer	cirrhosis_blood pressure systolic	2.0	hr	NA	122.878324258651	115.888193913213	18.4941465259547	6.99013034543791	mmHg	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	blood pressure systolic	NA	NA	sphygmomanometer	cirrhosis_blood pressure systolic	3.0	hr	NA	110.94324198653	104.588714394996	16.812499706498	6.35452759153429	mmHg	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	blood pressure systolic	NA	NA	sphygmomanometer	cirrhosis_blood pressure systolic	4.0	hr	NA	115.960566380177	109.604538841141	16.8164681945675	6.35602753903613	mmHg	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	blood pressure systolic	NA	NA	sphygmomanometer	cirrhosis_blood pressure systolic	6.0	hr	NA	114.760233391831	109.466543670972	14.0057865193339	5.29368972085977	mmHg	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	blood pressure systolic	NA	NA	sphygmomanometer	cirrhosis_blood pressure systolic	8.0	hr	NA	120.551530696426	115.680076197333	12.8886571277656	4.87145449909254	mmHg	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	blood pressure systolic	NA	NA	sphygmomanometer	cirrhosis_blood pressure systolic	12.0	hr	NA	121.965981190658	115.612953546626	16.8085312184285	6.35302764403247	mmHg	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	blood pressure systolic	NA	NA	sphygmomanometer	cirrhosis_blood pressure systolic	24.0	hr	NA	116.674541391051	112.225322113726	11.7715277361972	4.44921927732528	mmHg	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	blood pressure diastolic	NA	NA	sphygmomanometer	cirrhosis_blood pressure diastolic	0.0	hr	NA	77.2559210427635	71.9607313744019	14.0097550074034	5.2951896683616	mmHg	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	blood pressure diastolic	NA	NA	sphygmomanometer	cirrhosis_blood pressure diastolic	1.0	hr	NA	74.6445124420645	68.9225877094302	15.1387898631803	5.72192473263436	mmHg	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	blood pressure diastolic	NA	NA	sphygmomanometer	cirrhosis_blood pressure diastolic	2.0	hr	NA	70.972265970691	65.2518411855585	15.1348213751107	5.72042478513251	mmHg	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	blood pressure diastolic	NA	NA	sphygmomanometer	cirrhosis_blood pressure diastolic	3.0	hr	NA	66.6644167454139	62.6389326373577	10.6504298565594	4.02548410805622	mmHg	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	blood pressure diastolic	NA	NA	sphygmomanometer	cirrhosis_blood pressure diastolic	4.0	hr	NA	70.8312709055183	66.5939192128275	11.2109787963783	4.23735169269075	mmHg	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	blood pressure diastolic	NA	NA	sphygmomanometer	cirrhosis_blood pressure diastolic	6.0	hr	NA	66.8781592644258	61.3681021164259	14.5782409233614	5.51005714799983	mmHg	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	blood pressure diastolic	NA	NA	sphygmomanometer	cirrhosis_blood pressure diastolic	8.0	hr	NA	72.4575889843855	68.642472513462	10.09384940481	3.81511647092351	mmHg	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	blood pressure diastolic	NA	NA	sphygmomanometer	cirrhosis_blood pressure diastolic	12.0	hr	NA	76.2040828571	70.4851580194693	15.1308528870412	5.71892483763068	mmHg	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	blood pressure diastolic	NA	NA	sphygmomanometer	cirrhosis_blood pressure diastolic	24.0	hr	NA	75.5707300244491	71.968981085662	9.52933197692157	3.60174893878714	mmHg	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	heart rate	NA	NA	electrocardiography	cirrhosis_heart rate	0.0	hr	NA	71.1389875666074	68.0162078152753	8.26209862125298	3.12277975133215	1/min	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	heart rate	NA	NA	electrocardiography	cirrhosis_heart rate	1.0	hr	NA	74.1596358792185	70.4140763765542	9.90981896484453	3.74555950266431	1/min	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	heart rate	NA	NA	electrocardiography	cirrhosis_heart rate	2.0	hr	NA	70.7219508584961	67.8075044404973	7.7109004314478	2.91444641799879	1/min	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	heart rate	NA	NA	electrocardiography	cirrhosis_heart rate	3.0	hr	NA	71.6637063351095	68.744819419775	7.72264888309556	2.91888691533451	1/min	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	heart rate	NA	NA	electrocardiography	cirrhosis_heart rate	4.0	hr	NA	69.6821343990527	66.9715808170515	7.17145069329038	2.71055358200115	1/min	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	heart rate	NA	NA	electrocardiography	cirrhosis_heart rate	6.0	hr	NA	76.3484310242747	71.7650976909414	12.1263601757127	4.58333333333333	1/min	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	heart rate	NA	NA	electrocardiography	cirrhosis_heart rate	8.0	hr	NA	72.3875074008289	69.0563943161634	8.81329681105813	3.33111308466549	1/min	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	heart rate	NA	NA	electrocardiography	cirrhosis_heart rate	12.0	hr	NA	73.432874481942	69.6850947306098	9.91569319066839	3.74777975133216	1/min	NA
+Ohnishi1989	NA	cirrhosis	7.0	NA	heart rate	NA	NA	electrocardiography	cirrhosis_heart rate	24.0	hr	NA	70.1028715216104	67.3945381882771	7.16557646746659	2.70833333333333	1/min	NA

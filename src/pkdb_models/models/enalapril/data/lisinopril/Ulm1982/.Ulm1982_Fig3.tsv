@@ -1,0 +1,15 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Ulm1982	NA	all	12	LISPO10	concentration	lisinopril	serum	RIA	lisinopril	0.0	hr	NA	0.0	NA	NA	NA	nM	NA
+Ulm1982	NA	all	12	LISPO10	concentration	lisinopril	serum	RIA	lisinopril	1.0	hr	NA	2.2	NA	NA	NA	nM	NA
+Ulm1982	NA	all	12	LISPO10	concentration	lisinopril	serum	RIA	lisinopril	1.5	hr	NA	6.23	NA	NA	NA	nM	NA
+Ulm1982	NA	all	12	LISPO10	concentration	lisinopril	serum	RIA	lisinopril	2.0	hr	NA	11.8	NA	NA	NA	nM	NA
+Ulm1982	NA	all	12	LISPO10	concentration	lisinopril	serum	RIA	lisinopril	2.5	hr	NA	19.42	NA	NA	NA	nM	NA
+Ulm1982	NA	all	12	LISPO10	concentration	lisinopril	serum	RIA	lisinopril	3.0	hr	NA	44.71	NA	NA	NA	nM	NA
+Ulm1982	NA	all	12	LISPO10	concentration	lisinopril	serum	RIA	lisinopril	4.0	hr	NA	61.57	NA	NA	NA	nM	NA
+Ulm1982	NA	all	12	LISPO10	concentration	lisinopril	serum	RIA	lisinopril	6.0	hr	NA	92.55	NA	NA	NA	nM	NA
+Ulm1982	NA	all	12	LISPO10	concentration	lisinopril	serum	RIA	lisinopril	8.0	hr	NA	86.5	NA	NA	NA	nM	NA
+Ulm1982	NA	all	12	LISPO10	concentration	lisinopril	serum	RIA	lisinopril	12.0	hr	NA	77.9	NA	NA	NA	nM	NA
+Ulm1982	NA	all	12	LISPO10	concentration	lisinopril	serum	RIA	lisinopril	24.0	hr	NA	20.2	NA	NA	NA	nM	NA
+Ulm1982	NA	all	12	LISPO10	concentration	lisinopril	serum	RIA	lisinopril	48.0	hr	NA	5.77	NA	NA	NA	nM	NA
+Ulm1982	NA	all	12	LISPO10	concentration	lisinopril	serum	RIA	lisinopril	72.0	hr	NA	2.7	NA	NA	NA	nM	NA
+Ulm1982	NA	all	12	LISPO10	concentration	lisinopril	serum	RIA	lisinopril	96.0	hr	NA	1.83	NA	NA	NA	nM	NA

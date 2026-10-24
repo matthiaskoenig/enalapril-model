@@ -1,0 +1,5 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Shioya1992		all	5.0	ENA5	concentration	enalapril	plasma	GC/MS	ENA5_enalapril	0.335664335664333	hr		1.8235440312456825e-05	11.5688055944056	1.2496149563096874e-05	5.588447976017773e-06		mole/meter^3	ng/ml	dimensionless
+Shioya1992		all	5.0	ENA5	concentration	enalapril	plasma	GC/MS	ENA5_enalapril	1.14125874125874	hr		4.6419008368203256e-05	20.018013986014	6.7572154797252036e-06	3.02191863025589e-06		mole/meter^3	ng/ml	dimensionless
+Shioya1992		all	5.0	ENA5	concentration	enalapril	plasma	GC/MS	ENA5_enalapril	1.94685314685314	hr		2.8444647559119788e-05	16.228027972028	1.4663787106472895e-05	6.55784495553166e-06		mole/meter^3	ng/ml	dimensionless
+Shioya1992		all	5.0	ENA5	concentration	enalapril	plasma	GC/MS	ENA5_enalapril	4.02797202797203	hr		4.2291669552580755e-06	2.45592167832169	2.29478896817461e-06	1.0262608253710048e-06		mole/meter^3	ng/ml	dimensionless

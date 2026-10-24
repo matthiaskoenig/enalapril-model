@@ -1,0 +1,10 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Lees1987a		elder	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	elder_ACE inhibition	168.108247955266	hr		28.1565087775124	65.4814992374865	37.3249904599741	15.2378635468644		percent	percent	dimensionless
+Lees1987a		elder	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	elder_ACE inhibition	169.003459206573	hr		69.3873305698253	80.8089115553479	11.4215809855227	4.66284091173419		percent	percent	dimensionless
+Lees1987a		elder	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	elder_ACE inhibition	170.210056909527	hr		78.5865332027347	90.0070120913803	11.4204788886456	4.6623909825682		percent	percent	dimensionless
+Lees1987a		elder	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	elder_ACE inhibition	171.878940168538	hr		81.9388363785647	91.4091548432336	9.47031846466889	3.86624132334943		percent	percent	dimensionless
+Lees1987a		elder	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	elder_ACE inhibition	174.108636444415	hr		81.1161210598314	92.2588715354551	11.1427504756237	4.54900883273879		percent	percent	dimensionless
+Lees1987a		elder	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	elder_ACE inhibition	176.155560974198	hr		83.6349634723766	92.8267269513658	9.19176347898926	3.75252172664554		percent	percent	dimensionless
+Lees1987a		elder	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	elder_ACE inhibition	178.141914259618	hr		80.0253206757506	86.1529793122639	6.12765863651333	2.50160616290269		percent	percent	dimensionless
+Lees1987a		elder	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	elder_ACE inhibition	180.181697201638	hr		79.2015032601402	88.1152628018884	8.91375954174816	3.63902709452464		percent	percent	dimensionless
+Lees1987a		elder	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	elder_ACE inhibition	192.259973632332	hr		43.6169992932801	55.3160331676053	11.6990338743252	4.77611057927209		percent	percent	dimensionless

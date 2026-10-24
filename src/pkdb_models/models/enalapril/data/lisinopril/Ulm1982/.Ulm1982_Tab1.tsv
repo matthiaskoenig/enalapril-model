@@ -1,0 +1,11 @@
+study	group	count	intervention	measurement_type	substance	tissue	method	label	time_start	time	time_unit	mean	min	max	sd	se	unit	comments
+Ulm1982	all	12.0	LISPO10	cmax	lisinopril	serum	RIA	NA	NA	NA	NA	95.0	36.0	216.0	55.0	NA	nM	NA
+Ulm1982	all	12.0	LISPO10	tmax	lisinopril	serum	RIA	NA	NA	NA	NA	7.0	6.0	8.0	1.0	NA	hr	NA
+Ulm1982	all	12.0	LISPO10	auc_end	lisinopril	serum	RIA	NA	NA	72.0	hr	1694.0	866.0	3620.0	808.0	NA	nmol*hr/L	NA
+Ulm1982	all	12.0	LISPO10	clearance_renal	lisinopril	serum	RIA	NA	NA	10.0	hr	106.0	77.0	127.0	13.0	NA	ml/min	2 to 10 hours
+Ulm1982	all	12.0	LISPO10	recovery	lisinopril	urine	RIA	NA	NA	72.0	hr	29.0	NA	NA	15.0	NA	percent	NA
+Ulm1982	all	12.0	LISPO10	recovery	lisinopril	feces	scintillation counting	NA	NA	72.0	hr	69.0	NA	NA	23.0	NA	percent	not sure which time
+Ulm1982	all	12.0	LISPO10	cumulative amount	lisinopril	feces	scintillation counting	NA	NA	0.0	hr	0.0	NA	NA	1.5	NA	mg	NA
+Ulm1982	all	12.0	LISPO10	cumulative amount	lisinopril	feces	scintillation counting	NA	NA	72.0	hr	6.9	NA	NA	2.3	NA	mg	calculated from recovery and dose
+Ulm1982	all	12.0	LISPO10	recovery	lisinopril	feces_urine	NR	NA	NA	72.0	hr	97.0	NA	NA	15.0	NA	percent	total recovery
+Ulm1982	all	11.0	ENAPO10	cumulative amount	enalapril+enalaprilat	feces	isotope dilution	enalapril+enalaprilat_feces	NA	72.0	hr	6.2	NA	NA	NA	NA	µmole	total fecal drug (enalapril + MK-422) 31 % of 20 µmol (text; Tab1 enalapril 6 (10) %, MK-422 27 (16) %, n = 11)

@@ -1,0 +1,11 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Moffett2014	all	53	NA	species	53	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Moffett2014	all	53	NA	age	53	NA	NA	NA	30.0	NA	NA	18.0	55.0	yr	NA
+Moffett2014	all	53	NA	weight	53	NA	NA	NA	NA	NA	NA	50.0	NA	kg	NA
+Moffett2014	all	53	NA	sex	11	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Moffett2014	all	53	NA	sex	42	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Moffett2014	all	53	NA	bmi	53	NA	NA	NA	25.4	NA	NA	18.0	30.0	kg/m^2	NA
+Moffett2014	all	53	NA	healthy	53	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Moffett2014	all	53	NA	overnight fast	53	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Moffett2014	all	53	NA	ethnicity	34	NA	caucasian	NA	NA	NA	NA	NA	NA	NA	66% white
+Moffett2014	all	53	NA	ethnicity	26	NA	hispanic	NA	NA	NA	NA	NA	NA	NA	approximately half hispanic/latino

@@ -1,0 +1,49 @@
+[project]
+site_name = "Physiologically based pharmacokinetic/pharmacodynamic (PBPK/PD) model of enalapril"
+site_url = "https://matthiaskoenig.github.io/enalapril-model/"
+site_description = "This repository provides the enalapril physiologically based pharmacokinetic/pharmacodynamic (PBPK/PD) model: the absorption of the prodrug enalapril, its hydrolysis by the hepatic carboxylesterase 1 to the active enalaprilat, the distribution of both and the binding of enalaprilat to tissue ACE, their renal excretion relative to the glomerular filtration, and the inhibition of ACE in the renin-angiotensin-aldosterone system with its effect on the blood pressure."
+site_author = "Shubhankar Palwankar and Matthias König"
+
+copyright = "Copyright &copy; 2024-2026 Shubhankar Palwankar and Matthias König"
+
+# pages as `simulations.html`, so the reports which the docs workflow copies into
+# the site (`simulations/`, `fit/`) do not replace the pages of the same name
+use_directory_urls = false
+
+repo_url = "https://github.com/matthiaskoenig/enalapril-model"
+repo_name = "matthiaskoenig/enalapril-model"
+
+nav = [
+  { "Home" = "index.md" },
+  { "Running the model" = "running.md" },
+  { "Models" = "models.md" },
+  { "Simulations" = "simulations.md" },
+  { "Fit" = "fit.md" },
+  { "Release notes" = "release-notes.md" },
+]
+
+[project.theme]
+language = "en"
+features = [
+  "content.code.copy",
+  "navigation.footer",
+  "navigation.top",
+  "search.highlight",
+  "toc.follow",
+]
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+primary = "teal"
+accent = "teal"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+primary = "teal"
+accent = "teal"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/matthiaskoenig/enalapril-model"

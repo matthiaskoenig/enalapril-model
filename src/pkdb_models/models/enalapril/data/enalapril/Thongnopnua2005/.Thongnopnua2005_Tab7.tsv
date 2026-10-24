@@ -1,0 +1,4 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Thongnopnua2005	NA	all	12	ENA5	cmax	enalaprilat	plasma	HPLC	NA	NA	NA	NA	28.24	NA	6.76	1.95144390986094	20.93	39.98	ng/ml	NA
+Thongnopnua2005	NA	all	12	ENA5	tmax	enalaprilat	plasma	HPLC	NA	NA	NA	NA	4.3	NA	1.0	0.288675134594813	3.0	5.5	hr	NA
+Thongnopnua2005	NA	all	12	ENA5	auc_end	enalaprilat	plasma	HPLC	NA	14.0	hr	NA	160.84	NA	12.74	3.67772121473792	81.09	243.9	ng/ml*hr	NA

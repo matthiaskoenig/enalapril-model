@@ -1,0 +1,21 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	median	mean_pm	sd	se	min	max	unit	comments
+Johnston1992	NA	lis	6.0	LISs	cmax	lisinopril	serum	RIA	NA	NA	NA	NA	11.5	NA	NA	6.12372435695795	2.5	NA	NA	ng/ml	assumed to be SE
+Johnston1992	NA	lis	6.0	LISm	muliple_dosing_cmax	lisinopril	serum	RIA	NA	NA	NA	NA	19.2	NA	NA	7.10352025407122	2.9	NA	NA	ng/ml	NA
+Johnston1992	NA	lis	6.0	LISs	tmax	lisinopril	serum	RIA	NA	NA	NA	NA	NA	9.0	NA	NA	NA	NA	NA	hr	NA
+Johnston1992	NA	lis	6.0	LISm	tmax	lisinopril	serum	RIA	NA	NA	NA	NA	NA	6.0	NA	NA	NA	NA	NA	hr	NA
+Johnston1992	NA	lis	6.0	LISs	auc_end	lisinopril	serum	RIA	NA	48.0	hr	NA	192.3	NA	NA	50.4594887013335	20.6	NA	NA	ng/ml*hr	NA
+Johnston1992	NA	lis	6.0	LISm	auc_end	lisinopril	serum	RIA	NA	192.0	hr	NA	309.4	NA	NA	123.454283036272	50.4	NA	NA	ng/ml*hr	NA
+Johnston1992	NA	lis	6.0	LISm	thalf	lisinopril	serum	RIA	NA	NA	NA	NA	16.4	NA	NA	9.79795897113271	4.0	NA	NA	hr	NA
+Johnston1992	NA	ena	7.0	ENAs	cmax	enalaprilat	serum	RIA	NA	NA	NA	NA	10.3	NA	NA	4.76235235991626	1.8	NA	NA	ng/ml	assumed to be SE
+Johnston1992	NA	ena	7.0	ENAm	muliple_dosing_cmax	enalaprilat	serum	RIA	NA	NA	NA	NA	14.8	NA	NA	6.87895340876794	2.6	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAs	tmax	enalaprilat	serum	RIA	NA	NA	NA	NA	NA	8.0	NA	NA	NA	NA	NA	hr	NA
+Johnston1992	NA	ena	7.0	ENAm	tmax	enalaprilat	serum	RIA	NA	NA	NA	NA	NA	6.0	NA	NA	NA	NA	NA	hr	NA
+Johnston1992	NA	ena	7.0	ENAs	auc_end	enalaprilat	serum	RIA	NA	48.0	hr	NA	218.3	NA	NA	125.673187275568	47.5	NA	NA	ng/ml*hr	NA
+Johnston1992	NA	ena	7.0	ENAm	auc_end	enalaprilat	serum	RIA	NA	192.0	hr	NA	280.0	NA	NA	165.88860720375	62.7	NA	NA	ng/ml*hr	NA
+Johnston1992	NA	ena	7.0	ENAm	thalf	enalaprilat	serum	RIA	NA	NA	NA	NA	14.7	NA	NA	7.93725393319377	3.0	NA	NA	hr	NA
+Johnston1992	NA	ena	7.0	ENAs	cmax	enalapril	serum	RIA	NA	NA	NA	NA	29.0	NA	NA	11.6413057686842	4.4	NA	NA	ng/ml	assumed to be SE
+Johnston1992	NA	ena	7.0	ENAm	muliple_dosing_cmax	enalapril	serum	RIA	NA	NA	NA	NA	24.7	NA	NA	10.5830052442584	4.0	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAs	tmax	enalapril	serum	RIA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	hr	NA
+Johnston1992	NA	ena	7.0	ENAm	tmax	enalapril	serum	RIA	NA	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	hr	NA
+Johnston1992	NA	ena	7.0	ENAs	auc_end	enalapril	serum	RIA	NA	48.0	hr	NA	86.9	NA	NA	49.4755495169079	18.7	NA	NA	ng/ml*hr	NA
+Johnston1992	NA	ena	7.0	ENAm	auc_end	enalapril	serum	RIA	NA	192.0	hr	NA	69.1	NA	NA	57.4128034501016	21.7	NA	NA	ng/ml*hr	NA

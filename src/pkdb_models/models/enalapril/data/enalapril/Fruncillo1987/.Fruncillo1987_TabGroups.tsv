@@ -1,0 +1,14 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Fruncillo1987	all	24.0	NA	species	24.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Fruncillo1987	all	24.0	NA	healthy	24.0	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Fruncillo1987	all	24.0	NA	disease	24.0	NA	hypertension	NA	NA	NA	NA	NA	NA	NA	NA
+Fruncillo1987	all	24.0	NA	sex	19.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Fruncillo1987	all	24.0	NA	sex	5.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Fruncillo1987	Group1	6.0	all	species	6.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Fruncillo1987	Group1	6.0	all	clearance	6.0	creatinine	NA	NA	NA	NA	NA	80.0	NA	ml/min	NA
+Fruncillo1987	Group2	6.0	all	species	6.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Fruncillo1987	Group2	6.0	all	clearance	6.0	creatinine	NA	NA	NA	NA	NA	40.0	79.0	ml/min	NA
+Fruncillo1987	Group3	6.0	all	species	6.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Fruncillo1987	Group3	6.0	all	clearance	6.0	creatinine	NA	NA	NA	NA	NA	10.0	39.0	ml/min	NA
+Fruncillo1987	Group4	6.0	all	species	6.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Fruncillo1987	Group4	6.0	all	clearance	6.0	creatinine	NA	NA	NA	NA	NA	NA	5.0	ml/min	NA

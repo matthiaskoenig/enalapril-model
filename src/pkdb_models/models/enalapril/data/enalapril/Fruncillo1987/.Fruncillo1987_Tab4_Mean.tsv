@@ -1,0 +1,3 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Fruncillo1987	NA	Group4	6	ENA5s	clearance	enalaprilat	urine	NR	NA	NR	NR	NA	68	NA	36	NA	NA	NA	ml/min	NA
+Fruncillo1987	NA	Group4	6	ENA5m2	clearance	enalaprilat	urine	NR	NA	NR	NR	NA	57	NA	17	NA	NA	NA	ml/min	NA

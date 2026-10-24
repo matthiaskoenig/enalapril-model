@@ -1,0 +1,14 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Johnston1992		ena	7.0	ENAs	concentration	enalaprilat	serum	RIA	ENAs_enalaprilat	1.62065000443376	hr		4.2087851458563826e-06				timepoints from digitized plots	mole/meter^3	ng/ml	dimensionless
+Johnston1992		ena	7.0	ENAs	concentration	enalaprilat	serum	RIA	ENAs_enalaprilat	2.70910288223776	hr		7.4599911930869575e-06					mole/meter^3	ng/ml	dimensionless
+Johnston1992		ena	7.0	ENAs	concentration	enalaprilat	serum	RIA	ENAs_enalaprilat	3.70960731382186	hr		1.3221098491319874e-05					mole/meter^3	ng/ml	dimensionless
+Johnston1992		ena	7.0	ENAs	concentration	enalaprilat	serum	RIA	ENAs_enalaprilat	4.58451264204401	hr		1.6823655891324354e-05					mole/meter^3	ng/ml	dimensionless
+Johnston1992		ena	7.0	ENAs	concentration	enalaprilat	serum	RIA	ENAs_enalaprilat	5.72435357892028	hr		2.022727934307111e-05					mole/meter^3	ng/ml	dimensionless
+Johnston1992		ena	7.0	ENAs	concentration	enalaprilat	serum	RIA	ENAs_enalaprilat	6.68938789335124	hr		2.29645088817166e-05					mole/meter^3	ng/ml	dimensionless
+Johnston1992		ena	7.0	ENAs	concentration	enalaprilat	serum	RIA	ENAs_enalaprilat	7.65616663977334	hr		2.3796247013439912e-05					mole/meter^3	ng/ml	dimensionless
+Johnston1992		ena	7.0	ENAs	concentration	enalaprilat	serum	RIA	ENAs_enalaprilat	8.83976374576066	hr		2.894078309119542e-05					mole/meter^3	ng/ml	dimensionless
+Johnston1992		ena	7.0	ENAs	concentration	enalaprilat	serum	RIA	ENAs_enalaprilat	9.72251901794294	hr		2.441492468029014e-05					mole/meter^3	ng/ml	dimensionless
+Johnston1992		ena	7.0	ENAs	concentration	enalaprilat	serum	RIA	ENAs_enalaprilat	10.8205662716982	hr		2.618549803841032e-05					mole/meter^3	ng/ml	dimensionless
+Johnston1992		ena	7.0	ENAs	concentration	enalaprilat	serum	RIA	ENAs_enalaprilat	24.5098509528233	hr		1.329618930139285e-05					mole/meter^3	ng/ml	dimensionless
+Johnston1992		ena	7.0	ENAs	concentration	enalaprilat	serum	RIA	ENAs_enalaprilat	32.7881256514363	hr		7.512085861718298e-06					mole/meter^3	ng/ml	dimensionless
+Johnston1992		ena	7.0	ENAs	concentration	enalaprilat	serum	RIA	ENAs_enalaprilat	48.6730687320741	hr		4.4890546182369315e-06					mole/meter^3	ng/ml	dimensionless

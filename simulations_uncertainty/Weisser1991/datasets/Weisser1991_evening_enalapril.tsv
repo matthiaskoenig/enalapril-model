@@ -1,0 +1,15 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Weisser1991		evening	8.0	ENA10	concentration	enalapril	serum	RIA	evening_enalapril	0.5	hr		1.5938130367590765e-05	2.3588415803611	2.5929627648306225e-05	9.167507771879765e-06	manually set to 30 min	mole/meter^3	ng/ml	dimensionless
+Weisser1991		evening	8.0	ENA10	concentration	enalapril	serum	RIA	evening_enalapril	1.0	hr		9.932375080968336e-05	21.8281549673958	0.00010371851059322502	3.6670031087519115e-05		mole/meter^3	ng/ml	dimensionless
+Weisser1991		evening	8.0	ENA10	concentration	enalapril	serum	RIA	evening_enalapril	1.5	hr		0.00013337944847928004	59.0924434215574	0.00010248688052838314	3.623458410213764e-05		mole/meter^3	ng/ml	dimensionless
+Weisser1991		evening	8.0	ENA10	concentration	enalapril	serum	RIA	evening_enalapril	2.0	hr		0.00010937426359363864	44.3411967779058	5.062606817732703e-05	1.789901805650018e-05		mole/meter^3	ng/ml	dimensionless
+Weisser1991		evening	8.0	ENA10	concentration	enalapril	serum	RIA	evening_enalapril	2.5	hr		0.00012160146080262325	50.5782508630611	6.66777424358022e-05	2.3574141915282885e-05		mole/meter^3	ng/ml	dimensionless
+Weisser1991		evening	8.0	ENA10	concentration	enalapril	serum	RIA	evening_enalapril	3.0	hr		6.310843427327052e-05	16.967587265056	4.07465577330525e-05	1.4406083641525274e-05		mole/meter^3	ng/ml	dimensionless
+Weisser1991		evening	8.0	ENA10	concentration	enalapril	serum	RIA	evening_enalapril	3.5	hr		4.390582777001558e-05	18.6425009589571	2.716437182203496e-05	9.60405576101685e-06		mole/meter^3	ng/ml	dimensionless
+Weisser1991		evening	8.0	ENA10	concentration	enalapril	serum	RIA	evening_enalapril	4.0	hr		2.9940145630772206e-05	15.1457614115846	3.827706938559463e-05	1.353298766325099e-05		mole/meter^3	ng/ml	dimensionless
+Weisser1991		evening	8.0	ENA10	concentration	enalapril	serum	RIA	evening_enalapril	5.0	hr		2.6456569747720823e-05	14.2362869198317	4.074655773305279e-05	1.440608364152542e-05		mole/meter^3	ng/ml	dimensionless
+Weisser1991		evening	8.0	ENA10	concentration	enalapril	serum	RIA	evening_enalapril	6.0	hr		1.598877654035321e-05	8.61219792865411	2.4694883474577256e-05	8.730959782742595e-06		mole/meter^3	ng/ml	dimensionless
+Weisser1991		evening	8.0	ENA10	concentration	enalapril	serum	RIA	evening_enalapril	7.0	hr		5.083334340092785e-06	3.291906405831	1.2347441737288601e-05	4.3654798913712825e-06		mole/meter^3	ng/ml	dimensionless
+Weisser1991		evening	8.0	ENA10	concentration	enalapril	serum	RIA	evening_enalapril	8.0	hr		4.22014739561984e-06	2.99117759877308	1.234744173728866e-05	4.365479891371311e-06		mole/meter^3	ng/ml	dimensionless
+Weisser1991		evening	8.0	ENA10	concentration	enalapril	serum	RIA	evening_enalapril	9.0	hr		1.0777725764600297e-05	7.70924434215623	3.210334851695037e-05	1.1350247717565364e-05		mole/meter^3	ng/ml	dimensionless
+Weisser1991		evening	8.0	ENA10	concentration	enalapril	serum	RIA	evening_enalapril	10.0	hr		9.0403418380974e-06	6.64767932489502	2.839911599576387e-05	1.0040603750153991e-05		mole/meter^3	ng/ml	dimensionless

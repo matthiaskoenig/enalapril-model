@@ -1,0 +1,69 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	G143E_enalapril	144.0	hr	NA	0.123966942148456	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	G143E_enalapril	144.5	hr	NA	31.3016528925618	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	G143E_enalapril	145.0	hr	NA	69.4834710743802	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	G143E_enalapril	145.5	hr	NA	54.9173553719008	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	G143E_enalapril	146.0	hr	NA	33.285123966942	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	G143E_enalapril	146.5	hr	NA	17.2314049586775	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	G143E_enalapril	147.0	hr	NA	9.48347107437991	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	G143E_enalapril	147.5	hr	NA	5.64049586776834	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	G143E_enalapril	148.0	hr	NA	3.59504132231376	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	G143E_enalapril	149.0	hr	NA	1.85950413223111	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	G143E_enalapril	150.0	hr	NA	0.867768595041014	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	G143E_enalapril	152.0	hr	NA	0.495867768594749	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	G143E_enalapril	154.0	hr	NA	0.123966942148456	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	G143E_enalapril	156.0	hr	NA	0.0	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	G143E_enalapril	168.0	hr	NA	0.0	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	G143E_enalapril	192.0	hr	NA	0.0	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	G143E_enalapril	216.0	hr	NA	0.0	NA	NA	NA	ng/ml	NA
+Her2021	NA	control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	144.0	hr	NA	0.0	NA	NA	NA	ng/ml	NA
+Her2021	NA	control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	144.5	hr	NA	29.9999999999998	NA	NA	NA	ng/ml	NA
+Her2021	NA	control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	145.0	hr	NA	62.7272727272727	NA	NA	NA	ng/ml	NA
+Her2021	NA	control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	145.5	hr	NA	50.8264462809917	NA	NA	NA	ng/ml	NA
+Her2021	NA	control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	146.0	hr	NA	28.5123966942147	NA	NA	NA	ng/ml	NA
+Her2021	NA	control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	146.5	hr	NA	16.8595041322312	NA	NA	NA	ng/ml	NA
+Her2021	NA	control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	147.0	hr	NA	9.79338842975182	NA	NA	NA	ng/ml	NA
+Her2021	NA	control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	147.5	hr	NA	6.07438016528899	NA	NA	NA	ng/ml	NA
+Her2021	NA	control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	148.0	hr	NA	4.09090909090881	NA	NA	NA	ng/ml	NA
+Her2021	NA	control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	149.0	hr	NA	1.73553719008235	NA	NA	NA	ng/ml	NA
+Her2021	NA	control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	150.0	hr	NA	0.867768595041014	NA	NA	NA	ng/ml	NA
+Her2021	NA	control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	152.0	hr	NA	0.0	NA	NA	NA	ng/ml	NA
+Her2021	NA	control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	154.0	hr	NA	0.0	NA	NA	NA	ng/ml	NA
+Her2021	NA	control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	156.0	hr	NA	0.0	NA	NA	NA	ng/ml	NA
+Her2021	NA	control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	168.0	hr	NA	0.0	NA	NA	NA	ng/ml	NA
+Her2021	NA	control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	192.0	hr	NA	0.0	NA	NA	NA	ng/ml	NA
+Her2021	NA	control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	216.0	hr	NA	0.0	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	144.0	hr	NA	3.31100926702712	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	144.5	hr	NA	3.43555349514645	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	145.0	hr	NA	7.03097404045255	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	145.5	hr	NA	17.4445654667279	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	146.0	hr	NA	26.6186819550427	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	146.5	hr	NA	30.9580954550339	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	147.0	hr	NA	36.1652761580575	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	147.5	hr	NA	36.1660461378295	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	148.0	hr	NA	35.298086439854	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	149.0	hr	NA	33.6880587366235	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	150.0	hr	NA	28.1105177632728	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	152.0	hr	NA	20.3027303803538	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	154.0	hr	NA	13.6106436870479	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	156.0	hr	NA	9.64582534612971	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	168.0	hr	NA	2.96413337974573	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	192.0	hr	NA	1.12927158309418	NA	NA	NA	ng/ml	NA
+Her2021	NA	G143E	6.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	G143E_enalaprilat	216.0	hr	NA	0.410302970998742	NA	NA	NA	ng/ml	NA
+Her2021	NA	control	15.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	control_enalaprilat	144.0	hr	NA	3.06307578044641	NA	NA	NA	ng/ml	NA
+Her2021	NA	control	15.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	control_enalaprilat	144.5	hr	NA	2.93968652198505	NA	NA	NA	ng/ml	NA
+Her2021	NA	control	15.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	control_enalaprilat	145.0	hr	NA	10.6260095958727	NA	NA	NA	ng/ml	value of the next sample (shift of one sample from 145 hr), 216 hr read from Fig3
+Her2021	NA	control	15.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	control_enalaprilat	145.5	hr	NA	30.5854252453908	NA	NA	NA	ng/ml	value of the next sample (shift of one sample from 145 hr), 216 hr read from Fig3
+Her2021	NA	control	15.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	control_enalaprilat	146.0	hr	NA	41.4946911498845	NA	NA	NA	ng/ml	value of the next sample (shift of one sample from 145 hr), 216 hr read from Fig3
+Her2021	NA	control	15.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	control_enalaprilat	146.5	hr	NA	47.3211280845309	NA	NA	NA	ng/ml	value of the next sample (shift of one sample from 145 hr), 216 hr read from Fig3
+Her2021	NA	control	15.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	control_enalaprilat	147.0	hr	NA	49.3057509468345	NA	NA	NA	ng/ml	value of the next sample (shift of one sample from 145 hr), 216 hr read from Fig3
+Her2021	NA	control	15.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	control_enalaprilat	147.5	hr	NA	47.0751195473802	NA	NA	NA	ng/ml	value of the next sample (shift of one sample from 145 hr), 216 hr read from Fig3
+Her2021	NA	control	15.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	control_enalaprilat	148.0	hr	NA	44.9676849114442	NA	NA	NA	ng/ml	value of the next sample (shift of one sample from 145 hr), 216 hr read from Fig3
+Her2021	NA	control	15.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	control_enalaprilat	149.0	hr	NA	38.7708877064708	NA	NA	NA	ng/ml	value of the next sample (shift of one sample from 145 hr), 216 hr read from Fig3
+Her2021	NA	control	15.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	control_enalaprilat	150.0	hr	NA	35.0528478824753	NA	NA	NA	ng/ml	value of the next sample (shift of one sample from 145 hr), 216 hr read from Fig3
+Her2021	NA	control	15.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	control_enalaprilat	152.0	hr	NA	24.8894998820967	NA	NA	NA	ng/ml	value of the next sample (shift of one sample from 145 hr), 216 hr read from Fig3
+Her2021	NA	control	15.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	control_enalaprilat	154.0	hr	NA	18.0736389404435	NA	NA	NA	ng/ml	value of the next sample (shift of one sample from 145 hr), 216 hr read from Fig3
+Her2021	NA	control	15.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	control_enalaprilat	156.0	hr	NA	12.1249677169937	NA	NA	NA	ng/ml	value of the next sample (shift of one sample from 145 hr), 216 hr read from Fig3
+Her2021	NA	control	15.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	control_enalaprilat	168.0	hr	NA	4.32738256605357	NA	NA	NA	ng/ml	value of the next sample (shift of one sample from 145 hr), 216 hr read from Fig3
+Her2021	NA	control	15.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	control_enalaprilat	192.0	hr	NA	1.25323832638452	NA	NA	NA	ng/ml	value of the next sample (shift of one sample from 145 hr), 216 hr read from Fig3
+Her2021	NA	control	15.0	ENA10m	concentration	enalaprilat	plasma	LC MS/MS	control_enalaprilat	216.0	hr	NA	0.6	NA	NA	NA	ng/ml	value of the next sample (shift of one sample from 145 hr), 216 hr read from Fig3

@@ -1,0 +1,9 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	mean_unit	value_unit	count_unit
+Arafat2005		healthy	24.0	ENA10	blood pressure diastolic		plasma	sphygmomanometer	blood pressure diastolic_ENA10	0.0	hr		80.948905109489		8.22456409985582	1.6788321167883	mmHg	mmHg	dimensionless
+Arafat2005		healthy	24.0	ENA10	blood pressure diastolic		plasma	sphygmomanometer	blood pressure diastolic_ENA10	1.0	hr		78.8686131386861		7.50938461291209	1.5328467153285	mmHg	mmHg	dimensionless
+Arafat2005		healthy	24.0	ENA10	blood pressure diastolic		plasma	sphygmomanometer	blood pressure diastolic_ENA10	2.0	hr		74.8540145985401		9.47612820200803	1.93430656934309	mmHg	mmHg	dimensionless
+Arafat2005		healthy	24.0	ENA10	blood pressure diastolic		plasma	sphygmomanometer	blood pressure diastolic_ENA10	4.0	hr		71.0218978102189		6.61541025423214	1.35036496350369	mmHg	mmHg	dimensionless
+Arafat2005		healthy	24.0	ENA10	blood pressure diastolic		plasma	sphygmomanometer	blood pressure diastolic_ENA10	6.0	hr		69.963503649635		8.22456409985582	1.6788321167883	mmHg	mmHg	dimensionless
+Arafat2005		healthy	24.0	ENA10	blood pressure diastolic		plasma	sphygmomanometer	blood pressure diastolic_ENA10	8.0	hr		73.941605839416		8.22456409985631	1.6788321167884	mmHg	mmHg	dimensionless
+Arafat2005		healthy	24.0	ENA10	blood pressure diastolic		plasma	sphygmomanometer	blood pressure diastolic_ENA10	12.0	hr		76.8978102189781		6.25782051075988	1.27737226277371	mmHg	mmHg	dimensionless
+Arafat2005		healthy	24.0	ENA10	blood pressure diastolic		plasma	sphygmomanometer	blood pressure diastolic_ENA10	24.0	hr		76.8978102189781		7.15179486943979	1.45985401459851	mmHg	mmHg	dimensionless

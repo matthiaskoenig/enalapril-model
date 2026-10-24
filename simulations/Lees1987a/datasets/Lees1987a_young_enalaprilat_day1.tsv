@@ -1,0 +1,9 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Lees1987a		young	6.0	ENA10	concentration	enalaprilat	serum	RIA	young_enalaprilat	1.02938376319889	hr		2.7328128666050955e-05					mole/meter^3	ng/ml	dimensionless
+Lees1987a		young	6.0	ENA10	concentration	enalaprilat	serum	RIA	young_enalaprilat	2.08018867924528	hr		0.00010251743590107311	3.08832438982165	9.365296654853162e-05	3.823366349030723e-05		mole/meter^3	ng/ml	dimensionless
+Lees1987a		young	6.0	ENA10	concentration	enalaprilat	serum	RIA	young_enalaprilat	4.04950666435866	hr		0.00011131886709490386	15.2568374588887	6.752691035721208e-05	2.7567745713638367e-05		mole/meter^3	ng/ml	dimensionless
+Lees1987a		young	6.0	ENA10	concentration	enalaprilat	serum	RIA	young_enalaprilat	6.19811320754717	hr		9.943726104267386e-05	22.1226415094339	3.593827165413773e-05	1.4671737965027629e-05		mole/meter^3	ng/ml	dimensionless
+Lees1987a		young	6.0	ENA10	concentration	enalaprilat	serum	RIA	young_enalaprilat	8.04954993941492	hr		7.120703458817183e-05	15.3212091050718	2.723031083356827e-05	1.1116727846603871e-05		mole/meter^3	ng/ml	dimensionless
+Lees1987a		young	6.0	ENA10	concentration	enalaprilat	serum	RIA	young_enalaprilat	9.95343603946685	hr		5.060225160809728e-05	12.3169465120304	1.5248713219245074e-05	6.225261103530518e-06		mole/meter^3	ng/ml	dimensionless
+Lees1987a		young	6.0	ENA10	concentration	enalaprilat	serum	RIA	young_enalaprilat	11.9071750043275	hr		3.3266757962554994e-05	8.93554180370433	7.6189222855954865e-06	3.1104119982713805e-06		mole/meter^3	ng/ml	dimensionless
+Lees1987a		young	6.0	ENA10	concentration	enalaprilat	serum	RIA	young_enalaprilat	24.0155790202527	hr		1.4214017924539199e-05	1.91676042928856	8.71230827979099e-06	3.5567849612188343e-06		mole/meter^3	ng/ml	dimensionless

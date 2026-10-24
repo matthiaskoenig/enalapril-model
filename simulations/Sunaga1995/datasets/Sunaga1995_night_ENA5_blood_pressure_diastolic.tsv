@@ -1,0 +1,10 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Sunaga1995		night	12.0	ENA5	blood pressure diastolic			sphygmomanometer	night_ENA5_blood pressure diastolic	0.0	hr		72.6586102719033	82.9305135951662	10.2719033232629	2.96524307438782		mmHg	mmHg	dimensionless
+Sunaga1995		night	12.0	ENA5	blood pressure diastolic			sphygmomanometer	night_ENA5_blood pressure diastolic	0.5	hr		70.5438066465257	79.9093655589124	9.3655589123867	2.70360397958888		mmHg	mmHg	dimensionless
+Sunaga1995		night	12.0	ENA5	blood pressure diastolic			sphygmomanometer	night_ENA5_blood pressure diastolic	1.0	hr		68.1268882175227	77.190332326284	9.06344410876129	2.61639094798923		mmHg	mmHg	dimensionless
+Sunaga1995		night	12.0	ENA5	blood pressure diastolic			sphygmomanometer	night_ENA5_blood pressure diastolic	2.0	hr		69.3353474320242	79.607250755287	10.2719033232628	2.96524307438779		mmHg	mmHg	dimensionless
+Sunaga1995		night	12.0	ENA5	blood pressure diastolic			sphygmomanometer	night_ENA5_blood pressure diastolic	4.0	hr		64.5015105740181	75.3776435045317	10.8761329305136	3.13966913758709		mmHg	mmHg	dimensionless
+Sunaga1995		night	12.0	ENA5	blood pressure diastolic			sphygmomanometer	night_ENA5_blood pressure diastolic	6.0	hr		62.6888217522659	72.356495468278	9.6676737160121	2.79081701118853		mmHg	mmHg	dimensionless
+Sunaga1995		night	12.0	ENA5	blood pressure diastolic			sphygmomanometer	night_ENA5_blood pressure diastolic	8.0	hr		66.3141993957704	74.773413897281	8.4592145015106	2.44196488478997		mmHg	mmHg	dimensionless
+Sunaga1995		night	12.0	ENA5	blood pressure diastolic			sphygmomanometer	night_ENA5_blood pressure diastolic	12.0	hr		63.595166163142	72.6586102719033	9.0634441087613	2.61639094798923		mmHg	mmHg	dimensionless
+Sunaga1995		night	12.0	ENA5	blood pressure diastolic			sphygmomanometer	night_ENA5_blood pressure diastolic	24.0	hr		68.7311178247734	78.7009063444109	9.96978851963749	2.87803004278817		mmHg	mmHg	dimensionless

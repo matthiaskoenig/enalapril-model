@@ -1,0 +1,9 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Oguchi1993		Ena1	6.0	ENA5	concentration	enalapril	plasma	GC/MS	Ena1_enalapril	0.0	hr		0.0					mole/meter^3	ug/l	dimensionless
+Oguchi1993		Ena1	6.0	ENA5	concentration	enalapril	plasma	GC/MS	Ena1_enalapril	0.5	hr		3.07319939602791e-05	7.42044734220772	2.699381770544302e-05	1.102017993134029e-05		mole/meter^3	ug/l	dimensionless
+Oguchi1993		Ena1	6.0	ENA5	concentration	enalapril	plasma	GC/MS	Ena1_enalapril	1.0	hr		4.4906295066414966e-05	18.682604364756	1.1567768907562717e-05	4.72252188099351e-06		mole/meter^3	ug/l	dimensionless
+Oguchi1993		Ena1	6.0	ENA5	concentration	enalapril	plasma	GC/MS	Ena1_enalapril	2.0	hr		1.3821170394985714e-05	2.98071176310785	1.4459711134453216e-05	5.9031523512418086e-06		mole/meter^3	ug/l	dimensionless
+Oguchi1993		Ena1	6.0	ENA5	concentration	enalapril	plasma	GC/MS	Ena1_enalapril	4.0	hr		3.2118537161279663e-06					mole/meter^3	ug/l	dimensionless
+Oguchi1993		Ena1	6.0	ENA5	concentration	enalapril	plasma	GC/MS	Ena1_enalapril	8.0	hr		0.0					mole/meter^3	ug/l	dimensionless
+Oguchi1993		Ena1	6.0	ENA5	concentration	enalapril	plasma	GC/MS	Ena1_enalapril	24.0	hr		0.0					mole/meter^3	ug/l	dimensionless
+Oguchi1993		Ena1	6.0	ENA5	concentration	enalapril	plasma	GC/MS	Ena1_enalapril	48.0	hr		0.0					mole/meter^3	ug/l	dimensionless

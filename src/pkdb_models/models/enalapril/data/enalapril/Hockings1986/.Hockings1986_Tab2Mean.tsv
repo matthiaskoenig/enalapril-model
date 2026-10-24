@@ -1,0 +1,9 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Hockings1986	NA	young	8.0	EATIV10	auc_end	enalaprilat	plasma	RIA	auc_end_enalaprilat_young	96.0	hr	NA	1694.0	NA	314.0	NA	NA	NA	ng/ml*hr	NA
+Hockings1986	NA	young	8.0	EATIV10	thalf	enalaprilat	plasma	RIA	thalf_enalaprilat_young	96.0	hr	NA	1.14	NA	0.2	NA	NA	NA	hr	NA
+Hockings1986	NA	young	8.0	EATIV10	thalf	enalaprilat	plasma	RIA	thalf_enalaprilat_young	96.0	hr	NA	38.5	NA	10.7	NA	NA	NA	hr	NA
+Hockings1986	NA	young	8.0	EATIV10	clearance	enalaprilat	plasma	RIA	clearance_enalaprilat_young	96.0	hr	NA	6.1	NA	1.23	NA	NA	NA	l/hr	NA
+Hockings1986	NA	elder	9.0	EATIV10	auc_end	enalaprilat	plasma	RIA	auc_end_enalaprilat_elder	96.0	hr	NA	2294.0	NA	475.0	NA	NA	NA	ng/ml*hr	NA
+Hockings1986	NA	elder	9.0	EATIV10	thalf	enalaprilat	plasma	RIA	thalf_enalaprilat_elder	96.0	hr	NA	1.5	NA	0.3	NA	NA	NA	hr	NA
+Hockings1986	NA	elder	9.0	EATIV10	thalf	enalaprilat	plasma	RIA	thalf_enalaprilat_elder	96.0	hr	NA	38.5	NA	8.6	NA	NA	NA	hr	NA
+Hockings1986	NA	elder	9.0	EATIV10	clearance	enalaprilat	plasma	RIA	clearance_enalaprilat_elder	96.0	hr	NA	4.46	NA	0.88	NA	NA	NA	l/hr	NA

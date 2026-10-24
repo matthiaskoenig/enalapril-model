@@ -1,0 +1,13 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Tarkiainen2015	NA	control	12.0	ENA10	blood pressure systolic	NA	NA	NR	control_ENA10_blood pressure systolic	0.0	hr	NA	120.0	NA	11.0	3.17542648054294	NA	NA	mmHg	NA
+Tarkiainen2015	NA	control	12.0	ENA10	blood pressure diastolic	NA	NA	NR	control_ENA10_blood pressure diastolic	0.0	hr	NA	73.0	NA	5.0	1.44337567297406	NA	NA	mmHg	NA
+Tarkiainen2015	NA	control	12.0	ENA10	heart rate	NA	NA	NR	control_ENA10_heart rate	0.0	hr	NA	67.0	NA	10.0	2.88675134594813	NA	NA	1/min	NA
+Tarkiainen2015	NA	control	12.0	ENA10	blood pressure systolic	NA	NA	NR	control_ENA10_blood pressure systolic	12.0	hr	NA	118.0	NA	14.0	4.04145188432738	NA	NA	mmHg	NA
+Tarkiainen2015	NA	control	12.0	ENA10	blood pressure diastolic	NA	NA	NR	control_ENA10_blood pressure diastolic	12.0	hr	NA	68.0	NA	7.0	2.02072594216369	NA	NA	mmHg	NA
+Tarkiainen2015	NA	control	12.0	ENA10	heart rate	NA	NA	NR	control_ENA10_heart rate	12.0	hr	NA	62.0	NA	10.0	2.88675134594813	NA	NA	1/min	NA
+Tarkiainen2015	NA	G143E	10.0	ENA10	blood pressure systolic	NA	NA	NR	G143E_ENA10_blood pressure systolic	0.0	hr	NA	124.0	NA	10.0	3.16227766016838	NA	NA	mmHg	NA
+Tarkiainen2015	NA	G143E	10.0	ENA10	blood pressure diastolic	NA	NA	NR	G143E_ENA10_blood pressure diastolic	0.0	hr	NA	78.0	NA	11.0	3.47850542618522	NA	NA	mmHg	NA
+Tarkiainen2015	NA	G143E	10.0	ENA10	heart rate	NA	NA	NR	G143E_ENA10_heart rate	0.0	hr	NA	61.0	NA	9.0	2.84604989415154	NA	NA	1/min	NA
+Tarkiainen2015	NA	G143E	10.0	ENA10	blood pressure systolic	NA	NA	NR	G143E_ENA10_blood pressure systolic	12.0	hr	NA	119.0	NA	12.0	3.79473319220205	NA	NA	mmHg	NA
+Tarkiainen2015	NA	G143E	10.0	ENA10	blood pressure diastolic	NA	NA	NR	G143E_ENA10_blood pressure diastolic	12.0	hr	NA	70.0	NA	9.0	2.84604989415154	NA	NA	mmHg	NA
+Tarkiainen2015	NA	G143E	10.0	ENA10	heart rate	NA	NA	NR	G143E_ENA10_heart rate	12.0	hr	NA	61.0	NA	10.0	3.16227766016838	NA	NA	1/min	NA

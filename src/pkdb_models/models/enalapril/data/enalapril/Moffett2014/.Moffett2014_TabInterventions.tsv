@@ -1,0 +1,4 @@
+study	name	time	time_end	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+Moffett2014	ENAfast10	0	NA	hr	oral	single dose	dosing	solution	enalapril maleate	10	mg 	NA
+Moffett2014	VAS10	0	NA	hr	oral	single dose	dosing	tablet	enalapril maleate	10	mg 	NA
+Moffett2014	ENAfed10	0	NA	hr	oral	single dose	dosing	solution	enalapril maleate	10	mg 	NA

@@ -1,0 +1,5 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+MacDonald1993	NA	young	9.0	BEN10	IC50 ACE	NA	plasma	HPLC	young_IC50 ACE_BEN10	NA	NA	NA	12.4	NA	4.9	NA	nmol/l	NA
+MacDonald1993	NA	elder	9.0	BEN10	IC50 ACE	NA	plasma	HPLC	elder_IC50 ACE_BEN10	NA	NA	NA	14.0	NA	3.5	NA	nmol/l	NA
+MacDonald1993	NA	young	9.0	ENA10	IC50 ACE	NA	plasma	HPLC	young_IC50 ACE_ENA10	NA	NA	NA	22.9	NA	6.5	NA	nmol/l	NA
+MacDonald1993	NA	elder	9.0	ENA10	IC50 ACE	NA	plasma	HPLC	elder_IC50 ACE_ENA10	NA	NA	NA	19.4	NA	5.0	NA	nmol/l	NA

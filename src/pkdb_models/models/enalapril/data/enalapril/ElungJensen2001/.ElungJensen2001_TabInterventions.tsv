@@ -1,0 +1,5 @@
+study	name	time	time_end	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+ElungJensen2001	ENA2.5	0	NA	NA	oral	single dose	dosing	tablet	enalapril maleate	2.5	mg	NA
+ElungJensen2001	ENA5	0	NA	NA	oral	single dose	dosing	tablet	enalapril maleate	5.0	mg	NA
+ElungJensen2001	ENA10	0	NA	NA	oral	single dose	dosing	tablet	enalapril maleate	10.0	mg	NA
+ElungJensen2001	ENA20	0	NA	NA	oral	single dose	dosing	tablet	enalapril maleate	20.0	mg	NA

@@ -1,0 +1,11 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Kelly1986		S1	6.0	ENA10S	 cumulative amount	enalaprilat	urine	RIA	S1_urine	2.0	hr		1.9267285223652473e-07	0.148024251017228	5.687804367481456e-07	2.3220364095171984e-07		mole	mg	dimensionless
+Kelly1986		S1	6.0	ENA10S	 cumulative amount	enalaprilat	urine	RIA	S1_urine	3.0	hr		1.1014040796854161e-06	0.437611230495432	3.788840928498026e-07	1.546787831898835e-07		mole	mg	dimensionless
+Kelly1986		S1	6.0	ENA10S	 cumulative amount	enalaprilat	urine	RIA	S1_urine	4.0	hr		2.1841025716812047e-06	0.82834873021851	4.7402696371616356e-07	1.9352069757089943e-07		mole	mg	dimensionless
+Kelly1986		S1	6.0	ENA10S	 cumulative amount	enalaprilat	urine	RIA	S1_urine	5.0	hr		3.0153619317016444e-06	1.21899392247649	1.1844184128997583e-06	4.835367922602482e-07		mole	mg	dimensionless
+Kelly1986		S1	6.0	ENA10S	 cumulative amount	enalaprilat	urine	RIA	S1_urine	6.0	hr		3.943434630840952e-06	1.63668520200565	1.847822523401764e-06	7.543703862593917e-07		mole	mg	dimensionless
+Kelly1986		S1	6.0	ENA10S	 cumulative amount	enalaprilat	urine	RIA	S1_urine	7.0	hr		5.103128077264594e-06	2.15526854087743	2.653227044173599e-06	1.0831754049963604e-06		mole	mg	dimensionless
+Kelly1986		S1	6.0	ENA10S	 cumulative amount	enalaprilat	urine	RIA	S1_urine	10.0	hr		5.663341881952308e-06	2.33019118722169	2.5108372360694166e-06	1.0250450092583504e-06		mole	mg	dimensionless
+Kelly1986		S1	6.0	ENA10S	 cumulative amount	enalaprilat	urine	RIA	S1_urine	12.0	hr		6.2235556866400244e-06	2.53212299785108	2.5583437718635486e-06	1.044439471282165e-06		mole	mg	dimensionless
+Kelly1986		S1	6.0	ENA10S	 cumulative amount	enalaprilat	urine	RIA	S1_urine	24.0	hr		6.93431502851255e-06	2.75281168538662	2.368966625077728e-06	9.671265748539298e-07		mole	mg	dimensionless
+Kelly1986		S1	6.0	ENA10S	 cumulative amount	enalaprilat	urine	RIA	S1_urine	48.0	hr		7.060379031667316e-06	2.04872726467134	2.890110726753621e-06	1.1798827634484387e-06		mole	mg	dimensionless

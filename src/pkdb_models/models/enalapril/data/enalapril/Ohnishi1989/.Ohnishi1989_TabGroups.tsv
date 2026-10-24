@@ -1,0 +1,12 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Ohnishi1989	all	14.0	NA	species	14.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Ohnishi1989	all	14.0	NA	healthy	7.0	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Ohnishi1989	all	14.0	NA	healthy	7.0	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Ohnishi1989	all	14.0	NA	sex	7.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Ohnishi1989	all	14.0	NA	sex	7.0	NA	NR	NA	NA	NA	NA	NA	NA	NA	NA
+Ohnishi1989	cirrhosis	7.0	all	healthy	7.0	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Ohnishi1989	cirrhosis	7.0	all	disease	7.0	NA	liver cirrhosis	NA	NA	NA	NA	NA	NA	NA	NA
+Ohnishi1989	cirrhosis	7.0	all	retention ratio	7.0	indocyanine green	NA	37.0	NA	3.2	NA	NA	NA	percent	ICG retention at 15 min; ICD-R15
+Ohnishi1989	cirrhosis	7.0	all	gfr	7.0	NA	NA	72.0	NA	4.0	NA	NA	NA	ml/min	NA
+Ohnishi1989	cirrhosis	7.0	all	child-pugh score	7.0	NA	child-pugh class B	NA	NA	NA	NA	NA	NA	NA	inferred from ICG retention and ICG model (Köller); B~0.7
+Ohnishi1989	healthy	7.0	all	healthy	7.0	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA

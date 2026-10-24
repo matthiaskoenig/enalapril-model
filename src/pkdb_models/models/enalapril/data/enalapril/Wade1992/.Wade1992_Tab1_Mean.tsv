@@ -1,0 +1,5 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Wade1992	NA	all	8	ENA10	age	NA	NA	NR	NA	NA	NA	NA	27	NA	8	2.82842712474619	NA	NA	yr	NA
+Wade1992	NA	all	8	ENA10	weight	NA	NA	NR	NA	NA	NA	NA	74	NA	12	4.24264068711929	NA	NA	kg	NA
+Wade1992	NA	all	8	ENA10	height	NA	NA	NR	NA	NA	NA	NA	176	NA	5	1.76776695296637	NA	NA	cm	NA
+Wade1992	NA	all	8	ENA10	clearance	creatinine	urine	NR	NA	NA	NA	NA	115	NA	32	11.3137084989848	NA	NA	ml/min	NA

@@ -1,0 +1,16 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Wade1992		all	8.0	ENA10	relative ACE activity			enzymatic assay	ENA10_relative ACE activity	0.0	hr		100.0				ENA10-immediate	percent	percent	dimensionless
+Wade1992		all	8.0	ENA10	relative ACE activity			enzymatic assay	ENA10_relative ACE activity	0.5	hr		82.1210996053193					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10	relative ACE activity			enzymatic assay	ENA10_relative ACE activity	1.0	hr		60.1619978822008					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10	relative ACE activity			enzymatic assay	ENA10_relative ACE activity	1.5	hr		40.2423092261782					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10	relative ACE activity			enzymatic assay	ENA10_relative ACE activity	2.0	hr		27.9769517444339					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10	relative ACE activity			enzymatic assay	ENA10_relative ACE activity	3.0	hr		21.3017588734409					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10	relative ACE activity			enzymatic assay	ENA10_relative ACE activity	4.0	hr		16.6673542637897					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10	relative ACE activity			enzymatic assay	ENA10_relative ACE activity	5.0	hr		18.6682618919922					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10	relative ACE activity			enzymatic assay	ENA10_relative ACE activity	6.0	hr		19.1358279356958					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10	relative ACE activity			enzymatic assay	ENA10_relative ACE activity	8.0	hr		25.171555482212					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10	relative ACE activity			enzymatic assay	ENA10_relative ACE activity	10.0	hr		34.271215809233					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10	relative ACE activity			enzymatic assay	ENA10_relative ACE activity	12.0	hr		33.1641844410523					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10	relative ACE activity			enzymatic assay	ENA10_relative ACE activity	24.0	hr		51.4061361167265					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10	relative ACE activity			enzymatic assay	ENA10_relative ACE activity	48.0	hr		75.1722430793349					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10	relative ACE activity			enzymatic assay	ENA10_relative ACE activity	72.0	hr		91.798341515739					percent	percent	dimensionless

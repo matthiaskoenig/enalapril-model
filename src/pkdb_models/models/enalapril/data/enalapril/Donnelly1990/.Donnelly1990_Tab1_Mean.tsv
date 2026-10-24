@@ -1,0 +1,5 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Donnelly1990	NA	all	13.0	NA	auc_end	enalaprilat	plasma	RIA	NA	32.0	hr	NA	1388.0	NA	451.0	125.084894248789	NA	NA	ng/ml*hr	unbound
+Donnelly1990	NA	all	13.0	NA	auc_end	enalaprilat	plasma	RIA	NA	32.0	hr	NA	147.0	NA	95.0	26.3482593206984	NA	NA	ng/ml*hr	bound
+Donnelly1990	NA	all	13.0	NA	thalf	enalaprilat	plasma	RIA	NA	NA	NA	NA	2.7	NA	0.5	0.138675049056307	NA	NA	hr	unbound
+Donnelly1990	NA	all	13.0	NA	thalf	enalaprilat	plasma	RIA	NA	NA	NA	NA	16.8	NA	9.4	2.60709092225858	NA	NA	hr	bound

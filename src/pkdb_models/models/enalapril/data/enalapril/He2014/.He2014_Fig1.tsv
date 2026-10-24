@@ -1,0 +1,33 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+He2014	NA	all	35.0	ENA40	concentration	enalapril	plasma	LC MS/MS	ENA40_enalapril	0.166667	hr	NA	0.715394265437649	NA	NA	NA	ng/ml	sampling time 10 and 20 min
+He2014	NA	all	35.0	ENA40	concentration	enalapril	plasma	LC MS/MS	ENA40_enalapril	0.333333	hr	NA	9.3913337048598	NA	NA	NA	ng/ml	sampling time 10 and 20 min
+He2014	NA	all	35.0	ENA40	concentration	enalapril	plasma	LC MS/MS	ENA40_enalapril	0.5	hr	NA	35.1119173421513	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalapril	plasma	LC MS/MS	ENA40_enalapril	1.0	hr	NA	90.0628020211278	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalapril	plasma	LC MS/MS	ENA40_enalapril	2.0	hr	NA	125.892541179417	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalapril	plasma	LC MS/MS	ENA40_enalapril	2.5	hr	NA	71.5394265437649	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalapril	plasma	LC MS/MS	ENA40_enalapril	3.0	hr	NA	48.0638086306439	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalapril	plasma	LC MS/MS	ENA40_enalapril	3.5	hr	NA	35.1119173421513	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalapril	plasma	LC MS/MS	ENA40_enalapril	4.0	hr	NA	26.1927934481563	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalapril	plasma	LC MS/MS	ENA40_enalapril	5.0	hr	NA	11.8229886516871	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalapril	plasma	LC MS/MS	ENA40_enalapril	6.0	hr	NA	6.17887046827372	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalapril	plasma	LC MS/MS	ENA40_enalapril	8.0	hr	NA	2.31012970008316	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalapril	plasma	LC MS/MS	ENA40_enalapril	12.0	hr	NA	0.730527154266446	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalaprilat	plasma	LC MS/MS	ENA40_enalaprilat	0.5	hr	NA	0.183500124665119	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalaprilat	plasma	LC MS/MS	ENA40_enalaprilat	0.75	hr	NA	2.61927934481563	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalaprilat	plasma	LC MS/MS	ENA40_enalaprilat	1.0	hr	NA	8.45809828175134	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalaprilat	plasma	LC MS/MS	ENA40_enalaprilat	1.5	hr	NA	32.9747732777597	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalaprilat	plasma	LC MS/MS	ENA40_enalaprilat	2.0	hr	NA	58.0278344866618	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalaprilat	plasma	LC MS/MS	ENA40_enalaprilat	2.5	hr	NA	79.4328234724281	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalaprilat	plasma	LC MS/MS	ENA40_enalaprilat	3.0	hr	NA	99.9999999999999	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalaprilat	plasma	LC MS/MS	ENA40_enalaprilat	4.0	hr	NA	99.9999999999999	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalaprilat	plasma	LC MS/MS	ENA40_enalaprilat	5.0	hr	NA	93.913337048598	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalaprilat	plasma	LC MS/MS	ENA40_enalaprilat	6.0	hr	NA	81.1130830789686	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalaprilat	plasma	LC MS/MS	ENA40_enalaprilat	8.0	hr	NA	56.8257863996962	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalaprilat	plasma	LC MS/MS	ENA40_enalaprilat	12.0	hr	NA	27.3126372280085	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalaprilat	plasma	LC MS/MS	ENA40_enalaprilat	24.0	hr	NA	6.05087500727294	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalaprilat	plasma	LC MS/MS	ENA40_enalaprilat	36.0	hr	NA	2.31012970008316	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalaprilat	plasma	LC MS/MS	ENA40_enalaprilat	48.0	hr	NA	1.72331090561351	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalaprilat	plasma	LC MS/MS	ENA40_enalaprilat	72.0	hr	NA	1.13382350121785	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalaprilat	plasma	LC MS/MS	ENA40_enalaprilat	96.0	hr	NA	0.845809828175134	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalaprilat	plasma	LC MS/MS	ENA40_enalaprilat	120.0	hr	NA	0.630957344480192	NA	NA	NA	ng/ml	NA
+He2014	NA	all	35.0	ENA40	concentration	enalaprilat	plasma	LC MS/MS	ENA40_enalaprilat	144.0	hr	NA	0.451383265976897	NA	NA	NA	ng/ml	NA

@@ -1,0 +1,24 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Burckhardt2015	all	22.0	NA	species	22.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Burckhardt2015	all	22.0	NA	healthy	22.0	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Burckhardt2015	all	22.0	NA	ethnicity	22.0	NA	caucasian	NA	NA	NA	NA	NA	NA	NA	NA
+Burckhardt2015	all	22.0	NA	sex	12.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Burckhardt2015	all	22.0	NA	sex	10.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Burckhardt2015	all	22.0	NA	age	22.0	NA	NA	NA	NA	NA	NA	19.0	31.0	yr	NA
+Burckhardt2015	all	22.0	NA	fasting (duration)	22.0	NA	NA	NA	NA	NA	NA	0.416666666666667	NA	days	NA
+Burckhardt2015	aliskiren	13.0	all	age	13.0	NA	NA	26.0	NA	3.0	NA	NA	NA	yr	NA
+Burckhardt2015	enalapril	9.0	all	age	9.0	NA	NA	23.0	NA	4.0	NA	NA	NA	yr	NA
+Burckhardt2015	aliskiren	13.0	aliskiren	sex	6.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Burckhardt2015	aliskiren	13.0	aliskiren	sex	7.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Burckhardt2015	aliskiren	13.0	aliskiren	age	13.0	NA	NA	26.0	NA	3.0	NA	19.0	31.0	yr	NA
+Burckhardt2015	aliskiren	13.0	aliskiren	height	13.0	NA	NA	176.0	NA	8.0	NA	NA	NA	cm	NA
+Burckhardt2015	aliskiren	13.0	aliskiren	weight	13.0	NA	NA	76.0	NA	19.0	NA	NA	NA	kg	NA
+Burckhardt2015	aliskiren	13.0	aliskiren	bmi	13.0	NA	NA	24.3	NA	4.7	NA	NA	NA	kg/m^2	NA
+Burckhardt2015	aliskiren	13.0	aliskiren	ethnicity	13.0	NA	caucasian	NA	NA	NA	NA	NA	NA	NA	NA
+Burckhardt2015	enalapril	9.0	enalapril	sex	6.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Burckhardt2015	enalapril	9.0	enalapril	sex	3.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Burckhardt2015	enalapril	9.0	enalapril	age	9.0	NA	NA	23.0	NA	4.0	NA	19.0	30.0	yr	NA
+Burckhardt2015	enalapril	9.0	enalapril	height	9.0	NA	NA	181.0	NA	10.0	NA	NA	NA	cm	NA
+Burckhardt2015	enalapril	9.0	enalapril	weight	9.0	NA	NA	70.0	NA	13.0	NA	NA	NA	kg	NA
+Burckhardt2015	enalapril	9.0	enalapril	bmi	9.0	NA	NA	21.2	NA	2.4	NA	NA	NA	kg/m^2	NA
+Burckhardt2015	enalapril	9.0	enalapril	ethnicity	9.0	NA	caucasian	NA	NA	NA	NA	NA	NA	NA	NA

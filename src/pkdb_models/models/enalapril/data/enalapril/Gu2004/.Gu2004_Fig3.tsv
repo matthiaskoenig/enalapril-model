@@ -1,0 +1,23 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Gu2004	NA	all	20.0	ENA10	concentration	enalapril	plasma	LC MS/MS	ENA10_enalapril	0.0	hr	NA	0.0	NA	NA	NA	ng/ml	unclear if SD or SE, assumed SD
+Gu2004	NA	all	20.0	ENA10	concentration	enalapril	plasma	LC MS/MS	ENA10_enalapril	0.5	hr	NA	62.2731666234367	32.8693607868805	29.4038058365562	6.57489086477447	ng/ml	unclear if SD or SE, assumed SD
+Gu2004	NA	all	20.0	ENA10	concentration	enalapril	plasma	LC MS/MS	ENA10_enalapril	1.0	hr	NA	86.6806651256052	62.2848953761531	24.3957697494521	5.45505995232079	ng/ml	unclear if SD or SE, assumed SD
+Gu2004	NA	all	20.0	ENA10	concentration	enalapril	plasma	LC MS/MS	ENA10_enalapril	2.0	hr	NA	43.7913615258819	31.4665371691194	12.3248243567625	2.75591450724661	ng/ml	unclear if SD or SE, assumed SD
+Gu2004	NA	all	20.0	ENA10	concentration	enalapril	plasma	LC MS/MS	ENA10_enalapril	3.0	hr	NA	20.2578718754147	45.7763912122299	25.5185193368152	5.70611439222616	ng/ml	unclear if SD or SE, assumed SD
+Gu2004	NA	all	20.0	ENA10	concentration	enalapril	plasma	LC MS/MS	ENA10_enalapril	4.0	hr	NA	7.51721759064972	12.2062346722892	4.68901708163948	1.04849609422036	ng/ml	unclear if SD or SE, assumed SD
+Gu2004	NA	all	20.0	ENA10	concentration	enalapril	plasma	LC MS/MS	ENA10_enalapril	6.0	hr	NA	1.96144080021765	0.458143387988468	1.50329741222918	0.336147520414397	ng/ml	unclear if SD or SE, assumed SD
+Gu2004	NA	all	20.0	ENA10	concentration	enalapril	plasma	LC MS/MS	ENA10_enalapril	8.0	hr	NA	0.812921448996946	0.329387636462838	0.483533812534108	0.108121447424591	ng/ml	unclear if SD or SE, assumed SD
+Gu2004	NA	all	20.0	ENA10	concentration	enalapril	plasma	LC MS/MS	ENA10_enalapril	13.0	hr	NA	0.479705026558005	0.242284693293994	0.237420333264011	0.0530888004418983	ng/ml	unclear if SD or SE, assumed SD
+Gu2004	NA	all	20.0	ENA10	concentration	enalaprilat	plasma	LC MS/MS	ENA10_enalaprilat	0.0	hr	NA	0.0	NA	NA	NA	ng/ml	unclear if SD or SE, assumed SD
+Gu2004	NA	all	20.0	ENA10	concentration	enalaprilat	plasma	LC MS/MS	ENA10_enalaprilat	0.5	hr	NA	0.533722918692486	0.162395379046445	0.371327539646041	0.0830313620566296	ng/ml	unclear if SD or SE, assumed SD
+Gu2004	NA	all	20.0	ENA10	concentration	enalaprilat	plasma	LC MS/MS	ENA10_enalaprilat	1.0	hr	NA	2.38841627801073	0.742911595692528	1.6455046823182	0.36794603269577	ng/ml	unclear if SD or SE, assumed SD
+Gu2004	NA	all	20.0	ENA10	concentration	enalaprilat	plasma	LC MS/MS	ENA10_enalaprilat	2.0	hr	NA	18.9563648387036	7.51353770661734	11.4428271320863	2.55869393221238	ng/ml	unclear if SD or SE, assumed SD
+Gu2004	NA	all	20.0	ENA10	concentration	enalaprilat	plasma	LC MS/MS	ENA10_enalaprilat	3.0	hr	NA	27.5770405925013	12.2034764842339	15.3735641082674	3.43763344025368	ng/ml	unclear if SD or SE, assumed SD
+Gu2004	NA	all	20.0	ENA10	concentration	enalaprilat	plasma	LC MS/MS	ENA10_enalaprilat	4.0	hr	NA	32.1845366331379	47.8514008105603	15.6668641774224	3.50321732949728	ng/ml	unclear if SD or SE, assumed SD
+Gu2004	NA	all	20.0	ENA10	concentration	enalaprilat	plasma	LC MS/MS	ENA10_enalaprilat	6.0	hr	NA	22.635173720721	11.9474202427998	10.6877534779212	2.38985433033916	ng/ml	unclear if SD or SE, assumed SD
+Gu2004	NA	all	20.0	ENA10	concentration	enalaprilat	plasma	LC MS/MS	ENA10_enalaprilat	8.0	hr	NA	15.5722405331866	7.52599997350297	8.04624055968363	1.79919408547685	ng/ml	unclear if SD or SE, assumed SD
+Gu2004	NA	all	20.0	ENA10	concentration	enalaprilat	plasma	LC MS/MS	ENA10_enalaprilat	13.0	hr	NA	6.75004384522122	1.76020379463495	4.98984005058627	1.11576215499619	ng/ml	unclear if SD or SE, assumed SD
+Gu2004	NA	all	20.0	ENA10	concentration	enalaprilat	plasma	LC MS/MS	ENA10_enalaprilat	24.0	hr	NA	2.35119597324115	0.412380188999472	1.93881578424168	0.433532388941396	ng/ml	unclear if SD or SE, assumed SD
+Gu2004	NA	all	20.0	ENA10	concentration	enalaprilat	plasma	LC MS/MS	ENA10_enalaprilat	36.0	hr	NA	1.0671697927458	0.550982968010237	0.516186824735563	0.115422882919849	ng/ml	unclear if SD or SE, assumed SD
+Gu2004	NA	all	20.0	ENA10	concentration	enalaprilat	plasma	LC MS/MS	ENA10_enalaprilat	48.0	hr	NA	0.786477774416895	0.517451630050197	0.269026144366698	0.0601560746528609	ng/ml	unclear if SD or SE, assumed SD
+Gu2004	NA	all	20.0	ENA10	concentration	enalaprilat	plasma	LC MS/MS	ENA10_enalaprilat	72.0	hr	NA	0.417868248895862	0.23050727594305	0.187360972952812	0.0418951871852987	ng/ml	unclear if SD or SE, assumed SD

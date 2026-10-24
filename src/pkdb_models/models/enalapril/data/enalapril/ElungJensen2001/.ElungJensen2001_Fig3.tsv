@@ -1,0 +1,10 @@
+study	individual	group	count	intervention	time	time_unit	x_measurement_type	x_substance	x_tissue	x_method	x_label	x	x_unit	y_measurement_type	y_substance	y_tissue	y_method	y_label	y	y_unit	comments
+ElungJensen2001	NA	pk_study	NA	ENA5	NA	NA	clearance	enalaprilat	urine	NA	NA	7	ml/min	gfr	NA	NA	NA	NA	16.25	ml/min	NA
+ElungJensen2001	NA	pk_study	NA	ENA5	NA	NA	clearance	enalaprilat	urine	NA	NA	7	ml/min	gfr	NA	NA	NA	NA	27.5	ml/min	NA
+ElungJensen2001	NA	pk_study	NA	ENA5	NA	NA	clearance	enalaprilat	urine	NA	NA	8	ml/min	gfr	NA	NA	NA	NA	19.84375	ml/min	NA
+ElungJensen2001	NA	pk_study	NA	ENA5	NA	NA	clearance	enalaprilat	urine	NA	NA	12	ml/min	gfr	NA	NA	NA	NA	24.21875	ml/min	NA
+ElungJensen2001	NA	pk_study	NA	ENA5	NA	NA	clearance	enalaprilat	urine	NA	NA	14	ml/min	gfr	NA	NA	NA	NA	41.40625	ml/min	NA
+ElungJensen2001	NA	pk_study	NA	ENA5	NA	NA	clearance	enalaprilat	urine	NA	NA	18	ml/min	gfr	NA	NA	NA	NA	24.84375	ml/min	NA
+ElungJensen2001	NA	pk_study	NA	ENA5	NA	NA	clearance	enalaprilat	urine	NA	NA	26	ml/min	gfr	NA	NA	NA	NA	53.4375	ml/min	NA
+ElungJensen2001	NA	pk_study	NA	ENA5	NA	NA	clearance	enalaprilat	urine	NA	NA	27	ml/min	gfr	NA	NA	NA	NA	30.625	ml/min	NA
+ElungJensen2001	NA	pk_study	NA	ENA5	NA	NA	clearance	enalaprilat	urine	NA	NA	45	ml/min	gfr	NA	NA	NA	NA	67.8125	ml/min	NA

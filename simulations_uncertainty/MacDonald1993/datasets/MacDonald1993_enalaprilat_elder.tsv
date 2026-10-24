@@ -1,0 +1,16 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+MacDonald1993		elder	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_elder	0.0	hr		0.0				manually set to zero	nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_elder	0.715121191659563	hr		2.62308268485003					nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_elder	1.0794894785198	hr		24.1901876389057					nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_elder	1.61854699151714	hr		53.1212890550531					nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_elder	2.35593154672954	hr		100.20114051886					nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_elder	3.30980390529007	hr		137.546607815807					nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_elder	4.22331901688824	hr		156.479081186174					nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_elder	5.44066654490309	hr		169.359168620726					nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_elder	6.27519675887491	hr		152.254782449071					nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_elder	8.64762634816266	hr		149.606338117166					nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_elder	10.2662402174033	hr		128.550304847113					nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_elder	12.2633474099411	hr		99.3369429239371					nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_elder	24.1410617230653	hr		20.8589131016996					nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_elder	47.7316021688676	hr		5.68651001751425					nmol/l	nmol/l	dimensionless
+MacDonald1993		elder	9.0	ENA10	concentration	enalaprilat	plasma	RIA	enalaprilat_elder	72.068463417424	hr		5.50213985654034					nmol/l	nmol/l	dimensionless

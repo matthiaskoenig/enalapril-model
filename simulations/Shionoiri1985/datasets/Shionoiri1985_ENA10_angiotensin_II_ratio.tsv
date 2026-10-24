@@ -1,0 +1,8 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Shionoiri1985		all	13.0	ENA10	concentration	angiotensin II	plasma	RIA	ENA10_angiotensin II	0.0	hr		1.0	1.1290740606046852	0.46538314384253915	0.12907406060468513		dimensionless	dimensionless	dimensionless
+Shionoiri1985		all	13.0	ENA10	concentration	angiotensin II	plasma	RIA	ENA10_angiotensin II	1.0	hr		0.6847117670728042	0.7514942309373377	0.240787597765397	0.06678246386453351		dimensionless	dimensionless	dimensionless
+Shionoiri1985		all	13.0	ENA10	concentration	angiotensin II	plasma	RIA	ENA10_angiotensin II	2.0	hr		0.4896559915707861	0.5653000773390066	0.27273862992291525	0.07564408576822054		dimensionless	dimensionless	dimensionless
+Shionoiri1985		all	13.0	ENA10	concentration	angiotensin II	plasma	RIA	ENA10_angiotensin II	4.0	hr		0.3398091681753039	0.37541580558349275	0.1283815569220792	0.035606637408188896		dimensionless	dimensionless	dimensionless
+Shionoiri1985		all	13.0	ENA10	concentration	angiotensin II	plasma	RIA	ENA10_angiotensin II	6.0	hr		0.34129055376462525	0.3902496802008846	0.17652464076785768	0.04895912643625935		dimensionless	dimensionless	dimensionless
+Shionoiri1985		all	13.0	ENA10	concentration	angiotensin II	plasma	RIA	ENA10_angiotensin II	9.0	hr		0.3479434431004508	0.3880009101846637	0.1444292515373406	0.04005746708421289		dimensionless	dimensionless	dimensionless
+Shionoiri1985		all	13.0	ENA10	concentration	angiotensin II	plasma	RIA	ENA10_angiotensin II	24.0	hr		0.7521214842949793	0.8188639107111548	0.24064324069240292	0.06674242641617563		dimensionless	dimensionless	dimensionless

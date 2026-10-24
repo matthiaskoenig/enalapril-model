@@ -1,0 +1,15 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	median	mean_pm	sd	se	min	max	unit	comments
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	cmax	renin	blood	immunofluorescence	ALIS300_cmax_renin	NA	NA	NA	272.0	NA	NA	NA	NA	48.0	1694.0	µIU/ml	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	tmax	renin	blood	immunofluorescence	ALIS300_tmax_renin	NA	NA	NA	NA	5.0	NA	NA	NA	3.0	7.0	hr	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	renin activity	NA	blood	immunofluorescence	ALIS300_renin activity	NA	NA	NA	0.01	NA	NA	NA	NA	NA	NA	ng/ml/hr	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	concentration change	angiotensin I	blood	RIA	ALIS300_concentration change_angiotensin I	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	tmax	angiotensin I	blood	RIA	ALIS300_tmax_angiotensin I	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	hr	negative change from baseline
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	concentration change	angiotensin II	blood	ELISA	ALIS300_concentration change_angiotensin II	NA	NA	NA	-70.0	NA	NA	NA	NA	-98.0	0.0	percent	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	tmax	angiotensin II	blood	ELISA	ALIS300_tmax_angiotensin II	NA	NA	NA	2.0	NA	NA	NA	NA	0.5	4.0	hr	NA
+Burckhardt2015	NA	enalapril	5.0	ENA20	cmax	renin	blood	immunofluorescence	ENA20_cmax_renin	NA	NA	NA	128.0	NA	NA	NA	NA	50.0	300.0	µIU/ml	NA
+Burckhardt2015	NA	enalapril	5.0	ENA20	tmax	renin	blood	immunofluorescence	ENA20_tmax_renin	NA	NA	NA	NA	6.0	NA	NA	NA	5.0	6.0	hr	NA
+Burckhardt2015	NA	enalapril	5.0	ENA20	renin activity	NA	blood	immunofluorescence	ENA20_renin activity	NA	NA	NA	9.0	NA	NA	NA	NA	2.0	17.0	ng/ml/hr	NA
+Burckhardt2015	NA	enalapril	5.0	ENA20	concentration change	angiotensin I	blood	RIA	ENA20_concentration change_angiotensin I	NA	NA	NA	263.0	NA	NA	NA	NA	151.0	400.0	percent	NA
+Burckhardt2015	NA	enalapril	5.0	ENA20	tmax	angiotensin I	blood	RIA	ENA20_tmax_angiotensin I	NA	NA	NA	6.0	NA	NA	NA	NA	5.0	7.0	hr	negative change from baseline
+Burckhardt2015	NA	enalapril	5.0	ENA20	concentration change	angiotensin II	blood	ELISA	ENA20_concentration change_angiotensin II	NA	NA	NA	-64.0	NA	NA	NA	NA	-95.0	-57.0	percent	NA
+Burckhardt2015	NA	enalapril	5.0	ENA20	tmax	angiotensin II	blood	ELISA	ENA20_tmax_angiotensin II	NA	NA	NA	NA	4.5	NA	NA	NA	3.0	7.0	hr	NA

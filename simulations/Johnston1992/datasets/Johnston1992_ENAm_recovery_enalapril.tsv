@@ -1,0 +1,2 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	min	max	comments	mean_unit	value_unit	count_unit
+Johnston1992		ena	7.0	ENAm	recovery	enalapril	urine	RIA	ENAm_recovery_enalapril	216.0	hr		5.989617860350131e-07		2.6859388655588545e-07	1.0151894678559544e-07				count*mole	percent	dimensionless

@@ -1,0 +1,4 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Tsuruoka2007		ena	6.0	ENA2.5	concentration	enalaprilat	plasma	HPLC	enalaprilat_plasma	1345.0	hr		0.00019312625322991984		6.944011395946299e-05	2.8348807813566592e-05	se from the end point of the error bar (mean - end)	mole/meter^3	ng/ml	dimensionless
+Tsuruoka2007		ena	6.0	ENA2.5	concentration	enalaprilat	plasma	HPLC	enalaprilat_plasma	1346.0	hr		0.00018249545029983273		7.812012820439606e-05	3.1892408790262504e-05	se from the end point of the error bar (mean - end)	mole/meter^3	ng/ml	dimensionless
+Tsuruoka2007		ena	6.0	ENA2.5	concentration	enalaprilat	plasma	HPLC	enalaprilat_plasma	1347.0	hr		0.00015769024346296202		6.0760099714529285e-05	2.4805206836870433e-05	se from the end point of the error bar (mean - end)	mole/meter^3	ng/ml	dimensionless

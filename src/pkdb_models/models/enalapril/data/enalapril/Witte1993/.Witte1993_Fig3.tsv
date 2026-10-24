@@ -1,0 +1,93 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Witte1993	NA	morning	8.0	NA	ACE activity	NA	serum	Spectrophotometry	morning_NA_ACE activity	0.0	hr	NA	150.882352941176	135.0	44.92207786361463	15.882352941176	U/l	NA
+Witte1993	NA	morning	8.0	NA	ACE activity	NA	serum	Spectrophotometry	morning_NA_ACE activity	4.0	hr	NA	159.705882352941	141.176470588235	52.409090840885625	18.529411764706	U/l	NA
+Witte1993	NA	morning	8.0	NA	ACE activity	NA	serum	Spectrophotometry	morning_NA_ACE activity	8.0	hr	NA	157.941176470588	139.411764705882	52.409090840885625	18.529411764706	U/l	NA
+Witte1993	NA	morning	8.0	NA	ACE activity	NA	serum	Spectrophotometry	morning_NA_ACE activity	12.0	hr	NA	158.823529411765	142.941176470588	44.92207786361746	15.882352941177	U/l	NA
+Witte1993	NA	morning	8.0	NA	ACE activity	NA	serum	Spectrophotometry	morning_NA_ACE activity	16.0	hr	NA	145.588235294118	128.823529411765	47.41774885603924	16.764705882353	U/l	NA
+Witte1993	NA	morning	8.0	NA	ACE activity	NA	serum	Spectrophotometry	morning_NA_ACE activity	20.0	hr	NA	139.411764705882	121.764705882353	49.91341984846102	17.647058823529	U/l	NA
+Witte1993	NA	morning	8.0	NA	ACE activity	NA	serum	Spectrophotometry	morning_NA_ACE activity	24.0	hr	NA	149.117647058824	129.705882352941	54.90476183331023	19.411764705883	U/l	NA
+Witte1993	NA	morning	8.0	ENAs10	ACE activity	NA	serum	Spectrophotometry	morning_ENAs10_ACE activity	0.0	hr	NA	165.441176470588	185.294117647059	56.152597329521114	19.852941176471	U/l	ENAs10
+Witte1993	NA	morning	8.0	ENAs10	ACE activity	NA	serum	Spectrophotometry	morning_ENAs10_ACE activity	4.0	hr	NA	15.0	22.0588235294118	19.965367939384972	7.0588235294118	U/l	ENAs10
+Witte1993	NA	morning	8.0	ENAs10	ACE activity	NA	serum	Spectrophotometry	morning_ENAs10_ACE activity	8.0	hr	NA	19.4117647058823	17.6470588235294	4.991341984846102	1.7647058823529	U/l	ENAs10
+Witte1993	NA	morning	8.0	ENAs10	ACE activity	NA	serum	Spectrophotometry	morning_ENAs10_ACE activity	12.0	hr	NA	22.9411764705882	24.7058823529412	4.991341984846384	1.764705882353	U/l	ENAs10
+Witte1993	NA	morning	8.0	ENAs10	ACE activity	NA	serum	Spectrophotometry	morning_ENAs10_ACE activity	16.0	hr	NA	29.1176470588235	31.764705882353	7.487012977269577	2.6470588235295	U/l	ENAs10
+Witte1993	NA	morning	8.0	ENAs10	ACE activity	NA	serum	Spectrophotometry	morning_ENAs10_ACE activity	20.0	hr	NA	30.8823529411765	29.1176470588235	4.991341984846384	1.764705882353	U/l	ENAs10
+Witte1993	NA	morning	8.0	ENAs10	ACE activity	NA	serum	Spectrophotometry	morning_ENAs10_ACE activity	24.0	hr	NA	49.4117647058823	52.0588235294118	7.487012977269577	2.6470588235295	U/l	ENAs10
+Witte1993	NA	morning	8.0	ENAm10	ACE activity	NA	serum	Spectrophotometry	morning_ENAm10_ACE activity	480.0	hr	NA	45.0	50.2941176470588	14.974025954538588	5.2941176470588	U/l	NA
+Witte1993	NA	morning	8.0	ENAm10	ACE activity	NA	serum	Spectrophotometry	morning_ENAm10_ACE activity	484.0	hr	NA	22.0588235294118	31.764705882353	27.452380916654267	9.7058823529412	U/l	NA
+Witte1993	NA	morning	8.0	ENAm10	ACE activity	NA	serum	Spectrophotometry	morning_ENAm10_ACE activity	488.0	hr	NA	22.0588235294118	27.3529411764706	14.974025954538588	5.2941176470588	U/l	NA
+Witte1993	NA	morning	8.0	ENAm10	ACE activity	NA	serum	Spectrophotometry	morning_ENAm10_ACE activity	492.0	hr	NA	19.4117647058823	15.8823529411765	9.982683969692204	3.5294117647058	U/l	NA
+Witte1993	NA	morning	8.0	ENAm10	ACE activity	NA	serum	Spectrophotometry	morning_ENAm10_ACE activity	496.0	hr	NA	21.1764705882353	23.8235294117647	7.487012977269294	2.6470588235294	U/l	NA
+Witte1993	NA	morning	8.0	ENAm10	ACE activity	NA	serum	Spectrophotometry	morning_ENAm10_ACE activity	500.0	hr	NA	35.2941176470588	37.0588235294117	4.991341984846102	1.7647058823529	U/l	NA
+Witte1993	NA	morning	8.0	ENAm10	ACE activity	NA	serum	Spectrophotometry	morning_ENAm10_ACE activity	504.0	hr	NA	45.0	40.5882352941177	12.478354962115395	4.4117647058823	U/l	NA
+Witte1993	NA	morning	8.0	ENAm10	ACE activity	NA	serum	Spectrophotometry	morning_ENAm10_ACE activity	516.0	hr	NA	72.3529411764706	83.8235294117647	32.443722901500365	11.4705882352941	U/l	NA
+Witte1993	NA	morning	8.0	ENAm10	ACE activity	NA	serum	Spectrophotometry	morning_ENAm10_ACE activity	528.0	hr	NA	94.4117647058824	104.117647058824	27.4523809166554	9.7058823529416	U/l	NA
+Witte1993	NA	night	8.0	NA	ACE activity	NA	serum	Spectrophotometry	night_NA_ACE activity	0.0	hr	NA	158.560794044665	141.090184273685	49.414346562095666	17.47060977098	U/l	NA
+Witte1993	NA	night	8.0	NA	ACE activity	NA	serum	Spectrophotometry	night_NA_ACE activity	4.0	hr	NA	145.346784363178	161.943619574503	46.942938896654304	16.596835211325	U/l	NA
+Witte1993	NA	night	8.0	NA	ACE activity	NA	serum	Spectrophotometry	night_NA_ACE activity	8.0	hr	NA	138.244315177155	154.850913232722	46.970552390123046	16.606598055567	U/l	NA
+Witte1993	NA	night	8.0	NA	ACE activity	NA	serum	Spectrophotometry	night_NA_ACE activity	12.0	hr	NA	151.243542285319	166.097709799455	42.01393031250595	14.854167514136	U/l	NA
+Witte1993	NA	night	8.0	NA	ACE activity	NA	serum	Spectrophotometry	night_NA_ACE activity	16.0	hr	NA	159.000122035553	178.223162347964	54.37096863971276	19.223040312411	U/l	NA
+Witte1993	NA	night	8.0	NA	ACE activity	NA	serum	Spectrophotometry	night_NA_ACE activity	20.0	hr	NA	157.14030020746	175.494447382337	51.91336772100576	18.354147174877	U/l	NA
+Witte1993	NA	night	8.0	NA	ACE activity	NA	serum	Spectrophotometry	night_NA_ACE activity	24.0	hr	NA	157.032908920799	175.382174673555	51.899560974271395	18.349265752756	U/l	NA
+Witte1993	NA	night	8.0	ENAs10	ACE activity	NA	serum	Spectrophotometry	night_ENAs10_ACE activity	0.0	hr	NA	170.803400724078	192.647764715454	61.78519163603683	21.844363991376	U/l	ENAs10
+Witte1993	NA	night	8.0	ENAs10	ACE activity	NA	serum	Spectrophotometry	night_ENAs10_ACE activity	4.0	hr	NA	12.5330512956108	15.1543749745759	7.414222996324363	2.6213236789651	U/l	ENAs10
+Witte1993	NA	night	8.0	ENAs10	ACE activity	NA	serum	Spectrophotometry	night_ENAs10_ACE activity	8.0	hr	NA	11.5518854492942	14.1683277061384	7.400416249590274	2.6164422568442	U/l	ENAs10
+Witte1993	NA	night	8.0	ENAs10	ACE activity	NA	serum	Spectrophotometry	night_ENAs10_ACE activity	12.0	hr	NA	15.803604116666	18.4249277956311	7.414222996324363	2.6213236789651	U/l	ENAs10
+Witte1993	NA	night	8.0	ENAs10	ACE activity	NA	serum	Spectrophotometry	night_ENAs10_ACE activity	16.0	hr	NA	25.3126144083309	27.060163527641	4.942815330883003	1.7475491193101	U/l	ENAs10
+Witte1993	NA	night	8.0	ENAs10	ACE activity	NA	serum	Spectrophotometry	night_ENAs10_ACE activity	20.0	hr	NA	36.5594109750641	33.0594313143229	9.89943740850038	3.4999796607412	U/l	ENAs10
+Witte1993	NA	night	8.0	ENAs10	ACE activity	NA	serum	Spectrophotometry	night_ENAs10_ACE activity	24.0	hr	NA	46.058658422487	43.4324533214009	7.428029743058736	2.6262051010861	U/l	ENAs10
+Witte1993	NA	night	8.0	ENAm10	ACE activity	NA	serum	Spectrophotometry	night_ENAm10_ACE activity	480.0	hr	NA	57.2029451246796	70.3193263637473	37.09872847509113	13.1163812390677	U/l	NA
+Witte1993	NA	night	8.0	ENAm10	ACE activity	NA	serum	Spectrophotometry	night_ENAm10_ACE activity	484.0	hr	NA	11.6543953138347	9.0379530569906	7.40041624958999	2.6164422568441	U/l	NA
+Witte1993	NA	night	8.0	ENAm10	ACE activity	NA	serum	Spectrophotometry	night_ENAm10_ACE activity	488.0	hr	NA	12.4207785868283	8.92568034820809	9.885630661766035	3.49509823862021	U/l	NA
+Witte1993	NA	night	8.0	ENAm10	ACE activity	NA	serum	Spectrophotometry	night_ENAm10_ACE activity	492.0	hr	NA	14.9298295570109	12.3133873001668	7.40041624958999	2.6164422568441	U/l	NA
+Witte1993	NA	night	8.0	ENAm10	ACE activity	NA	serum	Spectrophotometry	night_ENAm10_ACE activity	496.0	hr	NA	24.4339584265549	22.6864093072448	4.942815330883003	1.7475491193101	U/l	NA
+Witte1993	NA	night	8.0	ENAm10	ACE activity	NA	serum	Spectrophotometry	night_ENAm10_ACE activity	500.0	hr	NA	39.1807346540292	43.5496074523044	12.357038327207368	4.3688727982752	U/l	NA
+Witte1993	NA	night	8.0	ENAm10	ACE activity	NA	serum	Spectrophotometry	night_ENAm10_ACE activity	504.0	hr	NA	46.9324329821421	50.4324126428833	9.89943740850038	3.4999796607412	U/l	NA
+Witte1993	NA	night	8.0	ENAm10	ACE activity	NA	serum	Spectrophotometry	night_ENAm10_ACE activity	516.0	hr	NA	74.1292763291705	79.8136923890493	16.077956572104064	5.6844160598788	U/l	NA
+Witte1993	NA	night	8.0	ENAm10	ACE activity	NA	serum	Spectrophotometry	night_ENAm10_ACE activity	528.0	hr	NA	96.0932351625107	107.452304438026	32.128299650738526	11.3590692755153	U/l	NA
+Witte1993	NA	morning	8.0	NA	relative ACE activity	NA	serum	Spectrophotometry	morning_NA_relative ACE activity	0.0	hr	NA	100.0	NA	29.772917102590675	10.5263157894734	percent	NA
+Witte1993	NA	morning	8.0	NA	relative ACE activity	NA	serum	Spectrophotometry	morning_NA_relative ACE activity	4.0	hr	NA	105.847953216374	NA	34.735069953023775	12.2807017543861	percent	NA
+Witte1993	NA	morning	8.0	NA	relative ACE activity	NA	serum	Spectrophotometry	morning_NA_relative ACE activity	8.0	hr	NA	104.6783625731	NA	34.735069953023775	12.2807017543861	percent	NA
+Witte1993	NA	morning	8.0	NA	relative ACE activity	NA	serum	Spectrophotometry	morning_NA_relative ACE activity	12.0	hr	NA	105.263157894737	NA	29.772917102592654	10.5263157894741	percent	NA
+Witte1993	NA	morning	8.0	NA	relative ACE activity	NA	serum	Spectrophotometry	morning_NA_relative ACE activity	16.0	hr	NA	96.491228070176	NA	31.4269680527357	11.1111111111112	percent	NA
+Witte1993	NA	morning	8.0	NA	relative ACE activity	NA	serum	Spectrophotometry	morning_NA_relative ACE activity	20.0	hr	NA	92.3976608187135	NA	33.08101900287875	11.6959064327483	percent	NA
+Witte1993	NA	morning	8.0	NA	relative ACE activity	NA	serum	Spectrophotometry	morning_NA_relative ACE activity	24.0	hr	NA	98.8304093567258	NA	36.389120903168795	12.8654970760239	percent	NA
+Witte1993	NA	morning	8.0	ENAs10	relative ACE activity	NA	serum	Spectrophotometry	morning_ENAs10_relative ACE activity	0.0	hr	NA	100.0	NA	33.94112549695513	12.0000000000003	percent	ENAs10
+Witte1993	NA	morning	8.0	ENAs10	relative ACE activity	NA	serum	Spectrophotometry	morning_ENAs10_relative ACE activity	4.0	hr	NA	9.06666666666668	NA	12.067955732250477	4.26666666666669	percent	ENAs10
+Witte1993	NA	morning	8.0	ENAs10	relative ACE activity	NA	serum	Spectrophotometry	morning_ENAs10_relative ACE activity	8.0	hr	NA	11.7333333333333	NA	3.0169889330625277	1.06666666666664	percent	ENAs10
+Witte1993	NA	morning	8.0	ENAs10	relative ACE activity	NA	serum	Spectrophotometry	morning_ENAs10_relative ACE activity	12.0	hr	NA	13.8666666666667	NA	3.0169889330626973	1.0666666666667	percent	ENAs10
+Witte1993	NA	morning	8.0	ENAs10	relative ACE activity	NA	serum	Spectrophotometry	morning_ENAs10_relative ACE activity	16.0	hr	NA	17.6	NA	4.525483399594075	1.60000000000006	percent	ENAs10
+Witte1993	NA	morning	8.0	ENAs10	relative ACE activity	NA	serum	Spectrophotometry	morning_ENAs10_relative ACE activity	20.0	hr	NA	18.6666666666667	NA	3.0169889330626973	1.0666666666667	percent	ENAs10
+Witte1993	NA	morning	8.0	ENAs10	relative ACE activity	NA	serum	Spectrophotometry	morning_ENAs10_relative ACE activity	24.0	hr	NA	29.8666666666667	NA	4.525483399594075	1.60000000000006	percent	ENAs10
+Witte1993	NA	morning	8.0	ENAm10	relative ACE activity	NA	serum	Spectrophotometry	morning_ENAm10_relative ACE activity	480.0	hr	NA	29.67581047381546	NA	9.874807916819574	3.4912718204488624	percent	relative to the mean of the drug-free control day (151.6 U/l)
+Witte1993	NA	morning	8.0	ENAm10	relative ACE activity	NA	serum	Spectrophotometry	morning_ENAm10_relative ACE activity	484.0	hr	NA	14.546965918537014	NA	18.10381451416934	6.400665004156291	percent	relative to the mean of the drug-free control day (151.6 U/l)
+Witte1993	NA	morning	8.0	ENAm10	relative ACE activity	NA	serum	Spectrophotometry	morning_ENAm10_relative ACE activity	488.0	hr	NA	14.546965918537014	NA	9.874807916819574	3.4912718204488624	percent	relative to the mean of the drug-free control day (151.6 U/l)
+Witte1993	NA	morning	8.0	ENAm10	relative ACE activity	NA	serum	Spectrophotometry	morning_ENAm10_relative ACE activity	492.0	hr	NA	12.801330008312517	NA	6.583205277879592	2.3275145469658645	percent	relative to the mean of the drug-free control day (151.6 U/l)
+Witte1993	NA	morning	8.0	ENAm10	relative ACE activity	NA	serum	Spectrophotometry	morning_ENAm10_relative ACE activity	496.0	hr	NA	13.965087281795515	NA	4.937403958409787	1.7456359102244312	percent	relative to the mean of the drug-free control day (151.6 U/l)
+Witte1993	NA	morning	8.0	ENAm10	relative ACE activity	NA	serum	Spectrophotometry	morning_ENAm10_relative ACE activity	500.0	hr	NA	23.27514546965917	NA	3.291602638939796	1.1637572734829322	percent	relative to the mean of the drug-free control day (151.6 U/l)
+Witte1993	NA	morning	8.0	ENAm10	relative ACE activity	NA	serum	Spectrophotometry	morning_ENAm10_relative ACE activity	504.0	hr	NA	29.67581047381546	NA	8.229006597349581	2.9093931837073628	percent	relative to the mean of the drug-free control day (151.6 U/l)
+Witte1993	NA	morning	8.0	ENAm10	relative ACE activity	NA	serum	Spectrophotometry	morning_ENAm10_relative ACE activity	516.0	hr	NA	47.71404821280133	NA	21.395417153109133	7.564422277639222	percent	relative to the mean of the drug-free control day (151.6 U/l)
+Witte1993	NA	morning	8.0	ENAm10	relative ACE activity	NA	serum	Spectrophotometry	morning_ENAm10_relative ACE activity	528.0	hr	NA	62.26101413133836	NA	18.103814514170086	6.400665004156555	percent	relative to the mean of the drug-free control day (151.6 U/l)
+Witte1993	NA	night	8.0	NA	relative ACE activity	NA	serum	Spectrophotometry	night_NA_relative ACE activity	0.0	hr	NA	100.0	NA	31.16429055481138	11.0182405910875	percent	NA
+Witte1993	NA	night	8.0	NA	relative ACE activity	NA	serum	Spectrophotometry	night_NA_relative ACE activity	4.0	hr	NA	91.66628184407	NA	29.605640650002677	10.4671746324945	percent	NA
+Witte1993	NA	night	8.0	NA	relative ACE activity	NA	serum	Spectrophotometry	night_NA_relative ACE activity	8.0	hr	NA	87.1869468175172	NA	29.623055732737903	10.473331794043	percent	NA
+Witte1993	NA	night	8.0	NA	relative ACE activity	NA	serum	Spectrophotometry	night_NA_relative ACE activity	12.0	hr	NA	95.3852074193796	NA	26.497048381752574	9.36812129608264	percent	NA
+Witte1993	NA	night	8.0	NA	relative ACE activity	NA	serum	Spectrophotometry	night_NA_relative ACE activity	16.0	hr	NA	100.277072269684	NA	34.29029790579683	12.1234510890479	percent	NA
+Witte1993	NA	night	8.0	NA	relative ACE activity	NA	serum	Spectrophotometry	night_NA_relative ACE activity	20.0	hr	NA	99.1041329946892	NA	32.74035554235587	11.5754637112292	percent	NA
+Witte1993	NA	night	8.0	NA	relative ACE activity	NA	serum	Spectrophotometry	night_NA_relative ACE activity	24.0	hr	NA	99.0364042176557	NA	32.73164800098812	11.5723851304549	percent	NA
+Witte1993	NA	night	8.0	ENAs10	relative ACE activity	NA	serum	Spectrophotometry	night_ENAs10_relative ACE activity	0.0	hr	NA	100.0	NA	36.17327955656271	12.7891856361011	percent	ENAs10
+Witte1993	NA	night	8.0	ENAs10	relative ACE activity	NA	serum	Spectrophotometry	night_ENAs10_relative ACE activity	4.0	hr	NA	7.33770594875751	NA	4.340793546787491	1.53470227633212	percent	ENAs10
+Witte1993	NA	night	8.0	ENAs10	relative ACE activity	NA	serum	Spectrophotometry	night_ENAs10_relative ACE activity	8.0	hr	NA	6.76326431459965	NA	4.332710132361584	1.53184435775427	percent	ENAs10
+Witte1993	NA	night	8.0	ENAs10	relative ACE activity	NA	serum	Spectrophotometry	night_ENAs10_relative ACE activity	12.0	hr	NA	9.25251139595031	NA	4.340793546787491	1.53470227633212	percent	ENAs10
+Witte1993	NA	night	8.0	ENAs10	relative ACE activity	NA	serum	Spectrophotometry	night_ENAs10_relative ACE activity	16.0	hr	NA	14.8197367856989	NA	2.8938623645250505	1.0231348508881	percent	ENAs10
+Witte1993	NA	night	8.0	ENAs10	relative ACE activity	NA	serum	Spectrophotometry	night_ENAs10_relative ACE activity	20.0	hr	NA	21.4043811891799	NA	5.795808143476178	2.04912762035411	percent	ENAs10
+Witte1993	NA	night	8.0	ENAs10	relative ACE activity	NA	serum	Spectrophotometry	night_ENAs10_relative ACE activity	24.0	hr	NA	26.9658907417727	NA	4.348876961213568	1.53756019491003	percent	ENAs10
+Witte1993	NA	night	8.0	ENAm10	relative ACE activity	NA	serum	Spectrophotometry	night_ENAm10_relative ACE activity	480.0	hr	NA	37.54287845745104	NA	24.348275268530156	8.60841527628719	percent	relative to the mean of the drug-free control day (152.4 U/l)
+Witte1993	NA	night	8.0	ENAm10	relative ACE activity	NA	serum	Spectrophotometry	night_ENAm10_relative ACE activity	484.0	hr	NA	7.648898947575539	NA	4.856968940800822	1.7171978370263523	percent	relative to the mean of the drug-free control day (152.4 U/l)
+Witte1993	NA	night	8.0	ENAm10	relative ACE activity	NA	serum	Spectrophotometry	night_ENAm10_relative ACE activity	488.0	hr	NA	8.151884134913539	NA	6.488040600025178	2.2938687524457197	percent	relative to the mean of the drug-free control day (152.4 U/l)
+Witte1993	NA	night	8.0	ENAm10	relative ACE activity	NA	serum	Spectrophotometry	night_ENAm10_relative ACE activity	492.0	hr	NA	9.798599971166427	NA	4.856968940800822	1.7171978370263523	percent	relative to the mean of the drug-free control day (152.4 U/l)
+Witte1993	NA	night	8.0	ENAm10	relative ACE activity	NA	serum	Spectrophotometry	night_ENAm10_relative ACE activity	496.0	hr	NA	16.036257039618643	NA	3.2440203000125796	1.1469343762228565	percent	relative to the mean of the drug-free control day (152.4 U/l)
+Witte1993	NA	night	8.0	ENAm10	relative ACE activity	NA	serum	Spectrophotometry	night_ENAm10_relative ACE activity	500.0	hr	NA	25.714717236739432	NA	8.110050750031355	2.8673359405571084	percent	relative to the mean of the drug-free control day (152.4 U/l)
+Witte1993	NA	night	8.0	ENAm10	relative ACE activity	NA	serum	Spectrophotometry	night_ENAm10_relative ACE activity	504.0	hr	NA	30.802236201660893	NA	6.497102109243111	2.2970724797536124	percent	relative to the mean of the drug-free control day (152.4 U/l)
+Witte1993	NA	night	8.0	ENAm10	relative ACE activity	NA	serum	Spectrophotometry	night_ENAm10_relative ACE activity	516.0	hr	NA	48.651802897542474	NA	10.55212748425879	3.730740450032167	percent	relative to the mean of the drug-free control day (152.4 U/l)
+Witte1993	NA	night	8.0	ENAm10	relative ACE activity	NA	serum	Spectrophotometry	night_ENAm10_relative ACE activity	528.0	hr	NA	63.066973919371364	NA	21.086131950081114	7.455073445448337	percent	relative to the mean of the drug-free control day (152.4 U/l)

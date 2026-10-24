@@ -1,0 +1,157 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Marzo2002	NA	Group1	10.0	ZOF30	blood pressure systolic	NA	NA	sphygmomanometer	ZOF30_blood pressure systolic	0.0	hr	NA	104.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ZOF30	blood pressure systolic	NA	NA	sphygmomanometer	ZOF30_blood pressure systolic	24.0	hr	NA	104.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ZOF30	blood pressure systolic	NA	NA	sphygmomanometer	ZOF30_blood pressure systolic	48.0	hr	NA	111.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ZOF30	blood pressure systolic	NA	NA	sphygmomanometer	ZOF30_blood pressure systolic	72.0	hr	NA	114.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ZOF30	blood pressure systolic	NA	NA	sphygmomanometer	ZOF30_blood pressure systolic	96.0	hr	NA	109.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ZOF30	blood pressure systolic	NA	NA	sphygmomanometer	ZOF30_blood pressure systolic	120.0	hr	NA	105.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ZOF30	blood pressure systolic	NA	NA	sphygmomanometer	ZOF30_blood pressure systolic	144.0	hr	NA	104.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ZOF30	blood pressure systolic	NA	NA	sphygmomanometer	ZOF30_blood pressure systolic	145.0	hr	NA	105.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ZOF30	blood pressure systolic	NA	NA	sphygmomanometer	ZOF30_blood pressure systolic	146.0	hr	NA	99.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ZOF30	blood pressure systolic	NA	NA	sphygmomanometer	ZOF30_blood pressure systolic	148.0	hr	NA	100.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ZOF30	blood pressure systolic	NA	NA	sphygmomanometer	ZOF30_blood pressure systolic	152.0	hr	NA	102.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ZOF30	blood pressure systolic	NA	NA	sphygmomanometer	ZOF30_blood pressure systolic	156.0	hr	NA	104.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ZOF30	blood pressure systolic	NA	NA	sphygmomanometer	ZOF30_blood pressure systolic	168.0	hr	NA	104.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ENA10	blood pressure systolic	NA	NA	sphygmomanometer	ENA10_blood pressure systolic	0.0	hr	NA	105.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ENA10	blood pressure systolic	NA	NA	sphygmomanometer	ENA10_blood pressure systolic	24.0	hr	NA	109.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ENA10	blood pressure systolic	NA	NA	sphygmomanometer	ENA10_blood pressure systolic	48.0	hr	NA	111.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ENA10	blood pressure systolic	NA	NA	sphygmomanometer	ENA10_blood pressure systolic	72.0	hr	NA	120.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ENA10	blood pressure systolic	NA	NA	sphygmomanometer	ENA10_blood pressure systolic	96.0	hr	NA	106.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ENA10	blood pressure systolic	NA	NA	sphygmomanometer	ENA10_blood pressure systolic	120.0	hr	NA	106.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ENA10	blood pressure systolic	NA	NA	sphygmomanometer	ENA10_blood pressure systolic	144.0	hr	NA	103.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ENA10	blood pressure systolic	NA	NA	sphygmomanometer	ENA10_blood pressure systolic	145.0	hr	NA	99.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ENA10	blood pressure systolic	NA	NA	sphygmomanometer	ENA10_blood pressure systolic	146.0	hr	NA	96.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ENA10	blood pressure systolic	NA	NA	sphygmomanometer	ENA10_blood pressure systolic	148.0	hr	NA	97.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ENA10	blood pressure systolic	NA	NA	sphygmomanometer	ENA10_blood pressure systolic	152.0	hr	NA	101.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ENA10	blood pressure systolic	NA	NA	sphygmomanometer	ENA10_blood pressure systolic	156.0	hr	NA	105.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ENA10	blood pressure systolic	NA	NA	sphygmomanometer	ENA10_blood pressure systolic	168.0	hr	NA	106.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ZOF30	blood pressure diastolic	NA	NA	sphygmomanometer	ZOF30_blood pressure diastolic	0.0	hr	NA	70.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ZOF30	blood pressure diastolic	NA	NA	sphygmomanometer	ZOF30_blood pressure diastolic	24.0	hr	NA	67.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ZOF30	blood pressure diastolic	NA	NA	sphygmomanometer	ZOF30_blood pressure diastolic	48.0	hr	NA	73.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ZOF30	blood pressure diastolic	NA	NA	sphygmomanometer	ZOF30_blood pressure diastolic	72.0	hr	NA	72.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ZOF30	blood pressure diastolic	NA	NA	sphygmomanometer	ZOF30_blood pressure diastolic	96.0	hr	NA	64.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ZOF30	blood pressure diastolic	NA	NA	sphygmomanometer	ZOF30_blood pressure diastolic	120.0	hr	NA	72.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ZOF30	blood pressure diastolic	NA	NA	sphygmomanometer	ZOF30_blood pressure diastolic	144.0	hr	NA	71.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ZOF30	blood pressure diastolic	NA	NA	sphygmomanometer	ZOF30_blood pressure diastolic	145.0	hr	NA	68.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ZOF30	blood pressure diastolic	NA	NA	sphygmomanometer	ZOF30_blood pressure diastolic	146.0	hr	NA	64.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ZOF30	blood pressure diastolic	NA	NA	sphygmomanometer	ZOF30_blood pressure diastolic	148.0	hr	NA	67.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ZOF30	blood pressure diastolic	NA	NA	sphygmomanometer	ZOF30_blood pressure diastolic	152.0	hr	NA	68.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ZOF30	blood pressure diastolic	NA	NA	sphygmomanometer	ZOF30_blood pressure diastolic	156.0	hr	NA	70.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ZOF30	blood pressure diastolic	NA	NA	sphygmomanometer	ZOF30_blood pressure diastolic	168.0	hr	NA	67.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ENA10	blood pressure diastolic	NA	NA	sphygmomanometer	ENA10_blood pressure diastolic	0.0	hr	NA	66.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ENA10	blood pressure diastolic	NA	NA	sphygmomanometer	ENA10_blood pressure diastolic	24.0	hr	NA	72.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ENA10	blood pressure diastolic	NA	NA	sphygmomanometer	ENA10_blood pressure diastolic	48.0	hr	NA	69.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ENA10	blood pressure diastolic	NA	NA	sphygmomanometer	ENA10_blood pressure diastolic	72.0	hr	NA	74.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ENA10	blood pressure diastolic	NA	NA	sphygmomanometer	ENA10_blood pressure diastolic	96.0	hr	NA	66.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ENA10	blood pressure diastolic	NA	NA	sphygmomanometer	ENA10_blood pressure diastolic	120.0	hr	NA	68.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ENA10	blood pressure diastolic	NA	NA	sphygmomanometer	ENA10_blood pressure diastolic	144.0	hr	NA	72.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ENA10	blood pressure diastolic	NA	NA	sphygmomanometer	ENA10_blood pressure diastolic	145.0	hr	NA	67.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ENA10	blood pressure diastolic	NA	NA	sphygmomanometer	ENA10_blood pressure diastolic	146.0	hr	NA	66.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ENA10	blood pressure diastolic	NA	NA	sphygmomanometer	ENA10_blood pressure diastolic	148.0	hr	NA	65.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ENA10	blood pressure diastolic	NA	NA	sphygmomanometer	ENA10_blood pressure diastolic	152.0	hr	NA	69.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ENA10	blood pressure diastolic	NA	NA	sphygmomanometer	ENA10_blood pressure diastolic	156.0	hr	NA	69.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ENA10	blood pressure diastolic	NA	NA	sphygmomanometer	ENA10_blood pressure diastolic	168.0	hr	NA	69.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group1	10.0	ZOF30	heart rate	NA	NA	electrocardiography	ZOF30_heart rate	0.0	hr	NA	65.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group1	10.0	ZOF30	heart rate	NA	NA	electrocardiography	ZOF30_heart rate	24.0	hr	NA	62.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group1	10.0	ZOF30	heart rate	NA	NA	electrocardiography	ZOF30_heart rate	48.0	hr	NA	66.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group1	10.0	ZOF30	heart rate	NA	NA	electrocardiography	ZOF30_heart rate	72.0	hr	NA	69.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group1	10.0	ZOF30	heart rate	NA	NA	electrocardiography	ZOF30_heart rate	96.0	hr	NA	73.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group1	10.0	ZOF30	heart rate	NA	NA	electrocardiography	ZOF30_heart rate	120.0	hr	NA	65.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group1	10.0	ZOF30	heart rate	NA	NA	electrocardiography	ZOF30_heart rate	144.0	hr	NA	68.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group1	10.0	ZOF30	heart rate	NA	NA	electrocardiography	ZOF30_heart rate	145.0	hr	NA	64.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group1	10.0	ZOF30	heart rate	NA	NA	electrocardiography	ZOF30_heart rate	146.0	hr	NA	62.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group1	10.0	ZOF30	heart rate	NA	NA	electrocardiography	ZOF30_heart rate	148.0	hr	NA	65.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group1	10.0	ZOF30	heart rate	NA	NA	electrocardiography	ZOF30_heart rate	152.0	hr	NA	66.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group1	10.0	ZOF30	heart rate	NA	NA	electrocardiography	ZOF30_heart rate	156.0	hr	NA	70.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group1	10.0	ZOF30	heart rate	NA	NA	electrocardiography	ZOF30_heart rate	168.0	hr	NA	68.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group1	10.0	ENA10	heart rate	NA	NA	electrocardiography	ENA10_heart rate	0.0	hr	NA	67.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group1	10.0	ENA10	heart rate	NA	NA	electrocardiography	ENA10_heart rate	24.0	hr	NA	63.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group1	10.0	ENA10	heart rate	NA	NA	electrocardiography	ENA10_heart rate	48.0	hr	NA	66.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group1	10.0	ENA10	heart rate	NA	NA	electrocardiography	ENA10_heart rate	72.0	hr	NA	73.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group1	10.0	ENA10	heart rate	NA	NA	electrocardiography	ENA10_heart rate	96.0	hr	NA	73.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group1	10.0	ENA10	heart rate	NA	NA	electrocardiography	ENA10_heart rate	120.0	hr	NA	68.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group1	10.0	ENA10	heart rate	NA	NA	electrocardiography	ENA10_heart rate	144.0	hr	NA	66.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group1	10.0	ENA10	heart rate	NA	NA	electrocardiography	ENA10_heart rate	145.0	hr	NA	63.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group1	10.0	ENA10	heart rate	NA	NA	electrocardiography	ENA10_heart rate	146.0	hr	NA	65.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group1	10.0	ENA10	heart rate	NA	NA	electrocardiography	ENA10_heart rate	148.0	hr	NA	65.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group1	10.0	ENA10	heart rate	NA	NA	electrocardiography	ENA10_heart rate	152.0	hr	NA	71.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group1	10.0	ENA10	heart rate	NA	NA	electrocardiography	ENA10_heart rate	156.0	hr	NA	67.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group1	10.0	ENA10	heart rate	NA	NA	electrocardiography	ENA10_heart rate	168.0	hr	NA	68.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group2	10.0	ZOF60	blood pressure systolic	NA	NA	sphygmomanometer	ZOF60_blood pressure systolic	0.0	hr	NA	111.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ZOF60	blood pressure systolic	NA	NA	sphygmomanometer	ZOF60_blood pressure systolic	24.0	hr	NA	115.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ZOF60	blood pressure systolic	NA	NA	sphygmomanometer	ZOF60_blood pressure systolic	48.0	hr	NA	118.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ZOF60	blood pressure systolic	NA	NA	sphygmomanometer	ZOF60_blood pressure systolic	72.0	hr	NA	115.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ZOF60	blood pressure systolic	NA	NA	sphygmomanometer	ZOF60_blood pressure systolic	96.0	hr	NA	110.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ZOF60	blood pressure systolic	NA	NA	sphygmomanometer	ZOF60_blood pressure systolic	120.0	hr	NA	109.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ZOF60	blood pressure systolic	NA	NA	sphygmomanometer	ZOF60_blood pressure systolic	144.0	hr	NA	110.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ZOF60	blood pressure systolic	NA	NA	sphygmomanometer	ZOF60_blood pressure systolic	145.0	hr	NA	104.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ZOF60	blood pressure systolic	NA	NA	sphygmomanometer	ZOF60_blood pressure systolic	146.0	hr	NA	98.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ZOF60	blood pressure systolic	NA	NA	sphygmomanometer	ZOF60_blood pressure systolic	148.0	hr	NA	101.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ZOF60	blood pressure systolic	NA	NA	sphygmomanometer	ZOF60_blood pressure systolic	152.0	hr	NA	104.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ZOF60	blood pressure systolic	NA	NA	sphygmomanometer	ZOF60_blood pressure systolic	156.0	hr	NA	105.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ZOF60	blood pressure systolic	NA	NA	sphygmomanometer	ZOF60_blood pressure systolic	168.0	hr	NA	107.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ENA20	blood pressure systolic	NA	NA	sphygmomanometer	ENA20_blood pressure systolic	0.0	hr	NA	111.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ENA20	blood pressure systolic	NA	NA	sphygmomanometer	ENA20_blood pressure systolic	24.0	hr	NA	114.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ENA20	blood pressure systolic	NA	NA	sphygmomanometer	ENA20_blood pressure systolic	48.0	hr	NA	113.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ENA20	blood pressure systolic	NA	NA	sphygmomanometer	ENA20_blood pressure systolic	72.0	hr	NA	115.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ENA20	blood pressure systolic	NA	NA	sphygmomanometer	ENA20_blood pressure systolic	96.0	hr	NA	111.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ENA20	blood pressure systolic	NA	NA	sphygmomanometer	ENA20_blood pressure systolic	120.0	hr	NA	112.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ENA20	blood pressure systolic	NA	NA	sphygmomanometer	ENA20_blood pressure systolic	144.0	hr	NA	105.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ENA20	blood pressure systolic	NA	NA	sphygmomanometer	ENA20_blood pressure systolic	145.0	hr	NA	106.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ENA20	blood pressure systolic	NA	NA	sphygmomanometer	ENA20_blood pressure systolic	146.0	hr	NA	105.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ENA20	blood pressure systolic	NA	NA	sphygmomanometer	ENA20_blood pressure systolic	148.0	hr	NA	99.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ENA20	blood pressure systolic	NA	NA	sphygmomanometer	ENA20_blood pressure systolic	152.0	hr	NA	104.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ENA20	blood pressure systolic	NA	NA	sphygmomanometer	ENA20_blood pressure systolic	156.0	hr	NA	109.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ENA20	blood pressure systolic	NA	NA	sphygmomanometer	ENA20_blood pressure systolic	168.0	hr	NA	106.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ZOF60	blood pressure diastolic	NA	NA	sphygmomanometer	ZOF60_blood pressure diastolic	0.0	hr	NA	71.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ZOF60	blood pressure diastolic	NA	NA	sphygmomanometer	ZOF60_blood pressure diastolic	24.0	hr	NA	76.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ZOF60	blood pressure diastolic	NA	NA	sphygmomanometer	ZOF60_blood pressure diastolic	48.0	hr	NA	75.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ZOF60	blood pressure diastolic	NA	NA	sphygmomanometer	ZOF60_blood pressure diastolic	72.0	hr	NA	76.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ZOF60	blood pressure diastolic	NA	NA	sphygmomanometer	ZOF60_blood pressure diastolic	96.0	hr	NA	70.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ZOF60	blood pressure diastolic	NA	NA	sphygmomanometer	ZOF60_blood pressure diastolic	120.0	hr	NA	72.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ZOF60	blood pressure diastolic	NA	NA	sphygmomanometer	ZOF60_blood pressure diastolic	144.0	hr	NA	69.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ZOF60	blood pressure diastolic	NA	NA	sphygmomanometer	ZOF60_blood pressure diastolic	145.0	hr	NA	67.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ZOF60	blood pressure diastolic	NA	NA	sphygmomanometer	ZOF60_blood pressure diastolic	146.0	hr	NA	63.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ZOF60	blood pressure diastolic	NA	NA	sphygmomanometer	ZOF60_blood pressure diastolic	148.0	hr	NA	68.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ZOF60	blood pressure diastolic	NA	NA	sphygmomanometer	ZOF60_blood pressure diastolic	152.0	hr	NA	71.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ZOF60	blood pressure diastolic	NA	NA	sphygmomanometer	ZOF60_blood pressure diastolic	156.0	hr	NA	72.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ZOF60	blood pressure diastolic	NA	NA	sphygmomanometer	ZOF60_blood pressure diastolic	168.0	hr	NA	69.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ENA20	blood pressure diastolic	NA	NA	sphygmomanometer	ENA20_blood pressure diastolic	0.0	hr	NA	73.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ENA20	blood pressure diastolic	NA	NA	sphygmomanometer	ENA20_blood pressure diastolic	24.0	hr	NA	70.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ENA20	blood pressure diastolic	NA	NA	sphygmomanometer	ENA20_blood pressure diastolic	48.0	hr	NA	77.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ENA20	blood pressure diastolic	NA	NA	sphygmomanometer	ENA20_blood pressure diastolic	72.0	hr	NA	73.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ENA20	blood pressure diastolic	NA	NA	sphygmomanometer	ENA20_blood pressure diastolic	96.0	hr	NA	66.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ENA20	blood pressure diastolic	NA	NA	sphygmomanometer	ENA20_blood pressure diastolic	120.0	hr	NA	73.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ENA20	blood pressure diastolic	NA	NA	sphygmomanometer	ENA20_blood pressure diastolic	144.0	hr	NA	67.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ENA20	blood pressure diastolic	NA	NA	sphygmomanometer	ENA20_blood pressure diastolic	145.0	hr	NA	68.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ENA20	blood pressure diastolic	NA	NA	sphygmomanometer	ENA20_blood pressure diastolic	146.0	hr	NA	67.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ENA20	blood pressure diastolic	NA	NA	sphygmomanometer	ENA20_blood pressure diastolic	148.0	hr	NA	67.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ENA20	blood pressure diastolic	NA	NA	sphygmomanometer	ENA20_blood pressure diastolic	152.0	hr	NA	66.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ENA20	blood pressure diastolic	NA	NA	sphygmomanometer	ENA20_blood pressure diastolic	156.0	hr	NA	71.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ENA20	blood pressure diastolic	NA	NA	sphygmomanometer	ENA20_blood pressure diastolic	168.0	hr	NA	65.0	NA	NA	NA	NA	NA	mmHg	NA
+Marzo2002	NA	Group2	10.0	ZOF60	heart rate	NA	NA	electrocardiography	ZOF60_heart rate	0.0	hr	NA	69.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group2	10.0	ZOF60	heart rate	NA	NA	electrocardiography	ZOF60_heart rate	24.0	hr	NA	69.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group2	10.0	ZOF60	heart rate	NA	NA	electrocardiography	ZOF60_heart rate	48.0	hr	NA	72.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group2	10.0	ZOF60	heart rate	NA	NA	electrocardiography	ZOF60_heart rate	72.0	hr	NA	74.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group2	10.0	ZOF60	heart rate	NA	NA	electrocardiography	ZOF60_heart rate	96.0	hr	NA	72.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group2	10.0	ZOF60	heart rate	NA	NA	electrocardiography	ZOF60_heart rate	120.0	hr	NA	70.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group2	10.0	ZOF60	heart rate	NA	NA	electrocardiography	ZOF60_heart rate	144.0	hr	NA	67.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group2	10.0	ZOF60	heart rate	NA	NA	electrocardiography	ZOF60_heart rate	145.0	hr	NA	65.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group2	10.0	ZOF60	heart rate	NA	NA	electrocardiography	ZOF60_heart rate	146.0	hr	NA	63.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group2	10.0	ZOF60	heart rate	NA	NA	electrocardiography	ZOF60_heart rate	148.0	hr	NA	62.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group2	10.0	ZOF60	heart rate	NA	NA	electrocardiography	ZOF60_heart rate	152.0	hr	NA	69.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group2	10.0	ZOF60	heart rate	NA	NA	electrocardiography	ZOF60_heart rate	156.0	hr	NA	68.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group2	10.0	ZOF60	heart rate	NA	NA	electrocardiography	ZOF60_heart rate	168.0	hr	NA	69.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group2	10.0	ENA20	heart rate	NA	NA	electrocardiography	ENA20_heart rate	0.0	hr	NA	68.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group2	10.0	ENA20	heart rate	NA	NA	electrocardiography	ENA20_heart rate	24.0	hr	NA	72.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group2	10.0	ENA20	heart rate	NA	NA	electrocardiography	ENA20_heart rate	48.0	hr	NA	71.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group2	10.0	ENA20	heart rate	NA	NA	electrocardiography	ENA20_heart rate	72.0	hr	NA	74.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group2	10.0	ENA20	heart rate	NA	NA	electrocardiography	ENA20_heart rate	96.0	hr	NA	76.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group2	10.0	ENA20	heart rate	NA	NA	electrocardiography	ENA20_heart rate	120.0	hr	NA	68.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group2	10.0	ENA20	heart rate	NA	NA	electrocardiography	ENA20_heart rate	144.0	hr	NA	67.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group2	10.0	ENA20	heart rate	NA	NA	electrocardiography	ENA20_heart rate	145.0	hr	NA	67.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group2	10.0	ENA20	heart rate	NA	NA	electrocardiography	ENA20_heart rate	146.0	hr	NA	68.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group2	10.0	ENA20	heart rate	NA	NA	electrocardiography	ENA20_heart rate	148.0	hr	NA	71.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group2	10.0	ENA20	heart rate	NA	NA	electrocardiography	ENA20_heart rate	152.0	hr	NA	75.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group2	10.0	ENA20	heart rate	NA	NA	electrocardiography	ENA20_heart rate	156.0	hr	NA	66.0	NA	NA	NA	NA	NA	1/min	NA
+Marzo2002	NA	Group2	10.0	ENA20	heart rate	NA	NA	electrocardiography	ENA20_heart rate	168.0	hr	NA	70.0	NA	NA	NA	NA	NA	1/min	NA

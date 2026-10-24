@@ -1,0 +1,14 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+MacDonald1993		young	9.0	ENA10	ACE inhibition		plasma	HPLC	young_ENA10_ACE inhibition	0.0	hr		4.44658536900774					percent	percent	dimensionless
+MacDonald1993		young	9.0	ENA10	ACE inhibition		plasma	HPLC	young_ENA10_ACE inhibition	1.04561031437106	hr		13.9404363175522					percent	percent	dimensionless
+MacDonald1993		young	9.0	ENA10	ACE inhibition		plasma	HPLC	young_ENA10_ACE inhibition	1.3044524046606	hr		41.5930634044149					percent	percent	dimensionless
+MacDonald1993		young	9.0	ENA10	ACE inhibition		plasma	HPLC	young_ENA10_ACE inhibition	1.7020264066521	hr		60.8652640018621					percent	percent	dimensionless
+MacDonald1993		young	9.0	ENA10	ACE inhibition		plasma	HPLC	young_ENA10_ACE inhibition	2.40499683171901	hr		71.7563915219387					percent	percent	dimensionless
+MacDonald1993		young	9.0	ENA10	ACE inhibition		plasma	HPLC	young_ENA10_ACE inhibition	3.25880329501222	hr		77.8983305098992					percent	percent	dimensionless
+MacDonald1993		young	9.0	ENA10	ACE inhibition		plasma	HPLC	young_ENA10_ACE inhibition	4.27461883640032	hr		82.6429929263277					percent	percent	dimensionless
+MacDonald1993		young	9.0	ENA10	ACE inhibition		plasma	HPLC	young_ENA10_ACE inhibition	8.24663450969235	hr		74.2476949139391					percent	percent	dimensionless
+MacDonald1993		young	9.0	ENA10	ACE inhibition		plasma	HPLC	young_ENA10_ACE inhibition	10.0	hr		68.9327419208835					percent	percent	dimensionless
+MacDonald1993		young	9.0	ENA10	ACE inhibition		plasma	HPLC	young_ENA10_ACE inhibition	12.0	hr		60.5445563760038					percent	percent	dimensionless
+MacDonald1993		young	9.0	ENA10	ACE inhibition		plasma	HPLC	young_ENA10_ACE inhibition	24.0	hr		47.3703267855526					percent	percent	dimensionless
+MacDonald1993		young	9.0	ENA10	ACE inhibition		plasma	HPLC	young_ENA10_ACE inhibition	48.0	hr		20.1832430265488					percent	percent	dimensionless
+MacDonald1993		young	9.0	ENA10	ACE inhibition		plasma	HPLC	young_ENA10_ACE inhibition	72.0	hr		9.4750998978391					percent	percent	dimensionless

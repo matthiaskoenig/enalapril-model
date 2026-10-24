@@ -1,0 +1,13 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	clearance	creatinine	urine	enzymatic assay	NA	15.0	min	NA	127.6	NA	16.8	4.84974226119286	NA	NA	ml/min	0-30min
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	clearance	creatinine	urine	enzymatic assay	NA	45.0	min	NA	128.5	NA	15.8	4.56106712659804	NA	NA	ml/min	30-60min
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	clearance	creatinine	urine	enzymatic assay	NA	75.0	min	NA	126.1	NA	17.8	5.13841739578767	NA	NA	ml/min	60-90min
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	clearance	creatinine	urine	enzymatic assay	NA	90.0	min	NA	127.4	NA	15.1	4.35899453238168	NA	NA	ml/min	0-90min
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	clearance	inulin	urine	enzymatic assay	NA	15.0	min	NA	120.0	NA	20.5	5.91784025919367	NA	NA	ml/min	0-30min
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	clearance	inulin	urine	enzymatic assay	NA	45.0	min	NA	121.4	NA	20.9	6.03331031303159	NA	NA	ml/min	30-60min
+Mujais1992	NA	all	11.0	INU50, EATB, EATINF	clearance	inulin	urine	enzymatic assay	NA	75.0	min	NA	113.9	NA	14.7	4.43221676529313	NA	NA	ml/min	60-90min
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	clearance	inulin	urine	enzymatic assay	NA	90.0	min	NA	119.1	NA	18.1	5.22501993616611	NA	NA	ml/min	0-90min
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	clearance_unbound	enalaprilat	urine	enzymatic assay	NA	15.0	min	NA	229.7	NA	46.4	13.3945262451993	NA	NA	ml/min	0-30min
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	clearance_unbound	enalaprilat	urine	enzymatic assay	NA	45.0	min	NA	225.1	NA	59.1	17.0607004545534	NA	NA	ml/min	30-60min
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	clearance_unbound	enalaprilat	urine	enzymatic assay	NA	75.0	min	NA	215.5	NA	61.9	17.8689908314189	NA	NA	ml/min	60-90min
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	clearance_unbound	enalaprilat	urine	enzymatic assay	NA	90.0	min	NA	222.4	NA	48.9	14.1162140816864	NA	NA	ml/min	0-90min

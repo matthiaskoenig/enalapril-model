@@ -1,0 +1,40 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	blood pressure systolic	NA	NA	sphygmomanometer	blood pressure systolic	0.0	min	NA	117.049597510565	119.818154548032	9.59056290509045	2.768557037467	mmHg	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	blood pressure systolic	NA	NA	sphygmomanometer	blood pressure systolic	15.0	min	NA	114.893345244296	117.06855176324	7.53513641553206	2.17520651894399	mmHg	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	blood pressure systolic	NA	NA	sphygmomanometer	blood pressure systolic	30.0	min	NA	114.518792729478	116.892606852539	8.22313333773246	2.37381412306101	mmHg	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	blood pressure systolic	NA	NA	sphygmomanometer	blood pressure systolic	45.0	min	NA	111.373622932338	113.549241500254	7.53656379504152	2.175618567916	mmHg	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	blood pressure systolic	NA	NA	sphygmomanometer	blood pressure systolic	60.0	min	NA	110.800462813404	112.976493430291	7.53799117454748	2.176030616887	mmHg	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	blood pressure systolic	NA	NA	sphygmomanometer	blood pressure systolic	75.0	min	NA	112.203901609298	114.576891634417	8.22027857872049	2.37299002511899	mmHg	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	blood pressure systolic	NA	NA	sphygmomanometer	blood pressure systolic	90.0	min	NA	111.433782082133	113.412029192846	6.8528490113625	1.978247110713	mmHg	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	blood pressure systolic	NA	NA	sphygmomanometer	blood pressure systolic	105.0	min	NA	109.277529815864	111.453148383779	7.53656379503802	2.17561856791499	mmHg	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	blood pressure systolic	NA	NA	sphygmomanometer	blood pressure systolic	120.0	min	NA	110.878340068961	113.252154192021	8.22313333772896	2.37381412306	mmHg	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	blood pressure systolic	NA	NA	sphygmomanometer	blood pressure systolic	135.0	min	NA	111.689252444275	113.86487101219	7.53656379503802	2.17561856791499	mmHg	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	blood pressure systolic	NA	NA	sphygmomanometer	blood pressure systolic	150.0	min	NA	112.104185758269	114.674959289562	8.90542074190547	2.570773531293	mmHg	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	blood pressure systolic	NA	NA	sphygmomanometer	blood pressure systolic	165.0	min	NA	112.1252002558	114.498190280919	8.22027857872054	2.37299002511901	mmHg	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	blood pressure systolic	NA	NA	sphygmomanometer	blood pressure systolic	180.0	min	NA	111.352608434807	113.528227002723	7.53656379504152	2.175618567916	mmHg	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	blood pressure diastolic	NA	NA	sphygmomanometer	blood pressure diastolic	0.0	min	NA	80.0640818560004	82.4374839300901	8.22170595822541	2.3734020740897	mmHg	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	blood pressure diastolic	NA	NA	sphygmomanometer	blood pressure diastolic	15.0	min	NA	79.4884494432394	81.6632439132126	7.5337090360268	2.17479446997319	mmHg	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	blood pressure diastolic	NA	NA	sphygmomanometer	blood pressure diastolic	30.0	min	NA	79.1151330753358	81.2895154963377	7.5322816565198	2.17438242100189	mmHg	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	blood pressure diastolic	NA	NA	sphygmomanometer	blood pressure diastolic	45.0	min	NA	75.7713556740792	77.5514072296464	6.1662794686688	1.7800515555672	mmHg	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	blood pressure diastolic	NA	NA	sphygmomanometer	blood pressure diastolic	60.0	min	NA	76.1883492329297	78.1657722456999	6.84999425234782	1.9774230127702	mmHg	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	blood pressure diastolic	NA	NA	sphygmomanometer	blood pressure diastolic	75.0	min	NA	75.4157574119369	77.5917880288237	7.53799117454679	2.17603061688681	mmHg	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	blood pressure diastolic	NA	NA	sphygmomanometer	blood pressure diastolic	90.0	min	NA	76.8202263302589	78.6000718613406	6.1655657789158	1.77984553108169	mmHg	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	blood pressure diastolic	NA	NA	sphygmomanometer	blood pressure diastolic	105.0	min	NA	76.0490766806654	78.0264996934356	6.84999425234782	1.9774230127702	mmHg	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	blood pressure diastolic	NA	NA	sphygmomanometer	blood pressure diastolic	120.0	min	NA	77.8480824889077	80.023289007852	7.5351364155331	2.17520651894429	mmHg	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	blood pressure diastolic	NA	NA	sphygmomanometer	blood pressure diastolic	135.0	min	NA	75.0997158510295	77.2740982720315	7.53228165652015	2.17438242100199	mmHg	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	blood pressure diastolic	NA	NA	sphygmomanometer	blood pressure diastolic	150.0	min	NA	73.9319690666597	76.3057831897206	8.22313333773206	2.3738141230609	mmHg	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	blood pressure diastolic	NA	NA	sphygmomanometer	blood pressure diastolic	165.0	min	NA	73.9525715152195	76.1273659851926	7.53370903602645	2.17479446997309	mmHg	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	blood pressure diastolic	NA	NA	sphygmomanometer	blood pressure diastolic	180.0	min	NA	75.3560103111135	76.7404948543325	4.7959951422982	1.384484543219	mmHg	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	heart rate	NA	NA	electrocardiography	heart rate	0.0	min	NA	63.2520717822272	65.4272783011716	7.53513641553347	2.1752065189444	1/min	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	heart rate	NA	NA	electrocardiography	heart rate	15.0	min	NA	63.2710260349022	65.8422116151661	8.90684812141106	2.57118558026389	1/min	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	heart rate	NA	NA	electrocardiography	heart rate	30.0	min	NA	61.1164219645177	63.8853910509557	9.59199028459638	2.768969086438	1/min	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	heart rate	NA	NA	electrocardiography	heart rate	45.0	min	NA	62.5202728093829	65.2884177978785	9.58913552558306	2.76814498849559	1/min	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	heart rate	NA	NA	electrocardiography	heart rate	60.0	min	NA	60.9577831106071	64.1219071604222	10.9608472314607	3.16412404981509	1/min	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	heart rate	NA	NA	electrocardiography	heart rate	75.0	min	NA	59.3957054608026	62.7567889188494	11.6431346356327	3.3610834580468	1/min	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	heart rate	NA	NA	electrocardiography	heart rate	90.0	min	NA	60.8003804036102	64.3600714657736	12.3311315578317	3.5596910621634	1/min	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	heart rate	NA	NA	electrocardiography	heart rate	105.0	min	NA	61.0171181624594	63.7860872488974	9.59199028459641	2.76896908643801	1/min	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	heart rate	NA	NA	electrocardiography	heart rate	120.0	min	NA	61.0356603661632	64.3983920200948	11.6488441536593	3.3627316539316	1/min	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	heart rate	NA	NA	electrocardiography	heart rate	135.0	min	NA	60.6602837534035	63.2322934316098	8.90970288042438	2.5720096782063	1/min	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	heart rate	NA	NA	electrocardiography	heart rate	150.0	min	NA	61.2730005735722	64.8339277826491	12.3354136963513	3.5609272090769	1/min	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	heart rate	NA	NA	electrocardiography	heart rate	165.0	min	NA	61.6895820834515	64.06257210857	8.22027857871877	2.3729900251185	1/min	NA
+Mujais1992	NA	all	12.0	INU50, EATB, EATINF	heart rate	NA	NA	electrocardiography	heart rate	180.0	min	NA	61.9067318912718	64.8726603859416	10.2742776887688	2.9659284946698	1/min	NA

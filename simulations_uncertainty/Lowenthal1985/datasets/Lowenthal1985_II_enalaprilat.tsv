@@ -1,0 +1,12 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	median	mean_sd	mean_se	min	max	comments	mean_unit	value_unit	median_unit	count_unit
+Lowenthal1985		II	8.0	ENA10	concentration	enalaprilat	serum	RIA	II_enalaprilat	0.0	hr		0.0								mole/meter^3	ng/ml	ng/ml	dimensionless
+Lowenthal1985		II	8.0	ENA10	concentration	enalaprilat	serum	RIA	II_enalaprilat	0.5	hr		7.248274725059559e-06								mole/meter^3	ng/ml	ng/ml	dimensionless
+Lowenthal1985		II	8.0	ENA10	concentration	enalaprilat	serum	RIA	II_enalaprilat	1.0	hr		3.044275384525003e-05								mole/meter^3	ng/ml	ng/ml	dimensionless
+Lowenthal1985		II	8.0	ENA10	concentration	enalaprilat	serum	RIA	II_enalaprilat	2.0	hr		0.00011307308571092982								mole/meter^3	ng/ml	ng/ml	dimensionless
+Lowenthal1985		II	8.0	ENA10	concentration	enalaprilat	serum	RIA	II_enalaprilat	3.0	hr		0.00015801238900629922								mole/meter^3	ng/ml	ng/ml	dimensionless
+Lowenthal1985		II	8.0	ENA10	concentration	enalaprilat	serum	RIA	II_enalaprilat	4.0	hr		0.0001942537626315974								mole/meter^3	ng/ml	ng/ml	dimensionless
+Lowenthal1985		II	8.0	ENA10	concentration	enalaprilat	serum	RIA	II_enalaprilat	6.0	hr		0.00022034755164181176								mole/meter^3	ng/ml	ng/ml	dimensionless
+Lowenthal1985		II	8.0	ENA10	concentration	enalaprilat	serum	RIA	II_enalaprilat	8.0	hr		0.00022759582636687156								mole/meter^3	ng/ml	ng/ml	dimensionless
+Lowenthal1985		II	8.0	ENA10	concentration	enalaprilat	serum	RIA	II_enalaprilat	12.0	hr		0.0002073006571367046								mole/meter^3	ng/ml	ng/ml	dimensionless
+Lowenthal1985		II	8.0	ENA10	concentration	enalaprilat	serum	RIA	II_enalaprilat	24.0	hr		0.0001000261912058224								mole/meter^3	ng/ml	ng/ml	dimensionless
+Lowenthal1985		II	8.0	ENA10	concentration	enalaprilat	serum	RIA	II_enalaprilat	48.0	hr		4.783861318539319e-05								mole/meter^3	ng/ml	ng/ml	dimensionless

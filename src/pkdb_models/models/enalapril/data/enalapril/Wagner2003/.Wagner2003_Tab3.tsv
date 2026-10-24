@@ -1,0 +1,49 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Wagner2003	NA	ena	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	0.0	hr	NA	34.0	NA	62.6099033699941	14.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	1.0	hr	NA	31.0	NA	53.665631459995	12.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	3.0	hr	NA	32.0	NA	44.7213595499958	10.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	6.0	hr	NA	31.0	NA	44.7213595499958	10.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	12.0	hr	NA	31.0	NA	35.7770876399966	8.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	24.0	hr	NA	30.0	NA	35.7770876399966	8.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	48.0	hr	NA	29.0	NA	26.8328157299975	6.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	72.0	hr	NA	28.0	NA	31.3049516849971	7.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	0.0	hr	NA	18.0	NA	26.8328157299975	6.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	1.0	hr	NA	16.0	NA	22.3606797749979	5.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	3.0	hr	NA	16.0	NA	22.3606797749979	5.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	6.0	hr	NA	15.0	NA	22.3606797749979	5.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	12.0	hr	NA	15.0	NA	17.8885438199983	4.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	24.0	hr	NA	15.0	NA	17.8885438199983	4.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	48.0	hr	NA	15.0	NA	13.4164078649987	3.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	72.0	hr	NA	14.0	NA	17.8885438199983	4.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	MAP	NA	NA	sphygmomanometer	NA	0.0	hr	NA	24.0	NA	35.7770876399966	8.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	MAP	NA	NA	sphygmomanometer	NA	1.0	hr	NA	23.0	NA	35.7770876399966	8.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	MAP	NA	NA	sphygmomanometer	NA	3.0	hr	NA	23.0	NA	31.3049516849971	7.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	MAP	NA	NA	sphygmomanometer	NA	6.0	hr	NA	23.0	NA	31.3049516849971	7.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	MAP	NA	NA	sphygmomanometer	NA	12.0	hr	NA	22.0	NA	26.8328157299975	6.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	MAP	NA	NA	sphygmomanometer	NA	24.0	hr	NA	22.0	NA	22.3606797749979	5.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	MAP	NA	NA	sphygmomanometer	NA	48.0	hr	NA	22.0	NA	17.8885438199983	4.0	NA	NA	mmHg	NA
+Wagner2003	NA	ena	20.0	ENA5	MAP	NA	NA	sphygmomanometer	NA	72.0	hr	NA	21.0	NA	22.3606797749979	5.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	0.0	hr	NA	32.0	NA	26.8328157299975	6.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	1.0	hr	NA	30.0	NA	35.7770876399966	8.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	3.0	hr	NA	31.0	NA	31.3049516849971	7.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	6.0	hr	NA	30.0	NA	35.7770876399966	8.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	12.0	hr	NA	30.0	NA	31.3049516849971	7.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	24.0	hr	NA	32.0	NA	26.8328157299975	6.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	48.0	hr	NA	32.0	NA	40.2492235949962	9.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure systolic	NA	NA	sphygmomanometer	NA	72.0	hr	NA	30.0	NA	35.7770876399966	8.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	0.0	hr	NA	16.0	NA	22.3606797749979	5.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	1.0	hr	NA	15.0	NA	17.8885438199983	4.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	3.0	hr	NA	15.0	NA	17.8885438199983	4.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	6.0	hr	NA	15.0	NA	17.8885438199983	4.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	12.0	hr	NA	15.0	NA	17.8885438199983	4.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	24.0	hr	NA	16.0	NA	17.8885438199983	4.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	48.0	hr	NA	16.0	NA	26.8328157299975	6.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	blood pressure diastolic	NA	NA	sphygmomanometer	NA	72.0	hr	NA	16.0	NA	31.3049516849971	7.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	MAP	NA	NA	sphygmomanometer	NA	0.0	hr	NA	23.0	NA	22.3606797749979	5.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	MAP	NA	NA	sphygmomanometer	NA	1.0	hr	NA	22.0	NA	26.8328157299975	6.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	MAP	NA	NA	sphygmomanometer	NA	3.0	hr	NA	22.0	NA	26.8328157299975	6.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	MAP	NA	NA	sphygmomanometer	NA	6.0	hr	NA	21.0	NA	26.8328157299975	6.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	MAP	NA	NA	sphygmomanometer	NA	12.0	hr	NA	21.0	NA	22.3606797749979	5.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	MAP	NA	NA	sphygmomanometer	NA	24.0	hr	NA	23.0	NA	22.3606797749979	5.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	MAP	NA	NA	sphygmomanometer	NA	48.0	hr	NA	23.0	NA	35.7770876399966	8.0	NA	NA	mmHg	NA
+Wagner2003	NA	plac	20.0	ENA5	MAP	NA	NA	sphygmomanometer	NA	72.0	hr	NA	22.0	NA	26.8328157299975	6.0	NA	NA	mmHg	NA

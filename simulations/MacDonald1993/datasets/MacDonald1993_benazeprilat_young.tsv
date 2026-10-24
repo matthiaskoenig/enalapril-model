@@ -1,0 +1,15 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+MacDonald1993		young	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_young	0.720265128268071	hr		80.4161040873942					nmol/l	nmol/l	dimensionless
+MacDonald1993		young	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_young	1.57662943414753	hr		382.803485945747					nmol/l	nmol/l	dimensionless
+MacDonald1993		young	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_young	2.11307229655088	hr		448.643672517491					nmol/l	nmol/l	dimensionless
+MacDonald1993		young	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_young	3.0887443230637	hr		432.478212839082					nmol/l	nmol/l	dimensionless
+MacDonald1993		young	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_young	3.6587700994231	hr		299.392414385664					nmol/l	nmol/l	dimensionless
+MacDonald1993		young	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_young	4.45503866453909	hr		260.384190499571					nmol/l	nmol/l	dimensionless
+MacDonald1993		young	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_young	5.55443721615318	hr		182.386154412667					nmol/l	nmol/l	dimensionless
+MacDonald1993		young	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_young	6.17925616791457	hr		132.631643549773					nmol/l	nmol/l	dimensionless
+MacDonald1993		young	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_young	8.28614213821038	hr		86.8540567079908					nmol/l	nmol/l	dimensionless
+MacDonald1993		young	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_young	10.2427887565975	hr		62.587455505094					nmol/l	nmol/l	dimensionless
+MacDonald1993		young	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_young	12.3682337056585	hr		45.0349822020377					nmol/l	nmol/l	dimensionless
+MacDonald1993		young	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_young	24.5102246225605	hr		10.9795016570517					nmol/l	nmol/l	dimensionless
+MacDonald1993		young	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_young	47.8450472566589	hr		0.0				negative value set to zero	nmol/l	nmol/l	dimensionless
+MacDonald1993		young	9.0	BEN10	concentration	benazeprilat	plasma	GC/MS	benazeprilat_young	71.8444580827299	hr		0.0				negative value set to zero	nmol/l	nmol/l	dimensionless

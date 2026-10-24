@@ -1,0 +1,9 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Ohnishi1989		healthy	7.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_healthy	0.5	hr		2.102941782860796e-06	0.442683635302199	2.2020575232131273e-06	8.322995112972541e-07		mole/meter^3	ng/ml	dimensionless
+Ohnishi1989		healthy	7.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_healthy	1.0	hr		2.692878375798545e-05	4.87336256421875	3.423784584208608e-05	1.2940689360675226e-05		mole/meter^3	ng/ml	dimensionless
+Ohnishi1989		healthy	7.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_healthy	2.0	hr		0.00010825662996947017	25.7167452953922	9.112344306025915e-05	3.444142413505731e-05		mole/meter^3	ng/ml	dimensionless
+Ohnishi1989		healthy	7.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_healthy	4.0	hr		0.00012742595349284172	35.5680407553432	6.702854552362357e-05	2.5334408885411384e-05		mole/meter^3	ng/ml	dimensionless
+Ohnishi1989		healthy	7.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_healthy	6.0	hr		8.880645749641642e-05	26.8693298890554	3.091022988643706e-05	1.1682968749621206e-05		mole/meter^3	ng/ml	dimensionless
+Ohnishi1989		healthy	7.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_healthy	8.0	hr		6.0656680745400313e-05	18.7255012753176	1.8278331711037002e-05	6.908560012649945e-06		mole/meter^3	ng/ml	dimensionless
+Ohnishi1989		healthy	7.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_healthy	12.0	hr		2.5842839973185473e-05	8.30615762918262	5.2955671851579645e-06	2.0015362604231883e-06		mole/meter^3	ng/ml	dimensionless
+Ohnishi1989		healthy	7.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_healthy	24.0	hr		5.994868664239556e-06	1.88841343330655	1.520047303552709e-06	5.745238780363962e-07		mole/meter^3	ng/ml	dimensionless

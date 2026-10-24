@@ -1,0 +1,6 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Ishizaki1988		all	7.0	CIM400, ENA10	concentration	enalapril	serum	RIA	CIM400, ENA10_enalapril	0.0	hr		0.0					mole/meter^3	ng/ml	dimensionless
+Ishizaki1988		all	7.0	CIM400, ENA10	concentration	enalapril	serum	RIA	CIM400, ENA10_enalapril	0.5	hr		0.00011404568065047986					mole/meter^3	ng/ml	dimensionless
+Ishizaki1988		all	7.0	CIM400, ENA10	concentration	enalapril	serum	RIA	CIM400, ENA10_enalapril	1.0	hr		0.00018632822571187235					mole/meter^3	ng/ml	dimensionless
+Ishizaki1988		all	7.0	CIM400, ENA10	concentration	enalapril	serum	RIA	CIM400, ENA10_enalapril	2.0	hr		9.215850165478724e-05					mole/meter^3	ng/ml	dimensionless
+Ishizaki1988		all	7.0	CIM400, ENA10	concentration	enalapril	serum	RIA	CIM400, ENA10_enalapril	4.0	hr		1.7979363165967373e-05					mole/meter^3	ng/ml	dimensionless

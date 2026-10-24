@@ -1,0 +1,9 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Swanson1984	NA	fasting	11.0	ENA40	recovery	enalaprilat	urine	RIA	enalaprilat_urine_recovery_fasting	0.0	hr	NA	0.0	NA	NA	NA	percent	NA
+Swanson1984	NA	fasting	11.0	ENA40	recovery	enalaprilat	urine	RIA	enalaprilat_urine_recovery_fasting	48.0	hr	NA	30.5	NA	7.5	2.1650635094611	percent	NA
+Swanson1984	NA	fasting	11.0	ENA40	recovery	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_urine_recovery_fasting	0.0	hr	NA	0.0	NA	NA	NA	percent	NA
+Swanson1984	NA	fasting	11.0	ENA40	recovery	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_urine_recovery_fasting	48.0	hr	NA	53.1	NA	10.1	2.91561885940761	percent	NA
+Swanson1984	NA	fed	11.0	ENA40	recovery	enalaprilat	urine	RIA	enalaprilat_urine_recovery_fed	0.0	hr	NA	0.0	NA	NA	NA	percent	NA
+Swanson1984	NA	fed	11.0	ENA40	recovery	enalaprilat	urine	RIA	enalaprilat_urine_recovery_fed	48.0	hr	NA	31.6	NA	8.8	2.54034118443435	percent	NA
+Swanson1984	NA	fed	11.0	ENA40	recovery	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_urine_recovery_fed	0.0	hr	NA	0.0	NA	NA	NA	percent	NA
+Swanson1984	NA	fed	11.0	ENA40	recovery	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_urine_recovery_fed	48.0	hr	NA	57.6	NA	12.4	3.57957166897568	percent	NA

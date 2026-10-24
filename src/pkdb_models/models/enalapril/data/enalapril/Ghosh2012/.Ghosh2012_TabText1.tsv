@@ -1,0 +1,25 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Ghosh2012	NA	all	36.0	ENA20T	cmax	enalapril	plasma	LC MS/MS	NA	NA	NA	195.218	NA	60.467	10.0778333333333	ng/ml	Test
+Ghosh2012	NA	all	36.0	ENA20T	auc_end	enalapril	plasma	LC MS/MS	72.0	hr	NA	729.947	NA	1192.846	198.807666666667	ng/ml*hr	Test
+Ghosh2012	NA	all	36.0	ENA20T	auc_inf	enalapril	plasma	LC MS/MS	NA	NA	NA	2846.011	NA	9313.886	1552.31433333333	ng/ml*hr	Test
+Ghosh2012	NA	all	36.0	ENA20T	tmax	enalapril	plasma	LC MS/MS	NA	NA	NA	0.883	NA	0.311	0.0518333333333333	hr	Test
+Ghosh2012	NA	all	36.0	ENA20T	thalf	enalapril	plasma	LC MS/MS	NA	NA	NA	44.586	NA	117.683	19.6138333333333	hr	Test
+Ghosh2012	NA	all	36.0	ENA20T	 kel	enalapril	plasma	LC MS/MS	NA	NA	NA	0.547	NA	0.346	0.0576666666666667	1/hr	Test
+Ghosh2012	NA	all	36.0	ENA20R	cmax	enalapril	plasma	LC MS/MS	NA	NA	NA	188.6	NA	58.738	9.78966666666667	ng/ml	Ref
+Ghosh2012	NA	all	36.0	ENA20R	auc_end	enalapril	plasma	LC MS/MS	72.0	hr	NA	725.629	NA	1200.8	200.133333333333	ng/ml*hr	Ref
+Ghosh2012	NA	all	36.0	ENA20R	auc_inf	enalapril	plasma	LC MS/MS	NA	NA	NA	1697.745	NA	3593.657	598.942833333333	ng/ml*hr	Ref
+Ghosh2012	NA	all	36.0	ENA20R	tmax	enalapril	plasma	LC MS/MS	NA	NA	NA	0.812	NA	0.211	0.0351666666666667	hr	Ref
+Ghosh2012	NA	all	36.0	ENA20R	thalf	enalapril	plasma	LC MS/MS	NA	NA	NA	32.056	NA	93.154	15.5256666666667	hr	Ref
+Ghosh2012	NA	all	36.0	ENA20R	 kel	enalapril	plasma	LC MS/MS	NA	NA	NA	0.518	NA	0.31	0.0516666666666667	1/hr	Ref
+Ghosh2012	NA	all	36.0	ENA20T	cmax	enalaprilat	plasma	LC MS/MS	NA	NA	NA	118.87	NA	35.756	5.95933333333333	ng/ml	Test
+Ghosh2012	NA	all	36.0	ENA20T	auc_end	enalaprilat	plasma	LC MS/MS	72.0	hr	NA	1082.416	NA	320.112	53.352	ng/ml*hr	Test
+Ghosh2012	NA	all	36.0	ENA20T	auc_inf	enalaprilat	plasma	LC MS/MS	NA	NA	NA	1107.91	NA	309.037	51.5061666666667	ng/ml*hr	Test
+Ghosh2012	NA	all	36.0	ENA20T	tmax	enalaprilat	plasma	LC MS/MS	NA	NA	NA	3.833	NA	0.863	0.143833333333333	hr	Test
+Ghosh2012	NA	all	36.0	ENA20T	thalf	enalaprilat	plasma	LC MS/MS	NA	NA	NA	11.936	NA	9.806	1.63433333333333	hr	Test
+Ghosh2012	NA	all	36.0	ENA20T	 kel	enalaprilat	plasma	LC MS/MS	NA	NA	NA	0.094	NA	0.059	0.00983333333333333	1/hr	Test
+Ghosh2012	NA	all	36.0	ENA20R	cmax	enalaprilat	plasma	LC MS/MS	NA	NA	NA	113.731	NA	38.385	6.3975	ng/ml	Ref
+Ghosh2012	NA	all	36.0	ENA20R	auc_end	enalaprilat	plasma	LC MS/MS	72.0	hr	NA	1043.522	NA	320.112	53.352	ng/ml*hr	Ref
+Ghosh2012	NA	all	36.0	ENA20R	auc_inf	enalaprilat	plasma	LC MS/MS	NA	NA	NA	1096.15	NA	326.812	54.4686666666667	ng/ml*hr	Ref
+Ghosh2012	NA	all	36.0	ENA20R	tmax	enalaprilat	plasma	LC MS/MS	NA	NA	NA	3.848	NA	0.667	0.111166666666667	hr	Ref
+Ghosh2012	NA	all	36.0	ENA20R	thalf	enalaprilat	plasma	LC MS/MS	NA	NA	NA	12.073	NA	10.074	1.679	hr	Ref
+Ghosh2012	NA	all	36.0	ENA20R	 kel	enalaprilat	plasma	LC MS/MS	NA	NA	NA	0.088	NA	0.046	0.00766666666666667	1/hr	Ref

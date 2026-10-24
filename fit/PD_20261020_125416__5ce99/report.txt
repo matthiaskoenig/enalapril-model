@@ -1,0 +1,1513 @@
+--------------------------------------------------------------------------------
+OptimizationProblem: PD
+--------------------------------------------------------------------------------
+Experiments
+	*** FitMappingCollection ***
+experiment: Arafat2005
+mappings: ['fm_arafat2005_blood_pressure_systolic_REN10', 'fm_arafat2005_blood_pressure_diastolic_REN10']
+weights: [24.0, 24.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Arafat2005
+mappings: ['fm_arafat2005_enalapril_REN10', 'fm_arafat2005_enalapril_ENA10', 'fm_arafat2005_enalaprilat_REN10', 'fm_arafat2005_enalaprilat_ENA10', 'fm_arafat2005_blood_pressure_systolic_ENA10', 'fm_arafat2005_blood_pressure_diastolic_ENA10']
+weights: [None, None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Baba1990
+mappings: ['fm_baba1990_enalapril_healthy', 'fm_baba1990_enalapril_cirrhosis', 'fm_baba1990_enalaprilat_healthy', 'fm_baba1990_enalaprilat_cirrhosis']
+weights: [None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Biollaz1982
+mappings: ['fm_biollaz1982_ACE_inhibition']
+weights: [12.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Biollaz1982
+mappings: ['fm_biollaz1982_enalapril', 'fm_biollaz1982_enalaprilat']
+weights: [None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Burckhardt2015
+mappings: ['fm_burckhardt2015_renin', 'fm_burckhardt2015_angiotensin_I', 'fm_burckhardt2015_angiotensin_II']
+weights: [9.0, 9.0, 9.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Burckhardt2015
+mappings: ['fm_burckhardt2015_enalapril', 'fm_burckhardt2015_enalaprilat', 'fm_burckhardt2015_cumulative_amount_enalapril', 'fm_burckhardt2015_cumulative_amount_enalaprilat', 'fm_burckhardt2015_renin_activity']
+weights: [None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Dayyih2017
+mappings: ['fm_dayyih2017_enalapril_REF20', 'fm_dayyih2017_enalapril_TEST20', 'fm_dayyih2017_enalaprilat_REF20', 'fm_dayyih2017_enalaprilat_TEST20']
+weights: [None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Dickstein1987
+mappings: ['fm_dickstein1987_ENAPO10_normal_enalapril', 'fm_dickstein1987_ENAPO10_CHF_enalapril', 'fm_dickstein1987_ENAPO10_normal_enalaprilat', 'fm_dickstein1987_ENAPO10_CHF_enalaprilat', 'fm_dickstein1987_ENAIV5_normal_enalaprilat', 'fm_dickstein1987_ENAIV5_CHF_enalaprilat', 'fm_dickstein1987_EATIV5_normal_enalaprilat', 'fm_dickstein1987_EATIV5_CHF_enalaprilat', 'fm_dickstein1987_ENAPO10_CHF_urine_enalaprilat', 'fm_dickstein1987_ENAIV5_CHF_urine_enalaprilat', 'fm_dickstein1987_EATIV5_CHF_urine_enalaprilat', 'fm_dickstein1987_ENAPO10_CHF_urine_enalapril_enalaprilat', 'fm_dickstein1987_ENAIV5_CHF_urine_enalapril_enalaprilat']
+weights: [None, None, None, None, None, None, None, None, None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Dickstein1987a
+mappings: ['fm_dickstein1987a_ENAPO10_CHF_MAP_change', 'fm_dickstein1987a_ENAIV5_CHF_MAP_change', 'fm_dickstein1987a_EATIV5_CHF_MAP_change']
+weights: [12.0, 12.0, 11.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Donnelly1990
+mappings: ['fm_ENAs20_blood_pressure_systolic', 'fm_ENAs20_blood_pressure_diastolic', 'fm_ENAs20_relative_ACE_activity', 'fm_ENAm20_blood_pressure_systolic', 'fm_ENAm20_blood_pressure_diastolic', 'fm_ENAm20_relative_ACE_activity']
+weights: [13.0, 13.0, 13.0, 13.0, 13.0, 13.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Donnelly1990
+mappings: ['fm_PLAC_blood_pressure_systolic', 'fm_PLAC_blood_pressure_diastolic', 'fm_PLAC_relative_ACE_activity', 'fm_ENAs20_P3_blood_pressure_systolic__change_', 'fm_ENAs20_P3_relative_ACE_activity']
+weights: [13.0, 13.0, 13.0, 1.0, 1.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Donnelly1990
+mappings: ['fm_ENAs20_P3_enalaprilat']
+weights: [None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Fruncillo1987
+mappings: ['fm_ENA5m1_enalapril', 'fm_ENA5m1_enalaprilat', 'fm_ENA5s1_urine_enalapril', 'fm_ENA5s1_urine_enalaprilat', 'fm_ENA5m2_enalapril', 'fm_ENA5m2_enalaprilat', 'fm_ENA5s2_urine_enalapril', 'fm_ENA5s2_urine_enalaprilat', 'fm_ENA5m3_enalapril', 'fm_ENA5m3_enalaprilat', 'fm_ENA5s3_urine_enalapril', 'fm_ENA5s3_urine_enalaprilat', 'fm_ENA5m4_enalapril', 'fm_ENA5m4_enalaprilat']
+weights: [None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Ghosh2012
+mappings: ['fm_ghosh2012_enamal20_enalapril_Test', 'fm_ghosh2012_enamal20_enalapril_Ref', 'fm_ghosh2012_enamal20_enalapril_late_Test', 'fm_ghosh2012_enamal20_enalapril_late_Ref', 'fm_ghosh2012_enamal20_enalaprilat_Test', 'fm_ghosh2012_enamal20_enalaprilat_Ref']
+weights: [None, None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Gu2004
+mappings: ['fm_ena10_enalapril', 'fm_ena10_enalaprilat']
+weights: [None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: He2014
+mappings: ['fm_po_ENA40_enalapril', 'fm_po_ENA40_enalaprilat']
+weights: [None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Her2021
+mappings: ['fm_po_ENA10m_control_blood_pressure_systolic', 'fm_po_ENA10m_G143E_blood_pressure_systolic']
+weights: [15.0, 6.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Her2021
+mappings: ['fm_po_ENA10m_control_enalapril', 'fm_po_ENA10m_control_enalaprilat', 'fm_po_ENA10m_G143E_enalapril', 'fm_po_ENA10m_G143E_enalaprilat']
+weights: [None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Hockings1986
+mappings: ['fm_EATIV10_young_enalaprilat', 'fm_EATIV10_elder_enalaprilat', 'fm_ENAPO10_young_enalaprilat', 'fm_ENAPO10_elder_enalaprilat']
+weights: [None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Howes1991
+mappings: ['fm_howes1991_po_ENA10_SBP_change_supine', 'fm_howes1991_po_ENA10_DBP_change_supine', 'fm_howes1991_po_ENA10_HCTZ25_multi_SBP_change_supine', 'fm_howes1991_po_ENA10_HCTZ25_multi_DBP_change_supine', 'fm_howes1991_po_ENA10_HCTZ25_combi_SBP_change_supine', 'fm_howes1991_po_ENA10_HCTZ25_combi_DBP_change_supine']
+weights: [12.0, 12.0, 12.0, 12.0, 12.0, 12.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Howes1991
+mappings: ['fm_howes1991_po_ENA10_enalaprilat', 'fm_howes1991_po_ENA10_enalaprilat_urine', 'fm_howes1991_po_ENA10_HCTZ25_multi_enalaprilat', 'fm_howes1991_po_ENA10_HCTZ25_multi_enalaprilat_urine', 'fm_howes1991_po_ENA10_HCTZ25_combi_enalaprilat', 'fm_howes1991_po_ENA10_HCTZ25_combi_enalaprilat_urine']
+weights: [None, None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Ishizaki1988
+mappings: ['fm_ishizaki1988_po_ENA10_ACE_inhibition']
+weights: [7.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Ishizaki1988
+mappings: ['fm_ishizaki1988_po_ENA10_blood_pressure_systolic', 'fm_ishizaki1988_po_ENA10_blood_pressure_diastolic', 'fm_ishizaki1988_po_ENA10_heart_rate', 'fm_ishizaki1988_po_CIM400_ENA10_blood_pressure_systolic', 'fm_ishizaki1988_po_CIM400_ENA10_blood_pressure_diastolic', 'fm_ishizaki1988_po_CIM400_ENA10_heart_rate', 'fm_ishizaki1988_po_CIM400_ENA10_ACE_inhibition']
+weights: [7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Ishizaki1988
+mappings: ['fm_ishizaki1988_po_ENA10_enalapril', 'fm_ishizaki1988_po_ENA10_enalaprilat', 'fm_ishizaki1988_po_ENA10_recovery_enalapril', 'fm_ishizaki1988_po_ENA10_recovery_enalaprilat', 'fm_ishizaki1988_po_CIM400_ENA10_enalapril', 'fm_ishizaki1988_po_CIM400_ENA10_enalaprilat', 'fm_ishizaki1988_po_CIM400_ENA10_recovery_enalapril', 'fm_ishizaki1988_po_CIM400_ENA10_recovery_enalaprilat']
+weights: [None, None, None, None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Johnston1992
+mappings: ['fm_johnston1992_po_ENAs_enalapril', 'fm_johnston1992_po_ENAm_enalapril', 'fm_johnston1992_po_ENAs_enalaprilat', 'fm_johnston1992_po_ENAm_enalaprilat', 'fm_johnston1992_po_ENAs_recovery_enalapril', 'fm_johnston1992_po_ENAm_recovery_enalapril', 'fm_johnston1992_po_ENAs_recovery_enalaprilat', 'fm_johnston1992_po_ENAm_recovery_enalaprilat']
+weights: [None, None, None, None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Kelly1986
+mappings: ['fm_kelly1986_po_ENA10_S1_enalaprilat', 'fm_kelly1986_po_ENA10_S1_enalaprilat_urine', 'fm_kelly1986_po_ENA10_S2_enalaprilat', 'fm_kelly1986_po_ENA10_S2_enalaprilat_urine', 'fm_kelly1986_po_ENA10_S3_enalaprilat', 'fm_kelly1986_po_ENA10_S3_enalaprilat_urine', 'fm_kelly1986_po_ENA10_S4_enalaprilat', 'fm_kelly1986_po_ENA10_S4_enalaprilat_urine', 'fm_kelly1986_po_ENA10_M1_enalaprilat', 'fm_kelly1986_po_ENA2p5_M2_enalaprilat']
+weights: [None, None, None, None, None, None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Lee2003
+mappings: ['fm_lee2003_po_ENA20_enalapril', 'fm_lee2003_po_ENA20_enalaprilat']
+weights: [None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Lees1987a
+mappings: ['fm_lees1987a_po_ENA10_young_day1_ACE_inhibition']
+weights: [6.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Lees1987a
+mappings: ['fm_lees1987a_po_ENA10_young_day8_ACE_inhibition', 'fm_lees1987a_po_ENA10_young_day1_blood_pressure_systolic', 'fm_lees1987a_po_ENA10_young_day8_blood_pressure_systolic', 'fm_lees1987a_po_ENA10_young_day1_blood_pressure_diastolic', 'fm_lees1987a_po_ENA10_young_day8_blood_pressure_diastolic', 'fm_lees1987a_po_ENA10_young_day1_heart_rate', 'fm_lees1987a_po_ENA10_young_day8_heart_rate', 'fm_lees1987a_po_ENA10_elder_day1_ACE_inhibition', 'fm_lees1987a_po_ENA10_elder_day8_ACE_inhibition', 'fm_lees1987a_po_ENA10_elder_day1_blood_pressure_systolic', 'fm_lees1987a_po_ENA10_elder_day8_blood_pressure_systolic', 'fm_lees1987a_po_ENA10_elder_day1_blood_pressure_diastolic', 'fm_lees1987a_po_ENA10_elder_day8_blood_pressure_diastolic', 'fm_lees1987a_po_ENA10_elder_day1_heart_rate', 'fm_lees1987a_po_ENA10_elder_day8_heart_rate']
+weights: [6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Lees1987a
+mappings: ['fm_lees1987a_po_ENA10_young_day1_enalaprilat', 'fm_lees1987a_po_ENA10_young_day8_enalaprilat', 'fm_lees1987a_po_ENA10_elder_day1_enalaprilat', 'fm_lees1987a_po_ENA10_elder_day8_enalaprilat']
+weights: [None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Lowenthal1985
+mappings: ['fm_lowenthal1985_po_ENA10_III_DBP', 'fm_lowenthal1985_po_ENA10_II_DBP', 'fm_lowenthal1985_po_ENA10_I_without_dialysis_DBP', 'fm_lowenthal1985_po_ENA10_I_with_dialysis_DBP']
+weights: [9.0, 7.0, 9.0, 9.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Lowenthal1985
+mappings: ['fm_lowenthal1985_po_ENA10_III_enalaprilat', 'fm_lowenthal1985_po_ENA10_III_enalaprilat_urine', 'fm_lowenthal1985_po_ENA10_III_enalapril_enalaprilat_urine', 'fm_lowenthal1985_po_ENA10_II_enalaprilat', 'fm_lowenthal1985_po_ENA10_II_enalaprilat_urine', 'fm_lowenthal1985_po_ENA10_II_enalapril_enalaprilat_urine', 'fm_lowenthal1985_po_ENA10_I_enalaprilat', 'fm_lowenthal1985_po_ENA10_I_DBP']
+weights: [None, None, None, None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Lu2009
+mappings: ['fm_lu2009_po_ENA10_enalapril', 'fm_lu2009_po_ENA10_enalaprilat']
+weights: [None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: MacDonald1993
+mappings: ['fm_macdonald1993_po_ENA10_young_ACE_inhibition']
+weights: [9.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: MacDonald1993
+mappings: ['fm_macdonald1993_po_ENA10_elder_ACE_inhibition']
+weights: [9.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: MacDonald1993
+mappings: ['fm_macdonald1993_po_ENA10_young_enalaprilat', 'fm_macdonald1993_po_ENA10_elder_enalaprilat']
+weights: [None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Marzo2002
+mappings: ['fm_marzo2002_ENA10_relative_ACE_activity', 'fm_marzo2002_ENA20_relative_ACE_activity']
+weights: [10.0, 10.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Marzo2002
+mappings: ['fm_marzo2002_ENA10_blood_pressure_systolic', 'fm_marzo2002_ENA10_blood_pressure_diastolic', 'fm_marzo2002_ENA10_heart_rate', 'fm_marzo2002_ENA20_blood_pressure_systolic', 'fm_marzo2002_ENA20_blood_pressure_diastolic', 'fm_marzo2002_ENA20_heart_rate']
+weights: [10.0, 10.0, 10.0, 10.0, 10.0, 10.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Marzo2002
+mappings: ['fm_marzo2002_ENA10_enalapril', 'fm_marzo2002_ENA10_enalaprilat', 'fm_marzo2002_ENA20_enalapril', 'fm_marzo2002_ENA20_enalaprilat']
+weights: [None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Matalka2002
+mappings: ['fm_matalka2002_po_ENA10_blood_pressure_systolic', 'fm_matalka2002_po_ENA10_blood_pressure_diastolic', 'fm_matalka2002_po_ENA20_blood_pressure_systolic', 'fm_matalka2002_po_ENA20_blood_pressure_diastolic']
+weights: [48.0, 48.0, 48.0, 48.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Matalka2002
+mappings: ['fm_matalka2002_po_ENA10_enalapril', 'fm_matalka2002_po_ENA10_enalaprilat', 'fm_matalka2002_po_ENA20_enalapril', 'fm_matalka2002_po_ENA20_enalaprilat']
+weights: [None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Moffett2014
+mappings: ['fm_moffett2014_ENAfast10_enalapril', 'fm_moffett2014_ENAfast10_enalaprilat', 'fm_moffett2014_VAS10_enalapril', 'fm_moffett2014_VAS10_enalaprilat', 'fm_moffett2014_ENAfed10_enalapril', 'fm_moffett2014_ENAfed10_enalaprilat']
+weights: [None, None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Mujais1992
+mappings: ['fm_mujais1992_EATB_EATINF_enalaprilat']
+weights: [None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Najib2003a
+mappings: ['fm_najib2003a_po_ENA20_enalapril_NAR20', 'fm_najib2003a_po_ENA20_enalapril_REN20', 'fm_najib2003a_po_ENA20_enalaprilat_NAR20', 'fm_najib2003a_po_ENA20_enalaprilat_REN20']
+weights: [None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Niopas2004
+mappings: ['fm_ena20_enalaprilat_ENA20', 'fm_ena20_enalaprilat_REF20']
+weights: [None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Oguchi1993
+mappings: ['fm_po_ENA5_1_ACE_inhibition', 'fm_po_ENA5_2_ACE_inhibition', 'fm_po_ENA5_3_ACE_inhibition']
+weights: [6.0, 6.0, 6.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Oguchi1993
+mappings: ['fm_po_ENA5_1_enalapril', 'fm_po_ENA5_1_enalaprilat', 'fm_po_ENA5_1_recovery_enalapril', 'fm_po_ENA5_1_recovery_enalaprilat', 'fm_po_ENA5_2_enalapril', 'fm_po_ENA5_2_enalaprilat', 'fm_po_ENA5_2_recovery_enalapril', 'fm_po_ENA5_2_recovery_enalaprilat', 'fm_po_ENA5_3_enalapril', 'fm_po_ENA5_3_enalaprilat', 'fm_po_ENA5_3_recovery_enalapril', 'fm_po_ENA5_3_recovery_enalaprilat']
+weights: [None, None, None, None, None, None, None, None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Ohnishi1989
+mappings: ['fm_ena10_blood_pressure_systolic_healthy', 'fm_ena10_blood_pressure_diastolic_healthy']
+weights: [7.0, 7.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Ohnishi1989
+mappings: ['fm_ena10_blood_pressure_systolic_cirrhosis', 'fm_ena10_blood_pressure_diastolic_cirrhosis']
+weights: [7.0, 7.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Ohnishi1989
+mappings: ['fm_ENA10_enalapril_healthy', 'fm_ENA10_enalaprilat_healthy', 'fm_enalapril_recovery_healthy', 'fm_enalaprilat_recovery_healthy', 'fm_enalapril_enalaprilat_recovery_healthy', 'fm_ENA10_enalapril_cirrhosis', 'fm_ENA10_enalaprilat_cirrhosis', 'fm_enalapril_recovery_cirrhosis', 'fm_enalaprilat_recovery_cirrhosis', 'fm_enalapril_enalaprilat_recovery_cirrhosis']
+weights: [None, None, None, None, None, None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Portoles2004
+mappings: ['fm_ena20_ENA20_blood_pressure_systolic', 'fm_ena20_REN20_blood_pressure_systolic', 'fm_ena20_ENA20_blood_pressure_diastolic', 'fm_ena20_REN20_blood_pressure_diastolic']
+weights: [23.0, 23.0, 23.0, 23.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Portoles2004
+mappings: ['fm_ena20_ENA20_enalapril', 'fm_ena20_REN20_enalapril', 'fm_ena20_ENA20_enalaprilat', 'fm_ena20_REN20_enalaprilat']
+weights: [None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Ribeiro1996
+mappings: ['fm_ena20_ACE_inhibition_EUP20', 'fm_ena20_ACE_inhibition_REN20']
+weights: [18.0, 18.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Ribeiro1996
+mappings: ['fm_ena20_enalaprilat_EUP20', 'fm_ena20_enalaprilat_REN20', 'fm_ena20_enalapril_enalaprilat_EUP20', 'fm_ena20_enalapril_enalaprilat_REN20']
+weights: [None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Schwartz1985
+mappings: ['fm_ENA5_CHF_MAP_supine', 'fm_placebo20_HT_MAP_supine', 'fm_placebo20_HT_relative_ACE_activity', 'fm_placebo20_HT_PRA_ratio', 'fm_placebo20_HT_aldosterone_ratio', 'fm_ENA20_HT_MAP_supine', 'fm_ENA20_HT_blood_pressure_systolic_supine', 'fm_ENA20_HT_blood_pressure_diastolic_supine', 'fm_ENA20_HT_relative_ACE_activity', 'fm_ENA20_HT_PRA_ratio', 'fm_ENA20_HT_aldosterone_ratio', 'fm_placebo40_HT_MAP_supine', 'fm_placebo40_HT_relative_ACE_activity', 'fm_placebo40_HT_PRA_ratio', 'fm_placebo40_HT_aldosterone_ratio', 'fm_ENA40_HT_MAP_supine', 'fm_ENA40_HT_blood_pressure_systolic_supine', 'fm_ENA40_HT_blood_pressure_diastolic_supine', 'fm_ENA40_HT_relative_ACE_activity', 'fm_ENA40_HT_PRA_ratio', 'fm_ENA40_HT_aldosterone_ratio']
+weights: [8.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 4.0, 5.0, 5.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Schwartz1985
+mappings: ['fm_ENA2p5_CHF_enalapril', 'fm_ENA2p5_CHF_enalaprilat', 'fm_ENA5_CHF_enalapril', 'fm_ENA5_CHF_enalaprilat', 'fm_ENA10_CHF_enalapril', 'fm_ENA10_CHF_enalaprilat', 'fm_ENA5_CHF_enalapril_mean', 'fm_ENA5_CHF_enalaprilat_mean', 'fm_Fig3_ENA20_HT_enalapril', 'fm_Fig3_ENA20_HT_enalaprilat', 'fm_Fig3_ENA40_HT_enalapril', 'fm_Fig3_ENA40_HT_enalaprilat', 'fm_Fig6_ENA40_HT_enalapril', 'fm_Fig6_ENA40_HT_enalaprilat']
+weights: [None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Shionoiri1985
+mappings: ['fm_ENA10_blood_pressure_systolic', 'fm_ENA10_blood_pressure_diastolic', 'fm_ENA10_relative_ACE_activity', 'fm_ENA10_PRA_ratio', 'fm_ENA10_angiotensin_II_ratio']
+weights: [13.0, 13.0, 13.0, 13.0, 13.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Shionoiri1985
+mappings: ['fm_ENA10_enalapril', 'fm_ENA10_enalaprilat', 'fm_ENA10_MAP']
+weights: [None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Shioya1992
+mappings: ['fm_ENA5_enalapril', 'fm_ENA5_urine_enalapril', 'fm_ENA5_enalaprilat', 'fm_ENA5_urine_enalaprilat']
+weights: [None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Stage2017
+mappings: ['fm_po_ENA10control_enalapril', 'fm_po_ENA10control_enalaprilat', 'fm_po_ENA10copies4_enalapril', 'fm_po_ENA10copies4_enalaprilat', 'fm_po_ENA10copies_normal3_enalapril', 'fm_po_ENA10copies_normal3_enalaprilat', 'fm_po_ENA10copies_active3_enalapril', 'fm_po_ENA10copies_active3_enalaprilat', 'fm_po_ENA10G143E_enalapril', 'fm_po_ENA10G143E_enalaprilat', 'fm_po_ENA10CES1A1c_enalapril', 'fm_po_ENA10CES1A1c_enalaprilat']
+weights: [None, None, None, None, None, None, None, None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Sunaga1995
+mappings: ['fm_ENA5_day_blood_pressure_systolic', 'fm_ENA5_day_blood_pressure_diastolic']
+weights: [12.0, 12.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Sunaga1995
+mappings: ['fm_PLACEBO_day_blood_pressure_systolic', 'fm_PLACEBO_day_blood_pressure_diastolic', 'fm_PLACEBO_night_blood_pressure_systolic', 'fm_ENA5_night_blood_pressure_systolic', 'fm_PLACEBO_night_blood_pressure_diastolic', 'fm_ENA5_night_blood_pressure_diastolic']
+weights: [12.0, 12.0, 12.0, 12.0, 12.0, 12.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Sunaga1995
+mappings: ['fm_ENA5_day_enalaprilat', 'fm_ENA5_day_enalapril_enalaprilat', 'fm_ENA5_night_enalaprilat', 'fm_ENA5_night_enalapril_enalaprilat']
+weights: [None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Swanson1984
+mappings: ['fm_ENA40_fasting_enalaprilat', 'fm_ENA40_fasting_urine_enalaprilat', 'fm_ENA40_fasting_urine_enalapril_enalaprilat', 'fm_ENA40_fed_enalaprilat', 'fm_ENA40_fed_urine_enalaprilat', 'fm_ENA40_fed_urine_enalapril_enalaprilat']
+weights: [None, None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Tarkiainen2015
+mappings: ['fm_ENA10_enalapril_control', 'fm_ENA10_urine_enalapril_control', 'fm_ENA10_enalaprilat_control', 'fm_ENA10_urine_enalaprilat_control', 'fm_ENA10_enalapril_G143E', 'fm_ENA10_urine_enalapril_G143E', 'fm_ENA10_enalaprilat_G143E', 'fm_ENA10_urine_enalaprilat_G143E']
+weights: [None, None, None, None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Thongnopnua2005
+mappings: ['fm_thongnopnua2005_ENA5_enalaprilat']
+weights: [None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Till1984
+mappings: ['fm_ENA10m_day1_enalaprilat', 'fm_ENA10m_trough_enalaprilat', 'fm_ENA10m_dose8_enalaprilat']
+weights: [None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Tsuruoka2007
+mappings: ['fm_tsuruoka2007_enamal2p5_blood_pressure_systolic', 'fm_tsuruoka2007_enamal2p5_blood_pressure_diastolic']
+weights: [6.0, 6.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Tsuruoka2007
+mappings: ['fm_tsuruoka2007_enamal2p5_arterial_blood_enalaprilat', 'fm_tsuruoka2007_enamal2p5_plasma_enalaprilat']
+weights: [None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Ulm1982
+mappings: ['fm_ulm1982_enamal9p8_enalapril', 'fm_ulm1982_enamal9p8_enalaprilat', 'fm_ulm1982_enamal9p8_enalapril_urine', 'fm_ulm1982_enamal9p8_enalaprilat_urine', 'fm_ulm1982_enamal9p8_enalapril_enalaprilat_urine', 'fm_ulm1982_enamal9p8_enalapril_enalaprilat_feces']
+weights: [None, None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: VanHecken2020
+mappings: ['fm_vanhecken2020_REN10_enalapril', 'fm_vanhecken2020_REN10_enalaprilat', 'fm_vanhecken2020_ENAw10_enalapril', 'fm_vanhecken2020_ENAw10_enalaprilat', 'fm_vanhecken2020_ENA10_enalapril', 'fm_vanhecken2020_ENA10_enalaprilat']
+weights: [None, None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Wade1992
+mappings: ['fm_wade1992_ENA10_relative_ACE_activity']
+weights: [8.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Wade1992
+mappings: ['fm_wade1992_ENA10_enalaprilat', 'fm_wade1992_ENA10_ACE_inhibition']
+weights: [None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Weisser1991
+mappings: ['fm_weisser1991_po_ENA10_enalapril_morning', 'fm_weisser1991_po_ENA10_enalaprilat_morning', 'fm_weisser1991_po_ENA10_enalapril_evening', 'fm_weisser1991_po_ENA10_enalaprilat_evening']
+weights: [None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Weisser1992
+mappings: ['fm_weisser1992_ENA10_relative_ACE_activity', 'fm_weisser1992_ENA10_HCTZ25_relative_ACE_activity']
+weights: [19.0, 19.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Weisser1992
+mappings: ['fm_weisser1992_ENA10_enalapril', 'fm_weisser1992_ENA10_enalaprilat', 'fm_weisser1992_ENA10_cumulative_amount_enalapril', 'fm_weisser1992_ENA10_cumulative_amount_enalaprilat', 'fm_weisser1992_ENA10_HCTZ25_enalapril', 'fm_weisser1992_ENA10_HCTZ25_enalaprilat', 'fm_weisser1992_ENA10_HCTZ25_cumulative_amount_enalapril', 'fm_weisser1992_ENA10_HCTZ25_cumulative_amount_enalaprilat']
+weights: [None, None, None, None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Witte1993
+mappings: ['fm_witte1993_morning_ENAs10_blood_pressure_systolic', 'fm_witte1993_morning_ENAs10_blood_pressure_diastolic', 'fm_witte1993_morning_ENAs10_relative_ACE_activity', 'fm_witte1993_morning_ENAm10_blood_pressure_systolic', 'fm_witte1993_morning_ENAm10_blood_pressure_diastolic', 'fm_witte1993_morning_ENAm10_relative_ACE_activity']
+weights: [8.0, 8.0, 8.0, 8.0, 8.0, 8.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Witte1993
+mappings: ['fm_witte1993_morning_ENAs10_enalapril', 'fm_witte1993_morning_ENAs10_enalaprilat', 'fm_witte1993_night_ENAs10_enalapril', 'fm_witte1993_night_ENAs10_enalaprilat', 'fm_witte1993_night_ENAs10_blood_pressure_systolic', 'fm_witte1993_night_ENAs10_blood_pressure_diastolic', 'fm_witte1993_night_ENAs10_relative_ACE_activity', 'fm_witte1993_morning_ENAm10_enalapril', 'fm_witte1993_morning_ENAm10_enalaprilat', 'fm_witte1993_night_ENAm10_enalapril', 'fm_witte1993_night_ENAm10_enalaprilat', 'fm_witte1993_night_ENAm10_blood_pressure_systolic', 'fm_witte1993_night_ENAm10_blood_pressure_diastolic', 'fm_witte1993_night_ENAm10_relative_ACE_activity']
+weights: [None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+Parameters
+	FitParameter<ANG1ANG2_EC50_eat = 8.6e-06 [1e-07 - 0.0001]>
+	FitParameter<RENSEC_ang2_E = 24.0 [0.1 - 50]>
+	FitParameter<RENSEC_ang2_t = 78.0 [1.0 - 600.0]>
+	FitParameter<BP_ang2_fe = 0.13 [0.01 - 1]>
+FitSettings:
+	residual: NORMALIZED
+	parameter_scale: LOG10
+	loss_function: LINEAR
+	weighting_curves: ['MAPPING', 'POINTS']
+	weighting_points: ERROR_WEIGHTING
+	variable_step_size: True
+	relative_tolerance: 1e-06
+	absolute_tolerance: {'amount': 1e-12, 'concentration': 1e-12, 'other': 1e-06, 'ids': {'ace': 1e-14, 'ald': 1e-14, 'ang1': 1e-14, 'ang2': 1e-14, 'ang2_feedback': 1e-14, 'ren': 1e-14}}
+	initial_time_step: 0.0
+	data_at_change: before
+Mappings: 128 (37 training, 91 validation)
+Data
+	experiment_keys: ['Arafat2005', 'Arafat2005', 'Biollaz1982', 'Burckhardt2015', 'Burckhardt2015', 'Burckhardt2015', 'Dickstein1987a', 'Dickstein1987a', 'Dickstein1987a', 'Donnelly1990', 'Donnelly1990', 'Donnelly1990', 'Donnelly1990', 'Donnelly1990', 'Donnelly1990', 'Donnelly1990', 'Donnelly1990', 'Donnelly1990', 'Donnelly1990', 'Donnelly1990', 'Her2021', 'Her2021', 'Howes1991', 'Howes1991', 'Howes1991', 'Howes1991', 'Howes1991', 'Howes1991', 'Ishizaki1988', 'Ishizaki1988', 'Ishizaki1988', 'Ishizaki1988', 'Ishizaki1988', 'Ishizaki1988', 'Ishizaki1988', 'Ishizaki1988', 'Lees1987a', 'Lees1987a', 'Lees1987a', 'Lees1987a', 'Lees1987a', 'Lees1987a', 'Lees1987a', 'Lees1987a', 'Lees1987a', 'Lees1987a', 'Lees1987a', 'Lees1987a', 'Lees1987a', 'Lees1987a', 'Lees1987a', 'Lees1987a', 'Lowenthal1985', 'Lowenthal1985', 'Lowenthal1985', 'Lowenthal1985', 'MacDonald1993', 'MacDonald1993', 'Marzo2002', 'Marzo2002', 'Marzo2002', 'Marzo2002', 'Marzo2002', 'Marzo2002', 'Marzo2002', 'Marzo2002', 'Matalka2002', 'Matalka2002', 'Matalka2002', 'Matalka2002', 'Oguchi1993', 'Oguchi1993', 'Oguchi1993', 'Ohnishi1989', 'Ohnishi1989', 'Ohnishi1989', 'Ohnishi1989', 'Portoles2004', 'Portoles2004', 'Portoles2004', 'Portoles2004', 'Ribeiro1996', 'Ribeiro1996', 'Schwartz1985', 'Schwartz1985', 'Schwartz1985', 'Schwartz1985', 'Schwartz1985', 'Schwartz1985', 'Schwartz1985', 'Schwartz1985', 'Schwartz1985', 'Schwartz1985', 'Schwartz1985', 'Schwartz1985', 'Schwartz1985', 'Schwartz1985', 'Schwartz1985', 'Schwartz1985', 'Schwartz1985', 'Schwartz1985', 'Schwartz1985', 'Schwartz1985', 'Schwartz1985', 'Shionoiri1985', 'Shionoiri1985', 'Shionoiri1985', 'Shionoiri1985', 'Shionoiri1985', 'Sunaga1995', 'Sunaga1995', 'Sunaga1995', 'Sunaga1995', 'Sunaga1995', 'Sunaga1995', 'Sunaga1995', 'Sunaga1995', 'Tsuruoka2007', 'Tsuruoka2007', 'Wade1992', 'Weisser1992', 'Weisser1992', 'Witte1993', 'Witte1993', 'Witte1993', 'Witte1993', 'Witte1993', 'Witte1993']
+	mapping_keys: ['fm_arafat2005_blood_pressure_systolic_REN10', 'fm_arafat2005_blood_pressure_diastolic_REN10', 'fm_biollaz1982_ACE_inhibition', 'fm_burckhardt2015_renin', 'fm_burckhardt2015_angiotensin_I', 'fm_burckhardt2015_angiotensin_II', 'fm_dickstein1987a_ENAPO10_CHF_MAP_change', 'fm_dickstein1987a_ENAIV5_CHF_MAP_change', 'fm_dickstein1987a_EATIV5_CHF_MAP_change', 'fm_ENAs20_blood_pressure_systolic', 'fm_ENAs20_blood_pressure_diastolic', 'fm_ENAs20_relative_ACE_activity', 'fm_ENAm20_blood_pressure_systolic', 'fm_ENAm20_blood_pressure_diastolic', 'fm_ENAm20_relative_ACE_activity', 'fm_PLAC_blood_pressure_systolic', 'fm_PLAC_blood_pressure_diastolic', 'fm_PLAC_relative_ACE_activity', 'fm_ENAs20_P3_blood_pressure_systolic__change_', 'fm_ENAs20_P3_relative_ACE_activity', 'fm_po_ENA10m_control_blood_pressure_systolic', 'fm_po_ENA10m_G143E_blood_pressure_systolic', 'fm_howes1991_po_ENA10_SBP_change_supine', 'fm_howes1991_po_ENA10_DBP_change_supine', 'fm_howes1991_po_ENA10_HCTZ25_multi_SBP_change_supine', 'fm_howes1991_po_ENA10_HCTZ25_multi_DBP_change_supine', 'fm_howes1991_po_ENA10_HCTZ25_combi_SBP_change_supine', 'fm_howes1991_po_ENA10_HCTZ25_combi_DBP_change_supine', 'fm_ishizaki1988_po_ENA10_ACE_inhibition', 'fm_ishizaki1988_po_ENA10_blood_pressure_systolic', 'fm_ishizaki1988_po_ENA10_blood_pressure_diastolic', 'fm_ishizaki1988_po_ENA10_heart_rate', 'fm_ishizaki1988_po_CIM400_ENA10_blood_pressure_systolic', 'fm_ishizaki1988_po_CIM400_ENA10_blood_pressure_diastolic', 'fm_ishizaki1988_po_CIM400_ENA10_heart_rate', 'fm_ishizaki1988_po_CIM400_ENA10_ACE_inhibition', 'fm_lees1987a_po_ENA10_young_day1_ACE_inhibition', 'fm_lees1987a_po_ENA10_young_day8_ACE_inhibition', 'fm_lees1987a_po_ENA10_young_day1_blood_pressure_systolic', 'fm_lees1987a_po_ENA10_young_day8_blood_pressure_systolic', 'fm_lees1987a_po_ENA10_young_day1_blood_pressure_diastolic', 'fm_lees1987a_po_ENA10_young_day8_blood_pressure_diastolic', 'fm_lees1987a_po_ENA10_young_day1_heart_rate', 'fm_lees1987a_po_ENA10_young_day8_heart_rate', 'fm_lees1987a_po_ENA10_elder_day1_ACE_inhibition', 'fm_lees1987a_po_ENA10_elder_day8_ACE_inhibition', 'fm_lees1987a_po_ENA10_elder_day1_blood_pressure_systolic', 'fm_lees1987a_po_ENA10_elder_day8_blood_pressure_systolic', 'fm_lees1987a_po_ENA10_elder_day1_blood_pressure_diastolic', 'fm_lees1987a_po_ENA10_elder_day8_blood_pressure_diastolic', 'fm_lees1987a_po_ENA10_elder_day1_heart_rate', 'fm_lees1987a_po_ENA10_elder_day8_heart_rate', 'fm_lowenthal1985_po_ENA10_III_DBP', 'fm_lowenthal1985_po_ENA10_II_DBP', 'fm_lowenthal1985_po_ENA10_I_without_dialysis_DBP', 'fm_lowenthal1985_po_ENA10_I_with_dialysis_DBP', 'fm_macdonald1993_po_ENA10_young_ACE_inhibition', 'fm_macdonald1993_po_ENA10_elder_ACE_inhibition', 'fm_marzo2002_ENA10_relative_ACE_activity', 'fm_marzo2002_ENA20_relative_ACE_activity', 'fm_marzo2002_ENA10_blood_pressure_systolic', 'fm_marzo2002_ENA10_blood_pressure_diastolic', 'fm_marzo2002_ENA10_heart_rate', 'fm_marzo2002_ENA20_blood_pressure_systolic', 'fm_marzo2002_ENA20_blood_pressure_diastolic', 'fm_marzo2002_ENA20_heart_rate', 'fm_matalka2002_po_ENA10_blood_pressure_systolic', 'fm_matalka2002_po_ENA10_blood_pressure_diastolic', 'fm_matalka2002_po_ENA20_blood_pressure_systolic', 'fm_matalka2002_po_ENA20_blood_pressure_diastolic', 'fm_po_ENA5_1_ACE_inhibition', 'fm_po_ENA5_2_ACE_inhibition', 'fm_po_ENA5_3_ACE_inhibition', 'fm_ena10_blood_pressure_systolic_healthy', 'fm_ena10_blood_pressure_diastolic_healthy', 'fm_ena10_blood_pressure_systolic_cirrhosis', 'fm_ena10_blood_pressure_diastolic_cirrhosis', 'fm_ena20_ENA20_blood_pressure_systolic', 'fm_ena20_REN20_blood_pressure_systolic', 'fm_ena20_ENA20_blood_pressure_diastolic', 'fm_ena20_REN20_blood_pressure_diastolic', 'fm_ena20_ACE_inhibition_EUP20', 'fm_ena20_ACE_inhibition_REN20', 'fm_ENA5_CHF_MAP_supine', 'fm_placebo20_HT_MAP_supine', 'fm_placebo20_HT_relative_ACE_activity', 'fm_placebo20_HT_PRA_ratio', 'fm_placebo20_HT_aldosterone_ratio', 'fm_ENA20_HT_MAP_supine', 'fm_ENA20_HT_blood_pressure_systolic_supine', 'fm_ENA20_HT_blood_pressure_diastolic_supine', 'fm_ENA20_HT_relative_ACE_activity', 'fm_ENA20_HT_PRA_ratio', 'fm_ENA20_HT_aldosterone_ratio', 'fm_placebo40_HT_MAP_supine', 'fm_placebo40_HT_relative_ACE_activity', 'fm_placebo40_HT_PRA_ratio', 'fm_placebo40_HT_aldosterone_ratio', 'fm_ENA40_HT_MAP_supine', 'fm_ENA40_HT_blood_pressure_systolic_supine', 'fm_ENA40_HT_blood_pressure_diastolic_supine', 'fm_ENA40_HT_relative_ACE_activity', 'fm_ENA40_HT_PRA_ratio', 'fm_ENA40_HT_aldosterone_ratio', 'fm_ENA10_blood_pressure_systolic', 'fm_ENA10_blood_pressure_diastolic', 'fm_ENA10_relative_ACE_activity', 'fm_ENA10_PRA_ratio', 'fm_ENA10_angiotensin_II_ratio', 'fm_ENA5_day_blood_pressure_systolic', 'fm_ENA5_day_blood_pressure_diastolic', 'fm_PLACEBO_day_blood_pressure_systolic', 'fm_PLACEBO_day_blood_pressure_diastolic', 'fm_PLACEBO_night_blood_pressure_systolic', 'fm_ENA5_night_blood_pressure_systolic', 'fm_PLACEBO_night_blood_pressure_diastolic', 'fm_ENA5_night_blood_pressure_diastolic', 'fm_tsuruoka2007_enamal2p5_blood_pressure_systolic', 'fm_tsuruoka2007_enamal2p5_blood_pressure_diastolic', 'fm_wade1992_ENA10_relative_ACE_activity', 'fm_weisser1992_ENA10_relative_ACE_activity', 'fm_weisser1992_ENA10_HCTZ25_relative_ACE_activity', 'fm_witte1993_morning_ENAs10_blood_pressure_systolic', 'fm_witte1993_morning_ENAs10_blood_pressure_diastolic', 'fm_witte1993_morning_ENAs10_relative_ACE_activity', 'fm_witte1993_morning_ENAm10_blood_pressure_systolic', 'fm_witte1993_morning_ENAm10_blood_pressure_diastolic', 'fm_witte1993_morning_ENAm10_relative_ACE_activity']
+	xid_observable: ['time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time']
+	yid_observable: ['SBP', 'DBP', 'ace_inhibition', 'ren_ratio', 'ang1_ratio', 'ang2_ratio', 'MAP_change', 'MAP_change', 'MAP_change', 'SBP', 'DBP', 'ace_activity', 'SBP', 'DBP', 'ace_activity', 'SBP', 'DBP', 'ace_activity', 'SBP_change', 'ace_activity', 'SBP', 'SBP', 'SBP_change', 'DBP_change', 'SBP_change', 'DBP_change', 'SBP_change', 'DBP_change', 'ace_inhibition', 'SBP', 'DBP', 'HR', 'SBP', 'DBP', 'HR', 'ace_inhibition', 'ace_inhibition', 'ace_inhibition', 'SBP', 'SBP', 'DBP', 'DBP', 'HR', 'HR', 'ace_inhibition', 'ace_inhibition', 'SBP', 'SBP', 'DBP', 'DBP', 'HR', 'HR', 'DBP', 'DBP', 'DBP', 'DBP', 'ace_inhibition', 'ace_inhibition', 'ace_activity', 'ace_activity', 'SBP', 'DBP', 'HR', 'SBP', 'DBP', 'HR', 'SBP', 'DBP', 'SBP', 'DBP', 'ace_inhibition', 'ace_inhibition', 'ace_inhibition', 'SBP', 'DBP', 'SBP', 'DBP', 'SBP', 'SBP', 'DBP', 'DBP', 'ace_inhibition', 'ace_inhibition', 'MAP', 'MAP', 'ace_activity', 'ren_ratio', 'ald_ratio', 'MAP', 'SBP', 'DBP', 'ace_activity', 'ren_ratio', 'ald_ratio', 'MAP', 'ace_activity', 'ren_ratio', 'ald_ratio', 'MAP', 'SBP', 'DBP', 'ace_activity', 'ren_ratio', 'ald_ratio', 'SBP', 'DBP', 'ace_activity', 'ren_ratio', 'ang2_ratio', 'SBP', 'DBP', 'SBP', 'DBP', 'SBP', 'SBP', 'DBP', 'DBP', 'SBP', 'DBP', 'ace_activity', 'ace_activity', 'ace_activity', 'SBP', 'DBP', 'ace_activity', 'SBP', 'DBP', 'ace_activity']
+	x_references: [array([   0.,   60.,  120.,  240.,  360.,  480.,  720., 1440.]), array([   0.,   60.,  120.,  240.,  360.,  480.,  720., 1440.]), array([   0.,   15.,   30.,   60.,   90.,  120.,  180.,  240.,  360.,
+        480.,  600., 1440., 2880., 4320.]), array([   0.,   30.,   60.,  120.,  180.,  240.,  300.,  360.,  420.,
+        480., 1440., 2880., 4320.]), array([   0.,   30.,   60.,  120.,  180.,  240.,  300.,  360.,  420.,
+        480., 1440., 2880., 4320.]), array([   0.,   30.,   60.,  120.,  180.,  240.,  300.,  360.,  420.,
+        480., 1440., 2880., 4320.]), array([  0.,  15.,  30.,  45.,  60.,  75.,  90., 105., 120., 135., 150.,
+       165., 180., 195., 210., 225., 240., 255., 270., 285., 300., 315.,
+       330., 345., 360.]), array([  0.,  15.,  30.,  45.,  60.,  75.,  90., 105., 120., 135., 150.,
+       165., 180., 195., 210., 225., 240., 255., 270., 285., 300., 315.,
+       330., 345., 360.]), array([  0.,  15.,  30.,  45.,  60.,  75.,  90., 105., 120., 135., 150.,
+       165., 180., 195., 210., 225., 240., 255., 270., 285., 300., 315.,
+       330., 345., 360.]), array([   0.,   30.,   60.,   90.,  150.,  210.,  240.,  300.,  360.,
+        420.,  480., 1440.]), array([   0.,   30.,   60.,   90.,  150.,  210.,  240.,  300.,  360.,
+        420.,  480., 1440.]), array([   0.,   60.,  120.,  180.,  240.,  300.,  360.,  420.,  480.,
+        720., 1440.]), array([10080., 10110., 10140., 10170., 10230., 10290., 10320., 10380.,
+       10440., 10500., 10560., 11520., 60480., 60510., 60540., 60570.,
+       60630., 60690., 60720., 60780., 60840., 60900., 60960., 61920.]), array([10080.        , 10110.        , 10140.        , 10170.        ,
+       10230.164023  , 10290.        , 10317.01622612, 10380.        ,
+       10440.        , 10500.        , 10560.        , 11520.        ,
+       60480.        , 60510.        , 60540.        , 60570.        ,
+       60630.        , 60690.        , 60720.        , 60780.        ,
+       60840.        , 60900.        , 60960.        , 61920.        ]), array([10080., 10140., 10200., 10260., 10320., 10380., 10440., 10500.,
+       10560., 10800., 11520., 60480., 60540., 60600., 60660., 60720.,
+       60780., 60840., 60900., 60960., 61200., 61920.]), array([   0.,   30.,   60.,   90.,  150.,  210.,  240.,  300.,  360.,
+        420.,  480., 1440.]), array([   0.,   30.,   60.,   90.,  150.,  210.,  240.,  300.,  360.,
+        420.,  480., 1440.]), array([   0.,   60.,  120.,  180.,  240.,  300.,  360.,  420.,  480.,
+        720., 1440.]), array([   0.,   30.,   60.,   90.,  150.,  210.,  240.,  300.,  360.,
+        420.,  480.,  720., 1440., 1920.]), array([   0.,   60.,  120.,  180.,  240.,  300.,  360.,  420.,  480.,
+        720., 1440., 1920.]), array([   0., 8820.]), array([   0., 8820.]), array([240.]), array([240.]), array([240.]), array([240.]), array([240.]), array([240.]), array([240.]), array([   0.,   60.,  120.,  240.,  360.,  480.,  720., 1440.]), array([   0.,   60.,  120.,  240.,  360.,  480.,  720., 1440.]), array([   0.,   60.,  120.,  240.,  360.,  480.,  720., 1440.]), array([   0.,   60.,  120.,  240.,  360.,  480.,  720., 1440.]), array([   0.,   60.,  120.,  240.,  360.,  480.,  720., 1440.]), array([   0.,   60.,  120.,  240.,  360.,  480.,  720., 1440.]), array([240.]), array([   4.31447576,   61.13423012,  128.53140892,  248.24472883,
+        367.75820537,  487.87121205,  607.98421872,  722.79423864,
+       1448.83236352]), array([10079.6905312 , 10140.87806813, 10207.29880188, 10332.67731017,
+       10446.0896914 , 10564.91380914, 10681.49626183, 10811.85801135,
+       11528.686948  ]), array([   6.1416152 ,   62.73297713,  120.46630121,  245.22566639,
+        365.68126171,  479.37786854,  600.51864114,  720.63164782,
+       1445.41361433]), array([10090.85920324, 10152.12382376, 10203.35590537, 10311.69466186,
+       10445.57910474, 10563.44384839, 10687.35203588, 10795.3530912 ,
+       11530.81699059]), array([  11.83715144,   64.01054729,  116.12684503,  251.40653654,
+        366.13090931,  486.32956314,  601.08248496,  726.44138027,
+       1451.62303354]), array([10081.43874769, 10147.78999209, 10199.21906605, 10312.10975288,
+       10435.68023921, 10559.25072553, 10667.42063143, 10785.87635212,
+       11516.42247823]), array([   0.,   60.,  120.,  240.,  360.,  480.,  600.,  720., 1440.]), array([10079.60730843, 10145.86223071, 10197.28911917, 10316.10188165,
+       10429.88819198, 10553.35042269, 10672.10035451, 10800.71469866,
+       11517.07837469]), array([   4.31447576,   61.13423012,  128.53140892,  248.24472883,
+        367.75820537,  487.87121205,  607.98421872,  722.79423864,
+       1448.83236352]), array([10086.49487732, 10140.20755239, 10212.60341457, 10312.73641011,
+       10446.51818666, 10569.33365845, 10688.51485558, 10810.9018321 ,
+       11535.59841794]), array([   5.92036004,   72.17557668,  129.10952726,  253.49775474,
+        367.13726345,  482.37551919,  602.34578059,  733.12185886,
+       1454.62782145]), array([10094.37692375, 10146.11555712, 10212.60751033, 10329.8249934 ,
+       10448.1962888 , 10561.31210975, 10684.34790256, 10813.2020051 ,
+       11543.88884003]), array([   4.31447576,   61.13423012,  128.53140892,  248.24472883,
+        367.75820537,  487.87121205,  607.98421872,  722.79423864,
+       1448.83236352]), array([10083.63380529, 10144.98285111, 10206.81030692, 10314.36109401,
+       10437.45317035, 10556.04959986, 10679.02910914, 10787.19901504,
+       11523.14132442]), array([   0.,   60.,  120.,  240.,  360.,  480.,  600.,  720., 1440.]), array([10079.60730843, 10145.86223071, 10197.28911917, 10316.10188165,
+       10429.88819198, 10553.35042269, 10672.10035451, 10800.71469866,
+       11517.07837469]), array([   0.,   30.,   60.,  120.,  180.,  240.,  360.,  480.,  720.,
+       1440., 2880.]), array([   0.,   30.,   60.,  120.,  180.,  240.,  360.,  480.,  720.,
+       1440., 2880.]), array([   0.,   30.,   60.,  120.,  180.,  240.,  360.,  480.,  720.,
+       1440., 2880.]), array([   0.,   30.,   60.,  120.,  180.,  240.,  360.,  480.,  720.,
+       1440., 2880.]), array([   0.        ,   62.73661886,   78.26714428,  102.1215844 ,
+        144.2998099 ,  195.5281977 ,  256.47713018,  494.79807058,
+        600.        ,  720.        , 1440.        , 2880.        ,
+       4320.        ]), array([   0.        ,   76.3118623 ,  101.39533681,  143.62942751,
+        185.86351821,  246.2537987 ,  316.58808468,  386.36371866,
+        496.58575696,  600.        ,  720.        , 1440.        ,
+       2880.        , 4320.        ]), array([    0.,   360.,   720.,  1440.,  2880.,  4320.,  5760.,  7200.,
+        8640.,  8760.,  8880.,  9000.,  9120.,  9360., 10080., 10440.,
+       10800., 11520.]), array([    0.,   360.,   720.,  1440.,  2880.,  4320.,  5760.,  7200.,
+        8640.,  8760.,  8880.,  9000.,  9120.,  9360., 10080., 10440.,
+       10800., 11520.]), array([    0.,  1440.,  2880.,  4320.,  5760.,  7200.,  8640.,  8700.,
+        8760.,  8880.,  9120.,  9360., 10080.]), array([    0.,  1440.,  2880.,  4320.,  5760.,  7200.,  8640.,  8700.,
+        8760.,  8880.,  9120.,  9360., 10080.]), array([    0.,  1440.,  2880.,  4320.,  5760.,  7200.,  8640.,  8700.,
+        8760.,  8880.,  9120.,  9360., 10080.]), array([    0.,  1440.,  2880.,  4320.,  5760.,  7200.,  8640.,  8700.,
+        8760.,  8880.,  9120.,  9360., 10080.]), array([    0.,  1440.,  2880.,  4320.,  5760.,  7200.,  8640.,  8700.,
+        8760.,  8880.,  9120.,  9360., 10080.]), array([    0.,  1440.,  2880.,  4320.,  5760.,  7200.,  8640.,  8700.,
+        8760.,  8880.,  9120.,  9360., 10080.]), array([   0.,   60.,  120.,  240.,  360.,  480.,  720., 1440.]), array([   0.,   60.,  120.,  240.,  360.,  480.,  720., 1440.]), array([   0.,   60.,  120.,  240.,  360.,  480.,  720., 1440.]), array([   0.,   60.,  120.,  240.,  360.,  480.,  720., 1440.]), array([   0.,  120.,  240.,  480., 1440., 2880.]), array([   0.,   30.,   60.,  120.,  240.,  480., 1440., 2880.]), array([   0.,   60.,  120.,  240.,  480., 1440., 2880.]), array([   0.,   60.,  120.,  240.,  360.,  480.,  720., 1440.]), array([   0.,   60.,  120.,  240.,  360.,  480.,  720., 1440.]), array([   0.,   60.,  120.,  180.,  240.,  360.,  480.,  720., 1440.]), array([   0.,   60.,  120.,  180.,  240.,  360.,  480.,  720., 1440.]), array([   0.,  300.,  720., 1440., 2160.]), array([   0.,  300.,  720., 1440., 2160.]), array([   0.,  300.,  720., 1440., 2160.]), array([   0.,  300.,  720., 1440., 2160.]), array([   0.,   30.,   60.,   90.,  120.,  180.,  240.,  300.,  360.,
+        480.,  600.,  720., 1080., 1440.]), array([   0.,   30.,   60.,   90.,  120.,  180.,  240.,  300.,  360.,
+        480.,  600.,  720., 1080., 1440.]), array([1440.        , 1490.76586773, 1546.48507023, 1606.57623019,
+       1672.43465319, 1743.68825773, 1792.17512635, 1851.59188862,
+       1906.61343834, 1971.05330067, 2036.30709125, 2100.32836191,
+       2166.27980528, 2885.79237853]), array([  0.,  60., 120., 180., 240., 300., 360., 420., 480., 540., 600.,
+       660., 720.]), array([  0., 240.]), array([  0., 240.]), array([  0., 240.]), array([  0.,  60., 120., 180., 240., 300., 360., 420., 480., 540., 600.,
+       660., 720.]), array([  0.,  60., 120., 180., 240., 300., 360., 420., 480., 540., 600.,
+       660., 720.]), array([  0.,  60., 120., 180., 240., 300., 360., 420., 480., 540., 600.,
+       660., 720.]), array([  0., 240., 720.]), array([  0., 240., 720.]), array([  0., 240., 720.]), array([  0.,  60., 120., 180., 240., 300., 360., 420., 480., 540., 600.,
+       660., 720.]), array([   0.,  240., 1440.]), array([   0.,  240., 1440.]), array([   0.,  240., 1440.]), array([   0.,   60.,  120.,  180.,  240.,  300.,  360.,  420.,  480.,
+        540.,  600.,  660.,  720., 1380., 1440.]), array([   0.,   60.,  120.,  180.,  240.,  300.,  360.,  420.,  480.,
+        540.,  600.,  660.,  720., 1380., 1440.]), array([   0.,   60.,  120.,  180.,  240.,  300.,  360.,  420.,  480.,
+        540.,  600.,  660.,  720., 1380., 1440.]), array([   0.,  240.,  720., 1440.]), array([   0.,  240.,  720., 1440.]), array([   0.,  240.,  720., 1440.]), array([   0.,   60.,  120.,  240.,  360.,  540., 1440.]), array([   0.,   60.,  120.,  240.,  360.,  540., 1440.]), array([   0.,   60.,  120.,  240.,  360.,  540., 1440.]), array([   0.,   60.,  120.,  240.,  360.,  540., 1440.]), array([   0.,   60.,  120.,  240.,  360.,  540., 1440.]), array([   0.,   30.,   60.,  120.,  240.,  360.,  480.,  720., 1440.]), array([   0.,   30.,   60.,  120.,  240.,  360.,  480.,  720., 1440.]), array([   0.,   30.,   60.,  120.,  240.,  360.,  480.,  720., 1440.]), array([   0.,   30.,   60.,  120.,  240.,  360.,  480.,  720., 1440.]), array([   0.,   30.,   60.,  120.,  240.,  360.,  480.,  720., 1440.]), array([   0.,   30.,   60.,  120.,  240.,  360.,  480.,  720., 1440.]), array([   0.,   30.,   60.,  120.,  240.,  360.,  480.,  720., 1440.]), array([   0.,   30.,   60.,  120.,  240.,  360.,  480.,  720., 1440.]), array([80640., 80700., 80760., 80820., 80880.]), array([80640., 80700., 80760., 80820., 80880.]), array([   0.,   30.,   60.,   90.,  120.,  180.,  240.,  300.,  360.,
+        480.,  600.,  720., 1440., 2880., 4320.]), array([   0.,   30.,   60.,  120.,  240.,  360.,  480.,  600.,  720.,
+       1440., 1920.]), array([   0.,   30.,   60.,  120.,  240.,  360.,  480.,  600.,  720.,
+       1440., 1920.]), array([   3.81199288,   61.49829465,  121.36382459,  180.59690854,
+        240.538332  ,  300.2520749 ,  358.03956803,  419.6795607 ,
+        479.16562305,  536.70013778,  598.18834342,  654.6603489 ,
+        717.18576595,  776.59593478,  835.95550793,  896.90884496,
+        957.4827144 , 1015.16901617, 1077.13788075, 1136.64924094,
+       1196.03411193, 1259.54614471, 1316.24583075, 1377.60754719,
+       1437.88145653]), array([   3.67466175,   61.08268729,  121.20119562,  180.51017309,
+        240.12272464,  300.44361568,  357.3203866 ,  419.16276198,
+        481.15692441,  538.76733266,  597.19088575,  659.26094169,
+        716.94724346,  778.91610805,  834.14490542,  896.97389654,
+        956.81412864, 1019.59252409, 1076.19101877, 1141.02215318,
+       1200.17934361, 1260.62672385, 1317.50349477, 1378.4098501 ,
+       1439.41739678]), array([   0.,  240.,  480.,  720.,  960., 1200., 1440.]), array([28818.83529734, 28892.28555769, 28951.62784324, 29003.17621266,
+       29063.40641272, 29121.41682653, 29184.08879145, 29243.03644834,
+       29298.8517402 , 29354.96300356, 29418.35023294, 29474.31351055,
+       29533.06385311, 29599.60811181, 29658.16114004, 29715.50561798,
+       29772.8994245 , 29838.03781858, 29893.31049603, 29948.97780214,
+       30013.69690326, 30075.62893944, 30133.36804604, 30188.83803782,
+       30253.33516032, 30310.95094546, 30374.97944642, 30430.84406687,
+       30490.08769526, 30553.59824609, 30613.48314607, 30672.23348863,
+       30733.47492464, 30791.73198136, 30850.72896684, 30912.80898876,
+       30972.94053165, 31028.90380926, 31092.36503152, 31151.90463141,
+       31216.05645382, 31276.58262538, 31336.27021102, 31398.64620444,
+       31458.03781858, 31516.64017539, 31574.74924637, 31632.61167443,
+       31694.76568923]), array([28831.8580433 , 28891.79227186, 28945.06714168, 29003.81748424,
+       29063.70238421, 29124.99314881, 29183.69416278, 29239.65744039,
+       29301.34283365, 29361.62236229, 29419.3368046 , 29478.77774733,
+       29537.57741847, 29600.05206906, 29659.04905454, 29716.34420389,
+       29776.03178953, 29833.22828172, 29894.96300356, 29954.3546177 ,
+       30016.82926829, 30076.83748972, 30134.87256783, 30196.55796109,
+       30249.56152371, 30314.57659633, 30379.19704028, 30438.29268293,
+       30494.40394629, 30554.33817484, 30617.75006851, 30676.94436832,
+       30735.15209646, 30799.77254042, 30859.41079748, 30918.21046862,
+       30977.2074541 , 31039.78076185, 31097.96382571, 31163.17621266,
+       31223.65305563, 31282.84735544, 31344.8287202 , 31401.63058372,
+       31463.41463415, 31522.46094821, 31579.97807619, 31640.97286928,
+       31699.99451905]), array([28800., 29040., 29280., 29520., 29760., 30000., 30240., 30960.,
+       31680.])]
+	y_references: [array([117.15328467, 114.09671533, 110.08211679, 110.03649635,
+       107.98357664, 114.09671533, 116.05839416, 117.0620438 ]), array([80.10948905, 76.02189781, 74.12408759, 71.02189781, 69.96350365,
+       76.05839416, 75.98540146, 76.02189781]), array([0.01323764, 0.00659113, 0.14559827, 0.73114842, 0.88954123,
+       0.93146967, 0.95390958, 0.95371968, 0.94373408, 0.94030796,
+       0.94015762, 0.7388473 , 0.41467931, 0.22989825]), array([ 1.        ,  0.65828034,  0.88111695,  2.00248825,  3.91401714,
+        3.90738181, 17.09925353, 15.7392867 , 10.76969865,  6.36439038,
+        3.65828034,  2.73071606,  2.93115842]), array([1.        , 1.01678499, 1.08541082, 1.22266248, 1.44637059,
+       1.44538   , 3.22431347, 3.01601453, 2.34109295, 1.8563095 ,
+       1.70095207, 1.16141104, 1.10577293]), array([1.        , 0.78947368, 0.55789474, 0.83157895, 0.87368421,
+       0.70526316, 0.77894737, 0.84210526, 0.8       , 0.70526316,
+       1.08421053, 1.44210526, 1.82105263]), array([  0.,  -2.,  -4.,  -6.,  -8., -10., -12., -14., -15., -17., -19.,
+       -20., -22., -24., -25., -25., -24., -23., -22., -22., -20., -19.,
+       -18., -17., -18.]), array([  0.,  -5.,  -7.,  -9., -11., -12., -13., -14., -15., -15., -15.,
+       -16., -18., -19., -19., -19., -18., -17., -15., -14., -13., -13.,
+       -14., -13., -13.]), array([  0., -20., -25., -26., -29., -30., -29., -27., -27., -25., -23.,
+       -23., -24., -24., -23., -22., -21., -19., -18., -18., -15., -16.,
+       -14., -13., -12.]), array([170.58991832, 158.61222061, 146.47679291, 141.59775999,
+       136.72647092, 128.54366716, 129.81569638, 125.89282512,
+       121.65286359, 126.72019433, 127.37190042, 150.63768565]), array([101.28135259, 100.2869962 ,  94.29266918,  89.20789753,
+        86.30962938,  83.32021776,  81.23495869,  80.24694476,
+        80.16684187,  80.17835225,  83.28098848,  91.23607449]), array([1.        , 0.32328866, 0.13009974, 0.10272054, 0.10412007,
+       0.12240867, 0.14068542, 0.15301735, 0.17327966, 0.22258764,
+       0.5643347 ]), array([150.24274931, 140.15740394, 136.22393583, 136.07721026,
+       135.149171  , 126.33585484, 126.50336654, 125.41963514,
+       121.17967362, 121.1996446 , 128.31787281, 143.85488841,
+       147.24628703, 139.36916154, 137.13134668, 135.1308303 ,
+       130.41727123, 124.28577251, 123.34876669, 121.16092535,
+       116.9213714 , 124.03878446, 124.21730058, 143.22437601]), array([93.19049101, 90.104768  , 88.11065239, 86.2985888 , 84.12782401,
+       82.77453151, 83.14427329, 79.61011505, 75.80323113, 80.99652927,
+       81.00827456, 92.50902919, 92.09958833, 88.92319167, 86.11042923,
+       86.11700659, 83.309647  , 82.22931507, 84.14426742, 77.97423083,
+       77.07595093, 74.9963296 , 79.0082863 , 92.14539496]), array([0.85750636, 0.24029204, 0.14156694, 0.12144243, 0.12190605,
+       0.15419626, 0.17149612, 0.17944633, 0.21734289, 0.2379396 ,
+       0.79144923, 0.81933842, 0.2705644 , 0.15702795, 0.14991449,
+       0.14278359, 0.15845762, 0.17603205, 0.20311726, 0.22076144,
+       0.28530565, 0.82833486]), array([177.37149285, 168.54880256, 168.55899183, 161.47173902,
+       165.59105952, 162.61375308, 159.46893494, 157.59655358,
+       154.460702  , 158.73938277, 161.4411712 , 169.72301472]), array([106.09950611, 102.28698446, 100.29263394,  98.38966179,
+        98.40046746,  96.22946776,  97.23533454,  93.33801187,
+        94.34881167,  95.36008128,  97.28114117, 102.2362448 ]), array([1.        , 0.97615795, 0.97659325, 0.92441967, 0.95010924,
+       0.9221293 , 0.90888521, 0.94299288, 0.86554409, 0.91885867,
+       0.97486543]), array([  0.        ,  -6.53205986, -19.7952898 , -23.03829761,
+       -38.89493824, -37.50365554, -44.52477989, -45.25526553,
+       -69.65622375, -54.78268985, -39.42133591, -30.22493233,
+       -20.69750801, -17.57521078]), array([1.        , 0.36522017, 0.15634678, 0.12588397, 0.15107019,
+       0.17050111, 0.16497066, 0.1805611 , 0.19425123, 0.30982136,
+       0.72661435, 0.8019119 ]), array([118.0115952 ,  99.32408107]), array([116.09649123, 118.02631579]), array([-20.]), array([-15.]), array([-19.]), array([-16.]), array([-16.]), array([-13.]), array([0.86112737]), array([119.79367548, 117.99170555, 118.31726283, 115.06583722,
+       118.55365474, 118.84810783, 121.56868844, 120.50285122]), array([74.11024711, 71.41973389, 67.25349922, 56.55538275, 67.13599447,
+       67.66822188, 64.88785208, 68.07948851]), array([77.27328525, 73.01979438, 78.76630351, 78.68037441, 83.32821851,
+       81.13702624, 82.0147307 , 77.80573884]), array([122.63245205, 123.66718507, 116.19180923, 117.19543805,
+       117.13530327, 115.656817  , 119.79574909, 117.66407465]), array([76.76965613, 80.58164852, 73.16329705, 60.98945913, 65.06756523,
+       71.50786245, 70.79937792, 66.30482115]), array([74.6447752 , 72.49347859, 74.55884609, 82.88783182, 80.69663956,
+       76.92649992, 79.38315176, 80.43731778]), array([0.87435812]), array([0.00110884, 0.45212072, 0.69973677, 0.79126308, 0.75456407,
+       0.77083084, 0.69515948, 0.62504765, 0.42173252]), array([0.19520753, 0.52395752, 0.81650087, 0.81940765, 0.77773461,
+       0.71378269, 0.69718235, 0.64438365, 0.34145579]), array([118.63373447, 108.66778517, 112.92878101, 107.22253888,
+       112.89849721,  99.36872392, 113.58084933, 114.98872412,
+       109.56405694]), array([114.58429826, 108.90102991, 106.41761694, 110.69912252,
+       112.84972005, 107.52911891, 113.59093308, 113.6042711 ,
+       114.05077732]), array([59.59062342, 59.58418006, 58.86638944, 54.22587952, 53.50035686,
+       55.97525253, 55.6054035 , 57.36830758, 56.9230712 ]), array([60.52020735, 54.12621288, 54.13256432, 50.94541182, 52.73905842,
+       54.53270503, 56.68012683, 58.82881893, 62.12013504]), array([66.2804878 , 62.98780488, 64.45121951, 71.03658537, 70.67073171,
+       62.25609756, 76.52439024, 72.13414634, 65.54878049]), array([62.46763022, 62.47417507, 64.31197164, 66.15631306, 73.85503136,
+       69.11328061, 71.68868285, 70.9733297 , 66.30880829]), array([0.00660159, 0.46604736, 0.69707387, 0.83024656, 0.83813508,
+       0.8237521 , 0.78708648, 0.74481681, 0.53033811]), array([0.28156509, 0.69387331, 0.78586533, 0.81938836, 0.81116121,
+       0.83634963, 0.80025321, 0.79201503, 0.43616999]), array([180.87726385, 161.30683789, 155.60897213, 145.27897283,
+       131.03785228, 136.71445494, 136.34396158, 140.59593672,
+       159.35772064]), array([159.04437702, 162.96321539, 158.34762407, 144.84636844,
+       145.92801864, 145.58631118, 140.62202582, 144.19471072,
+       149.26442998]), array([95.87062223, 88.75006196, 83.40658115, 79.83502513, 73.7737537 ,
+       75.18162849, 76.58950327, 76.9310015 , 87.15597399]), array([88.26329649, 83.64707003, 85.07741428, 79.39986222, 75.14693812,
+       79.07403336, 73.39838673, 75.54580854, 82.03888547]), array([76.52439024, 66.64634146, 67.74390244, 66.64634146, 75.79268293,
+       72.86585366, 76.15853659, 72.5       , 75.42682927]), array([73.07750205, 64.67128443, 63.58025634, 67.25388601, 72.39029179,
+       70.21085356, 73.15276793, 70.97398418, 73.62596128]), array([73.25638194, 78.14958854, 73.74173576, 75.73643109, 65.1741518 ,
+       65.89129319, 68.25583747, 69.45755487, 65.46466406, 70.77516606,
+       75.03990168]), array([104.53642487,  98.26649347,  96.88043495,  90.73689778,
+        83.43053373,  86.12525862,  87.20991553,  89.6907425 ,
+        89.18711012,  94.14876406,  90.50627693]), array([79.        , 77.33333333, 71.55555556, 65.33333333, 58.33333333,
+       59.66666667, 61.33333333, 63.33333333, 68.77777778, 69.55555556,
+       72.44444444]), array([74.66666667, 74.33333333, 73.55555556, 66.        , 66.11111111,
+       67.44444444, 70.11111111, 67.11111111, 66.55555556, 62.44444444,
+       60.44444444]), array([0.04446585, 0.13940436, 0.41593063, 0.60865264, 0.71756392,
+       0.77898331, 0.82642993, 0.74247695, 0.68932742, 0.60544556,
+       0.47370327, 0.20183243, 0.094751  ]), array([0.06121895, 0.31816654, 0.57234026, 0.6840448 , 0.79574933,
+       0.81526336, 0.83197765, 0.82075935, 0.83186127, 0.76754516,
+       0.74511503, 0.56029433, 0.18786613, 0.13665636]), array([1.    , 0.1332, 0.1638, 0.4042, 0.3747, 0.4554, 0.3967, 0.459 ,
+       0.4701, 0.0947, 0.0425, 0.0878, 0.1595, 0.2167, 0.4748, 0.549 ,
+       0.6281, 0.8156]), array([1.    , 0.1261, 0.1842, 0.3759, 0.3676, 0.368 , 0.3845, 0.4195,
+       0.4101, 0.042 , 0.0625, 0.0711, 0.1335, 0.1771, 0.4961, 0.5837,
+       0.6363, 0.7804]), array([105., 109., 111., 120., 106., 106., 103.,  99.,  96.,  97., 101.,
+       105., 106.]), array([66., 72., 69., 74., 66., 68., 72., 67., 66., 65., 69., 69., 69.]), array([67., 63., 66., 73., 73., 68., 66., 63., 65., 65., 71., 67., 68.]), array([111., 114., 113., 115., 111., 112., 105., 106., 105.,  99., 104.,
+       109., 106.]), array([73., 70., 77., 73., 66., 73., 67., 68., 67., 67., 66., 71., 65.]), array([68., 72., 71., 74., 76., 68., 67., 67., 68., 71., 75., 66., 70.]), array([116.61764706, 113.86029412, 109.77941176, 109.88970588,
+       107.79411765, 113.63970588, 115.95588235, 116.72794118]), array([79.96047431, 75.90909091, 73.63636364, 70.86956522, 69.88142292,
+       76.00790514, 75.81027668, 75.71146245]), array([115.07352941, 110.        , 104.15441176, 101.94852941,
+       104.04411765, 112.09558824, 113.97058824, 119.04411765]), array([81.04743083, 77.98418972, 72.8458498 , 66.02766798, 67.11462451,
+       73.93280632, 79.96047431, 81.93675889]), array([0.        , 0.47021882, 0.70670237, 0.71168307, 0.30596504,
+       0.20175249]), array([0.        , 0.12298919, 0.23970718, 0.57079577, 0.83789237,
+       0.87930837, 0.70685026, 0.38543961]), array([0.        , 0.12752974, 0.23552755, 0.57550357, 0.88225031,
+       0.90512383, 0.83883076]), array([119.61593844, 117.00452984, 117.35926743, 113.82839101,
+       118.98258561, 118.20598779, 121.31537896, 120.05242317]), array([75.12524562, 70.81589644, 66.7199148 , 57.06137785, 67.92399766,
+       67.57113501, 65.17346893, 67.51076212]), array([123.44455444, 122.95032174, 122.87832426, 110.94324199,
+       115.96056638, 114.76023339, 120.5515307 , 121.96598119,
+       116.67454139]), array([77.25592104, 74.64451244, 70.97226597, 66.66441675, 70.83127091,
+       66.87815926, 72.45758898, 76.20408286, 75.57073002]), array([114.04266599, 102.05173952, 110.90261246, 108.62056837,
+       112.61863132]), array([112.89756595, 101.76628011, 109.19148719, 112.0460813 ,
+       117.75526953]), array([71.79141073, 60.66012489, 65.51456608, 66.0871161 , 68.08533197]), array([67.79661017, 58.3764496 , 61.23267491, 66.65803492, 67.80150376]), array([8.18037449e-04, 3.61564157e-01, 7.40637536e-01, 8.39468925e-01,
+       8.96145424e-01, 9.24889929e-01, 9.26907262e-01, 9.19056989e-01,
+       9.19678320e-01, 8.91306215e-01, 8.47494445e-01, 8.06474679e-01,
+       6.52404613e-01, 5.51836685e-01]), array([8.18037449e-04, 4.46017319e-01, 7.54693149e-01, 8.40888825e-01,
+       8.65134657e-01, 9.00942813e-01, 9.11395904e-01, 9.02161577e-01,
+       8.85875547e-01, 8.65939200e-01, 8.30575135e-01, 7.82515615e-01,
+       6.07338233e-01, 4.78623233e-01]), array([85.23813215, 85.13038355, 81.53437103, 81.07857121, 76.78645623,
+       70.51843354, 78.08409042, 81.00027906, 80.89253046, 83.69321881,
+       82.42426591, 87.31791262, 82.56069579, 84.99782952]), array([108., 106., 108., 112., 109., 108., 109., 108., 108., 111., 109.,
+       111., 110.]), array([1.    , 1.0737]), array([1.        , 0.76923077]), array([1.        , 1.14332248]), array([111., 111., 102.,  99.,  99.,  96.,  96.,  98.,  98.,  95.,  98.,
+        99., 101.]), array([149., 143., 138., 138., 138., 129., 139., 138., 136., 132., 132.,
+       138., 140.]), array([ 99., 100.,  96.,  92.,  90.,  89.,  95.,  94.,  93.,  91.,  90.,
+        94.,  94.]), array([1.    , 0.0538, 0.0372]), array([1.        , 6.66666667, 5.11111111]), array([1.        , 0.28828829, 0.22822823]), array([111., 108., 105., 103., 105., 104., 105., 104., 107., 104., 103.,
+       103., 108.]), array([1.    , 1.187 , 1.2171]), array([1. , 0.9, 1.1]), array([1.        , 0.70588235, 1.30882353]), array([107., 109., 101.,  94.,  89.,  89.,  94., 100.,  95.,  93.,  93.,
+        93.,  95.,  92.,  95.]), array([138., 137., 130., 123., 123., 123., 124., 124., 125., 120., 119.,
+       118., 119., 121., 126.]), array([92., 96., 88., 81., 77., 77., 83., 87., 86., 82., 83., 82., 83.,
+       82., 83.]), array([1.        , 0.15234375, 0.02604167, 0.04947917]), array([1.        , 3.81818182, 5.45454545, 7.09090909]), array([1.        , 0.52112676, 0.80985915, 1.5915493 ]), array([174.47981839, 163.53025857, 150.86650795, 140.10962848,
+       138.7675101 , 144.47483528, 156.54061237]), array([111.04811472, 101.80610154,  93.43447207,  87.82680915,
+        84.77714412,  87.90653895,  99.10857649]), array([1.        , 0.60683761, 0.1965812 , 0.03418803, 0.04273504,
+       0.05128205, 0.31623932]), array([1.        , 1.24605921, 2.41484045, 4.93694733, 5.24452134,
+       4.0142253 , 2.53787005]), array([1.        , 0.68471177, 0.48965599, 0.33980917, 0.34129055,
+       0.34794344, 0.75212148]), array([127.9175158 , 123.68070479, 123.37224147, 120.33915105,
+       116.99046063, 112.13117224, 116.63600536, 113.26194007,
+       123.99075403]), array([74.74605302, 71.41639375, 70.20077869, 70.18571236, 68.04867218,
+       65.00051543, 67.39209731, 65.83154255, 70.51558572]), array([127.61936103, 127.00798516, 128.81515197, 130.9173017 ,
+       136.63140616, 132.37794289, 131.74832883, 124.4467088 ,
+       127.62094696]), array([72.63438771, 73.23228318, 73.5272661 , 75.32729623, 77.41755148,
+       75.27813241, 77.0654751 , 70.97154049, 72.63518068]), array([129.15407855, 126.73716012, 127.03927492, 123.41389728,
+       120.39274924, 125.2265861 , 129.15407855, 125.2265861 ,
+       129.15407855]), array([128.85196375, 121.29909366, 119.48640483, 117.67371601,
+       112.23564955, 108.0060423 , 111.02719033, 111.93353474,
+       120.39274924]), array([74.7734139 , 72.35649547, 73.86706949, 71.45015106, 70.84592145,
+       72.05438066, 74.7734139 , 72.35649547, 72.05438066]), array([72.65861027, 70.54380665, 68.12688822, 69.33534743, 64.50151057,
+       62.68882175, 66.3141994 , 63.59516616, 68.73111782]), array([153.3, 146.7, 145. , 145. , 143.3]), array([75. , 70.8, 69.2, 71.7, 76.7]), array([1.        , 0.821211  , 0.60161998, 0.40242309, 0.27976952,
+       0.21301759, 0.16667354, 0.18668262, 0.19135828, 0.25171555,
+       0.34271216, 0.33164184, 0.51406136, 0.75172243, 0.91798342]), array([0.9999803 , 0.78684722, 0.40204604, 0.13885018, 0.07515942,
+       0.09673766, 0.0756814 , 0.09516681, 0.10819648, 0.2718503 ,
+       0.39659239]), array([0.99573557, 0.81241413, 0.48200911, 0.14311461, 0.06876277,
+       0.05409332, 0.05863351, 0.08449588, 0.09541302, 0.22068694,
+       0.31983257]), array([145.95894622, 141.2637375 , 139.01363523, 141.85823673,
+       138.99677001, 137.96939664, 132.45903532, 135.91464991,
+       136.7213699 , 133.24889008, 137.92723358, 143.01385609,
+       139.3368854 , 140.75496985, 142.58063059, 131.56763784,
+       123.61146735, 118.91625863, 119.72262726, 120.3255591 ,
+       121.94743169, 110.32272313, 113.57525229, 119.27253654,
+       133.73271126]), array([87.06522476, 84.61168569, 80.32370192, 82.55693896, 82.3447182 ,
+       76.42642921, 78.25244132, 80.0777507 , 80.68033118, 76.59648691,
+       85.96230923, 85.95352526, 81.25831654, 82.06468517, 77.16603966,
+       71.04361117, 68.99729705, 63.28244486, 67.35012661, 65.09932163,
+       68.55528757, 61.61805784, 63.44406994, 72.8095409 , 81.35985926]), array([1.        , 0.09066667, 0.11733333, 0.13866667, 0.176     ,
+       0.18666667, 0.29866667]), array([139.56823787, 134.07844615, 132.8022746 , 136.79097013,
+       131.72513017, 136.13346122, 134.64603316, 135.05415867,
+       134.83139216, 133.34540285, 142.80518635, 141.95080844,
+       143.20108249, 139.18648945, 141.27891203, 134.52949438,
+       127.5695396 , 115.55525486, 117.64839682, 118.05724171,
+       121.83252261, 123.50315155, 115.06943683, 116.32043025,
+       135.04312825, 141.13575637, 147.85855714, 147.42525349,
+       146.57015621, 141.50359688, 137.91151685, 139.1617909 ,
+       143.77993971, 147.13558509, 147.33317347, 148.37219101,
+       143.72742532, 142.87304741, 138.01702521, 135.89870512,
+       128.09516306, 121.7661003 , 119.01616881, 118.79196355,
+       117.30525486, 119.18714031, 123.1743971 , 128.21433955,
+       142.93755138]), array([83.98643464, 80.18381748, 76.80371335, 78.05398739, 74.46190737,
+       78.86951905, 80.33033023, 79.47595232, 82.19926692, 76.92288983,
+       82.59444368, 80.89719786, 81.93693478, 81.29165525, 81.48924363,
+       74.95036311, 72.20043163, 66.08262538, 68.59540285, 67.10869416,
+       66.46341463, 76.34499178, 66.64805426, 69.37136887, 81.14921896,
+       83.66127706, 87.85763223, 87.63414634, 86.14815703, 82.34553987,
+       77.70005481, 77.05549466, 80.62167717, 84.81803234, 82.27863798,
+       83.3183749 , 83.51596328, 82.44960948, 72.12106056, 73.79097013,
+       67.67244451, 67.02788435, 68.48797616, 64.05446698, 66.35670732,
+       66.34375856, 72.85746095, 78.52829542, 92.62061524]), array([0.2967581 , 0.14546966, 0.14546966, 0.1280133 , 0.13965087,
+       0.23275145, 0.2967581 , 0.47714048, 0.62261014])]
+	y_errors: [array([8.0085203 , 7.15179487, 7.63603098, 8.04576923, 8.79074786,
+       7.15179487, 6.4813141 , 6.40681624]), array([6.43661538, 6.973     , 6.25782051, 8.76094872, 8.04576923,
+       6.973     , 7.33058974, 7.86697436]), array([0.2802649 , 0.2802649 , 0.10092277, 0.2802649 , 0.13452715,
+       0.05605298, 0.05605298, 0.04484238, 0.0336592 , 0.05608039,
+       0.0448972 , 0.13452715, 0.10089537, 0.11207855]), array([ 0.78988112,  0.90268178,  0.90212884,  2.14348908,  4.85042853,
+        5.86591098, 32.93779375, 22.10893005, 13.64888029,  7.67016865,
+        2.59469173,  1.91761128,  1.69228643]), array([0.43195201, 0.29376479, 0.3801662 , 0.46662264, 0.62209014,
+       0.62214518, 2.78212536, 2.14269991, 1.46876892, 1.08865775,
+       1.57250564, 0.43200704, 0.41467173]), array([1.01052632, 1.01052632, 0.69473684, 1.02105263, 1.03157895,
+       0.92631579, 0.86315789, 0.96842105, 1.22105263, 1.06315789,
+       1.15789474, 1.08421053, 1.11578947]), array([11.,  2.,  3.,  4.,  5.,  6.,  7.,  7.,  7.,  7.,  8., 10., 11.,
+       10., 10.,  9., 10.,  9., 11., 10.,  9., 10., 10.,  8.,  7.]), array([12.,  6.,  6.,  6.,  7.,  7.,  7.,  6.,  7.,  7.,  7.,  8.,  9.,
+       10., 10., 10., 11., 11., 12., 11., 10., 10., 10., 10., 10.]), array([13.,  8.,  9., 10.,  8.,  7.,  7.,  9., 10., 10., 10., 10., 10.,
+       10., 11., 12., 12., 11., 12., 13., 12., 13., 11., 11., 11.]), array([20.662629  , 20.662629  , 20.662629  , 20.662629  , 20.34716901,
+       20.662629  , 20.662629  , 20.662629  , 20.662629  , 20.662629  ,
+       20.662629  , 20.662629  ]), array([10.77912893, 10.77912893, 10.77912893, 10.77912893, 10.77912893,
+       10.77912893, 10.77912893, 10.77912893, 10.77912893, 10.77912893,
+       10.77912893, 10.77912893]), None, array([20.34716901, 20.34716901, 20.34716901, 20.34716901, 20.34716901,
+       20.34716901, 20.34716901, 20.34716901, 20.34716901, 20.34716901,
+       20.34716901, 20.34716901, 20.18984659, 20.34716901, 20.34716901,
+       20.34716901, 20.34716901, 20.34716901, 20.34716901, 20.34716901,
+       20.34716901, 20.34716901, 20.34716901, 20.34716901]), array([10.63653608, 10.63653608, 10.63653608, 10.63653608, 10.63653608,
+       10.63653608, 10.63653608, 10.63653608, 10.63653608, 10.63653608,
+       10.63653608, 10.63653608, 10.63630117, 10.63653608, 10.63653608,
+       10.63653608, 10.63653608, 10.63653608, 10.63653608, 10.63653608,
+       10.54562752, 10.63653608, 10.63653608, 10.63653608]), None, array([20.18943902, 20.18943902, 20.18943902, 20.18943902, 20.18903145,
+       20.18943902, 20.18943902, 20.18943902, 10.56790949, 20.18943902,
+       20.18943902, 20.18943902]), array([10.09084983, 10.09084983, 10.09084983, 10.09084983,  5.36383977,
+       10.09084983, 10.09084983, 10.09084983,  5.27293121, 10.09084983,
+       10.09084983, 10.09084983]), None, None, None, array([24.04756524, 14.03385049]), array([15.0877193 , 19.03508772]), array([6.]), array([5.]), array([10.]), array([6.]), array([9.]), array([5.]), array([0.04101483]), array([10.31966452, 15.94308618, 14.0722698 , 18.76302641, 19.70117773,
+       18.76302641, 16.88672376, 12.19596716]), array([ 7.81792767,  7.0361349 , 11.7268915 , 10.16330597,  9.3815132 ,
+       14.06769792, 14.84949068, 10.94509874]), array([ 6.96250345,  8.35500414,  8.35500414, 11.14000552, 12.53250621,
+        8.35500414,  9.74750483,  8.3468846 ]), array([15.94857244, 16.88672376, 16.89221003,  9.3815132 , 13.13411848,
+       15.00493486, 15.01042112, 17.82487508]), array([ 9.3815132 , 10.16330597,  7.81792767, 12.50411238, 14.0722698 ,
+        7.81792767, 16.4176481 , 10.15873408]), array([ 9.74750483,  8.35500414,  8.35500414,  6.96250345,  9.73938529,
+        8.35500414, 11.14000552,  6.97062299]), array([0.04942743]), array([0.25069077, 0.25069077, 0.23398992, 0.09749766, 0.0863786 ,
+       0.10026072, 0.10584251, 0.10027185, 0.11700609]), array([0.22562403, 0.21170454, 0.11699309, 0.08078646, 0.08356925,
+       0.1114275 , 0.08634929, 0.06685871, 0.22562403]), array([9.60254364, 9.60254364, 9.60254364, 9.60254364, 9.24815869,
+       9.60254364, 9.60254364, 9.60254364, 9.60254364]), array([8.53506483, 9.24706124, 9.24706124, 9.24706124, 9.24706124,
+       9.24706124, 9.24706124, 9.24706124, 9.24706124]), array([7.46785753, 7.46785753, 7.46785753, 7.46785753, 6.75779895,
+       7.46785753, 7.46785753, 7.46785753, 7.46785753]), array([6.75666168, 8.89201575, 8.89201575, 8.89201575, 8.89201575,
+       8.89201575, 8.89201575, 8.89201575, 8.89201575]), None, None, array([0.31479786, 0.31479786, 0.24510898, 0.10861671, 0.06405144,
+       0.06124385, 0.05571772, 0.06687016, 0.13926647]), array([0.3732499 , 0.11421581, 0.11420479, 0.09470318, 0.1114275 ,
+       0.09191763, 0.06127659, 0.0891376 , 0.11699034]), array([21.69609136, 21.69609136, 21.69609136, 21.69609136, 19.20573162,
+       21.69609136, 21.69609136, 21.69609136, 21.69609136]), array([18.13971213, 23.12051124, 23.12051124, 23.12051124, 23.12051124,
+       23.12051124, 23.12051124, 23.12051124, 23.12051124]), array([20.98538844, 20.98538844, 20.98538844, 20.98538844, 12.80425064,
+       20.98538844, 20.98538844, 20.98538844, 20.98538844]), array([ 9.9584225 , 17.78339636, 17.78339636, 17.78339636, 17.78339636,
+       17.78339636, 17.78339636, 17.78339636, 17.78339636]), None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, array([15.28280124, 11.46210093, 13.75452112, 12.99038106, 13.75452112,
+       12.99038106,  9.16968075, 29.03732236]), array([ 8.89986581, 10.26907593, 13.69210125, 13.69210125, 12.32289112,
+       12.32289112, 13.00749618, 11.63828606]), array([11.46210093, 12.99038106, 10.69796087, 15.28280124, 14.51866118,
+       14.51866118, 13.75452112, 12.99038106]), array([ 9.58447087, 11.63828606, 10.26907593, 11.63828606, 10.953681  ,
+       12.32289112, 13.00749618, 10.26907593]), array([0.24634063, 0.16429896, 0.11428649, 0.08926948, 0.07139402,
+       0.24634063]), array([0.19643597, 0.12140649, 0.16425584, 0.19643597, 0.08574182,
+       0.04278466, 0.19280051, 0.19275738]), array([0.21431143, 0.10355259, 0.13566804, 0.21431143, 0.05358325,
+       0.06068168, 0.05715403]), array([12.33604516, 16.82440517, 19.62714987, 19.05866395, 21.29689123,
+       21.29292274, 20.17579335, 15.13878986]), array([11.77152774,  7.84371667, 11.76755925, 12.33207668, 12.33207668,
+       14.00975501, 16.25591925, 11.77152774]), array([15.69537031, 15.69537031, 18.49414653, 16.81249971, 16.81646819,
+       14.00578652, 12.88865713, 16.80853122, 11.77152774]), array([14.00975501, 15.13878986, 15.13482138, 10.65042986, 11.2109788 ,
+       14.57824092, 10.0938494 , 15.13085289,  9.52933198]), array([18.55159934, 17.98394291, 20.2676182 , 13.98914235, 17.6968523 ]), array([14.55842997, 11.70546706, 15.70026762, 13.98751115, 17.41628648]), array([ 7.42194469,  9.13470116,  7.7074041 , 10.27490761,  9.13470116]), array([ 9.70398879, 10.2765388 , 10.56036702, 11.70057347,  9.70561998]), array([0.05376087, 0.13738889, 0.0775532 , 0.08342525, 0.04773675,
+       0.05376087, 0.04783814, 0.07168116, 0.05381157, 0.06580912,
+       0.06570773, 0.06570773, 0.10757244, 0.11354587]), array([0.05381157, 0.14923437, 0.13146616, 0.10144693, 0.10747105,
+       0.05968361, 0.05365948, 0.04783814, 0.05371018, 0.06555565,
+       0.08357733, 0.11344448, 0.20912075, 0.28070052]), array([12.82619041, 14.4705738 , 14.4705738 , 17.76372559, 22.03692989,
+       27.30114923, 11.83736787, 14.46838129,  9.86410781, 12.49731374,
+       17.43265641, 12.49512122, 16.77490305, 18.41490141]), array([13., 16., 18., 14., 12., 12., 14., 14., 16., 17., 16., 16., 16.]), array([0.4162, 0.6199]), array([0.76923077, 0.76923077]), array([1.3485342 , 1.66449511]), array([16., 18., 13., 20., 19., 20., 17., 22., 17., 15., 18., 15., 15.]), array([25., 23., 16., 24., 25., 23., 15., 22., 22., 14., 19., 12., 16.]), array([11.,  8.,  3., 10., 12., 14., 16., 14., 12., 12., 15., 10.,  9.]), array([0.429 , 0.0966, 0.0331]), array([0.55555556, 5.66666667, 4.77777778]), array([1.18318318, 0.24024024, 0.13213213]), array([10.,  8.,  7.,  6.,  8.,  8.,  7.,  9.,  7.,  5., 10.,  9.,  8.]), array([0.5848, 0.3582, 0.4897]), array([0.5, 0.5, 0.8]), array([0.70588235, 0.43382353, 0.52205882]), array([ 7.,  5.,  9.,  8., 10.,  8.,  8., 10.,  4.,  8.,  7., 11., 11.,
+        5.,  5.]), array([ 8.,  7., 12.,  9., 20., 16., 15., 14., 10., 14., 12., 17., 17.,
+       14., 10.]), array([ 7.,  6.,  8.,  9., 10., 10., 10.,  6.,  6.,  9., 10., 10.,  9.,
+        7.,  7.]), array([0.4023    , 0.27994792, 0.02213542, 0.04427083]), array([0.72727273, 2.45454545, 4.        , 6.18181818]), array([0.55633803, 0.28169014, 0.51408451, 0.69014085]), array([30.90301409, 24.72241127, 27.81271268, 15.45150704, 18.54180845,
+       15.45150704, 15.45150704]), array([21.60815404, 21.58419821, 21.60815404, 18.56576428, 15.47546287,
+       18.56576428, 15.40359539]), array([0.5547002 , 0.52388352, 0.2773501 , 0.5547002 , 0.5547002 ,
+       0.15408339, 0.21571674]), array([0.88717909, 1.10897386, 1.55256341, 2.66153727, 3.10512682,
+       2.66153727, 1.77435818]), array([0.46538314, 0.2407876 , 0.27273863, 0.12838156, 0.17652464,
+       0.14442925, 0.24064324]), array([13.29484811, 13.29484811, 16.31525109, 16.61419883, 18.12638273,
+       13.89750137, 19.63856664, 12.08557676, 17.52293651]), array([10.57418582,  8.76146825, 10.27206623, 10.87630542, 12.08319787,
+        8.15722906, 10.27127326,  9.36412151, 10.87630542]), array([12.0847838 , 12.08557676, 16.91790435, 12.38611043, 15.10597975,
+       12.68902299, 10.27206623, 16.0131315 , 10.27285919]), array([ 8.76226122,  9.36650041, 11.17842501, 11.48054461, 11.48133757,
+       11.48054461,  9.06358785, 12.08557676, 11.17921798]), array([15.70996979, 15.40785498, 19.93957704, 23.56495468, 14.80362538,
+       16.3141994 , 17.52265861, 16.6163142 , 14.80362538]), array([14.80362538, 12.68882175, 14.80362538, 15.10574018, 11.78247734,
+       12.68882175, 12.08459215, 12.08459215, 12.38670695]), array([ 9.96978852, 11.48036254, 12.08459215, 15.40785498,  9.96978852,
+       11.78247734, 14.19939577, 12.99093656, 12.08459215]), array([10.27190332,  9.36555891,  9.06344411, 10.27190332, 10.87613293,
+        9.66767372,  8.4592145 ,  9.06344411,  9.96978852]), array([20.08581589, 18.37117307, 21.55550974, 29.39387691, 17.63632615]), array([12.24744871, 13.22724461, 14.69693846, 14.45198948, 12.00249974]), None, None, None, array([16.13919813, 14.40999833, 16.13820433, 20.17399766, 16.13919813,
+       16.71559806, 22.47959739, 20.17399766, 22.47959739, 21.90319746,
+       22.47959739, 20.75039759, 25.93799699, 22.47959739, 23.05599732,
+       17.29199799, 12.68079853, 15.56279819, 11.52799866, 24.20879719,
+       21.32679752, 23.63239726, 18.44479786, 20.75039759, 17.29199799]), array([ 5.1875994 , 10.95159873,  9.22239893, 10.3751988 ,  8.06959906,
+        8.06959906, 11.52799866,  7.49319913, 12.1034048 ,  5.1875994 ,
+       12.68179232,  9.22239893, 13.83359839, 13.83359839,  9.79879886,
+        9.22239893,  6.9167992 ,  9.79879886, 10.37619259, 11.52799866,
+       12.68079853, 13.25719846, 10.95159873, 14.98639826, 14.40999833]), array([0.33941125, 0.12067956, 0.03016989, 0.03016989, 0.04525483,
+       0.03016989, 0.04525483]), array([14.29987334, 13.09668726, 16.66555149, 12.50730242, 14.88722348,
+       14.88722348, 12.50119832, 13.09872196, 19.05564605, 13.6982803 ,
+       16.67165559, 17.86466817, 14.29173454, 18.45608771, 13.6962456 ,
+       16.07209725, 17.86466817, 12.49916362, 11.31428984, 16.07616665,
+       20.84007817, 10.11517316, 22.03105604, 12.51340652, 13.10279136,
+       16.08023605, 16.08023605, 19.65113499, 16.08227075, 14.89332758,
+       17.86263347, 26.20354802, 20.23848513, 19.05971545, 16.08227075,
+       14.29376924, 19.05361135, 16.67369029, 12.50730242, 14.88518878,
+       11.90977878, 11.91384818, 12.50526772, 10.7167662 , 14.88518878,
+       13.10686076, 11.31632454, 11.31632454, 16.08023605]), array([9.52782302e+00, 5.95081999e+00, 8.34091455e+00, 9.52782302e+00,
+       1.13163245e+01, 4.76187681e+00, 1.01253467e+01, 6.55037833e+00,
+       9.52985773e+00, 1.01212773e+01, 6.55037833e+00, 7.14586727e+00,
+       7.74135621e+00, 5.35940045e+00, 2.56406143e+01, 1.79012928e+01,
+       2.86221284e+01, 3.61159294e+00, 1.61168607e+01, 6.58903763e+00,
+       1.66370657e+01, 3.69569388e+01, 3.61362764e+00, 2.79472861e+01,
+       6.59107233e+00, 2.93675069e+00, 1.07574602e+01, 1.67082802e+01,
+       1.55213717e+01, 2.50491947e+01, 1.43283591e+01, 3.01813870e+00,
+       3.66246045e-02, 1.67103149e+01, 3.69569388e+01, 1.01273814e+01,
+       9.52782302e+00, 3.69569388e+01, 1.90882013e+01, 1.31007567e+01,
+       8.33684515e+00, 8.33887985e+00, 1.19097788e+01, 7.14993667e+00,
+       1.13163245e+01, 1.25113718e+01, 1.07208356e+01, 1.19118135e+01,
+       1.25052677e+01]), array([0.09874808, 0.18103815, 0.09874808, 0.06583205, 0.04937404,
+       0.03291603, 0.08229007, 0.21395417, 0.18103815])]
+	y_errors_type: ['SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', None, 'SD', 'SD', None, 'SD', 'SD', None, None, None, 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', None, None, 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', None, None, None, 'SD', 'SD', 'SD', 'SD', 'SD', 'SD']
+	weights: [array([43.88574181, 47.86073318, 43.24842987, 41.02895319, 36.85132768,
+       47.86073318, 53.71984401, 54.8144536 ]), array([37.33770823, 32.70696881, 35.53509763, 24.31993387, 26.08706576,
+       32.72267067, 31.096571  , 28.99026781]), array([4.04850996e-02, 2.01578529e-02, 1.23657433e+00, 2.23609393e+00,
+       5.66773245e+00, 1.42437131e+01, 1.45868564e+01, 1.82299406e+01,
+       2.40325072e+01, 1.43718373e+01, 1.79487655e+01, 4.70758261e+00,
+       3.52285166e+00, 1.75819223e+00]), array([0.87647075, 0.50486512, 0.67618284, 0.64676701, 0.55865253,
+       0.46115778, 0.35940309, 0.49285195, 0.5462679 , 0.57444844,
+       0.97609114, 0.98585973, 1.19912533]), array([1.60274214, 2.39623022, 1.97660461, 1.81401109, 1.60962763,
+       1.60838295, 0.80234235, 0.9744762 , 1.10347968, 1.18047876,
+       0.74885722, 1.86120529, 1.84612322]), array([0.68509615, 0.54086538, 0.55594406, 0.56383822, 0.58634223,
+       0.5270979 , 0.62476548, 0.60200669, 0.4535809 , 0.45925362,
+       0.64825175, 0.92083645, 1.1298984 ]), array([0.        , 0.48      , 0.64      , 0.72      , 0.768     ,
+       0.8       , 0.82285714, 0.96      , 1.02857143, 1.16571429,
+       1.14      , 0.96      , 0.96      , 1.152     , 1.2       ,
+       1.33333333, 1.152     , 1.22666667, 0.96      , 1.056     ,
+       1.06666667, 0.912     , 0.864     , 1.02      , 1.23428571]), array([0.        , 0.4       , 0.56      , 0.72      , 0.75428571,
+       0.82285714, 0.89142857, 1.12      , 1.02857143, 1.02857143,
+       1.02857143, 0.96      , 0.96      , 0.912     , 0.912     ,
+       0.912     , 0.78545455, 0.74181818, 0.6       , 0.61090909,
+       0.624     , 0.624     , 0.672     , 0.624     , 0.624     ]), array([0.        , 1.1       , 1.22222222, 1.144     , 1.595     ,
+       1.88571429, 1.82285714, 1.32      , 1.188     , 1.1       ,
+       1.012     , 1.012     , 1.056     , 1.056     , 0.92      ,
+       0.80666667, 0.77      , 0.76      , 0.66      , 0.60923077,
+       0.55      , 0.54153846, 0.56      , 0.52      , 0.48      ]), array([8.94396085, 8.31597498, 7.67971938, 7.42391364, 7.27965367,
+       6.7394928 , 6.80618478, 6.60051022, 6.37821074, 6.64388886,
+       6.67805754, 7.89787331]), array([10.17906604, 10.07913038,  9.47668334,  8.96564923,  8.67436498,
+        8.37392055,  8.16434604,  8.06504781,  8.05699724,  8.05815406,
+        8.36997789,  9.16948682]), array([2.36363636, 2.36363636, 2.36363636, 2.36363636, 2.36363636,
+       2.36363636, 2.36363636, 2.36363636, 2.36363636, 2.36363636,
+       2.36363636]), array([3.99964679, 3.73116249, 3.62644873, 3.62254272, 3.59783717,
+       3.36321585, 3.36767522, 3.33882496, 3.22595197, 3.22648362,
+       3.41597961, 3.82959407, 3.95042157, 3.71017851, 3.65060512,
+       3.59734892, 3.47186818, 3.30864014, 3.28369589, 3.22545286,
+       3.11259072, 3.30206501, 3.30681733, 3.81280906]), array([4.7457351 , 4.58859435, 4.48704381, 4.39476429, 4.28421788,
+       4.21530132, 4.23413046, 4.05415309, 3.86028715, 4.12475638,
+       4.12535451, 4.71103159, 4.69028436, 4.52842245, 4.38518225,
+       4.3855172 , 4.24255213, 4.18753612, 4.28505526, 3.97084553,
+       3.95893685, 3.81919561, 4.0235049 , 4.69251348]), array([1.18181818, 1.18181818, 1.18181818, 1.18181818, 1.18181818,
+       1.18181818, 1.18181818, 1.18181818, 1.18181818, 1.18181818,
+       1.18181818, 1.18181818, 1.18181818, 1.18181818, 1.18181818,
+       1.18181818, 1.18181818, 1.18181818, 1.18181818, 1.18181818,
+       1.18181818, 1.18181818]), array([ 9.51747349,  9.04406189,  9.04460863,  8.66431787,  8.88553346,
+        8.72559654,  8.55685057,  8.45638155, 15.83401404,  8.51770396,
+        8.66267765,  9.10706826]), array([11.39062949, 10.98132483, 10.76721537, 10.56291611, 19.873917  ,
+       10.33100203, 10.43898986, 10.02058114, 19.38413541, 10.23766645,
+       10.44390757, 10.97587752]), array([2.36363636, 2.36363636, 2.36363636, 2.36363636, 2.36363636,
+       2.36363636, 2.36363636, 2.36363636, 2.36363636, 2.36363636,
+       2.36363636]), array([0.14285714, 0.14285714, 0.14285714, 0.14285714, 0.14285714,
+       0.14285714, 0.14285714, 0.14285714, 0.14285714, 0.14285714,
+       0.14285714, 0.14285714, 0.14285714, 0.14285714]), array([0.16666667, 0.16666667, 0.16666667, 0.16666667, 0.16666667,
+       0.16666667, 0.16666667, 0.16666667, 0.16666667, 0.16666667,
+       0.16666667, 0.16666667]), array([36.80567887, 53.08098504]), array([23.08430233, 18.60138249]), array([40.]), array([36.]), array([22.8]), array([32.]), array([21.33333333]), array([31.2]), array([146.96859819]), array([10.15725519,  6.47570622,  7.35685191,  5.36601108,  5.26539323,
+        5.5423945 ,  6.29918532,  8.64548038]), array([8.29458508, 8.88161868, 5.01810832, 4.86908099, 6.2616759 ,
+       4.2089114 , 3.82348942, 5.4425779 ]), array([9.71118005, 7.64719191, 8.24901034, 6.18000839, 5.81784601,
+       8.49729058, 7.36218044, 8.15633913]), array([ 6.72808779,  6.40792071,  6.01862236, 10.93064691,  7.80359873,
+        6.7444288 ,  6.98323382,  5.77597682]), array([7.16019342, 6.93759911, 8.18860031, 4.26785805, 4.04583769,
+       8.00332035, 3.77334532, 5.71101852]), array([ 6.70060487,  7.59207209,  7.80837319, 10.41677801,  7.24989899,
+        8.05633203,  6.23520856, 10.09703913]), array([123.82815024]), array([2.94877202e-03, 1.20233312e+00, 1.99363792e+00, 5.41047595e+00,
+       5.82369616e+00, 5.12550881e+00, 4.37857756e+00, 4.15568691e+00,
+       2.40290924e+00]), array([0.57679298, 1.64996464, 4.65270124, 6.76192263, 6.20431242,
+       4.27053558, 5.38265263, 6.42532762, 1.00892265]), array([8.23627148, 7.54437499, 7.8401991 , 7.44403725, 8.13844868,
+       6.89877791, 7.88546963, 7.98321281, 7.6065996 ]), array([8.95008224, 7.85121724, 7.67217564, 7.98085069, 8.13589796,
+       7.75230935, 8.1893357 , 8.1902973 , 8.22248816]), array([5.31974293, 5.31916772, 5.25508949, 4.84082432, 5.27788779,
+       4.99699343, 4.96397646, 5.12135351, 5.0816066 ]), array([5.97141115, 4.05803846, 4.05851465, 3.81956227, 3.95403846,
+       4.08851465, 4.24951465, 4.41060989, 4.65737179]), array([1.33333333, 1.33333333, 1.33333333, 1.33333333, 1.33333333,
+       1.33333333, 1.33333333, 1.33333333, 1.33333333]), array([1.33333333, 1.33333333, 1.33333333, 1.33333333, 1.33333333,
+       1.33333333, 1.33333333, 1.33333333, 1.33333333]), array([0.0139806 , 0.98697698, 1.89595632, 5.09587977, 8.7235617 ,
+       8.96690898, 9.41754894, 7.42550211, 2.53872128]), array([0.50290718, 4.05007157, 4.58746281, 5.76811552, 4.85314772,
+       6.06593527, 8.70645983, 5.92353899, 2.48550435]), array([5.55790629, 4.95655601, 4.78147483, 4.46405977, 4.54856758,
+       4.20089354, 4.1895092 , 4.32016177, 4.8966645 ]), array([5.84516358, 4.69895075, 4.56586282, 4.17656187, 4.20775063,
+       4.19789769, 4.05475537, 4.15777169, 4.30395414]), array([3.04563093, 2.81942401, 2.64967158, 2.53620991, 3.84110745,
+       2.38838017, 2.43310573, 2.44395449, 2.76878281]), array([5.90878703, 3.13577408, 3.18939504, 2.97655411, 2.81711984,
+       2.96433939, 2.75156988, 2.83207276, 3.07548621]), array([1.33333333, 1.33333333, 1.33333333, 1.33333333, 1.33333333,
+       1.33333333, 1.33333333, 1.33333333, 1.33333333]), array([1.33333333, 1.33333333, 1.33333333, 1.33333333, 1.33333333,
+       1.33333333, 1.33333333, 1.33333333, 1.33333333]), array([1.63636364, 1.63636364, 1.63636364, 1.63636364, 1.63636364,
+       1.63636364, 1.63636364, 1.63636364, 1.63636364, 1.63636364,
+       1.63636364]), array([1.27272727, 1.27272727, 1.27272727, 1.27272727, 1.27272727,
+       1.27272727, 1.27272727, 1.27272727, 1.27272727, 1.27272727,
+       1.27272727]), array([1.63636364, 1.63636364, 1.63636364, 1.63636364, 1.63636364,
+       1.63636364, 1.63636364, 1.63636364, 1.63636364, 1.63636364,
+       1.63636364]), array([1.63636364, 1.63636364, 1.63636364, 1.63636364, 1.63636364,
+       1.63636364, 1.63636364, 1.63636364, 1.63636364, 1.63636364,
+       1.63636364]), array([1.38461538, 1.38461538, 1.38461538, 1.38461538, 1.38461538,
+       1.38461538, 1.38461538, 1.38461538, 1.38461538, 1.38461538,
+       1.38461538, 1.38461538, 1.38461538]), array([1.28571429, 1.28571429, 1.28571429, 1.28571429, 1.28571429,
+       1.28571429, 1.28571429, 1.28571429, 1.28571429, 1.28571429,
+       1.28571429, 1.28571429, 1.28571429, 1.28571429]), array([1.11111111, 1.11111111, 1.11111111, 1.11111111, 1.11111111,
+       1.11111111, 1.11111111, 1.11111111, 1.11111111, 1.11111111,
+       1.11111111, 1.11111111, 1.11111111, 1.11111111, 1.11111111,
+       1.11111111, 1.11111111, 1.11111111]), array([1.11111111, 1.11111111, 1.11111111, 1.11111111, 1.11111111,
+       1.11111111, 1.11111111, 1.11111111, 1.11111111, 1.11111111,
+       1.11111111, 1.11111111, 1.11111111, 1.11111111, 1.11111111,
+       1.11111111, 1.11111111, 1.11111111]), array([1.53846154, 1.53846154, 1.53846154, 1.53846154, 1.53846154,
+       1.53846154, 1.53846154, 1.53846154, 1.53846154, 1.53846154,
+       1.53846154, 1.53846154, 1.53846154]), array([1.53846154, 1.53846154, 1.53846154, 1.53846154, 1.53846154,
+       1.53846154, 1.53846154, 1.53846154, 1.53846154, 1.53846154,
+       1.53846154, 1.53846154, 1.53846154]), array([1.53846154, 1.53846154, 1.53846154, 1.53846154, 1.53846154,
+       1.53846154, 1.53846154, 1.53846154, 1.53846154, 1.53846154,
+       1.53846154, 1.53846154, 1.53846154]), array([1.53846154, 1.53846154, 1.53846154, 1.53846154, 1.53846154,
+       1.53846154, 1.53846154, 1.53846154, 1.53846154, 1.53846154,
+       1.53846154, 1.53846154, 1.53846154]), array([1.53846154, 1.53846154, 1.53846154, 1.53846154, 1.53846154,
+       1.53846154, 1.53846154, 1.53846154, 1.53846154, 1.53846154,
+       1.53846154, 1.53846154, 1.53846154]), array([1.53846154, 1.53846154, 1.53846154, 1.53846154, 1.53846154,
+       1.53846154, 1.53846154, 1.53846154, 1.53846154, 1.53846154,
+       1.53846154, 1.53846154, 1.53846154]), array([45.78387635, 59.60179279, 47.88799733, 50.75588102, 47.02197192,
+       52.48793183, 75.87344788, 24.11956717]), array([53.90675052, 44.35204768, 32.26810655, 31.05567098, 34.02517586,
+       37.00815226, 34.9691942 , 39.03227438]), array([60.23687809, 50.80682369, 58.41547545, 40.02480741, 42.99740163,
+       46.32476239, 49.71627318, 54.9841227 ]), array([50.73671687, 40.2039558 , 42.56226184, 34.03989264, 36.76277839,
+       35.99778928, 36.88356614, 47.87388432]), array([0.        , 2.86197075, 6.18360365, 7.97230023, 4.28558365,
+       0.81899801]), array([ 0.        ,  0.7597773 ,  1.09451444,  2.1793199 ,  7.32920361,
+       15.41396541,  2.74966962,  1.49970759]), array([ 0.        ,  1.05561052,  1.48804947,  2.30173805, 14.11289111,
+       12.78508457, 12.58000224]), array([8.48440037, 6.08514611, 5.23200565, 5.2259614 , 4.88849576,
+       4.85749376, 5.26130273, 6.93885517]), array([5.5842021 , 7.89981485, 4.96109042, 4.04868595, 4.81942332,
+       4.22025532, 3.50806278, 5.01820309]), array([6.11724536, 6.09275386, 5.16769075, 5.13244251, 5.36328738,
+       6.37293444, 7.27479215, 5.64370727, 7.70901344]), array([4.28900709, 3.83497251, 3.6472615 , 4.86835767, 4.91402129,
+       3.56808111, 5.58319233, 3.91715144, 6.16803304]), array([28.27768399, 26.1031746 , 25.17079276, 35.71731576, 29.27332473]), array([35.67203361, 39.99198718, 31.99186494, 36.84801166, 31.10159221]), array([44.49514286, 30.546875  , 39.10097354, 29.58671218, 34.28601786]), array([32.13775424, 26.13055556, 26.67239728, 26.20614806, 32.13467227]), array([1.95637162e-02, 3.38359374e+00, 1.22786449e+01, 1.29375367e+01,
+       2.41362689e+01, 2.21191391e+01, 2.49118805e+01, 1.64847314e+01,
+       2.19737810e+01, 1.74134701e+01, 1.65830669e+01, 1.57804262e+01,
+       7.79759161e+00, 6.24861413e+00]), array([1.95452860e-02, 3.84261918e+00, 7.38075700e+00, 1.06572257e+01,
+       1.03499128e+01, 1.94082612e+01, 2.18376073e+01, 2.42468069e+01,
+       2.12060897e+01, 1.69832867e+01, 1.27771770e+01, 8.86858057e+00,
+       3.73403138e+00, 2.19227496e+00]), array([3.79750359, 3.3617142 , 3.21971124, 2.60815851, 1.99111107,
+       1.4759909 , 3.76937515, 3.1991052 , 4.6861109 , 3.8267981 ,
+       2.70180169, 3.99323457, 2.81238826, 2.6375481 ]), array([3.19526627, 2.54807692, 2.30769231, 3.07692308, 3.49358974,
+       3.46153846, 2.99450549, 2.96703297, 2.59615385, 2.51131222,
+       2.62019231, 2.66826923, 2.64423077]), array([6.00672753, 4.33013389]), array([3.25, 2.5 ]), array([1.85386473, 1.71722114]), array([2.66826923, 2.37179487, 3.01775148, 1.90384615, 2.00404858,
+       1.84615385, 2.1719457 , 1.71328671, 2.21719457, 2.43589744,
+       2.09401709, 2.53846154, 2.58974359]), array([2.29230769, 2.39130435, 3.31730769, 2.21153846, 2.12307692,
+       2.15719064, 3.56410256, 2.41258741, 2.37762238, 3.62637363,
+       2.67206478, 4.42307692, 3.36538462]), array([ 3.46153846,  4.80769231, 12.30769231,  3.53846154,  2.88461538,
+        2.44505495,  2.28365385,  2.58241758,  2.98076923,  2.91666667,
+        2.30769231,  3.61538462,  4.01709402]), array([3.88500389, 0.92822636, 1.87311178]), array([3.        , 1.96078431, 1.78294574]), array([1.40862944, 2.        , 2.87878788]), array([4.26923077, 5.19230769, 5.76923077, 6.6025641 , 5.04807692,
+       5.        , 5.76923077, 4.44444444, 5.87912088, 8.        ,
+       3.96153846, 4.4017094 , 5.19230769]), array([2.8499772 , 5.5229853 , 4.14233204]), array([3.33333333, 3.        , 2.29166667]), array([2.36111111, 2.71186441, 4.17840376]), array([5.0952381 , 7.26666667, 3.74074074, 3.91666667, 2.96666667,
+       3.70833333, 3.91666667, 3.33333333, 7.91666667, 3.875     ,
+       4.42857143, 2.81818182, 2.87878788, 6.13333333, 6.33333333]), array([5.75      , 6.52380952, 3.61111111, 4.55555556, 2.05      ,
+       2.5625    , 2.75555556, 2.95238095, 4.16666667, 2.85714286,
+       3.30555556, 2.31372549, 2.33333333, 2.88095238, 4.2       ]), array([4.38095238, 5.33333333, 3.66666667, 3.        , 2.56666667,
+       2.56666667, 2.76666667, 4.83333333, 4.77777778, 3.03703704,
+       2.76666667, 2.73333333, 3.07407407, 3.9047619 , 3.95238095]), array([2.48570718, 0.54418605, 1.17647059, 1.11764706]), array([1.71875   , 1.94444444, 1.70454545, 1.43382353]), array([2.24683544, 2.3125    , 1.96917808, 2.88265306]), array([10.48551276, 12.28436208, 10.07383425, 16.84001405, 13.89891881,
+       17.36467567, 18.81488189]), array([ 9.5441847 ,  8.7595783 ,  8.03035568,  8.78536045, 10.17373561,
+        8.79333587, 11.94907943]), array([3.3480119 , 2.15121127, 1.31631237, 0.11446195, 0.14307743,
+       0.6180945 , 2.72255913]), array([2.09331225, 2.0867128 , 2.88858005, 3.44485744, 3.13669164,
+       2.80100899, 2.65627723]), array([3.99056752, 5.28103432, 3.33418529, 4.91561393, 3.59057699,
+       4.47402914, 5.80443082]), array([12.82878047, 12.40387292, 10.08236533,  9.65753468,  8.6055383 ,
+       10.75792156,  7.91884035, 12.49554929,  9.43454913]), array([ 9.42497188, 10.86825354,  9.11219186,  8.60411199,  7.50890318,
+       10.62460711,  8.74829512,  9.37358512,  8.64455138]), array([14.08044619, 14.0120727 , 10.15217561, 14.09291507, 12.05980752,
+       13.90996959, 17.10117853, 10.36205474, 16.56415798]), array([11.05260935, 10.42470934,  8.77014022,  8.74839987,  8.99053802,
+        8.74269006, 11.33700787,  7.82988868,  8.66312006]), array([10.96153846, 10.96732026,  8.49494949,  6.98290598, 10.84353741,
+       10.2345679 ,  9.82758621, 10.04848485, 11.63265306]), array([11.60544218, 12.74603175, 10.76190476, 10.38666667, 12.7008547 ,
+       11.34920635, 12.25      , 12.35      , 12.95934959]), array([10.        ,  8.40350877,  8.15      ,  6.18300654,  9.47474747,
+        8.15384615,  7.0212766 ,  7.42635659,  7.95      ]), array([ 9.43137255, 10.04301075, 10.02222222,  9.        ,  7.90740741,
+        8.64583333, 10.45238095,  9.35555556,  9.19191919]), array([9.15870189, 9.58240387, 8.07218211, 5.91960021, 9.75033   ]), array([7.34846923, 6.42310644, 5.65015634, 5.95350558, 7.66840258]), array([1.06666667, 1.06666667, 1.06666667, 1.06666667, 1.06666667,
+       1.06666667, 1.06666667, 1.06666667, 1.06666667, 1.06666667,
+       1.06666667, 1.06666667, 1.06666667, 1.06666667, 1.06666667]), array([3.45454545, 3.45454545, 3.45454545, 3.45454545, 3.45454545,
+       3.45454545, 3.45454545, 3.45454545, 3.45454545, 3.45454545,
+       3.45454545]), array([3.45454545, 3.45454545, 3.45454545, 3.45454545, 3.45454545,
+       3.45454545, 3.45454545, 3.45454545, 3.45454545, 3.45454545,
+       3.45454545]), array([2.89400145, 3.13701605, 2.75646301, 2.2501557 , 2.75595888,
+       2.64125799, 1.88557164, 2.15587851, 1.94624653, 1.94673152,
+       1.96341215, 2.20547263, 1.7190149 , 2.00366535, 1.97891252,
+       2.43474722, 3.11933586, 2.44513887, 3.32332106, 1.59050359,
+       1.82977206, 1.49385062, 1.97042445, 1.83934845, 2.47481336]), array([5.37066758, 2.4723093 , 2.78708228, 2.54628571, 3.2653803 ,
+       3.03069052, 2.17217073, 3.41975167, 2.13309448, 4.72489757,
+       2.16908922, 2.98242662, 1.87967444, 1.89832743, 2.52001628,
+       2.46508048, 3.19210294, 2.06661884, 2.07706635, 1.8070598 ,
+       1.72999295, 1.48732619, 1.85380262, 1.55467996, 1.8067424 ]), array([3.36717515, 0.85862966, 4.4446712 , 5.25279323, 4.4446712 ,
+       7.07106781, 7.54247233]), array([1.59348622, 1.67144241, 1.30100729, 1.78561442, 1.44460408,
+       1.49294939, 1.75847349, 1.68334427, 1.15521082, 1.58930008,
+       1.39848933, 1.29728926, 1.63589441, 1.23126446, 1.68410713,
+       1.36659197, 1.16585876, 1.50939412, 1.69766744, 1.19895819,
+       0.95446015, 1.99341915, 0.85274382, 1.51765953, 1.68268402,
+       1.43297476, 1.50123248, 1.22483659, 1.48796285, 1.5512066 ,
+       1.26051772, 0.86706931, 1.15988305, 1.26036175, 1.49570891,
+       1.69472662, 1.23156192, 1.39898315, 1.80161886, 1.49057859,
+       1.75599366, 1.66866149, 1.55384208, 1.80974428, 1.28663994,
+       1.48465184, 1.7770881 , 1.84980144, 1.45126869]), array([1.43916096e+00, 2.19990447e+00, 1.50335814e+00, 1.33750471e+00,
+       1.07429281e+00, 2.70411367e+00, 1.29527970e+00, 1.98090324e+00,
+       1.40823597e+00, 1.24083540e+00, 2.05863027e+00, 1.84829990e+00,
+       1.72805105e+00, 2.47641636e+00, 5.18878610e-01, 6.83570406e-01,
+       4.11843082e-01, 2.98732450e+00, 6.94877848e-01, 1.66284093e+00,
+       6.52228580e-01, 3.37270587e-01, 3.01118877e+00, 4.05260737e-01,
+       2.01012087e+00, 4.65105331e+00, 1.33340983e+00, 8.56318877e-01,
+       9.06170246e-01, 5.36710657e-01, 8.85357710e-01, 4.16829383e+00,
+       3.59395630e+02, 8.28700243e-01, 3.63483758e-01, 1.34319026e+00,
+       1.43109914e+00, 3.64239062e-01, 6.16866245e-01, 9.19603779e-01,
+       1.32526899e+00, 1.31232591e+00, 9.38868018e-01, 1.46265242e+00,
+       9.57355729e-01, 8.65743118e-01, 1.10953065e+00, 1.07632194e+00,
+       1.20922906e+00]), array([2.67129228, 0.71424927, 1.309457  , 1.72848324, 2.51415744,
+       6.28539361, 3.20555074, 1.98231645, 3.05698689])]
+	weights_points: [array([14.6285806 , 15.95357773, 14.41614329, 13.67631773, 12.28377589,
+       15.95357773, 17.90661467, 18.27148453]), array([12.44590274, 10.90232294, 11.84503254,  8.10664462,  8.69568859,
+       10.90755689, 10.36552367,  9.6634226 ]), array([4.72326162e-02, 2.35174951e-02, 1.44267006e+00, 2.60877625e+00,
+       6.61235452e+00, 1.66176653e+01, 1.70179991e+01, 2.12682641e+01,
+       2.80379251e+01, 1.67671435e+01, 2.09402264e+01, 5.49217972e+00,
+       4.10999360e+00, 2.05122427e+00]), array([1.2660133 , 0.72924962, 0.97670855, 0.93421901, 0.80694254,
+       0.66611679, 0.51913779, 0.71189726, 0.78905364, 0.82975886,
+       1.40990943, 1.42401961, 1.73206992]), array([2.31507198, 3.46122143, 2.85509554, 2.62023824, 2.32501769,
+       2.32321981, 1.15893896, 1.40757673, 1.5939151 , 1.70513598,
+       1.08168265, 2.68840764, 2.66662243]), array([0.98958333, 0.78125   , 0.8030303 , 0.81443299, 0.84693878,
+       0.76136364, 0.90243902, 0.86956522, 0.65517241, 0.66336634,
+       0.93636364, 1.33009709, 1.63207547]), array([0.        , 1.        , 1.33333333, 1.5       , 1.6       ,
+       1.66666667, 1.71428571, 2.        , 2.14285714, 2.42857143,
+       2.375     , 2.        , 2.        , 2.4       , 2.5       ,
+       2.77777778, 2.4       , 2.55555556, 2.        , 2.2       ,
+       2.22222222, 1.9       , 1.8       , 2.125     , 2.57142857]), array([0.        , 0.83333333, 1.16666667, 1.5       , 1.57142857,
+       1.71428571, 1.85714286, 2.33333333, 2.14285714, 2.14285714,
+       2.14285714, 2.        , 2.        , 1.9       , 1.9       ,
+       1.9       , 1.63636364, 1.54545455, 1.25      , 1.27272727,
+       1.3       , 1.3       , 1.4       , 1.3       , 1.3       ]), array([0.        , 2.5       , 2.77777778, 2.6       , 3.625     ,
+       4.28571429, 4.14285714, 3.        , 2.7       , 2.5       ,
+       2.3       , 2.3       , 2.4       , 2.4       , 2.09090909,
+       1.83333333, 1.75      , 1.72727273, 1.5       , 1.38461538,
+       1.25      , 1.23076923, 1.27272727, 1.18181818, 1.09090909]), array([8.25596386, 7.67628459, 7.08897173, 6.85284336, 6.71968031,
+       6.22107028, 6.28263211, 6.09277867, 5.88757915, 6.13282048,
+       6.16436081, 7.2903446 ]), array([9.39606096, 9.30381266, 8.7477077 , 8.2759839 , 8.00710613,
+       7.72977281, 7.53631942, 7.44465951, 7.43722822, 7.43829606,
+       7.72613344, 8.46414168]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([7.3839633 , 6.88829998, 6.69498227, 6.68777117, 6.64216093,
+       6.20901388, 6.21724656, 6.16398454, 5.95560363, 5.95658514,
+       6.30642389, 7.07001983, 7.29308598, 6.84956032, 6.73957869,
+       6.64125954, 6.40960279, 6.10825872, 6.0622078 , 5.95468221,
+       5.74632133, 6.09612002, 6.10489354, 7.03903211]), array([8.76135711, 8.4712511 , 8.28377319, 8.113411  , 7.90932531,
+       7.78209474, 7.81685623, 7.48459033, 7.12668397, 7.61493485,
+       7.61603909, 8.69728909, 8.65898651, 8.36016453, 8.09572107,
+       8.09633944, 7.83240393, 7.73083591, 7.91087125, 7.33079174,
+       7.3088065 , 7.05082266, 7.42800905, 8.66310181]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.,
+       2., 2., 2., 2., 2.]), array([ 8.78536014,  8.34836483,  8.34886951,  7.99783188,  8.20203089,
+        8.0543968 ,  7.8986313 ,  7.80589067, 14.61601296,  7.86249596,
+        7.99631783,  8.40652455]), array([10.51442722, 10.13660754,  9.93896804,  9.75038411, 18.34515416,
+        9.53630957,  9.63599064,  9.24976721, 17.89304807,  9.45015364,
+        9.64053006, 10.13157925]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([4.90742385, 7.07746467]), array([7.69476744, 6.20046083]), array([3.33333333]), array([3.]), array([1.9]), array([2.66666667]), array([1.77777778]), array([2.6]), array([20.99551403]), array([11.60829165,  7.40080711,  8.40783075,  6.13258409,  6.01759227,
+        6.33416514,  7.19906893,  9.880549  ]), array([ 9.47952581, 10.15042134,  5.73498094,  5.56466399,  7.15620103,
+        4.81018446,  4.3697022 ,  6.22008902]), array([11.09849148,  8.7396479 ,  9.42744039,  7.06286673,  6.64896686,
+        9.71118923,  8.4139205 ,  9.32153043]), array([ 7.68924319,  7.32333795,  6.87842556, 12.4921679 ,  8.91839855,
+        7.70791863,  7.98083865,  6.60111637]), array([8.1830782 , 7.9286847 , 9.35840035, 4.87755206, 4.6238145 ,
+       9.14665183, 4.31239465, 6.52687831]), array([ 7.65783413,  8.67665382,  8.92385507, 11.90488916,  8.28559885,
+        9.2072366 ,  7.12595264, 11.53947329]), array([17.68973575]), array([4.42315803e-03, 1.80349968e+00, 2.99045688e+00, 8.11571392e+00,
+       8.73554425e+00, 7.68826321e+00, 6.56786634e+00, 6.23353036e+00,
+       3.60436385e+00]), array([ 0.86518946,  2.47494697,  6.97905186, 10.14288394,  9.30646863,
+        6.40580337,  8.07397894,  9.63799143,  1.51338397]), array([12.35440722, 11.31656249, 11.76029865, 11.16605588, 12.20767301,
+       10.34816686, 11.82820444, 11.97481922, 11.4098994 ]), array([13.42512336, 11.77682586, 11.50826346, 11.97127603, 12.20384695,
+       11.62846402, 12.28400355, 12.28544596, 12.33373224]), array([7.97961439, 7.97875158, 7.88263423, 7.26123648, 7.91683169,
+       7.49549014, 7.44596469, 7.68203026, 7.6224099 ]), array([8.95711672, 6.08705769, 6.08777198, 5.72934341, 5.93105769,
+       6.13277198, 6.37427198, 6.61591484, 6.98605769]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([ 0.02097089,  1.48046547,  2.84393447,  7.64381965, 13.08534254,
+       13.45036347, 14.12632341, 11.13825316,  3.80808192]), array([ 0.75436078,  6.07510735,  6.88119421,  8.65217328,  7.27972158,
+        9.09890291, 13.05968975,  8.88530848,  3.72825652]), array([8.33685943, 7.43483401, 7.17221225, 6.69608965, 6.82285137,
+       6.30134031, 6.2842638 , 6.48024266, 7.34499676]), array([8.76774537, 7.04842612, 6.84879423, 6.2648428 , 6.31162595,
+       6.29684654, 6.08213306, 6.23665754, 6.4559312 ]), array([4.5684464 , 4.22913601, 3.97450738, 3.80431486, 5.76166117,
+       3.58257026, 3.64965859, 3.66593174, 4.15317421]), array([8.86318054, 4.70366112, 4.78409256, 4.46483116, 4.22567976,
+       4.44650908, 4.12735482, 4.24810914, 4.61322932]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.,
+       2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.,
+       2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([ 7.63064606,  9.93363213,  7.98133289,  8.4593135 ,  7.83699532,
+        8.74798864, 12.64557465,  4.01992786]), array([8.98445842, 7.39200795, 5.37801776, 5.17594516, 5.67086264,
+       6.16802538, 5.82819903, 6.50537906]), array([10.03947968,  8.46780395,  9.73591258,  6.67080124,  7.1662336 ,
+        7.72079373,  8.28604553,  9.16402045]), array([8.45611948, 6.7006593 , 7.09371031, 5.67331544, 6.12712973,
+       5.99963155, 6.14726102, 7.97898072]), array([0.        , 2.86197075, 6.18360365, 7.97230023, 4.28558365,
+       0.81899801]), array([ 0.        ,  1.0130364 ,  1.45935258,  2.90575986,  9.77227148,
+       20.55195388,  3.66622616,  1.99961012]), array([ 0.        ,  1.23154561,  1.73605772,  2.68536106, 16.46503962,
+       14.915932  , 14.67666928]), array([9.69645756, 6.95445269, 5.97943503, 5.97252731, 5.58685229,
+       5.55142144, 6.0129174 , 7.93012019]), array([6.38194526, 9.02835982, 5.66981762, 4.62706966, 5.50791237,
+       4.82314894, 4.00921461, 5.73508925]), array([7.86502975, 7.83354067, 6.64417382, 6.59885466, 6.8956552 ,
+       8.19377285, 9.35330419, 7.25619506, 9.91158871]), array([5.51443769, 4.93067895, 4.68933621, 6.25931701, 6.31802737,
+       4.58753286, 7.17839013, 5.03633757, 7.93032819]), array([6.14732261, 5.67460317, 5.47191147, 7.76463386, 6.36376625]), array([7.75478992, 8.69391026, 6.95475325, 8.01043732, 6.7612157 ]), array([9.67285714, 6.640625  , 8.50021164, 6.43189395, 7.45348214]), array([6.98646831, 5.68055556, 5.79834724, 5.69698871, 6.98579832]), array([1.52162237e-02, 2.63168402e+00, 9.55005718e+00, 1.00625285e+01,
+       1.87726536e+01, 1.72037749e+01, 1.93759071e+01, 1.28214577e+01,
+       1.70907186e+01, 1.35438101e+01, 1.28979409e+01, 1.22736649e+01,
+       6.06479347e+00, 4.86003321e+00]), array([1.52018891e-02, 2.98870381e+00, 5.74058878e+00, 8.28895331e+00,
+       8.04993218e+00, 1.50953142e+01, 1.69848057e+01, 1.88586276e+01,
+       1.64936254e+01, 1.32092230e+01, 9.93780432e+00, 6.89778489e+00,
+       2.90424663e+00, 1.70510274e+00]), array([6.64563128, 5.88299985, 5.63449468, 4.5642774 , 3.48444437,
+       2.58298407, 6.5964065 , 5.59843409, 8.20069408, 6.69689668,
+       4.72815296, 6.9881605 , 4.92167946, 4.61570918]), array([8.30769231, 6.625     , 6.        , 8.        , 9.08333333,
+       9.        , 7.78571429, 7.71428571, 6.75      , 6.52941176,
+       6.8125    , 6.9375    , 6.875     ]), array([2.40269101, 1.73205356]), array([1.3, 1. ]), array([0.74154589, 0.68688845]), array([6.9375    , 6.16666667, 7.84615385, 4.95      , 5.21052632,
+       4.8       , 5.64705882, 4.45454545, 5.76470588, 6.33333333,
+       5.44444444, 6.6       , 6.73333333]), array([ 5.96      ,  6.2173913 ,  8.625     ,  5.75      ,  5.52      ,
+        5.60869565,  9.26666667,  6.27272727,  6.18181818,  9.42857143,
+        6.94736842, 11.5       ,  8.75      ]), array([ 9.        , 12.5       , 32.        ,  9.2       ,  7.5       ,
+        6.35714286,  5.9375    ,  6.71428571,  7.75      ,  7.58333333,
+        6.        ,  9.4       , 10.44444444]), array([2.33100233, 0.55693582, 1.12386707]), array([1.8       , 1.17647059, 1.06976744]), array([0.84517766, 1.2       , 1.72727273]), array([11.1       , 13.5       , 15.        , 17.16666667, 13.125     ,
+       13.        , 15.        , 11.55555556, 15.28571429, 20.8       ,
+       10.3       , 11.44444444, 13.5       ]), array([1.70998632, 3.31379118, 2.48539922]), array([2.   , 1.8  , 1.375]), array([1.41666667, 1.62711864, 2.50704225]), array([15.28571429, 21.8       , 11.22222222, 11.75      ,  8.9       ,
+       11.125     , 11.75      , 10.        , 23.75      , 11.625     ,
+       13.28571429,  8.45454545,  8.63636364, 18.4       , 19.        ]), array([17.25      , 19.57142857, 10.83333333, 13.66666667,  6.15      ,
+        7.6875    ,  8.26666667,  8.85714286, 12.5       ,  8.57142857,
+        9.91666667,  6.94117647,  7.        ,  8.64285714, 12.6       ]), array([13.14285714, 16.        , 11.        ,  9.        ,  7.7       ,
+        7.7       ,  8.3       , 14.5       , 14.33333333,  9.11111111,
+        8.3       ,  8.2       ,  9.22222222, 11.71428571, 11.85714286]), array([2.48570718, 0.54418605, 1.17647059, 1.11764706]), array([1.375     , 1.55555556, 1.36363636, 1.14705882]), array([1.79746835, 1.85      , 1.57534247, 2.30612245]), array([ 5.64604533,  6.61465651,  5.42437229,  9.06769987,  7.4840332 ,
+        9.35020997, 10.13109025]), array([5.13917637, 4.71669601, 4.32403767, 4.73057871, 5.47816533,
+       4.73487316, 6.43411969]), array([1.80277564, 1.15834453, 0.70878358, 0.06163336, 0.07704169,
+       0.33282012, 1.46599338]), array([1.12716813, 1.12361458, 1.55538926, 1.85492323, 1.68898781,
+       1.50823561, 1.43030312]), array([2.14876712, 2.84363386, 1.79533054, 2.64686904, 1.93338761,
+       2.40909261, 3.12546275]), array([9.62158535, 9.30290469, 7.561774  , 7.24315101, 6.45415373,
+       8.06844117, 5.93913026, 9.37166196, 7.07591185]), array([7.06872891, 8.15119015, 6.83414389, 6.45308399, 5.63167739,
+       7.96845533, 6.56122134, 7.03018884, 6.48341353]), array([10.56033465, 10.50905452,  7.61413171, 10.5696863 ,  9.04485564,
+       10.43247719, 12.8258839 ,  7.77154105, 12.42311849]), array([8.28945701, 7.818532  , 6.57760516, 6.5612999 , 6.74290352,
+       6.55701754, 8.50275591, 5.87241651, 6.49734005]), array([8.22115385, 8.2254902 , 6.37121212, 5.23717949, 8.13265306,
+       7.67592593, 7.37068966, 7.53636364, 8.7244898 ]), array([8.70408163, 9.55952381, 8.07142857, 7.79      , 9.52564103,
+       8.51190476, 9.1875    , 9.2625    , 9.7195122 ]), array([7.5       , 6.30263158, 6.1125    , 4.6372549 , 7.10606061,
+       6.11538462, 5.26595745, 5.56976744, 5.9625    ]), array([7.07352941, 7.53225806, 7.51666667, 6.75      , 5.93055556,
+       6.484375  , 7.83928571, 7.01666667, 6.89393939]), array([7.63225158, 7.98533656, 6.72681842, 4.93300018, 8.125275  ]), array([6.12372436, 5.3525887 , 4.70846362, 4.96125465, 6.39033549]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([ 9.04375453,  9.80317515,  8.6139469 ,  7.03173655,  8.6123715 ,
+        8.25393122,  5.89241137,  6.73712034,  6.0820204 ,  6.08353599,
+        6.13566298,  6.89210197,  5.37192157,  6.26145422,  6.18410163,
+        7.60858508,  9.74792456,  7.64105896, 10.38537831,  4.97032373,
+        5.71803767,  4.6682832 ,  6.15757642,  5.74796391,  7.73379174]), array([16.7833362 ,  7.72596657,  8.70963212,  7.95714285, 10.20431344,
+        9.47090786,  6.78803352, 10.68672396,  6.66592025, 14.76530492,
+        6.7784038 ,  9.32008319,  5.87398262,  5.93227321,  7.87505089,
+        7.7033765 ,  9.97532169,  6.45818388,  6.49083236,  5.64706187,
+        5.40622796,  4.64789435,  5.79313318,  4.85837488,  5.64607   ]), array([2.94627825, 0.75130096, 3.8890873 , 4.59619408, 3.8890873 ,
+       6.18718434, 6.59966329]), array([ 9.76010308, 10.23758478,  7.96866966, 10.93688835,  8.84819996,
+        9.14431502, 10.77065012, 10.31048366,  7.07566628,  9.73446301,
+        8.56574715,  7.94589673, 10.01985323,  7.5414948 , 10.31515615,
+        8.37037583,  7.14088492,  9.24503898, 10.3982131 ,  7.34361893,
+        5.84606841, 12.20969227,  5.22305588,  9.29566462, 10.30643964,
+        8.77697043,  9.19504892,  7.50212411,  9.11377245,  9.50114044,
+        7.72067104,  5.31079955,  7.10428369,  7.71971573,  9.16121708,
+       10.38020053,  7.54331673,  8.56877181, 11.03491549,  9.12979386,
+       10.75546116, 10.22055162,  9.51728275, 11.08468369,  7.88066961,
+        9.09349252, 10.8846646 , 11.3300338 ,  8.88902071]), array([8.81486090e+00, 1.34744149e+01, 9.20806860e+00, 8.19221633e+00,
+       6.58004347e+00, 1.65626962e+01, 7.93358814e+00, 1.21330324e+01,
+       8.62544534e+00, 7.60011685e+00, 1.26091104e+01, 1.13208369e+01,
+       1.05843127e+01, 1.51680502e+01, 3.17813149e+00, 4.18686874e+00,
+       2.52253888e+00, 1.82973625e+01, 4.25612682e+00, 1.01849007e+01,
+       3.99490005e+00, 2.06578235e+00, 1.84435312e+01, 2.48222201e+00,
+       1.23119903e+01, 2.84877015e+01, 8.16713523e+00, 5.24495312e+00,
+       5.55029276e+00, 3.28735278e+00, 5.42281597e+00, 2.55307997e+01,
+       2.20129824e+03, 5.07578899e+00, 2.22633802e+00, 8.22704033e+00,
+       8.76548222e+00, 2.23096425e+00, 3.77830575e+00, 5.63257314e+00,
+       8.11727258e+00, 8.03799618e+00, 5.75056661e+00, 8.95874606e+00,
+       5.86380384e+00, 5.30267660e+00, 6.79587521e+00, 6.59247188e+00,
+       7.40652798e+00]), array([3.00520382, 0.80353043, 1.47313913, 1.94454365, 2.82842712,
+       7.07106781, 3.60624458, 2.230106  , 3.43911025])]
+	weights_curves: [3.0, 3.0, 0.8571428571428571, 0.6923076923076923, 0.6923076923076923, 0.6923076923076923, 0.48, 0.48, 0.44, 1.0833333333333333, 1.0833333333333333, 1.1818181818181819, 0.5416666666666666, 0.5416666666666666, 0.5909090909090909, 1.0833333333333333, 1.0833333333333333, 1.1818181818181819, 0.07142857142857142, 0.08333333333333333, 7.5, 3.0, 12.0, 12.0, 12.0, 12.0, 12.0, 12.0, 7.0, 0.875, 0.875, 0.875, 0.875, 0.875, 0.875, 7.0, 0.6666666666666666, 0.6666666666666666, 0.6666666666666666, 0.6666666666666666, 0.6666666666666666, 0.6666666666666666, 0.6666666666666666, 0.6666666666666666, 0.6666666666666666, 0.6666666666666666, 0.6666666666666666, 0.6666666666666666, 0.6666666666666666, 0.6666666666666666, 0.6666666666666666, 0.6666666666666666, 0.8181818181818182, 0.6363636363636364, 0.8181818181818182, 0.8181818181818182, 0.6923076923076923, 0.6428571428571429, 0.5555555555555556, 0.5555555555555556, 0.7692307692307693, 0.7692307692307693, 0.7692307692307693, 0.7692307692307693, 0.7692307692307693, 0.7692307692307693, 6.0, 6.0, 6.0, 6.0, 1.0, 0.75, 0.8571428571428571, 0.875, 0.875, 0.7777777777777778, 0.7777777777777778, 4.6, 4.6, 4.6, 4.6, 1.2857142857142858, 1.2857142857142858, 0.5714285714285714, 0.38461538461538464, 2.5, 2.5, 2.5, 0.38461538461538464, 0.38461538461538464, 0.38461538461538464, 1.6666666666666667, 1.6666666666666667, 1.6666666666666667, 0.38461538461538464, 1.6666666666666667, 1.6666666666666667, 1.6666666666666667, 0.3333333333333333, 0.3333333333333333, 0.3333333333333333, 1.0, 1.25, 1.25, 1.8571428571428572, 1.8571428571428572, 1.8571428571428572, 1.8571428571428572, 1.8571428571428572, 1.3333333333333333, 1.3333333333333333, 1.3333333333333333, 1.3333333333333333, 1.3333333333333333, 1.3333333333333333, 1.3333333333333333, 1.3333333333333333, 1.2, 1.2, 0.5333333333333333, 1.7272727272727273, 1.7272727272727273, 0.32, 0.32, 1.1428571428571428, 0.16326530612244897, 0.16326530612244897, 0.8888888888888888]
+--------------------------------------------------------------------------------
+Parameter sets: ['PD_20261020_125416__5ce99_0']
+--------------------------------------------------------------------------------
+        parameter          unit  PD_20261020_125416__5ce99_0
+ANG1ANG2_EC50_eat            mM                     0.000013
+    RENSEC_ang2_E dimensionless                     5.157030
+    RENSEC_ang2_t           min                    70.869607
+       BP_ang2_fe dimensionless                     0.157703
+
+PD_20261020_125416__5ce99_0: cost = 31.6631
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Metrics: PD_20261020_125416__5ce99_0
+--------------------------------------------------------------------------------
+              parameter_set       kind   n  k      cost       MSE     RMSE    NRMSE  RMSE_w       R2  within_2fold         AIC         BIC     GMFE      AFE  within_1.25fold  within_1.5fold  within_1sd  within_2sd
+PD_20261020_125416__5ce99_0   training 397  4 31.663144 56.599756 7.523281 0.323230 0.39939 0.980143     89.567430 1610.293858 1626.229603 1.266174 0.931877        72.010178       79.643766    89.61039   97.402597
+PD_20261020_125416__5ce99_0 validation 915  4       NaN 61.588332 7.847823 0.258428 0.40785 0.977539     96.691176 3778.232275 3797.507972 1.124492 1.021612        89.705882       94.117647    79.50000   94.666667
+
+    experiment                                                   mapping       kind  n        MSE      RMSE    NRMSE   RMSE_w          R2  within_2fold     GMFE      AFE  within_1.25fold  within_1.5fold  within_1sd  within_2sd
+    Arafat2005               fm_arafat2005_blood_pressure_systolic_REN10   training  8  26.421002  5.140136 0.045359 0.310208   -1.425474    100.000000 1.042067 0.959631       100.000000      100.000000  100.000000  100.000000
+    Arafat2005              fm_arafat2005_blood_pressure_diastolic_REN10   training  8   4.482272  2.117138 0.028261 0.159625    0.503249    100.000000 1.024058 0.993040       100.000000      100.000000  100.000000  100.000000
+   Biollaz1982                             fm_biollaz1982_ACE_inhibition   training 14   0.031900  0.178605 0.283087 0.746974    0.763840     69.230769 1.654643 0.804551        53.846154       69.230769   25.000000   58.333333
+Burckhardt2015                                   fm_burckhardt2015_renin   training 13  36.511110  6.042442 1.096233 0.742079   -0.290246     38.461538 2.332556 0.470659        15.384615       23.076923   92.307692  100.000000
+Burckhardt2015                           fm_burckhardt2015_angiotensin_I   training 13   0.352019  0.593312 0.356715 0.423189    0.327815    100.000000 1.224022 1.169200        61.538462       76.923077   76.923077   92.307692
+Burckhardt2015                          fm_burckhardt2015_angiotensin_II   training 13   0.274608  0.524031 0.556952 0.469009   -1.544683     46.153846 2.399499 0.416754        15.384615       23.076923  100.000000  100.000000
+Dickstein1987a                  fm_dickstein1987a_ENAPO10_CHF_MAP_change validation 25  71.277831  8.442620 0.519866 0.548065   -0.347346           NaN      NaN      NaN              NaN             NaN   62.500000  100.000000
+Dickstein1987a                   fm_dickstein1987a_ENAIV5_CHF_MAP_change validation 25  32.885692  5.734605 0.425416 0.385942   -0.690816           NaN      NaN      NaN              NaN             NaN  100.000000  100.000000
+Dickstein1987a                   fm_dickstein1987a_EATIV5_CHF_MAP_change validation 25 160.890653 12.684268 0.606323 0.640235   -2.697480           NaN      NaN      NaN              NaN             NaN   33.333333   91.666667
+  Donnelly1990                         fm_ENAs20_blood_pressure_systolic   training 12 330.066822 18.167741 0.130967 0.339674   -0.561037    100.000000 1.118159 1.118159       100.000000      100.000000   50.000000  100.000000
+  Donnelly1990                        fm_ENAs20_blood_pressure_diastolic   training 12  35.151862  5.928901 0.067692 0.195165    0.353316    100.000000 1.059743 1.044092       100.000000      100.000000  100.000000  100.000000
+  Donnelly1990                           fm_ENAs20_relative_ACE_activity   training 11   0.002164  0.046515 0.168502 0.259056    0.968719    100.000000 1.375278 0.727126        27.272727       54.545455         NaN         NaN
+  Donnelly1990                         fm_ENAm20_blood_pressure_systolic   training 24 513.324469 22.656665 0.172231 0.317788   -5.200895    100.000000 1.168680 1.168680        95.833333      100.000000  100.000000  100.000000
+  Donnelly1990                        fm_ENAm20_blood_pressure_diastolic   training 24  53.178759  7.292377 0.086564 0.174582   -0.875290    100.000000 1.077490 1.077490       100.000000      100.000000   66.666667  100.000000
+  Donnelly1990                           fm_ENAm20_relative_ACE_activity   training 22   0.025212  0.158782 0.525592 0.571379    0.596958     54.545455 1.879149 0.532156         4.545455       13.636364         NaN         NaN
+  Donnelly1990                           fm_PLAC_blood_pressure_systolic validation 12 239.185735 15.465631 0.094418 0.299137   -5.376306    100.000000 1.087449 1.087449       100.000000      100.000000   66.666667   66.666667
+  Donnelly1990                          fm_PLAC_blood_pressure_diastolic validation 12  69.482631  8.335624 0.084662 0.298949   -4.512825    100.000000 1.077459 1.077290       100.000000      100.000000   33.333333   66.666667
+  Donnelly1990                             fm_PLAC_relative_ACE_activity validation 11   0.004748  0.068905 0.073158 0.112474   -2.468950    100.000000 1.062547 1.062547       100.000000      100.000000         NaN         NaN
+  Donnelly1990             fm_ENAs20_P3_blood_pressure_systolic__change_ validation 14 457.555267 21.390542 0.668600 0.252707   -0.379551           NaN      NaN      NaN              NaN             NaN         NaN         NaN
+  Donnelly1990                        fm_ENAs20_P3_relative_ACE_activity validation 12   0.010167  0.100830 0.278333 0.113629    0.879843     83.333333 1.633454 0.612200        16.666667       33.333333         NaN         NaN
+       Her2021              fm_po_ENA10m_control_blood_pressure_systolic validation  2  10.636932  3.261431 0.030013 0.218664    0.878165    100.000000 1.022957 1.022957       100.000000      100.000000  100.000000  100.000000
+       Her2021                fm_po_ENA10m_G143E_blood_pressure_systolic validation  2 112.573351 10.610059 0.090637 0.390910 -119.909361    100.000000 1.070352 0.934272       100.000000      100.000000  100.000000  100.000000
+     Howes1991                   fm_howes1991_po_ENA10_SBP_change_supine validation  1  43.182535  6.571342 0.328567 2.078041         NaN           NaN      NaN      NaN              NaN             NaN    0.000000  100.000000
+     Howes1991                   fm_howes1991_po_ENA10_DBP_change_supine validation  1  36.572998  6.047561 0.403171 2.419025         NaN           NaN      NaN      NaN              NaN             NaN    0.000000  100.000000
+     Howes1991      fm_howes1991_po_ENA10_HCTZ25_multi_SBP_change_supine validation  1  31.039851  5.571342 0.293229 1.400147         NaN           NaN      NaN      NaN              NaN             NaN  100.000000  100.000000
+     Howes1991      fm_howes1991_po_ENA10_HCTZ25_multi_DBP_change_supine validation  1  49.668121  7.047561 0.440473 2.491689         NaN           NaN      NaN      NaN              NaN             NaN    0.000000  100.000000
+     Howes1991      fm_howes1991_po_ENA10_HCTZ25_combi_SBP_change_supine validation  1   6.611800  2.571342 0.160709 0.742282         NaN           NaN      NaN      NaN              NaN             NaN  100.000000  100.000000
+     Howes1991      fm_howes1991_po_ENA10_HCTZ25_combi_DBP_change_supine validation  1  16.382753  4.047561 0.311351 1.739111         NaN           NaN      NaN      NaN              NaN             NaN  100.000000  100.000000
+  Ishizaki1988                   fm_ishizaki1988_po_ENA10_ACE_inhibition   training  1   0.000030  0.005463 0.006344 0.076909         NaN    100.000000 1.006344 1.006344       100.000000      100.000000  100.000000  100.000000
+  Ishizaki1988          fm_ishizaki1988_po_ENA10_blood_pressure_systolic validation  8  70.421613  8.391759 0.070620 0.176532  -20.308591    100.000000 1.068227 0.936131       100.000000      100.000000  100.000000  100.000000
+  Ishizaki1988         fm_ishizaki1988_po_ENA10_blood_pressure_diastolic validation  8  18.347473  4.283395 0.063799 0.144089    0.207373    100.000000 1.047628 1.027670       100.000000      100.000000  100.000000  100.000000
+  Ishizaki1988                       fm_ishizaki1988_po_ENA10_heart_rate validation  8  90.146861  9.494570 0.120180 0.326725   -8.917649    100.000000 1.127784 0.886695       100.000000      100.000000   37.500000  100.000000
+  Ishizaki1988   fm_ishizaki1988_po_CIM400_ENA10_blood_pressure_systolic validation  8  40.539305  6.367048 0.053621 0.146238   -4.175737    100.000000 1.047997 0.959168       100.000000      100.000000  100.000000  100.000000
+  Ishizaki1988  fm_ishizaki1988_po_CIM400_ENA10_blood_pressure_diastolic validation  8  35.899491  5.991618 0.084810 0.207947   -0.002314    100.000000 1.071232 1.012595       100.000000      100.000000  100.000000  100.000000
+  Ishizaki1988                fm_ishizaki1988_po_CIM400_ENA10_heart_rate validation  8  71.755787  8.470879 0.108945 0.319891   -5.165658    100.000000 1.109693 0.901151       100.000000      100.000000   62.500000  100.000000
+  Ishizaki1988            fm_ishizaki1988_po_CIM400_ENA10_ACE_inhibition validation  1   0.000060  0.007768 0.008884 0.098858         NaN    100.000000 1.008964 0.991116       100.000000      100.000000  100.000000  100.000000
+     Lees1987a           fm_lees1987a_po_ENA10_young_day1_ACE_inhibition   training  9   0.009029  0.095021 0.164095 0.248756    0.843022     88.888889 1.250933 0.927668        66.666667       77.777778   87.500000  100.000000
+     Lees1987a           fm_lees1987a_po_ENA10_young_day8_ACE_inhibition validation  9   0.005913  0.076899 0.125160 0.190463    0.861972    100.000000 1.138803 1.124988        77.777778       88.888889  100.000000  100.000000
+     Lees1987a  fm_lees1987a_po_ENA10_young_day1_blood_pressure_systolic validation  9  28.479741  5.336641 0.048133 0.131641   -0.045853    100.000000 1.039097 0.996003       100.000000      100.000000  100.000000  100.000000
+     Lees1987a  fm_lees1987a_po_ENA10_young_day8_blood_pressure_systolic validation  9   9.560202  3.091958 0.027766 0.078964   -0.140298    100.000000 1.024150 0.983793       100.000000      100.000000  100.000000  100.000000
+     Lees1987a fm_lees1987a_po_ENA10_young_day1_blood_pressure_diastolic validation  9   7.903279  2.811277 0.049452 0.113423   -0.789562    100.000000 1.033956 0.975319       100.000000      100.000000  100.000000  100.000000
+     Lees1987a fm_lees1987a_po_ENA10_young_day8_blood_pressure_diastolic validation  9   4.639415  2.153930 0.038415 0.082644    0.626000    100.000000 1.031462 0.983121       100.000000      100.000000  100.000000  100.000000
+     Lees1987a               fm_lees1987a_po_ENA10_young_day1_heart_rate validation  9  24.691404  4.969045 0.073087 0.084394   -0.196146    100.000000 1.065271 1.031863       100.000000      100.000000         NaN         NaN
+     Lees1987a               fm_lees1987a_po_ENA10_young_day8_heart_rate validation  9  21.508187  4.637692 0.068724 0.079355   -0.417424    100.000000 1.060303 1.039017       100.000000      100.000000         NaN         NaN
+     Lees1987a           fm_lees1987a_po_ENA10_elder_day1_ACE_inhibition validation  9   0.011921  0.109182 0.171667 0.275379    0.817672     88.888889 1.495165 0.837375        66.666667       88.888889   87.500000  100.000000
+     Lees1987a           fm_lees1987a_po_ENA10_elder_day8_ACE_inhibition validation  9   0.016244  0.127454 0.183339 0.291117    0.536777    100.000000 1.199368 1.199368        77.777778       88.888889   55.555556  100.000000
+     Lees1987a  fm_lees1987a_po_ENA10_elder_day1_blood_pressure_systolic validation  9 358.738852 18.940403 0.126539 0.264445   -0.588404    100.000000 1.104905 1.104894       100.000000      100.000000   50.000000  100.000000
+     Lees1987a  fm_lees1987a_po_ENA10_elder_day8_blood_pressure_systolic validation  9 237.437635 15.409011 0.102666 0.213124   -3.237701    100.000000 1.089553 1.088633       100.000000      100.000000  100.000000  100.000000
+     Lees1987a fm_lees1987a_po_ENA10_elder_day1_blood_pressure_diastolic validation  9  55.721481  7.464682 0.091095 0.152439   -0.138960    100.000000 1.075244 1.070063       100.000000      100.000000  100.000000  100.000000
+     Lees1987a fm_lees1987a_po_ENA10_elder_day8_blood_pressure_diastolic validation  9  58.520952  7.649899 0.095413 0.162753   -1.640972    100.000000 1.084018 1.080248       100.000000      100.000000  100.000000  100.000000
+     Lees1987a               fm_lees1987a_po_ENA10_elder_day1_heart_rate validation  9  20.616449  4.540534 0.062839 0.072561   -0.327826    100.000000 1.061103 0.970243       100.000000      100.000000         NaN         NaN
+     Lees1987a               fm_lees1987a_po_ENA10_elder_day8_heart_rate validation  9  12.934958  3.596520 0.051466 0.059427   -0.001080    100.000000 1.045839 1.003050       100.000000      100.000000         NaN         NaN
+ Lowenthal1985                         fm_lowenthal1985_po_ENA10_III_DBP validation 11  20.279230  4.503247 0.063431 0.081141   -0.098232    100.000000 1.045634 0.969235       100.000000      100.000000         NaN         NaN
+ Lowenthal1985                          fm_lowenthal1985_po_ENA10_II_DBP validation 11  20.756888  4.555973 0.049584 0.055939    0.387345    100.000000 1.040248 1.035385       100.000000      100.000000         NaN         NaN
+ Lowenthal1985          fm_lowenthal1985_po_ENA10_I_without_dialysis_DBP validation 11  21.737393  4.662338 0.068686 0.087864    0.501427    100.000000 1.056249 1.032018       100.000000      100.000000         NaN         NaN
+ Lowenthal1985             fm_lowenthal1985_po_ENA10_I_with_dialysis_DBP validation 11  12.784949  3.575605 0.052528 0.067194    0.356439    100.000000 1.046797 0.970204       100.000000      100.000000         NaN         NaN
+ MacDonald1993            fm_macdonald1993_po_ENA10_young_ACE_inhibition   training 13   0.033093  0.181915 0.373072 0.438993    0.545101     83.333333 1.467275 1.067357        50.000000       58.333333         NaN         NaN
+ MacDonald1993            fm_macdonald1993_po_ENA10_elder_ACE_inhibition validation 14   0.023532  0.153401 0.264196 0.299570    0.685795     92.307692 1.230777 1.070891        61.538462       92.307692         NaN         NaN
+     Marzo2002                  fm_marzo2002_ENA10_relative_ACE_activity   training 18   0.017586  0.132611 0.344654 0.363297    0.726505     94.444444 1.359301 1.359301        33.333333       72.222222         NaN         NaN
+     Marzo2002                  fm_marzo2002_ENA20_relative_ACE_activity   training 18   0.004321  0.065736 0.178776 0.188446    0.934120    100.000000 1.222593 1.043580        61.111111       83.333333         NaN         NaN
+     Marzo2002                fm_marzo2002_ENA10_blood_pressure_systolic validation 13  50.849089  7.130855 0.067963 0.084297   -0.374520    100.000000 1.055798 0.947151       100.000000      100.000000         NaN         NaN
+     Marzo2002               fm_marzo2002_ENA10_blood_pressure_diastolic validation 13  46.006248  6.782791 0.098852 0.122611   -5.714211    100.000000 1.099454 0.909543       100.000000      100.000000         NaN         NaN
+     Marzo2002                             fm_marzo2002_ENA10_heart_rate validation 13  10.153846  3.186510 0.047342 0.058721   -0.009412    100.000000 1.037051 0.996518       100.000000      100.000000         NaN         NaN
+     Marzo2002                fm_marzo2002_ENA20_blood_pressure_systolic validation 13  37.386486  6.114449 0.056374 0.069924   -0.832458    100.000000 1.050817 0.953279       100.000000      100.000000         NaN         NaN
+     Marzo2002               fm_marzo2002_ENA20_blood_pressure_diastolic validation 13  13.805584  3.715587 0.053491 0.066348   -0.113141    100.000000 1.047694 0.979306       100.000000      100.000000         NaN         NaN
+     Marzo2002                             fm_marzo2002_ENA20_heart_rate validation 13  14.846154  3.853071 0.054863 0.068049   -0.504197    100.000000 1.041270 0.969194       100.000000      100.000000         NaN         NaN
+   Matalka2002           fm_matalka2002_po_ENA10_blood_pressure_systolic   training  8  29.757828  5.455074 0.048261 0.360574   -1.833740    100.000000 1.045213 0.956747       100.000000      100.000000  100.000000  100.000000
+   Matalka2002          fm_matalka2002_po_ENA10_blood_pressure_diastolic   training  8   4.442642  2.107758 0.028207 0.171048    0.507186    100.000000 1.024101 0.992702       100.000000      100.000000  100.000000  100.000000
+   Matalka2002           fm_matalka2002_po_ENA20_blood_pressure_systolic   training  8  40.139752  6.335594 0.057575 0.409188   -0.224941    100.000000 1.050638 0.951803       100.000000      100.000000  100.000000  100.000000
+   Matalka2002          fm_matalka2002_po_ENA20_blood_pressure_diastolic   training  8  16.873677  4.107758 0.054693 0.340785    0.493611    100.000000 1.050463 0.983884       100.000000      100.000000  100.000000  100.000000
+    Oguchi1993                               fm_po_ENA5_1_ACE_inhibition validation  6   0.015653  0.125112 0.313260 0.536163    0.767695     80.000000 1.532534 0.800417        40.000000       60.000000   60.000000  100.000000
+    Oguchi1993                               fm_po_ENA5_2_ACE_inhibition validation  8   0.025886  0.160893 0.343881 0.503850    0.731260     85.714286 1.365235 0.994474        42.857143       57.142857   42.857143  100.000000
+    Oguchi1993                               fm_po_ENA5_3_ACE_inhibition validation  7   0.103644  0.321938 0.632177 0.833092    0.183749     66.666667 1.782928 1.702226        50.000000       50.000000   16.666667   66.666667
+   Ohnishi1989                  fm_ena10_blood_pressure_systolic_healthy   training  8  66.610910  8.161551 0.068993 0.157623  -13.430322    100.000000 1.066333 0.937801       100.000000      100.000000  100.000000  100.000000
+   Ohnishi1989                 fm_ena10_blood_pressure_diastolic_healthy   training  8  20.162198  4.490234 0.066781 0.137525    0.122239    100.000000 1.047278 1.038840       100.000000      100.000000  100.000000  100.000000
+   Ohnishi1989                fm_ena10_blood_pressure_systolic_cirrhosis validation  9  43.802652  6.618357 0.055662 0.133918   -1.478562    100.000000 1.048627 0.959989       100.000000      100.000000  100.000000  100.000000
+   Ohnishi1989               fm_ena10_blood_pressure_diastolic_cirrhosis validation  9   4.916512  2.217321 0.030632 0.062042    0.634403    100.000000 1.027286 0.987621       100.000000      100.000000  100.000000  100.000000
+  Portoles2004                    fm_ena20_ENA20_blood_pressure_systolic   training  5  12.527931  3.539482 0.032281 0.162599    0.291972    100.000000 1.021632 0.980880       100.000000      100.000000  100.000000  100.000000
+  Portoles2004                    fm_ena20_REN20_blood_pressure_systolic   training  5  24.746938  4.974629 0.044925 0.257347    0.106609    100.000000 1.039565 0.961949       100.000000      100.000000  100.000000  100.000000
+  Portoles2004                   fm_ena20_ENA20_blood_pressure_diastolic   training  5   3.289931  1.813817 0.027305 0.152757    0.749746    100.000000 1.022555 1.019991       100.000000      100.000000  100.000000  100.000000
+  Portoles2004                   fm_ena20_REN20_blood_pressure_diastolic   training  5   1.208194  1.099179 0.017075 0.090766    0.918932    100.000000 1.013677 0.994385       100.000000      100.000000  100.000000  100.000000
+   Ribeiro1996                             fm_ena20_ACE_inhibition_EUP20   training 14   0.000537  0.023168 0.031555 0.098747    0.991996    100.000000 1.025228 1.003037       100.000000      100.000000  100.000000  100.000000
+   Ribeiro1996                             fm_ena20_ACE_inhibition_REN20   training 14   0.001560  0.039493 0.054890 0.165917    0.974833    100.000000 1.054063 1.018355        92.307692      100.000000  100.000000  100.000000
+  Schwartz1985                                    fm_ENA5_CHF_MAP_supine validation 14  15.680609  3.959875 0.048576 0.085071    0.067024    100.000000 1.042956 0.971064       100.000000      100.000000  100.000000  100.000000
+  Schwartz1985                                fm_placebo20_HT_MAP_supine validation 13  46.905983  6.848794 0.062833 0.106014  -18.055556    100.000000 1.061272 1.061272       100.000000      100.000000  100.000000  100.000000
+  Schwartz1985                     fm_placebo20_HT_relative_ACE_activity validation  2   0.002716  0.052114 0.050262 0.104589   -1.000000    100.000000 1.036195 0.965069       100.000000      100.000000  100.000000  100.000000
+  Schwartz1985                                 fm_placebo20_HT_PRA_ratio validation  2   0.026627  0.163178 0.184463 0.291661   -1.000000    100.000000 1.140175 1.140175        50.000000      100.000000  100.000000  100.000000
+  Schwartz1985                         fm_placebo20_HT_aldosterone_ratio validation  2   0.010271  0.101344 0.094567 0.123924   -1.000000    100.000000 1.069263 0.935224       100.000000      100.000000  100.000000  100.000000
+  Schwartz1985                                    fm_ENA20_HT_MAP_supine validation 13  36.354843  6.029498 0.060156 0.090629   -0.484768    100.000000 1.055751 1.043933       100.000000      100.000000  100.000000  100.000000
+  Schwartz1985                fm_ENA20_HT_blood_pressure_systolic_supine validation 13  27.885881  5.280708 0.038352 0.062860   -0.181724    100.000000 1.033719 0.978369       100.000000      100.000000  100.000000  100.000000
+  Schwartz1985               fm_ENA20_HT_blood_pressure_diastolic_supine validation 13  27.720270  5.265004 0.056241 0.137412   -1.667839    100.000000 1.046436 0.956094       100.000000      100.000000   84.615385   92.307692
+  Schwartz1985                         fm_ENA20_HT_relative_ACE_activity validation  3   0.013907  0.117927 0.324271 0.440855    0.931327     66.666667 2.180406 2.180406        33.333333       33.333333   66.666667   66.666667
+  Schwartz1985                                     fm_ENA20_HT_PRA_ratio validation  3  10.078020  3.174590 0.745338 1.027230   -0.763533     33.333333 2.014026 0.496518        33.333333       33.333333  100.000000  100.000000
+  Schwartz1985                             fm_ENA20_HT_aldosterone_ratio validation  3   0.074804  0.273503 0.541049 0.895997    0.391162     66.666667 1.685679 1.685679        33.333333       33.333333   66.666667   66.666667
+  Schwartz1985                                fm_placebo40_HT_MAP_supine validation 13   9.264957  3.043839 0.028883 0.065943   -0.694565    100.000000 1.025970 1.018739       100.000000      100.000000  100.000000  100.000000
+  Schwartz1985                     fm_placebo40_HT_relative_ACE_activity validation  3   0.027367  0.165430 0.145792 0.317090   -1.967256    100.000000 1.130470 0.884588       100.000000      100.000000  100.000000  100.000000
+  Schwartz1985                                 fm_placebo40_HT_PRA_ratio validation  3   0.006667  0.081650 0.081650 0.132811    0.000000    100.000000 1.069178 1.003356       100.000000      100.000000  100.000000  100.000000
+  Schwartz1985                         fm_placebo40_HT_aldosterone_ratio validation  3   0.060626  0.246223 0.245022 0.457140   -0.000397    100.000000 1.228522 1.026744        33.333333      100.000000  100.000000  100.000000
+  Schwartz1985                                    fm_ENA40_HT_MAP_supine validation 15  34.529417  5.876174 0.061253 0.147568   -0.072490    100.000000 1.045582 1.001836       100.000000      100.000000   80.000000   93.333333
+  Schwartz1985                fm_ENA40_HT_blood_pressure_systolic_supine validation 15  42.292116  6.503239 0.052165 0.110494   -0.235809    100.000000 1.042997 0.990583       100.000000      100.000000   93.333333   93.333333
+  Schwartz1985               fm_ENA40_HT_blood_pressure_diastolic_supine validation 15  29.601237  5.440702 0.064668 0.139387   -0.234299    100.000000 1.046477 0.979120       100.000000      100.000000   80.000000   93.333333
+  Schwartz1985                         fm_ENA40_HT_relative_ACE_activity validation  4   0.043177  0.207790 0.676916 0.704421    0.734060     25.000000 3.430726 1.876865        25.000000       25.000000   50.000000   50.000000
+  Schwartz1985                                     fm_ENA40_HT_PRA_ratio validation  4  10.620813  3.258959 0.750755 0.922427   -1.099223     50.000000 2.007796 0.498059        25.000000       50.000000  100.000000  100.000000
+  Schwartz1985                             fm_ENA40_HT_aldosterone_ratio validation  4   0.180175  0.424470 0.432853 0.723546   -0.173962     75.000000 1.380314 0.724473        50.000000       75.000000   75.000000  100.000000
+ Shionoiri1985                          fm_ENA10_blood_pressure_systolic   training  7 167.735770 12.951284 0.084826 0.342006   -0.139897    100.000000 1.072075 1.067704       100.000000      100.000000   57.142857  100.000000
+ Shionoiri1985                         fm_ENA10_blood_pressure_diastolic   training  7 100.509517 10.025443 0.105387 0.327812   -0.329096    100.000000 1.088463 1.088463       100.000000      100.000000   85.714286  100.000000
+ Shionoiri1985                            fm_ENA10_relative_ACE_activity   training  7   0.035522  0.188473 0.586918 0.849710    0.685521     42.857143 2.203654 1.868054        28.571429       28.571429   60.000000  100.000000
+ Shionoiri1985                                        fm_ENA10_PRA_ratio   training  7   3.680768  1.918533 0.627720 1.111117   -0.478360     42.857143 1.801779 0.555007        28.571429       28.571429   85.714286  100.000000
+ Shionoiri1985                             fm_ENA10_angiotensin_II_ratio   training  7   0.019361  0.139143 0.246238 0.512421    0.654374    100.000000 1.292170 0.927482        57.142857       85.714286   85.714286  100.000000
+    Sunaga1995                       fm_ENA5_day_blood_pressure_systolic   training  9  16.881808  4.108748 0.034293 0.115516    0.342347    100.000000 1.028287 1.012498       100.000000      100.000000  100.000000  100.000000
+    Sunaga1995                      fm_ENA5_day_blood_pressure_diastolic   training  9   7.855572  2.802779 0.040468 0.124816    0.030432    100.000000 1.033745 1.022925       100.000000      100.000000  100.000000  100.000000
+    Sunaga1995                    fm_PLACEBO_day_blood_pressure_systolic validation  9  16.042144  4.005264 0.030884 0.111253   -0.372815    100.000000 1.022729 0.984245       100.000000      100.000000  100.000000  100.000000
+    Sunaga1995                   fm_PLACEBO_day_blood_pressure_diastolic validation  9   6.852635  2.617754 0.035264 0.109533   -0.635939    100.000000 1.027259 0.978384       100.000000      100.000000  100.000000  100.000000
+    Sunaga1995                  fm_PLACEBO_night_blood_pressure_systolic validation  9  17.040370  4.127998 0.032719 0.102371   -1.174005    100.000000 1.024298 1.024298       100.000000      100.000000  100.000000  100.000000
+    Sunaga1995                     fm_ENA5_night_blood_pressure_systolic validation  9  46.738681  6.836569 0.058549 0.204119   -0.231604    100.000000 1.049896 1.047534       100.000000      100.000000  100.000000  100.000000
+    Sunaga1995                 fm_PLACEBO_night_blood_pressure_diastolic validation  9   6.082920  2.466358 0.033913 0.096201   -2.416615    100.000000 1.028694 1.028694       100.000000      100.000000  100.000000  100.000000
+    Sunaga1995                    fm_ENA5_night_blood_pressure_diastolic validation  9   8.575918  2.928467 0.043457 0.131428    0.140817    100.000000 1.035775 1.023449       100.000000      100.000000  100.000000  100.000000
+  Tsuruoka2007         fm_tsuruoka2007_enamal2p5_blood_pressure_systolic validation  5 171.537500 13.097233 0.089303 0.262582  -13.085389    100.000000 1.094888 0.913335       100.000000      100.000000  100.000000  100.000000
+  Tsuruoka2007        fm_tsuruoka2007_enamal2p5_blood_pressure_diastolic validation  5  77.137855  8.782816 0.120842 0.321046   -9.110341    100.000000 1.129283 0.885518       100.000000      100.000000   80.000000  100.000000
+      Wade1992                   fm_wade1992_ENA10_relative_ACE_activity   training 15   0.010703  0.103454 0.222558 0.229857    0.859530    100.000000 1.234927 0.887595        66.666667       80.000000         NaN         NaN
+   Weisser1992                fm_weisser1992_ENA10_relative_ACE_activity validation 11   0.003765  0.061360 0.195805 0.363930    0.958270    100.000000 1.229433 1.097328        54.545455      100.000000         NaN         NaN
+   Weisser1992         fm_weisser1992_ENA10_HCTZ25_relative_ACE_activity validation 11   0.009538  0.097662 0.322107 0.598681    0.902077    100.000000 1.393055 1.241107        36.363636       54.545455         NaN         NaN
+     Witte1993       fm_witte1993_morning_ENAs10_blood_pressure_systolic validation 25 198.205964 14.078564 0.106655 0.155061   -0.940098    100.000000 1.086572 1.039360        96.000000      100.000000   76.000000  100.000000
+     Witte1993      fm_witte1993_morning_ENAs10_blood_pressure_diastolic validation 25 100.248676 10.012426 0.131404 0.186884   -0.677919    100.000000 1.109304 1.052234        84.000000      100.000000   68.000000  100.000000
+     Witte1993         fm_witte1993_morning_ENAs10_relative_ACE_activity validation  7   0.068241  0.261230 0.910663 2.323875    0.229820     42.857143 1.994823 1.994823        14.285714       28.571429   28.571429   28.571429
+     Witte1993       fm_witte1993_morning_ENAm10_blood_pressure_systolic validation 49 166.787288 12.914615 0.096617 0.117775   -0.608699    100.000000 1.074307 1.046128       100.000000      100.000000   71.428571   97.959184
+     Witte1993      fm_witte1993_morning_ENAm10_blood_pressure_diastolic validation 49  79.107342  8.894231 0.115366 0.163230   -0.624987    100.000000 1.091366 1.058534        91.836735      100.000000   74.468085   85.106383
+     Witte1993         fm_witte1993_morning_ENAm10_relative_ACE_activity validation  9   0.060822  0.246622 0.893333 1.598156   -1.301009     44.444444 1.829959 1.752801        11.111111       33.333333   22.222222   44.444444
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Optimization results: PD_20261020_125416__5ce99
+--------------------------------------------------------------------------------
+   run  success    duration       cost  ANG1ANG2_EC50_eat  RENSEC_ang2_E  RENSEC_ang2_t  BP_ang2_fe                                message                                                  x                           x0
+0    2     True  106.672603  31.663120           0.000013       5.157030      70.869607    0.157703  Optimization terminated successfully.  [1.2801334606964112e-05, 5.157030482265481, 70...  [8.6e-06, 24.0, 78.0, 0.13]
+1    1     True   91.021833  31.677848           0.000013       4.746468      63.495728    0.153202  Optimization terminated successfully.  [1.272644493603897e-05, 4.746467613873059, 63....  [8.6e-06, 24.0, 78.0, 0.13]
+2    0     True  131.444151  31.716595           0.000012       5.757451      68.563516    0.162052  Optimization terminated successfully.  [1.2417324376152937e-05, 5.7574511448943735, 6...  [8.6e-06, 24.0, 78.0, 0.13]
+--------------------------------------------------------------------------------
+Optimal parameters:
+	'ANG1ANG2_EC50_eat': Q(1.2801334606964112e-05, 'mmol/l'),  # [1e-07 - 0.0001]
+	'RENSEC_ang2_E': Q(5.157030482265481, 'dimensionless'),  # [0.1 - 50]
+	'RENSEC_ang2_t': Q(70.86960666984189, 'min'),  # [1.0 - 600.0]
+	'BP_ang2_fe': Q(0.15770254549216242, 'dimensionless'),  # [0.01 - 1]
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Identifiability 'PD_20261020_125416__5ce99'
+--------------------------------------------------------------------------------
+parameter set: PD_20261020_125416__5ce99_0
+cost: 31.6631
+cost_min: 31.6631
+alpha: 0.95
+degrees of freedom: 1
+threshold: 33.5838
+reoptimize: True
+duration: 81.0 s
+
+        parameter     value          unit  lower_bound  upper_bound  ci_lower   ci_upper        identifiability  n_points  cost_min  converged
+ANG1ANG2_EC50_eat  0.000013            mM 1.000000e-07       0.0001  0.000009   0.000017           identifiable        17  31.66312       True
+    RENSEC_ang2_E  5.157030 dimensionless 1.000000e-01      50.0000  0.798767        NaN non_identifiable_upper        15  31.66312       True
+    RENSEC_ang2_t 70.869607           min 1.000000e+00     600.0000       NaN 299.242941 non_identifiable_lower        15  31.66312       True
+       BP_ang2_fe  0.157703 dimensionless 1.000000e-02       1.0000  0.095943   0.216029           identifiable        15  31.66312       True
+--------------------------------------------------------------------------------

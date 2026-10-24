@@ -1,0 +1,12 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	min	max	comments	mean_unit	value_unit	count_unit
+Thongnopnua2005		all	12	ENA5	concentration	enalaprilat	plasma	HPLC	enalaprilat	0.510407239819005	hr		9.990249310422724e-06							mole/meter^3	ng/ml	dimensionless
+Thongnopnua2005		all	12	ENA5	concentration	enalaprilat	plasma	HPLC	enalaprilat	1.49864253393665	hr		2.1162141012400804e-05							mole/meter^3	ng/ml	dimensionless
+Thongnopnua2005		all	12	ENA5	concentration	enalaprilat	plasma	HPLC	enalaprilat	3.01900452488688	hr		6.28418908236268e-05							mole/meter^3	ng/ml	dimensionless
+Thongnopnua2005		all	12	ENA5	concentration	enalaprilat	plasma	HPLC	enalaprilat	3.51855203619909	hr		6.595712985590923e-05							mole/meter^3	ng/ml	dimensionless
+Thongnopnua2005		all	12	ENA5	concentration	enalaprilat	plasma	HPLC	enalaprilat	3.99638009049774	hr		5.972665179134433e-05							mole/meter^3	ng/ml	dimensionless
+Thongnopnua2005		all	12	ENA5	concentration	enalaprilat	plasma	HPLC	enalaprilat	4.49592760180995	hr		5.349617372677971e-05							mole/meter^3	ng/ml	dimensionless
+Thongnopnua2005		all	12	ENA5	concentration	enalaprilat	plasma	HPLC	enalaprilat	4.99547511312217	hr		6.54200196779295e-05							mole/meter^3	ng/ml	dimensionless
+Thongnopnua2005		all	12	ENA5	concentration	enalaprilat	plasma	HPLC	enalaprilat	5.51674208144796	hr		5.886727550657676e-05							mole/meter^3	ng/ml	dimensionless
+Thongnopnua2005		all	12	ENA5	concentration	enalaprilat	plasma	HPLC	enalaprilat	7.01538461538461	hr		4.608405327065968e-05							mole/meter^3	ng/ml	dimensionless
+Thongnopnua2005		all	12	ENA5	concentration	enalaprilat	plasma	HPLC	enalaprilat	8.99185520361991	hr		3.1474656429611226e-05							mole/meter^3	ng/ml	dimensionless
+Thongnopnua2005		all	12	ENA5	concentration	enalaprilat	plasma	HPLC	enalaprilat	12.0108597285068	hr		2.1269563047996752e-05							mole/meter^3	ng/ml	dimensionless

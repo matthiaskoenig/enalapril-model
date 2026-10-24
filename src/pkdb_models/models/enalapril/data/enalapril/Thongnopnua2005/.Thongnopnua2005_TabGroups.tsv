@@ -1,0 +1,6 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Thongnopnua2005	all	12	NA	age	12	NA	NA	NA	NA	NA	NA	25.0	40.0	yr	NA
+Thongnopnua2005	all	12	NA	healthy	12	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Thongnopnua2005	all	12	NA	species	12	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Thongnopnua2005	all	12	NA	overnight fast	12	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Thongnopnua2005	all	12	NA	sex	12	NA	M	NA	NA	NA	NA	NA	NA	NA	NA

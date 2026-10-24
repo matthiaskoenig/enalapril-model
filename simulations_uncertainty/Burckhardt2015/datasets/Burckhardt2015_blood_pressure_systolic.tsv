@@ -1,0 +1,2 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	median	mean_pm	mean_sd	mean_se	min	max	comments	mean_unit	value_unit	median_unit	count_unit
+Burckhardt2015		enalapril	9	ENA20	blood pressure systolic			NR	ENA20_blood pressure systolic	0	hr		109.0			11.0	3.66666666666667			baseline	mmHg	mmHg	mmHg	dimensionless

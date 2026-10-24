@@ -1,0 +1,21 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Matalka2002		all	48.0	ENA20	concentration	enalaprilat	plasma	ELISA	ENA20_enalaprilat	0.0	hr		0.0					mole/meter^3	ng/ml	dimensionless
+Matalka2002		all	48.0	ENA20	concentration	enalaprilat	plasma	ELISA	ENA20_enalaprilat	0.25	hr		1.9419097357751523e-06	3.92001047897652	6.449992429364518e-05	9.30976216341164e-06		mole/meter^3	ng/ml	dimensionless
+Matalka2002		all	48.0	ENA20	concentration	enalaprilat	plasma	ELISA	ENA20_enalaprilat	0.5	hr		4.658327517183897e-06	2.97559271711127	2.6899207842998266e-05	3.882566222285685e-06		mole/meter^3	ng/ml	dimensionless
+Matalka2002		all	48.0	ENA20	concentration	enalaprilat	plasma	ELISA	ENA20_enalaprilat	0.75	hr		1.2418446964696165e-05	9.8685761690608	0.00011021034381897285	1.5907492917841288e-05		mole/meter^3	ng/ml	dimensionless
+Matalka2002		all	48.0	ENA20	concentration	enalaprilat	plasma	ELISA	ENA20_enalaprilat	1.0	hr		1.9400925243412997e-05	13.2473911714622	0.00012902589688410348	1.8623284074617532e-05		mole/meter^3	ng/ml	dimensionless
+Matalka2002		all	48.0	ENA20	concentration	enalaprilat	plasma	ELISA	ENA20_enalaprilat	1.25	hr		2.6385910020659393e-05	20.0050211762651	0.00021501566604909244	3.103483816835757e-05		mole/meter^3	ng/ml	dimensionless
+Matalka2002		all	48.0	ENA20	concentration	enalaprilat	plasma	ELISA	ENA20_enalaprilat	1.5	hr		3.1816865709579627e-05	18.6538881369253	0.00015052008313825053	2.172570262957844e-05		mole/meter^3	ng/ml	dimensionless
+Matalka2002		all	48.0	ENA20	concentration	enalaprilat	plasma	ELISA	ENA20_enalaprilat	1.75	hr		4.966313524003427e-05	24.5993974588482	0.0001451107201665949	2.0944928337621014e-05		mole/meter^3	ng/ml	dimensionless
+Matalka2002		all	48.0	ENA20	concentration	enalaprilat	plasma	ELISA	ENA20_enalaprilat	2.0	hr		6.595662893142757e-05	26.2216740165044	6.44869001452386e-05	9.307882289514503e-06		mole/meter^3	ng/ml	dimensionless
+Matalka2002		all	48.0	ENA20	concentration	enalaprilat	plasma	ELISA	ENA20_enalaprilat	2.5	hr		8.651806299402601e-05	26.7639610531371	6.718289886546194e-05	9.69701618622845e-06		mole/meter^3	ng/ml	dimensionless
+Matalka2002		all	48.0	ENA20	concentration	enalaprilat	plasma	ELISA	ENA20_enalaprilat	3.0	hr		0.00011444922935815813	44.7375889621447	9.67303502178579e-05	1.3961823434271754e-05		mole/meter^3	ng/ml	dimensionless
+Matalka2002		all	48.0	ENA20	concentration	enalaprilat	plasma	ELISA	ENA20_enalaprilat	3.5	hr		0.00011949481089815887	47.5773916080863	0.00011824624338601484	1.706737511239443e-05		mole/meter^3	ng/ml	dimensionless
+Matalka2002		all	48.0	ENA20	concentration	enalaprilat	plasma	ELISA	ENA20_enalaprilat	4.0	hr		0.00014897875310135233	58.5248657381129	0.00013167848177630386	1.900615172500758e-05		mole/meter^3	ng/ml	dimensionless
+Matalka2002		all	48.0	ENA20	concentration	enalaprilat	plasma	ELISA	ENA20_enalaprilat	5.0	hr		0.00014510683949781714	56.9054272366066	0.00012629950848426665	1.8229763805477194e-05		mole/meter^3	ng/ml	dimensionless
+Matalka2002		all	48.0	ENA20	concentration	enalaprilat	plasma	ELISA	ENA20_enalaprilat	6.0	hr		0.00013037677426423592	52.449679081343	0.00013974477102296113	2.0170420291987284e-05		mole/meter^3	ng/ml	dimensionless
+Matalka2002		all	48.0	ENA20	concentration	enalaprilat	plasma	ELISA	ENA20_enalaprilat	7.0	hr		8.034831686351845e-05	31.5063528795354	6.987021482007966e-05	1.0084896833677484e-05		mole/meter^3	ng/ml	dimensionless
+Matalka2002		all	48.0	ENA20	concentration	enalaprilat	plasma	ELISA	ENA20_enalaprilat	8.0	hr		5.941028139685374e-05	23.4006462035541	5.3741977709567284e-05	7.75698632435039e-06		mole/meter^3	ng/ml	dimensionless
+Matalka2002		all	48.0	ENA20	concentration	enalaprilat	plasma	ELISA	ENA20_enalaprilat	10.0	hr		4.0032541264839256e-05	16.1096799545911	4.300573803949958e-05	6.2073436084509015e-06		mole/meter^3	ng/ml	dimensionless
+Matalka2002		all	48.0	ENA20	concentration	enalaprilat	plasma	ELISA	ENA20_enalaprilat	12.0	hr		2.1429309178458014e-05	8.95253896869404	2.9564816883605207e-05	4.267313746572871e-06		mole/meter^3	ng/ml	dimensionless
+Matalka2002		all	48.0	ENA20	concentration	enalaprilat	plasma	ELISA	ENA20_enalaprilat	24.0	hr		5.623956075696196e-06					mole/meter^3	ng/ml	dimensionless

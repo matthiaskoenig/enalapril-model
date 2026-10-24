@@ -1,0 +1,14 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	min	max	comments	mean_unit	value_unit	count_unit
+Schwartz1985		HT	5.0	control	heart rate			electrocardiography	HT_placebo20_heart rate_supine	0.0	min		73.0		8.0	3.57770876399966			supine	1/min	1/min	dimensionless
+Schwartz1985		HT	5.0	control	heart rate			electrocardiography	HT_placebo20_heart rate_supine	60.0	min		74.0		8.0	3.57770876399966			supine	1/min	1/min	dimensionless
+Schwartz1985		HT	5.0	control	heart rate			electrocardiography	HT_placebo20_heart rate_supine	120.0	min		79.0		6.0	2.68328157299975			supine	1/min	1/min	dimensionless
+Schwartz1985		HT	5.0	control	heart rate			electrocardiography	HT_placebo20_heart rate_supine	180.0	min		81.0		4.0	1.78885438199983			supine	1/min	1/min	dimensionless
+Schwartz1985		HT	5.0	control	heart rate			electrocardiography	HT_placebo20_heart rate_supine	240.0	min		77.0		7.0	3.13049516849971			supine	1/min	1/min	dimensionless
+Schwartz1985		HT	5.0	control	heart rate			electrocardiography	HT_placebo20_heart rate_supine	300.0	min		77.0		5.0	2.23606797749979			supine	1/min	1/min	dimensionless
+Schwartz1985		HT	5.0	control	heart rate			electrocardiography	HT_placebo20_heart rate_supine	360.0	min		68.0		5.0	2.23606797749979			supine	1/min	1/min	dimensionless
+Schwartz1985		HT	5.0	control	heart rate			electrocardiography	HT_placebo20_heart rate_supine	420.0	min		69.0		8.0	3.57770876399966			supine	1/min	1/min	dimensionless
+Schwartz1985		HT	5.0	control	heart rate			electrocardiography	HT_placebo20_heart rate_supine	480.0	min		72.0		8.0	3.57770876399966			supine	1/min	1/min	dimensionless
+Schwartz1985		HT	5.0	control	heart rate			electrocardiography	HT_placebo20_heart rate_supine	540.0	min		73.0		8.0	3.57770876399966			supine	1/min	1/min	dimensionless
+Schwartz1985		HT	5.0	control	heart rate			electrocardiography	HT_placebo20_heart rate_supine	600.0	min		72.0		7.0	3.13049516849971			supine	1/min	1/min	dimensionless
+Schwartz1985		HT	5.0	control	heart rate			electrocardiography	HT_placebo20_heart rate_supine	660.0	min		73.0		9.0	4.02492235949962			supine	1/min	1/min	dimensionless
+Schwartz1985		HT	5.0	control	heart rate			electrocardiography	HT_placebo20_heart rate_supine	720.0	min		71.0		7.0	3.13049516849971			supine	1/min	1/min	dimensionless

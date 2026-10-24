@@ -1,0 +1,8 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Witte1993		night	8.0		relative ACE activity		serum	Spectrophotometry	night_NA_relative ACE activity	0.0	hr		100.0		31.16429055481138	11.0182405910875		percent	percent	dimensionless
+Witte1993		night	8.0		relative ACE activity		serum	Spectrophotometry	night_NA_relative ACE activity	4.0	hr		91.66628184407		29.60564065000268	10.4671746324945		percent	percent	dimensionless
+Witte1993		night	8.0		relative ACE activity		serum	Spectrophotometry	night_NA_relative ACE activity	8.0	hr		87.1869468175172		29.623055732737903	10.473331794043		percent	percent	dimensionless
+Witte1993		night	8.0		relative ACE activity		serum	Spectrophotometry	night_NA_relative ACE activity	12.0	hr		95.3852074193796		26.49704838175257	9.36812129608264		percent	percent	dimensionless
+Witte1993		night	8.0		relative ACE activity		serum	Spectrophotometry	night_NA_relative ACE activity	16.0	hr		100.277072269684		34.29029790579683	12.1234510890479		percent	percent	dimensionless
+Witte1993		night	8.0		relative ACE activity		serum	Spectrophotometry	night_NA_relative ACE activity	20.0	hr		99.1041329946892		32.74035554235587	11.5754637112292		percent	percent	dimensionless
+Witte1993		night	8.0		relative ACE activity		serum	Spectrophotometry	night_NA_relative ACE activity	24.0	hr		99.0364042176557		32.73164800098812	11.5723851304549		percent	percent	dimensionless

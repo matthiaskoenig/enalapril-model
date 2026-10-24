@@ -1,0 +1,2 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Howes1991		all	12.0	ENA10, HCTZ25	cumulative amount	enalaprilat	urine	RIA	ENA10, HCTZ25_multi_cumulative amount_enalaprilat	96.0	hr		6.974869802430356e-06		2.210143929165174e-06		enalapril/hctz as two separate tablets	mole	mg	dimensionless

@@ -1,0 +1,8 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Dickstein1987	NA	CHF	9	ENAPO10	recovery	enalaprilat	urine	RIA	NA	2	hr	NA	0.05	NA	0.06	NA	NA	NA	dimensionless 	NA
+Dickstein1987	NA	CHF	9	ENAPO10	recovery	enalaprilat	urine	RIA	NA	4	hr	NA	0.26	NA	0.16	NA	NA	NA	dimensionless 	NA
+Dickstein1987	NA	CHF	9	ENAPO10	recovery	enalaprilat	urine	RIA	NA	6	hr	NA	0.65	NA	0.18	NA	NA	NA	dimensionless 	NA
+Dickstein1987	NA	CHF	9	ENAPO10	recovery	enalaprilat	urine	RIA	NA	8	hr	NA	0.82	NA	0.08	NA	NA	NA	dimensionless 	NA
+Dickstein1987	NA	CHF	9	ENAPO10	recovery	enalaprilat	urine	RIA	NA	10	hr	NA	0.89	NA	0.05	NA	NA	NA	dimensionless 	NA
+Dickstein1987	NA	CHF	9	ENAPO10	recovery	enalaprilat	urine	RIA	NA	12	hr	NA	0.91	NA	0.05	NA	NA	NA	dimensionless 	NA
+Dickstein1987	NA	CHF	9	ENAPO10	recovery	enalaprilat	urine	RIA	NA	72	hr	NA	0.65	NA	0.18	NA	NA	NA	dimensionless 	NA

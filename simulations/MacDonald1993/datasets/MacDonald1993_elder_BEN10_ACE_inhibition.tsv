@@ -1,0 +1,15 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+MacDonald1993		elder	9.0	BEN10	ACE inhibition		plasma	HPLC	elder_BEN10_ACE inhibition	0.0	hr		0.558659217877092					percent	percent	dimensionless
+MacDonald1993		elder	9.0	BEN10	ACE inhibition		plasma	HPLC	elder_BEN10_ACE inhibition	0.971283871978279	hr		77.3743016759776					percent	percent	dimensionless
+MacDonald1993		elder	9.0	BEN10	ACE inhibition		plasma	HPLC	elder_BEN10_ACE inhibition	1.50509058633112	hr		94.6927374301676					percent	percent	dimensionless
+MacDonald1993		elder	9.0	BEN10	ACE inhibition		plasma	HPLC	elder_BEN10_ACE inhibition	2.34856158304182	hr		96.0893854748603					percent	percent	dimensionless
+MacDonald1993		elder	9.0	BEN10	ACE inhibition		plasma	HPLC	elder_BEN10_ACE inhibition	3.02239857985694	hr		96.6480446927374					percent	percent	dimensionless
+MacDonald1993		elder	9.0	BEN10	ACE inhibition		plasma	HPLC	elder_BEN10_ACE inhibition	3.86211037435388	hr		95.8100558659218					percent	percent	dimensionless
+MacDonald1993		elder	9.0	BEN10	ACE inhibition		plasma	HPLC	elder_BEN10_ACE inhibition	5.20461546494021	hr		93.8547486033519					percent	percent	dimensionless
+MacDonald1993		elder	9.0	BEN10	ACE inhibition		plasma	HPLC	elder_BEN10_ACE inhibition	6.37748655563097	hr		91.0614525139664					percent	percent	dimensionless
+MacDonald1993		elder	9.0	BEN10	ACE inhibition		plasma	HPLC	elder_BEN10_ACE inhibition	8.5587636401608	hr		87.7094972067039					percent	percent	dimensionless
+MacDonald1993		elder	9.0	BEN10	ACE inhibition		plasma	HPLC	elder_BEN10_ACE inhibition	10.0	hr		86.5921787709497					percent	percent	dimensionless
+MacDonald1993		elder	9.0	BEN10	ACE inhibition		plasma	HPLC	elder_BEN10_ACE inhibition	12.0	hr		82.68156424581					percent	percent	dimensionless
+MacDonald1993		elder	9.0	BEN10	ACE inhibition		plasma	HPLC	elder_BEN10_ACE inhibition	14.0	hr		59.217877094972					percent	percent	dimensionless
+MacDonald1993		elder	9.0	BEN10	ACE inhibition		plasma	HPLC	elder_BEN10_ACE inhibition	48.0	hr		31.8435754189944					percent	percent	dimensionless
+MacDonald1993		elder	9.0	BEN10	ACE inhibition		plasma	HPLC	elder_BEN10_ACE inhibition	72.0	hr		23.1843575418994					percent	percent	dimensionless

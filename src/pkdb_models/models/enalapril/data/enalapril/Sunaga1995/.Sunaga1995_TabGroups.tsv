@@ -1,0 +1,13 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Sunaga1995	all	12.0	NA	species	12.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Sunaga1995	all	12.0	NA	sex	7.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Sunaga1995	all	12.0	NA	sex	5.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Sunaga1995	all	12.0	NA	age	12.0	NA	NA	45.0	NA	NA	NA	25.0	61.0	yr	NA
+Sunaga1995	all	12.0	NA	weight	12.0	NA	NA	63.0	NA	NA	NA	50.0	76.0	kg	NA
+Sunaga1995	all	12.0	NA	blood pressure diastolic	12.0	NA	NA	NA	NA	NA	NA	90.0	NA	mmHg	NA
+Sunaga1995	all	12.0	NA	healthy	12.0	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Sunaga1995	all	12.0	NA	disease	12.0	NA	hypertension	NA	NA	NA	NA	NA	NA	NA	NA
+Sunaga1995	day	12.0	all	species	12.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Sunaga1995	day	12.0	all	circadian status (time of day)	12.0	NA	morning	NA	NA	NA	NA	NA	NA	NA	NA
+Sunaga1995	night	12.0	all	species	12.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Sunaga1995	night	12.0	all	circadian status (time of day)	12.0	NA	evening	NA	NA	NA	NA	NA	NA	NA	NA

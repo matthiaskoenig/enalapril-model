@@ -1,0 +1,4 @@
+study	name	time	time_end	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+VanHecken2020	REN10	0	NA	hr	oral	single dose	dosing	tablet	enalapril maleate	10	mg	Renitec; reference
+VanHecken2020	ENA10	0	NA	hr	oral	single dose	dosing	tablet	enalapril maleate	10	mg	ODMT; test; 240ml water at once
+VanHecken2020	ENAw10	0	NA	hr	oral	single dose	dosing	tablet	enalapril maleate	10	mg	ODMT; test; first 20 ml then 220ml water

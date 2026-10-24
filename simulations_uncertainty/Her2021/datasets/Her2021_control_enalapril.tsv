@@ -1,0 +1,11 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Her2021		control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	144.5	hr		7.969255674176399e-05					mole/meter^3	ng/ml	dimensionless
+Her2021		control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	145.0	hr		0.0001666298913691439					mole/meter^3	ng/ml	dimensionless
+Her2021		control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	145.5	hr		0.0001350163151410059					mole/meter^3	ng/ml	dimensionless
+Her2021		control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	146.0	hr		7.574085971324679e-05					mole/meter^3	ng/ml	dimensionless
+Her2021		control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	146.5	hr		4.4785899656528276e-05					mole/meter^3	ng/ml	dimensionless
+Her2021		control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	147.0	hr		2.601533877107123e-05					mole/meter^3	ng/ml	dimensionless
+Her2021		control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	147.5	hr		1.613609619977806e-05					mole/meter^3	ng/ml	dimensionless
+Her2021		control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	148.0	hr		1.0867166828421687e-05					mole/meter^3	ng/ml	dimensionless
+Her2021		control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	149.0	hr		4.610313199936007e-06					mole/meter^3	ng/ml	dimensionless
+Her2021		control	15.0	ENA10m	concentration	enalapril	plasma	LC MS/MS	control_enalapril	150.0	hr		2.3051565999675757e-06					mole/meter^3	ng/ml	dimensionless

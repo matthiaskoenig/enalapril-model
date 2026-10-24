@@ -1,0 +1,15 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Donnelly1990	P3		1.0	ENAs20	blood pressure systolic (change)			sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	0.0	hr	0.0						mmHg	mmHg	dimensionless
+Donnelly1990	P3		1.0	ENAs20	blood pressure systolic (change)			sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	0.5	hr	-6.532059857512						mmHg	mmHg	dimensionless
+Donnelly1990	P3		1.0	ENAs20	blood pressure systolic (change)			sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	1.0	hr	-19.7952897987124						mmHg	mmHg	dimensionless
+Donnelly1990	P3		1.0	ENAs20	blood pressure systolic (change)			sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	1.5	hr	-23.0382976075666						mmHg	mmHg	dimensionless
+Donnelly1990	P3		1.0	ENAs20	blood pressure systolic (change)			sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	2.5	hr	-38.8949382447194						mmHg	mmHg	dimensionless
+Donnelly1990	P3		1.0	ENAs20	blood pressure systolic (change)			sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	3.5	hr	-37.5036555393092						mmHg	mmHg	dimensionless
+Donnelly1990	P3		1.0	ENAs20	blood pressure systolic (change)			sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	4.0	hr	-44.5247798898676						mmHg	mmHg	dimensionless
+Donnelly1990	P3		1.0	ENAs20	blood pressure systolic (change)			sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	5.0	hr	-45.2552655321537						mmHg	mmHg	dimensionless
+Donnelly1990	P3		1.0	ENAs20	blood pressure systolic (change)			sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	6.0	hr	-69.6562237501173						mmHg	mmHg	dimensionless
+Donnelly1990	P3		1.0	ENAs20	blood pressure systolic (change)			sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	7.0	hr	-54.7826898547124						mmHg	mmHg	dimensionless
+Donnelly1990	P3		1.0	ENAs20	blood pressure systolic (change)			sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	8.0	hr	-39.4213359051742						mmHg	mmHg	dimensionless
+Donnelly1990	P3		1.0	ENAs20	blood pressure systolic (change)			sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	12.0	hr	-30.2249323336345						mmHg	mmHg	dimensionless
+Donnelly1990	P3		1.0	ENAs20	blood pressure systolic (change)			sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	24.0	hr	-20.6975080110759						mmHg	mmHg	dimensionless
+Donnelly1990	P3		1.0	ENAs20	blood pressure systolic (change)			sphygmomanometer	ENAs20_P3_blood pressure systolic (change)	32.0	hr	-17.5752107768413						mmHg	mmHg	dimensionless

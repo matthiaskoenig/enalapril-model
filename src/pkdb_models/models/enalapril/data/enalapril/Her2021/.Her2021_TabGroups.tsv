@@ -1,0 +1,19 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Her2021	all	21.0	NA	species	21.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Her2021	all	21.0	NA	healthy	21.0	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Her2021	all	21.0	NA	age	21.0	NA	NA	NA	NA	NA	NA	18.0	55.0	yr	NA
+Her2021	all	21.0	NA	sex	3.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Her2021	all	21.0	NA	sex	18.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Her2021	all	21.0	NA	weight	21.0	NA	NA	NA	NA	NA	NA	50.0	NA	kg	NA
+Her2021	all	21.0	NA	ethnicity	21.0	NA	caucasian	NA	NA	NA	NA	NA	NA	NA	NA
+Her2021	all	21.0	NA	overnight fast	21.0	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Her2021	G143E	6.0	all	age	6.0	NA	NA	23.1	NA	6.61362230551458	2.7	NA	NA	yr	uncertain if SDs or SEs reported; taken to be SEs
+Her2021	G143E	6.0	all	sex	1.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Her2021	G143E	6.0	all	sex	5.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Her2021	G143E	6.0	all	bmi	6.0	NA	NA	25.1	NA	9.79795897113271	4.0	NA	NA	kg/m^2	units not given in study; assumed to be usual
+Her2021	G143E	6.0	all	clearance	6.0	creatinine	NA	111.6	NA	33.8029584504079	13.8	NA	NA	ml/min	NA
+Her2021	control	15.0	all	age	15.0	NA	NA	25.0	NA	13.555441711726	3.5	NA	NA	yr	NA
+Her2021	control	15.0	all	sex	2.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Her2021	control	15.0	all	sex	13.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Her2021	control	15.0	all	bmi	15.0	NA	NA	23.0	NA	10.8443533693808	2.8	NA	NA	kg/m^2	NA
+Her2021	control	15.0	all	clearance	15.0	creatinine	NA	122.7	NA	93.7261969782195	24.2	NA	NA	ml/min	NA

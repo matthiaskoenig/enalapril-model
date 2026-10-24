@@ -1,0 +1,57 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Wagner2003	NA	ena	14.0	ENA5	concentration	epinephrine	plasma	HPLC	NA	0.0	hr	NA	131.0	NA	471.448830733517	126.0	NA	NA	pg/ml	NA
+Wagner2003	NA	ena	14.0	ENA5	concentration	epinephrine	plasma	HPLC	NA	1.0	hr	NA	191.0	NA	347.974136969977	93.0	NA	NA	pg/ml	NA
+Wagner2003	NA	ena	14.0	ENA5	concentration	epinephrine	plasma	HPLC	NA	3.0	hr	NA	97.0	NA	392.874025611264	105.0	NA	NA	pg/ml	NA
+Wagner2003	NA	ena	14.0	ENA5	concentration	epinephrine	plasma	HPLC	NA	6.0	hr	NA	103.0	NA	377.907396064168	101.0	NA	NA	pg/ml	NA
+Wagner2003	NA	ena	14.0	ENA5	concentration	epinephrine	plasma	HPLC	NA	12.0	hr	NA	138.0	NA	583.698552336735	156.0	NA	NA	pg/ml	NA
+Wagner2003	NA	ena	14.0	ENA5	concentration	epinephrine	plasma	HPLC	NA	24.0	hr	NA	152.0	NA	871.806171118328	233.0	NA	NA	pg/ml	NA
+Wagner2003	NA	ena	14.0	ENA5	concentration	epinephrine	plasma	HPLC	NA	48.0	hr	NA	131.0	NA	366.682423903846	98.0	NA	NA	pg/ml	NA
+Wagner2003	NA	ena	14.0	ENA5	concentration	epinephrine	plasma	HPLC	NA	72.0	hr	NA	115.0	NA	288.107618781593	77.0	NA	NA	pg/ml	NA
+Wagner2003	NA	ena	15.0	ENA5	concentration	norepinephrine	plasma	HPLC	NA	0.0	hr	NA	488.0	NA	1076.68937024566	278.0	NA	NA	pg/ml	NA
+Wagner2003	NA	ena	15.0	ENA5	concentration	norepinephrine	plasma	HPLC	NA	1.0	hr	NA	453.0	NA	968.245836551854	250.0	NA	NA	pg/ml	NA
+Wagner2003	NA	ena	15.0	ENA5	concentration	norepinephrine	plasma	HPLC	NA	3.0	hr	NA	456.0	NA	1018.59462005255	263.0	NA	NA	pg/ml	NA
+Wagner2003	NA	ena	15.0	ENA5	concentration	norepinephrine	plasma	HPLC	NA	6.0	hr	NA	511.0	NA	1154.14903716981	298.0	NA	NA	pg/ml	NA
+Wagner2003	NA	ena	15.0	ENA5	concentration	norepinephrine	plasma	HPLC	NA	12.0	hr	NA	559.0	NA	1386.52803794226	358.0	NA	NA	pg/ml	NA
+Wagner2003	NA	ena	15.0	ENA5	concentration	norepinephrine	plasma	HPLC	NA	24.0	hr	NA	530.0	NA	1231.60870409396	318.0	NA	NA	pg/ml	NA
+Wagner2003	NA	ena	15.0	ENA5	concentration	norepinephrine	plasma	HPLC	NA	48.0	hr	NA	585.0	NA	1293.57643763328	334.0	NA	NA	pg/ml	NA
+Wagner2003	NA	ena	15.0	ENA5	concentration	norepinephrine	plasma	HPLC	NA	72.0	hr	NA	688.0	NA	1487.22560494365	384.0	NA	NA	pg/ml	NA
+Wagner2003	NA	ena	18.0	ENA5	concentration	aldosterone	plasma	RIA	NA	0.0	hr	NA	42.0	NA	84.8528137423857	20.0	NA	NA	ng/dl	NA
+Wagner2003	NA	ena	18.0	ENA5	concentration	aldosterone	plasma	RIA	NA	6.0	hr	NA	31.0	NA	46.6690475583121	11.0	NA	NA	ng/dl	NA
+Wagner2003	NA	ena	18.0	ENA5	concentration	aldosterone	plasma	RIA	NA	12.0	hr	NA	33.0	NA	38.1837661840736	9.0	NA	NA	ng/dl	NA
+Wagner2003	NA	ena	18.0	ENA5	concentration	aldosterone	plasma	RIA	NA	24.0	hr	NA	36.0	NA	93.3380951166243	22.0	NA	NA	ng/dl	NA
+Wagner2003	NA	ena	18.0	ENA5	concentration	aldosterone	plasma	RIA	NA	48.0	hr	NA	33.0	NA	63.6396103067893	15.0	NA	NA	ng/dl	NA
+Wagner2003	NA	ena	18.0	ENA5	concentration	aldosterone	plasma	RIA	NA	72.0	hr	NA	32.0	NA	50.9116882454314	12.0	NA	NA	ng/dl	NA
+Wagner2003	NA	ena	17.0	ENA5	renin activity	NA	plasma	RIA	NA	0.0	hr	NA	4.3	NA	19.7909070029648	4.8	NA	NA	μg/l/hr	NA
+Wagner2003	NA	ena	17.0	ENA5	renin activity	NA	plasma	RIA	NA	6.0	hr	NA	7.2	NA	28.4494288167619	6.9	NA	NA	μg/l/hr	NA
+Wagner2003	NA	ena	17.0	ENA5	renin activity	NA	plasma	RIA	NA	12.0	hr	NA	7.2	NA	29.6863605044472	7.2	NA	NA	μg/l/hr	NA
+Wagner2003	NA	ena	17.0	ENA5	renin activity	NA	plasma	RIA	NA	24.0	hr	NA	7.1	NA	28.8617393793236	7.0	NA	NA	μg/l/hr	NA
+Wagner2003	NA	ena	17.0	ENA5	renin activity	NA	plasma	RIA	NA	48.0	hr	NA	7.6	NA	32.5725344423795	7.9	NA	NA	μg/l/hr	NA
+Wagner2003	NA	ena	17.0	ENA5	renin activity	NA	plasma	RIA	NA	72.0	hr	NA	9.1	NA	40.4064351310531	9.8	NA	NA	μg/l/hr	NA
+Wagner2003	NA	plac	12.0	ENA5	concentration	epinephrine	plasma	HPLC	NA	0.0	hr	NA	131.0	NA	460.725514813321	133.0	NA	NA	pg/ml	NA
+Wagner2003	NA	plac	12.0	ENA5	concentration	epinephrine	plasma	HPLC	NA	1.0	hr	NA	94.0	NA	214.774300138541	62.0	NA	NA	pg/ml	NA
+Wagner2003	NA	plac	12.0	ENA5	concentration	epinephrine	plasma	HPLC	NA	3.0	hr	NA	108.0	NA	391.443482510566	113.0	NA	NA	pg/ml	NA
+Wagner2003	NA	plac	12.0	ENA5	concentration	epinephrine	plasma	HPLC	NA	6.0	hr	NA	96.0	NA	232.09480821423	67.0	NA	NA	pg/ml	NA
+Wagner2003	NA	plac	12.0	ENA5	concentration	epinephrine	plasma	HPLC	NA	12.0	hr	NA	125.0	NA	381.051177665153	110.0	NA	NA	pg/ml	NA
+Wagner2003	NA	plac	12.0	ENA5	concentration	epinephrine	plasma	HPLC	NA	24.0	hr	NA	80.0	NA	135.099962990372	39.0	NA	NA	pg/ml	NA
+Wagner2003	NA	plac	12.0	ENA5	concentration	epinephrine	plasma	HPLC	NA	48.0	hr	NA	107.0	NA	284.056332441296	82.0	NA	NA	pg/ml	NA
+Wagner2003	NA	plac	12.0	ENA5	concentration	epinephrine	plasma	HPLC	NA	72.0	hr	NA	81.0	NA	176.669182372025	51.0	NA	NA	pg/ml	NA
+Wagner2003	NA	plac	12.0	ENA5	concentration	norepinephrine	plasma	HPLC	NA	0.0	hr	NA	770.0	NA	1430.67396705189	413.0	NA	NA	pg/ml	NA
+Wagner2003	NA	plac	12.0	ENA5	concentration	norepinephrine	plasma	HPLC	NA	1.0	hr	NA	854.0	NA	1714.73029949319	495.0	NA	NA	pg/ml	NA
+Wagner2003	NA	plac	12.0	ENA5	concentration	norepinephrine	plasma	HPLC	NA	3.0	hr	NA	840.0	NA	1198.57915883766	346.0	NA	NA	pg/ml	NA
+Wagner2003	NA	plac	12.0	ENA5	concentration	norepinephrine	plasma	HPLC	NA	6.0	hr	NA	793.0	NA	1233.22017498904	356.0	NA	NA	pg/ml	NA
+Wagner2003	NA	plac	12.0	ENA5	concentration	norepinephrine	plasma	HPLC	NA	12.0	hr	NA	893.0	NA	1683.55338495695	486.0	NA	NA	pg/ml	NA
+Wagner2003	NA	plac	12.0	ENA5	concentration	norepinephrine	plasma	HPLC	NA	24.0	hr	NA	878.0	NA	1590.02264134823	459.0	NA	NA	pg/ml	NA
+Wagner2003	NA	plac	12.0	ENA5	concentration	norepinephrine	plasma	HPLC	NA	48.0	hr	NA	979.0	NA	1676.62518172667	484.0	NA	NA	pg/ml	NA
+Wagner2003	NA	plac	12.0	ENA5	concentration	norepinephrine	plasma	HPLC	NA	72.0	hr	NA	1018.0	NA	2147.74300138541	620.0	NA	NA	pg/ml	NA
+Wagner2003	NA	plac	18.0	ENA5	concentration	aldosterone	plasma	RIA	NA	0.0	hr	NA	71.0	NA	156.977705423414	37.0	NA	NA	ng/dl	NA
+Wagner2003	NA	plac	18.0	ENA5	concentration	aldosterone	plasma	RIA	NA	6.0	hr	NA	75.0	NA	246.073159852918	58.0	NA	NA	ng/dl	NA
+Wagner2003	NA	plac	18.0	ENA5	concentration	aldosterone	plasma	RIA	NA	12.0	hr	NA	59.0	NA	135.764501987817	32.0	NA	NA	ng/dl	NA
+Wagner2003	NA	plac	18.0	ENA5	concentration	aldosterone	plasma	RIA	NA	24.0	hr	NA	78.0	NA	258.801081914276	61.0	NA	NA	ng/dl	NA
+Wagner2003	NA	plac	18.0	ENA5	concentration	aldosterone	plasma	RIA	NA	48.0	hr	NA	90.0	NA	296.98484809835	70.0	NA	NA	ng/dl	NA
+Wagner2003	NA	plac	18.0	ENA5	concentration	aldosterone	plasma	RIA	NA	72.0	hr	NA	101.0	NA	343.653895656662	81.0	NA	NA	ng/dl	NA
+Wagner2003	NA	plac	16.0	ENA5	renin activity	NA	plasma	RIA	NA	0.0	hr	NA	3.7	NA	10.0	2.5	NA	NA	μg/l/hr	NA
+Wagner2003	NA	plac	16.0	ENA5	renin activity	NA	plasma	RIA	NA	6.0	hr	NA	4.3	NA	11.6	2.9	NA	NA	μg/l/hr	NA
+Wagner2003	NA	plac	16.0	ENA5	renin activity	NA	plasma	RIA	NA	12.0	hr	NA	5.8	NA	18.8	4.7	NA	NA	μg/l/hr	NA
+Wagner2003	NA	plac	16.0	ENA5	renin activity	NA	plasma	RIA	NA	24.0	hr	NA	4.2	NA	13.6	3.4	NA	NA	μg/l/hr	NA
+Wagner2003	NA	plac	16.0	ENA5	renin activity	NA	plasma	RIA	NA	48.0	hr	NA	5.2	NA	19.2	4.8	NA	NA	μg/l/hr	NA
+Wagner2003	NA	plac	16.0	ENA5	renin activity	NA	plasma	RIA	NA	72.0	hr	NA	7.4	NA	26.4	6.6	NA	NA	μg/l/hr	NA

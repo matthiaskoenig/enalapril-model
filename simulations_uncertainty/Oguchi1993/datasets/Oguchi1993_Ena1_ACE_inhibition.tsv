@@ -1,0 +1,7 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Oguchi1993		Ena1	6.0	ENA5	ACE inhibition		plasma	HPLC	Ena1_ACE inhibition	0.0	hr		0.0					percent	percent	dimensionless
+Oguchi1993		Ena1	6.0	ENA5	ACE inhibition		plasma	HPLC	Ena1_ACE inhibition	2.0	hr		47.0218823119299	40.3144052831637	16.4298961819166	6.7074770287662		percent	percent	dimensionless
+Oguchi1993		Ena1	6.0	ENA5	ACE inhibition		plasma	HPLC	Ena1_ACE inhibition	4.0	hr		70.6702371332041	75.3359636474393	11.4286492392506	4.6657265142352		percent	percent	dimensionless
+Oguchi1993		Ena1	6.0	ENA5	ACE inhibition		plasma	HPLC	Ena1_ACE inhibition	8.0	hr		71.1683066516665	74.8127177623668	8.92694763414544	3.6444111107003		percent	percent	dimensionless
+Oguchi1993		Ena1	6.0	ENA5	ACE inhibition		plasma	HPLC	Ena1_ACE inhibition	24.0	hr		30.5965038301528	27.6818552341314	7.1394018397718	2.9146485960214		percent	percent	dimensionless
+Oguchi1993		Ena1	6.0	ENA5	ACE inhibition		plasma	HPLC	Ena1_ACE inhibition	48.0	hr		20.1752486386276	10.1184345581724	24.6340629351524	10.0568140804552		percent	percent	dimensionless

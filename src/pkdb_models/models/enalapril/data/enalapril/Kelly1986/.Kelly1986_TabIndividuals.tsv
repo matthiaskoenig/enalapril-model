@@ -1,0 +1,109 @@
+study	name	group	measurement_type	substance	choice	value	unit	comments
+Kelly1986	I1_s	S1	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I1_s	S1	age	NA	NA	21.0	yr	NA
+Kelly1986	I1_s	S1	sex	NA	F	NA	NA	NA
+Kelly1986	I2_s	S1	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I2_s	S1	age	NA	NA	22.0	yr	NA
+Kelly1986	I2_s	S1	sex	NA	F	NA	NA	NA
+Kelly1986	I3_s	S1	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I3_s	S1	age	NA	NA	23.0	yr	NA
+Kelly1986	I3_s	S1	sex	NA	F	NA	NA	NA
+Kelly1986	I4_s	S1	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I4_s	S1	age	NA	NA	21.0	yr	NA
+Kelly1986	I4_s	S1	sex	NA	M	NA	NA	NA
+Kelly1986	I5_s	S1	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I5_s	S1	age	NA	NA	23.0	yr	NA
+Kelly1986	I5_s	S1	sex	NA	M	NA	NA	NA
+Kelly1986	I6_s	S1	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I6_s	S1	age	NA	NA	23.0	yr	NA
+Kelly1986	I6_s	S1	sex	NA	M	NA	NA	NA
+Kelly1986	I7_s	S2	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I7_s	S2	age	NA	NA	39.0	yr	NA
+Kelly1986	I7_s	S2	sex	NA	F	NA	NA	NA
+Kelly1986	I8_s	S2	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I8_s	S2	age	NA	NA	32.0	yr	NA
+Kelly1986	I8_s	S2	sex	NA	M	NA	NA	NA
+Kelly1986	I9_s	S2	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I9_s	S2	age	NA	NA	47.0	yr	NA
+Kelly1986	I9_s	S2	sex	NA	F	NA	NA	NA
+Kelly1986	I10_s	S2	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I10_s	S2	age	NA	NA	36.0	yr	NA
+Kelly1986	I10_s	S2	sex	NA	F	NA	NA	NA
+Kelly1986	I11_s	S2	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I11_s	S2	age	NA	NA	70.0	yr	NA
+Kelly1986	I11_s	S2	sex	NA	F	NA	NA	NA
+Kelly1986	I12_s	S2	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I12_s	S2	age	NA	NA	59.0	yr	NA
+Kelly1986	I12_s	S2	sex	NA	M	NA	NA	NA
+Kelly1986	I13_s	S3	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I13_s	S3	age	NA	NA	67.0	yr	NA
+Kelly1986	I13_s	S3	sex	NA	M	NA	NA	NA
+Kelly1986	I14_s	S3	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I14_s	S3	age	NA	NA	59.0	yr	NA
+Kelly1986	I14_s	S3	sex	NA	M	NA	NA	NA
+Kelly1986	I15_s	S3	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I15_s	S3	age	NA	NA	69.0	yr	NA
+Kelly1986	I15_s	S3	sex	NA	M	NA	NA	NA
+Kelly1986	I16_s	S3	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I16_s	S3	age	NA	NA	40.0	yr	NA
+Kelly1986	I16_s	S3	sex	NA	M	NA	NA	NA
+Kelly1986	I17_s	S3	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I17_s	S3	age	NA	NA	45.0	yr	NA
+Kelly1986	I17_s	S3	sex	NA	M	NA	NA	NA
+Kelly1986	I18_s	S3	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I18_s	S3	age	NA	NA	46.0	yr	NA
+Kelly1986	I18_s	S3	sex	NA	M	NA	NA	NA
+Kelly1986	I19_s	S4	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I19_s	S4	age	NA	NA	37.0	yr	NA
+Kelly1986	I19_s	S4	sex	NA	NR	NA	NA	NA
+Kelly1986	I20_s	S4	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I20_s	S4	age	NA	NA	26.0	yr	NA
+Kelly1986	I20_s	S4	sex	NA	NR	NA	NA	NA
+Kelly1986	I21_s	S4	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I21_s	S4	age	NA	NA	65.0	yr	NA
+Kelly1986	I21_s	S4	sex	NA	M	NA	NA	NA
+Kelly1986	I22_s	S4	species	NA	homo sapiens	NA	yr	NA
+Kelly1986	I22_s	S4	age	NA	NA	47.0	NA	NA
+Kelly1986	I22_s	S4	sex	NA	M	NA	yr	NA
+Kelly1986	I23_s	S4	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I23_s	S4	age	NA	NA	19.0	yr	NA
+Kelly1986	I23_s	S4	sex	NA	M	NA	NA	NA
+Kelly1986	I24_s	S4	species	NA	homo sapiens	NA	yr	NA
+Kelly1986	I24_s	S4	age	NA	NA	42.0	NA	NA
+Kelly1986	I24_s	S4	sex	NA	M	NA	yr	NA
+Kelly1986	I1_m	M1	species	NA	homo sapiens	NA	NA	 1 in single dose and  1 in multiple dose assumed to be the same
+Kelly1986	I1_m	M1	age	NA	NA	21.0	yr	NA
+Kelly1986	I1_m	M1	sex	NA	F	NA	NA	NA
+Kelly1986	I2_m	M1	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I2_m	M1	age	NA	NA	22.0	yr	NA
+Kelly1986	I2_m	M1	sex	NA	F	NA	NA	NA
+Kelly1986	I3_m	M1	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I3_m	M1	age	NA	NA	23.0	yr	NA
+Kelly1986	I3_m	M1	sex	NA	F	NA	NA	NA
+Kelly1986	I4_m	M1	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I4_m	M1	age	NA	NA	21.0	yr	NA
+Kelly1986	I4_m	M1	sex	NA	M	NA	NA	NA
+Kelly1986	I5_m	M1	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I5_m	M1	age	NA	NA	23.0	yr	NA
+Kelly1986	I5_m	M1	sex	NA	M	NA	NA	NA
+Kelly1986	I6_m	M1	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I6_m	M1	age	NA	NA	23.0	yr	NA
+Kelly1986	I6_m	M1	sex	NA	M	NA	NA	NA
+Kelly1986	I7_m	M2	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I7_m	M2	age	NA	NA	19.0	yr	NA
+Kelly1986	I7_m	M2	sex	NA	F	NA	NA	NA
+Kelly1986	I8_m	M2	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I8_m	M2	age	NA	NA	28.0	yr	NA
+Kelly1986	I8_m	M2	sex	NA	M	NA	NA	NA
+Kelly1986	I9_m	M2	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I9_m	M2	age	NA	NA	40.0	yr	NA
+Kelly1986	I9_m	M2	sex	NA	M	NA	NA	NA
+Kelly1986	I10_m	M2	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I10_m	M2	age	NA	NA	52.0	yr	NA
+Kelly1986	I10_m	M2	sex	NA	F	NA	NA	NA
+Kelly1986	I11_m	M2	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I11_m	M2	age	NA	NA	63.0	yr	NA
+Kelly1986	I11_m	M2	sex	NA	M	NA	NA	NA
+Kelly1986	I12_m	M2	species	NA	homo sapiens	NA	NA	NA
+Kelly1986	I12_m	M2	age	NA	NA	69.0	yr	NA
+Kelly1986	I12_m	M2	sex	NA	F	NA	NA	NA

@@ -1,0 +1,3 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	geometric_mean	mean_pm	sd	se	min	max	unit	comments
+Dickstein1987	NA	CHF	9.0	ENAPO10	bioavailability	enalaprilat	NR	NR	NA	NA	NA	NA	NA	0.38	NA	NA	NA	0.28	0.52	dimensionless 	NA
+Dickstein1987	NA	CHF	10.0	ENAIV5	bioavailability	enalaprilat	NR	NR	NA	NA	NA	NA	NA	0.45	NA	NA	NA	0.35	0.59	dimensionless 	NA

@@ -1,0 +1,3 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	median	mean_pm	sd	se	min	max	unit	comments
+Lowenthal1985	NA	I	9	ENA10	auc_end	enalaprilat	serum	enzymatic assay	I_enalaprilat_withoutdialysis	6	hr	NA	NA	321	NA	NA	NA	NA	NA	ng/ml*hr	excluding patient II
+Lowenthal1985	NA	I	9	ENA10	auc_end	enalaprilat	serum	enzymatic assay	I_enalaprilat_withoutdialysis	6	hr	NA	NA	149	NA	NA	NA	NA	NA	ng/ml*hr	excluding patient II

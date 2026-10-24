@@ -1,0 +1,35 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	min	max	unit	comments
+Hockings1986	Y1	NA	1.0	EATIV10	ACE inhibition	NA	plasma	NR	Y1_ACE inhibition	NA	NA	89.8	NA	NA	percent	Emax=Imax=maximal inhibition?; pkdb unit dimensionless; reported unit %
+Hockings1986	Y1	NA	1.0	EATIV10	IC50 ACE	NA	plasma	NR	Y1_IC50 ACE	NA	NA	1.83	NA	NA	ng/ml	NA
+Hockings1986	Y2	NA	1.0	EATIV10	ACE inhibition	NA	plasma	NR	Y2_ACE inhibition	NA	NA	92.6	NA	NA	percent	NA
+Hockings1986	Y2	NA	1.0	EATIV10	IC50 ACE	NA	plasma	NR	Y2_IC50 ACE	NA	NA	5.8	NA	NA	ng/ml	NA
+Hockings1986	Y4	NA	1.0	EATIV10	ACE inhibition	NA	plasma	NR	Y4_ACE inhibition	NA	NA	90.6	NA	NA	percent	NA
+Hockings1986	Y4	NA	1.0	EATIV10	IC50 ACE	NA	plasma	NR	Y4_IC50 ACE	NA	NA	4.2	NA	NA	ng/ml	NA
+Hockings1986	Y5	NA	1.0	EATIV10	ACE inhibition	NA	plasma	NR	Y5_ACE inhibition	NA	NA	81.3	NA	NA	percent	NA
+Hockings1986	Y5	NA	1.0	EATIV10	IC50 ACE	NA	plasma	NR	Y5_IC50 ACE	NA	NA	3.9	NA	NA	ng/ml	NA
+Hockings1986	Y6	NA	1.0	EATIV10	ACE inhibition	NA	plasma	NR	Y6_ACE inhibition	NA	NA	93.0	NA	NA	percent	NA
+Hockings1986	Y6	NA	1.0	EATIV10	IC50 ACE	NA	plasma	NR	Y6_IC50 ACE	NA	NA	4.7	NA	NA	ng/ml	NA
+Hockings1986	Y7	NA	1.0	EATIV10	ACE inhibition	NA	plasma	NR	Y7_ACE inhibition	NA	NA	94.1	NA	NA	percent	NA
+Hockings1986	Y7	NA	1.0	EATIV10	IC50 ACE	NA	plasma	NR	Y7_IC50 ACE	NA	NA	6.9	NA	NA	ng/ml	NA
+Hockings1986	Y8	NA	1.0	EATIV10	ACE inhibition	NA	plasma	NR	Y8_ACE inhibition	NA	NA	95.2	NA	NA	percent	NA
+Hockings1986	Y8	NA	1.0	EATIV10	IC50 ACE	NA	plasma	NR	Y8_IC50 ACE	NA	NA	6.0	NA	NA	ng/ml	NA
+Hockings1986	Y9	NA	1.0	EATIV10	ACE inhibition	NA	plasma	NR	Y9_ACE inhibition	NA	NA	108.4	NA	NA	percent	NA
+Hockings1986	Y9	NA	1.0	EATIV10	IC50 ACE	NA	plasma	NR	Y9_IC50 ACE	NA	NA	12.8	NA	NA	ng/ml	NA
+Hockings1986	E1	NA	1.0	EATIV10	ACE inhibition	NA	plasma	NR	E1_ACE inhibition	NA	NA	94.9	NA	NA	percent	NA
+Hockings1986	E1	NA	1.0	EATIV10	IC50 ACE	NA	plasma	NR	E1_IC50 ACE	NA	NA	3.3	NA	NA	ng/ml	NA
+Hockings1986	E2	NA	1.0	EATIV10	ACE inhibition	NA	plasma	NR	E2_ACE inhibition	NA	NA	96.7	NA	NA	percent	NA
+Hockings1986	E2	NA	1.0	EATIV10	IC50 ACE	NA	plasma	NR	E2_IC50 ACE	NA	NA	3.9	NA	NA	ng/ml	NA
+Hockings1986	E3	NA	1.0	EATIV10	ACE inhibition	NA	plasma	NR	E3_ACE inhibition	NA	NA	96.9	NA	NA	percent	NA
+Hockings1986	E3	NA	1.0	EATIV10	IC50 ACE	NA	plasma	NR	E3_IC50 ACE	NA	NA	2.4	NA	NA	ng/ml	NA
+Hockings1986	E4	NA	1.0	EATIV10	ACE inhibition	NA	plasma	NR	E4_ACE inhibition	NA	NA	99.0	NA	NA	percent	NA
+Hockings1986	E4	NA	1.0	EATIV10	IC50 ACE	NA	plasma	NR	E4_IC50 ACE	NA	NA	10.0	NA	NA	ng/ml	NA
+Hockings1986	E5	NA	1.0	EATIV10	ACE inhibition	NA	plasma	NR	E5_ACE inhibition	NA	NA	88.9	NA	NA	percent	NA
+Hockings1986	E5	NA	1.0	EATIV10	IC50 ACE	NA	plasma	NR	E5_IC50 ACE	NA	NA	6.2	NA	NA	ng/ml	NA
+Hockings1986	E6	NA	1.0	EATIV10	ACE inhibition	NA	plasma	NR	E6_ACE inhibition	NA	NA	95.6	NA	NA	percent	NA
+Hockings1986	E6	NA	1.0	EATIV10	IC50 ACE	NA	plasma	NR	E6_IC50 ACE	NA	NA	5.0	NA	NA	ng/ml	NA
+Hockings1986	E7	NA	1.0	EATIV10	ACE inhibition	NA	plasma	NR	E7_ACE inhibition	NA	NA	90.8	NA	NA	percent	NA
+Hockings1986	E7	NA	1.0	EATIV10	IC50 ACE	NA	plasma	NR	E7_IC50 ACE	NA	NA	2.1	NA	NA	ng/ml	NA
+Hockings1986	E8	NA	1.0	EATIV10	ACE inhibition	NA	plasma	NR	E8_ACE inhibition	NA	NA	118.8	NA	NA	percent	NA
+Hockings1986	E8	NA	1.0	EATIV10	IC50 ACE	NA	plasma	NR	E8_IC50 ACE	NA	NA	1.7	NA	NA	ng/ml	NA
+Hockings1986	E9	NA	1.0	EATIV10	ACE inhibition	NA	plasma	NR	E9_ACE inhibition	NA	NA	93.8	NA	NA	percent	NA
+Hockings1986	E9	NA	1.0	EATIV10	IC50 ACE	NA	plasma	NR	E9_IC50 ACE	NA	NA	5.0	NA	NA	ng/ml	NA

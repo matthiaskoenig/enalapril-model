@@ -1,0 +1,9 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Shionoiri1985	NA	all	13.0	ENA10	thalf	enalapril	plasma	immunofluorescence	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	hr	NA
+Shionoiri1985	NA	all	13.0	ENA10	cmax	enalapril	plasma	immunofluorescence	NA	NA	NA	NA	53.4	NA	NA	NA	NA	NA	ng/ml	NA
+Shionoiri1985	NA	all	13.0	ENA10	tmax	enalapril	plasma	immunofluorescence	NA	NA	NA	NA	1.0	NA	NA	NA	NA	NA	hr	NA
+Shionoiri1985	NA	all	13.0	ENA10	auc_end	enalapril	plasma	immunofluorescence	NA	24.0	hr	NA	192.9	NA	NA	NA	NA	NA	ng/ml*hr	NA
+Shionoiri1985	NA	all	13.0	ENA10	thalf	enalaprilat	plasma	immunofluorescence	NA	NA	NA	NA	5.8	NA	NA	NA	NA	NA	hr	NA
+Shionoiri1985	NA	all	13.0	ENA10	cmax	enalaprilat	plasma	immunofluorescence	NA	NA	NA	NA	34.8	NA	NA	NA	NA	NA	ng/ml	NA
+Shionoiri1985	NA	all	13.0	ENA10	tmax	enalaprilat	plasma	immunofluorescence	NA	NA	NA	NA	4.0	NA	NA	NA	NA	NA	hr	NA
+Shionoiri1985	NA	all	13.0	ENA10	auc_end	enalaprilat	plasma	immunofluorescence	NA	24.0	hr	NA	452.2	NA	NA	NA	NA	NA	ng/ml*hr	NA

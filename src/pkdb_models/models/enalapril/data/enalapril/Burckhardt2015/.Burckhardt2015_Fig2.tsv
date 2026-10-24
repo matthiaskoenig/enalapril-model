@@ -1,0 +1,24 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Burckhardt2015	I1_ena	NA	1	ENA20	concentration	enalapril	saliva	HPLC MS/MS	ENA20_saliva_enalapril	0.0	hr	0.0121359223300965	NA	NA	NA	NA	ng/ml	NA
+Burckhardt2015	I1_ena	NA	1	ENA20	concentration	enalapril	saliva	HPLC MS/MS	ENA20_saliva_enalapril	0.33	hr	0.0	NA	NA	NA	NA	ng/ml	negative/zero
+Burckhardt2015	I1_ena	NA	1	ENA20	concentration	enalapril	saliva	HPLC MS/MS	ENA20_saliva_enalapril	0.66	hr	1.94174757281553	NA	NA	NA	NA	ng/ml	NA
+Burckhardt2015	I1_ena	NA	1	ENA20	concentration	enalapril	saliva	HPLC MS/MS	ENA20_saliva_enalapril	1.0	hr	NA	NA	NA	NA	NA	ng/ml	NA
+Burckhardt2015	I1_ena	NA	1	ENA20	concentration	enalapril	saliva	HPLC MS/MS	ENA20_saliva_enalapril	1.33	hr	1.37742718446601	NA	NA	NA	NA	ng/ml	NA
+Burckhardt2015	I1_ena	NA	1	ENA20	concentration	enalapril	saliva	HPLC MS/MS	ENA20_saliva_enalapril	1.66	hr	1.59587378640776	NA	NA	NA	NA	ng/ml	NA
+Burckhardt2015	I1_ena	NA	1	ENA20	concentration	enalapril	saliva	HPLC MS/MS	ENA20_saliva_enalapril	2.0	hr	0.782766990291262	NA	NA	NA	NA	ng/ml	NA
+Burckhardt2015	I1_ena	NA	1	ENA20	concentration	enalapril	saliva	HPLC MS/MS	ENA20_saliva_enalapril	2.33	hr	0.643203883495145	NA	NA	NA	NA	ng/ml	NA
+Burckhardt2015	I1_ena	NA	1	ENA20	concentration	enalapril	saliva	HPLC MS/MS	ENA20_saliva_enalapril	2.66	hr	0.333737864077669	NA	NA	NA	NA	ng/ml	NA
+Burckhardt2015	I1_ena	NA	1	ENA20	concentration	enalapril	saliva	HPLC MS/MS	ENA20_saliva_enalapril	3.0	hr	0.358009708737863	NA	NA	NA	NA	ng/ml	NA
+Burckhardt2015	I1_ena	NA	1	ENA20	concentration	enalapril	saliva	HPLC MS/MS	ENA20_saliva_enalapril	3.33	hr	0.157766990291261	NA	NA	NA	NA	ng/ml	NA
+Burckhardt2015	I1_ena	NA	1	ENA20	concentration	enalapril	saliva	HPLC MS/MS	ENA20_saliva_enalapril	3.66	hr	0.279126213592232	NA	NA	NA	NA	ng/ml	NA
+Burckhardt2015	I1_ena	NA	1	ENA20	concentration	enalapril	saliva	HPLC MS/MS	ENA20_saliva_enalapril	4.0	hr	0.188106796116504	NA	NA	NA	NA	ng/ml	NA
+Burckhardt2015	I1_ena	NA	1	ENA20	concentration	enalapril	saliva	HPLC MS/MS	ENA20_saliva_enalapril	4.33	hr	0.0970873786407762	NA	NA	NA	NA	ng/ml	NA
+Burckhardt2015	I1_ena	NA	1	ENA20	concentration	enalapril	saliva	HPLC MS/MS	ENA20_saliva_enalapril	4.66	hr	0.0	NA	NA	NA	NA	ng/ml	negative/zero
+Burckhardt2015	I1_ena	NA	1	ENA20	concentration	enalapril	saliva	HPLC MS/MS	ENA20_saliva_enalapril	5.0	hr	0.0728155339805827	NA	NA	NA	NA	ng/ml	NA
+Burckhardt2015	I1_ena	NA	1	ENA20	concentration	enalapril	saliva	HPLC MS/MS	ENA20_saliva_enalapril	5.33	hr	0.0121359223300965	NA	NA	NA	NA	ng/ml	NA
+Burckhardt2015	I1_ena	NA	1	ENA20	concentration	enalapril	saliva	HPLC MS/MS	ENA20_saliva_enalapril	5.66	hr	0.0	NA	NA	NA	NA	ng/ml	negative/zero
+Burckhardt2015	I1_ena	NA	1	ENA20	concentration	enalapril	saliva	HPLC MS/MS	ENA20_saliva_enalapril	6.0	hr	0.0	NA	NA	NA	NA	ng/ml	negative/zero
+Burckhardt2015	I1_ena	NA	1	ENA20	concentration	enalapril	saliva	HPLC MS/MS	ENA20_saliva_enalapril	6.5	hr	0.0	NA	NA	NA	NA	ng/ml	negative/zero
+Burckhardt2015	I1_ena	NA	1	ENA20	concentration	enalapril	saliva	HPLC MS/MS	ENA20_saliva_enalapril	7.0	hr	0.0	NA	NA	NA	NA	ng/ml	negative/zero
+Burckhardt2015	I1_ena	NA	1	ENA20	concentration	enalapril	saliva	HPLC MS/MS	ENA20_saliva_enalapril	7.5	hr	0.0	NA	NA	NA	NA	ng/ml	negative/zero
+Burckhardt2015	I1_ena	NA	1	ENA20	concentration	enalapril	saliva	HPLC MS/MS	ENA20_saliva_enalapril	8.0	hr	0.0	NA	NA	NA	NA	ng/ml	negative/zero

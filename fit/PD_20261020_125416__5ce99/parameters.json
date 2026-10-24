@@ -1,0 +1,21 @@
+{
+  "sets": [
+    {
+      "sid": "PD_20261020_125416__5ce99_0",
+      "values": {
+        "ANG1ANG2_EC50_eat": 1.2801334606964112e-05,
+        "RENSEC_ang2_E": 5.157030482265481,
+        "RENSEC_ang2_t": 70.86960666984189,
+        "BP_ang2_fe": 0.15770254549216242
+      },
+      "units": {
+        "ANG1ANG2_EC50_eat": "mmol/l",
+        "RENSEC_ang2_E": "dimensionless",
+        "RENSEC_ang2_t": "min",
+        "BP_ang2_fe": "dimensionless"
+      },
+      "cost": 31.663119522278194,
+      "provenance": "optimization 'PD_20261020_125416__5ce99', run '2'"
+    }
+  ]
+}

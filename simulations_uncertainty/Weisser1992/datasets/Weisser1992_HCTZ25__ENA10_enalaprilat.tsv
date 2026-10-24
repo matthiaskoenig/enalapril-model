@@ -1,0 +1,12 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Weisser1992		all	19.0	HCTZ25, ENA10	concentration	enalaprilat	serum	RIA	HCTZ25, ENA10_enalaprilat	0.0	hr		0.0					mole/meter^3	ng/ml	dimensionless
+Weisser1992		all	19.0	HCTZ25, ENA10	concentration	enalaprilat	serum	RIA	HCTZ25, ENA10_enalaprilat	0.5	hr		3.912480009543431e-06					mole/meter^3	ng/ml	dimensionless
+Weisser1992		all	19.0	HCTZ25, ENA10	concentration	enalaprilat	serum	RIA	HCTZ25, ENA10_enalaprilat	1.0	hr		2.480691523608304e-05					mole/meter^3	ng/ml	dimensionless
+Weisser1992		all	19.0	HCTZ25, ENA10	concentration	enalaprilat	serum	RIA	HCTZ25, ENA10_enalaprilat	2.0	hr		9.707729025206433e-05	39.5855950221457	7.212194014537265e-05	1.6545907826619375e-05		mole/meter^3	ng/ml	dimensionless
+Weisser1992		all	19.0	HCTZ25, ENA10	concentration	enalaprilat	serum	RIA	HCTZ25, ENA10_enalaprilat	4.0	hr		0.00022942424380848156	89.033251594599	0.00011389538446639693	2.6129393211828204e-05		mole/meter^3	ng/ml	dimensionless
+Weisser1992		all	19.0	HCTZ25, ENA10	concentration	enalaprilat	serum	RIA	HCTZ25, ENA10_enalaprilat	6.0	hr		0.0002677163725858558	108.138472583996	0.00018601732461176812	4.2675301038447324e-05		mole/meter^3	ng/ml	dimensionless
+Weisser1992		all	19.0	HCTZ25, ENA10	concentration	enalaprilat	serum	RIA	HCTZ25, ENA10_enalaprilat	8.0	hr		0.00025201388793075934	101.14949864212	0.0001670208742399097	3.831721643545175e-05		mole/meter^3	ng/ml	dimensionless
+Weisser1992		all	19.0	HCTZ25, ENA10	concentration	enalaprilat	serum	RIA	HCTZ25, ENA10_enalaprilat	10.0	hr		0.00021802011123715247	88.7007009645633	0.00015944416500441629	3.657900012586712e-05		mole/meter^3	ng/ml	dimensionless
+Weisser1992		all	19.0	HCTZ25, ENA10	concentration	enalaprilat	serum	RIA	HCTZ25, ENA10_enalaprilat	12.0	hr		0.00017880451771248754	74.4301584714047	0.00015183621160713172	3.4833615913976034e-05		mole/meter^3	ng/ml	dimensionless
+Weisser1992		all	19.0	HCTZ25, ENA10	concentration	enalaprilat	serum	RIA	HCTZ25, ENA10_enalaprilat	24.0	hr		8.0229135878143e-05	36.4469663599441	0.00010629263842941116	2.4385203650321647e-05		mole/meter^3	ng/ml	dimensionless
+Weisser1992		all	19.0	HCTZ25, ENA10	concentration	enalaprilat	serum	RIA	HCTZ25, ENA10_enalaprilat	32.0	hr		3.788355834584303e-05	18.2049618995758	6.263933704033886e-05	1.4370449476274825e-05		mole/meter^3	ng/ml	dimensionless

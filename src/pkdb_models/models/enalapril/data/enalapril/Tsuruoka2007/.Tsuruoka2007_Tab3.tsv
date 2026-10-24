@@ -1,0 +1,11 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Tsuruoka2007	NA	ena	6.0	ENA2.5	blood pressure systolic	NA	NA	sphygmomanometer	ENA2.5_blood pressure systolic	1344.0	hr	NA	153.3	NA	20.0858158908221	8.2	mmHg	NA
+Tsuruoka2007	NA	ena	6.0	ENA2.5	blood pressure systolic	NA	NA	sphygmomanometer	ENA2.5_blood pressure systolic	1345.0	hr	NA	146.7	NA	18.3711730708738	7.5	mmHg	NA
+Tsuruoka2007	NA	ena	6.0	ENA2.5	blood pressure systolic	NA	NA	sphygmomanometer	ENA2.5_blood pressure systolic	1346.0	hr	NA	145.0	NA	21.555509736492	8.8	mmHg	NA
+Tsuruoka2007	NA	ena	6.0	ENA2.5	blood pressure systolic	NA	NA	sphygmomanometer	ENA2.5_blood pressure systolic	1347.0	hr	NA	145.0	NA	29.3938769133981	12.0	mmHg	NA
+Tsuruoka2007	NA	ena	6.0	ENA2.5	blood pressure systolic	NA	NA	sphygmomanometer	ENA2.5_blood pressure systolic	1348.0	hr	NA	143.3	NA	17.6363261480389	7.2	mmHg	NA
+Tsuruoka2007	NA	ena	6.0	ENA2.5	blood pressure diastolic	NA	NA	sphygmomanometer	ENA2.5_blood pressure diastolic	1344.0	hr	NA	75.0	NA	12.2474487139159	5.0	mmHg	NA
+Tsuruoka2007	NA	ena	6.0	ENA2.5	blood pressure diastolic	NA	NA	sphygmomanometer	ENA2.5_blood pressure diastolic	1345.0	hr	NA	70.8	NA	13.2272446110292	5.4	mmHg	NA
+Tsuruoka2007	NA	ena	6.0	ENA2.5	blood pressure diastolic	NA	NA	sphygmomanometer	ENA2.5_blood pressure diastolic	1346.0	hr	NA	69.2	NA	14.6969384566991	6.0	mmHg	NA
+Tsuruoka2007	NA	ena	6.0	ENA2.5	blood pressure diastolic	NA	NA	sphygmomanometer	ENA2.5_blood pressure diastolic	1347.0	hr	NA	71.7	NA	14.4519894824208	5.9	mmHg	NA
+Tsuruoka2007	NA	ena	6.0	ENA2.5	blood pressure diastolic	NA	NA	sphygmomanometer	ENA2.5_blood pressure diastolic	1348.0	hr	NA	76.7	NA	12.0024997396376	4.9	mmHg	NA

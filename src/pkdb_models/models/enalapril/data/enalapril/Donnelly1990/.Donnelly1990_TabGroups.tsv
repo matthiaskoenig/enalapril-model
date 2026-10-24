@@ -1,0 +1,9 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Donnelly1990	all	13	NA	species	13	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Donnelly1990	all	13	NA	healthy	13	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Donnelly1990	all	13	NA	disease	13	NA	hypertension	NA	NA	NA	NA	NA	NA	NA	NA
+Donnelly1990	all	13	NA	sex	6	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Donnelly1990	all	13	NA	sex	7	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Donnelly1990	all	13	NA	age	13	NA	NA	NA	NA	NA	NA	41.0	66.0	yr	NA
+Donnelly1990	all	13	NA	blood pressure systolic	13	NA	NA	NA	NA	NA	NA	160.0	210.0	mmHg	NA
+Donnelly1990	all	13	NA	blood pressure diastolic	13	NA	NA	NA	NA	NA	NA	90.0	115.0	mmHg	NA

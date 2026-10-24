@@ -1,0 +1,15 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Ulm1982		all	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	enalaprilat	0.0	hr		1.08					nM	nM	dimensionless
+Ulm1982		all	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	enalaprilat	0.5	hr		5.77					nM	nM	dimensionless
+Ulm1982		all	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	enalaprilat	1.0	hr		21.11					nM	nM	dimensionless
+Ulm1982		all	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	enalaprilat	1.5	hr		54.84					nM	nM	dimensionless
+Ulm1982		all	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	enalaprilat	2.0	hr		82.8					nM	nM	dimensionless
+Ulm1982		all	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	enalaprilat	3.0	hr		109.68					nM	nM	dimensionless
+Ulm1982		all	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	enalaprilat	4.0	hr		109.86					nM	nM	dimensionless
+Ulm1982		all	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	enalaprilat	6.0	hr		83.7					nM	nM	dimensionless
+Ulm1982		all	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	enalaprilat	8.0	hr		62.94					nM	nM	dimensionless
+Ulm1982		all	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	enalaprilat	10.0	hr		48.15					nM	nM	dimensionless
+Ulm1982		all	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	enalaprilat	24.0	hr		13.3					nM	nM	dimensionless
+Ulm1982		all	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	enalaprilat	48.0	hr		4.06					nM	nM	dimensionless
+Ulm1982		all	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	enalaprilat	72.0	hr		2.39					nM	nM	dimensionless
+Ulm1982		all	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	enalaprilat	96.0	hr		1.26					nM	nM	dimensionless

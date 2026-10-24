@@ -1,0 +1,10 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Weisser1991	all	8.0	NA	species	8.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Weisser1991	all	8.0	NA	healthy	8.0	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Weisser1991	all	8.0	NA	sex	8.0	NA	NR	NA	NA	NA	NA	NA	NA	NA	both sexes included
+Weisser1991	all	8.0	NA	age	8.0	NA	NA	NA	NA	NA	NA	27.0	41.0	yr	NA
+Weisser1991	all	8.0	NA	weight	8.0	NA	NA	NA	NA	NA	NA	52.0	80.0	kg	NA
+Weisser1991	morning	8.0	all	species	8.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Weisser1991	morning	8.0	all	circadian status (time of day)	8.0	NA	morning	NA	NA	NA	NA	NA	NA	NA	NA
+Weisser1991	evening	8.0	all	species	8.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Weisser1991	evening	8.0	all	circadian status (time of day)	8.0	NA	evening	NA	NA	NA	NA	NA	NA	NA	NA

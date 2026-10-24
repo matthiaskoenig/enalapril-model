@@ -1,0 +1,13 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Donnelly1990		all	13.0	PLAC	blood pressure diastolic			sphygmomanometer	PLAC_blood pressure diastolic	0.0	hr		106.099506110488	116.190355941062	10.090849830574	2.7986981905493598	error bar is SD (Fig1 caption)	mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	PLAC	blood pressure diastolic			sphygmomanometer	PLAC_blood pressure diastolic	0.5	hr		102.286984455107					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	PLAC	blood pressure diastolic			sphygmomanometer	PLAC_blood pressure diastolic	1.0	hr		100.292633940369					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	PLAC	blood pressure diastolic			sphygmomanometer	PLAC_blood pressure diastolic	1.5	hr		98.3896617943283					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	PLAC	blood pressure diastolic			sphygmomanometer	PLAC_blood pressure diastolic	2.5	hr		98.400467462606	103.764307233338	5.363839770732	1.487661486672864	error bar is SD (Fig1 caption)	mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	PLAC	blood pressure diastolic			sphygmomanometer	PLAC_blood pressure diastolic	3.5	hr		96.2294677621109					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	PLAC	blood pressure diastolic			sphygmomanometer	PLAC_blood pressure diastolic	4.0	hr		97.2353345352683					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	PLAC	blood pressure diastolic			sphygmomanometer	PLAC_blood pressure diastolic	5.0	hr		93.3380118744899					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	PLAC	blood pressure diastolic			sphygmomanometer	PLAC_blood pressure diastolic	6.0	hr		94.3488116701218	99.6217428838215	5.272931213699692	1.4624479894606774	error bar is SD (Fig1 caption)	mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	PLAC	blood pressure diastolic			sphygmomanometer	PLAC_blood pressure diastolic	7.0	hr		95.360081277418					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	PLAC	blood pressure diastolic			sphygmomanometer	PLAC_blood pressure diastolic	8.0	hr		97.2811411725325					mmHg	mmHg	dimensionless
+Donnelly1990		all	13.0	PLAC	blood pressure diastolic			sphygmomanometer	PLAC_blood pressure diastolic	24.0	hr		102.236244795368					mmHg	mmHg	dimensionless

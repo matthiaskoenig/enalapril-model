@@ -1,0 +1,4 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	median	mean_pm	sd	se	min	max	unit	comments
+Lowenthal1985	NA	GroupI	10.0	ENA10	clearance	creatinine	urine	NR	creatinine_clearance	NA	NA	NA	NA	NA	NA	NA	NA	NA	10.0	ml/min	NA
+Lowenthal1985	NA	GroupII	9.0	ENA10	clearance	creatinine	urine	NR	creatinine_clearance	NA	NA	NA	32.0	NA	NA	60.0	20.0	NA	NA	ml/min	NA
+Lowenthal1985	NA	GroupIII	10.0	ENA10	clearance	creatinine	urine	NR	creatinine_clearance	NA	NA	NA	123.0	NA	NA	88.5437744847146	28.0	NA	NA	ml/min	NA

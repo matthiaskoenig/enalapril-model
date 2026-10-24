@@ -1,0 +1,41 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Wade1992	NA	all	8.0	ENA10	ACE inhibition	NA	plasma	enzymatic assay	ENA10_ACE inhibition	0.0	hr	NA	0.0	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10	ACE inhibition	NA	plasma	enzymatic assay	ENA10_ACE inhibition	0.5	hr	NA	6.95558280090346	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10	ACE inhibition	NA	plasma	enzymatic assay	ENA10_ACE inhibition	1.0	hr	NA	32.7513902853462	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10	ACE inhibition	NA	plasma	enzymatic assay	ENA10_ACE inhibition	1.5	hr	NA	50.4110912720931	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10	ACE inhibition	NA	plasma	enzymatic assay	ENA10_ACE inhibition	2.0	hr	NA	57.3573229154512	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10	ACE inhibition	NA	plasma	enzymatic assay	ENA10_ACE inhibition	3.0	hr	NA	69.2644635232924	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10	ACE inhibition	NA	plasma	enzymatic assay	ENA10_ACE inhibition	3.5	hr	NA	72.6396719262266	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10	ACE inhibition	NA	plasma	enzymatic assay	ENA10_ACE inhibition	4.5	hr	NA	74.0313559498138	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10	ACE inhibition	NA	plasma	enzymatic assay	ENA10_ACE inhibition	8.0	hr	NA	63.5242914300238	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10	ACE inhibition	NA	plasma	enzymatic assay	ENA10_ACE inhibition	10.0	hr	NA	58.3715638492242	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10	ACE inhibition	NA	plasma	enzymatic assay	ENA10_ACE inhibition	24.0	hr	NA	44.322648503575	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10	ACE inhibition	NA	plasma	enzymatic assay	ENA10_ACE inhibition	48.0	hr	NA	18.9920011636996	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10	ACE inhibition	NA	plasma	enzymatic assay	ENA10_ACE inhibition	72.0	hr	NA	6.55855822734024	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	0.0	hr	NA	88.898897202805	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	0.200000000000003	hr	NA	81.7572503440746	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	1.0	hr	NA	79.7747250200211	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	1.5	hr	NA	76.7997381675887	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	2.0	hr	NA	74.023563318526	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	3.0	hr	NA	78.5902450642672	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	4.0	hr	NA	79.7831170844849	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	6.0	hr	NA	75.4232397844598	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	8.0	hr	NA	66.3020647675558	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	10.0	hr	NA	57.3795019429627	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	12.0	hr	NA	52.820812639568	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	24.0	hr	NA	34.2040166818257	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	48.0	hr	NA	7.28567066981462	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	72.0	hr	NA	3.18574755711002	NA	NA	NA	percent	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	564.0	hr	NA	0.0	NA	NA	NA	percent	After 1 month
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	564.2	hr	NA	5.7653083244484	NA	NA	NA	percent	After 1 month
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	565.0	hr	NA	44.0608960167266	NA	NA	NA	percent	After 1 month
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	565.5	hr	NA	59.7364731909506	NA	NA	NA	percent	After 1 month
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	566.0	hr	NA	59.9364840606722	NA	NA	NA	percent	After 1 month
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	567.0	hr	NA	66.4870898078777	NA	NA	NA	percent	After 1 month
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	567.5	hr	NA	68.0761871574239	NA	NA	NA	percent	After 1 month
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	568.5	hr	NA	70.8567578497772	NA	NA	NA	percent	After 1 month
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	570.0	hr	NA	69.8678929204544	NA	NA	NA	percent	After 1 month
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	572.0	hr	NA	58.5639818987166	NA	NA	NA	percent	After 1 month
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	574.0	hr	NA	53.8084787025389	NA	NA	NA	percent	After 1 month
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	576.0	hr	NA	46.4718162505535	NA	NA	NA	percent	After 1 month
+Wade1992	NA	all	8.0	ENA10, CAP50	ACE inhibition	NA	plasma	enzymatic assay	ENA10, CAP50_ACE inhibition	588.0	hr	NA	19.9181254206023	NA	NA	NA	percent	After 1 month

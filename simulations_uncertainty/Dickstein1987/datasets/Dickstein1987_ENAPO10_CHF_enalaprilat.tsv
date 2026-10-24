@@ -1,0 +1,16 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Dickstein1987		CHF	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	ENAPO10_CHF_enalaprilat	0.5	hr		5.7787351325720685e-06					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		CHF	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	ENAPO10_CHF_enalaprilat	0.75	hr		1.2001988352264825e-05					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		CHF	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	ENAPO10_CHF_enalaprilat	1.5	hr		4.222921827648671e-05					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		CHF	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	ENAPO10_CHF_enalaprilat	2.0	hr		6.445512263253228e-05					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		CHF	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	ENAPO10_CHF_enalaprilat	3.0	hr		9.912753342796337e-05					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		CHF	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	ENAPO10_CHF_enalaprilat	4.0	hr		0.00012001988352264623					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		CHF	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	ENAPO10_CHF_enalaprilat	5.0	hr		0.00012668765482946013					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		CHF	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	ENAPO10_CHF_enalaprilat	6.0	hr		0.00013335542613627374					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		CHF	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	ENAPO10_CHF_enalaprilat	8.0	hr		0.00011735277499992078					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		CHF	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	ENAPO10_CHF_enalaprilat	12.0	hr		8.712554507569887e-05					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		CHF	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	ENAPO10_CHF_enalaprilat	24.0	hr		3.200530227270593e-05					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		CHF	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	ENAPO10_CHF_enalaprilat	30.0	hr		2.0892350094683054e-05					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		CHF	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	ENAPO10_CHF_enalaprilat	36.0	hr		1.2446506439385714e-05					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		CHF	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	ENAPO10_CHF_enalaprilat	48.0	hr		8.001325568176598e-06					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		CHF	12.0	ENAPO10	concentration	enalaprilat	serum	RIA	ENAPO10_CHF_enalaprilat	72.0	hr		6.223253219692958e-06					mole/meter^3	ng/ml	dimensionless

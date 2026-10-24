@@ -1,0 +1,9 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	mean_unit	value_unit	count_unit
+Arafat2005		healthy	24.0	REN10	blood pressure diastolic		plasma	sphygmomanometer	blood pressure diastolic_REN10	0.0	hr		80.1094890510949		6.43661538249557	1.31386861313861	mmHg	mmHg	dimensionless
+Arafat2005		healthy	24.0	REN10	blood pressure diastolic		plasma	sphygmomanometer	blood pressure diastolic_REN10	1.0	hr		76.0218978102189		6.972999997704	1.42335766423359	mmHg	mmHg	dimensionless
+Arafat2005		healthy	24.0	REN10	blood pressure diastolic		plasma	sphygmomanometer	blood pressure diastolic_REN10	2.0	hr		74.1240875912408		6.25782051076037	1.27737226277381	mmHg	mmHg	dimensionless
+Arafat2005		healthy	24.0	REN10	blood pressure diastolic		plasma	sphygmomanometer	blood pressure diastolic_REN10	4.0	hr		71.0218978102189		8.76094871506435	1.7883211678833	mmHg	mmHg	dimensionless
+Arafat2005		healthy	24.0	REN10	blood pressure diastolic		plasma	sphygmomanometer	blood pressure diastolic_REN10	6.0	hr		69.963503649635		8.04576922812013	1.6423357664234	mmHg	mmHg	dimensionless
+Arafat2005		healthy	24.0	REN10	blood pressure diastolic		plasma	sphygmomanometer	blood pressure diastolic_REN10	8.0	hr		76.0583941605839		6.972999997704	1.42335766423359	mmHg	mmHg	dimensionless
+Arafat2005		healthy	24.0	REN10	blood pressure diastolic		plasma	sphygmomanometer	blood pressure diastolic_REN10	12.0	hr		75.985401459854		7.33058974117587	1.49635036496349	mmHg	mmHg	dimensionless
+Arafat2005		healthy	24.0	REN10	blood pressure diastolic		plasma	sphygmomanometer	blood pressure diastolic_REN10	24.0	hr		76.0218978102189		7.86697435638396	1.6058394160584	mmHg	mmHg	dimensionless

@@ -1,0 +1,14 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Dickstein1987		normal	10.0	EATIV5	concentration	enalaprilat	serum	RIA	EATIV5_normal_enalaprilat	0.16	hr		0.0008920031682735418					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	EATIV5	concentration	enalaprilat	serum	RIA	EATIV5_normal_enalaprilat	0.33	hr		0.0008131171154353638					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	EATIV5	concentration	enalaprilat	serum	RIA	EATIV5_normal_enalaprilat	0.5	hr		0.0006456215169719737					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	EATIV5	concentration	enalaprilat	serum	RIA	EATIV5_normal_enalaprilat	0.75	hr		0.0005109281367623918					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	EATIV5	concentration	enalaprilat	serum	RIA	EATIV5_normal_enalaprilat	1.5	hr		0.00031681409337600057					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	EATIV5	concentration	enalaprilat	serum	RIA	EATIV5_normal_enalaprilat	2.0	hr		0.00022849901314749094					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	EATIV5	concentration	enalaprilat	serum	RIA	EATIV5_normal_enalaprilat	3.0	hr		0.00015587034998929976					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	EATIV5	concentration	enalaprilat	serum	RIA	EATIV5_normal_enalaprilat	4.0	hr		7.17207281850166e-05					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	EATIV5	concentration	enalaprilat	serum	RIA	EATIV5_normal_enalaprilat	5.0	hr		5.2991502015411305e-05					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	EATIV5	concentration	enalaprilat	serum	RIA	EATIV5_normal_enalaprilat	6.0	hr		3.6243782577801666e-05					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	EATIV5	concentration	enalaprilat	serum	RIA	EATIV5_normal_enalaprilat	8.0	hr		1.8103487201606803e-05					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	EATIV5	concentration	enalaprilat	serum	RIA	EATIV5_normal_enalaprilat	12.0	hr		1.6569813260433775e-05					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	EATIV5	concentration	enalaprilat	serum	RIA	EATIV5_normal_enalaprilat	24.0	hr		8.116202496687798e-06					mole/meter^3	ng/ml	dimensionless

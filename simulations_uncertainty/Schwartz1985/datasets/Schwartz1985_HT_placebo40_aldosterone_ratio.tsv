@@ -1,0 +1,5 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	min	max	comments	mean_unit	value_unit	count_unit
+Schwartz1985		HT	5	control	concentration	aldosterone	plasma	CC	HT_placebo40_aldosterone	0	hr		1.0		0.7058823529411765	0.31568018505879414				dimensionless	dimensionless	dimensionless
+Schwartz1985		HT	5	control	concentration	aldosterone	plasma	CC	HT_placebo40_aldosterone	4	hr		0.7058823529411765		0.4338235294117647	0.1940117804007169				dimensionless	dimensionless	dimensionless
+Schwartz1985		HT	5	control	concentration	aldosterone	plasma	CC	HT_placebo40_aldosterone	12	hr									dimensionless	dimensionless	dimensionless
+Schwartz1985		HT	5	control	concentration	aldosterone	plasma	CC	HT_placebo40_aldosterone	24	hr		1.3088235294117647		0.5220588235294118	0.23347180353306618				dimensionless	dimensionless	dimensionless

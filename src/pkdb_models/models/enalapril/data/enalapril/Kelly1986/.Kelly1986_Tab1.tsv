@@ -1,0 +1,97 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Kelly1986	I1_s	NA	1.0	ENA10S	gfr	NA	NA	NR	ENA10S_I1_s_gfr	NA	NA	103.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I1_s	NA	1.0	ENA10S	cmax	enalaprilat	serum	RIA	ENA10S_I1_s_cmax	NA	NA	69.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Kelly1986	I1_s	NA	1.0	ENA10S	tmax	enalaprilat	serum	RIA	ENA10S_I1_s_tmax	NA	NA	4.0	NA	NA	NA	NA	NA	NA	h	NA
+Kelly1986	I1_s	NA	1.0	ENA10S	cumulative amount	enalaprilat	urine	RIA	ENA10S_I1_s_cumulative amount	48.0	hr	3.1	NA	NA	NA	NA	NA	NA	mg	NA
+Kelly1986	I2_s	NA	1.0	ENA10S	gfr	NA	NA	NR	ENA10S_I2_s_gfr	NA	NA	124.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I2_s	NA	1.0	ENA10S	cmax	enalaprilat	serum	RIA	ENA10S_I2_s_cmax	NA	NA	65.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Kelly1986	I2_s	NA	1.0	ENA10S	tmax	enalaprilat	serum	RIA	ENA10S_I2_s_tmax	NA	NA	4.0	NA	NA	NA	NA	NA	NA	h	NA
+Kelly1986	I2_s	NA	1.0	ENA10S	cumulative amount	enalaprilat	urine	RIA	ENA10S_I2_s_cumulative amount	48.0	hr	3.7	NA	NA	NA	NA	NA	NA	mg	NA
+Kelly1986	I3_s	NA	1.0	ENA10S	gfr	NA	NA	NR	ENA10S_I3_s_gfr	NA	NA	103.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I3_s	NA	1.0	ENA10S	cmax	enalaprilat	serum	RIA	ENA10S_I3_s_cmax	NA	NA	50.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Kelly1986	I3_s	NA	1.0	ENA10S	tmax	enalaprilat	serum	RIA	ENA10S_I3_s_tmax	NA	NA	5.0	NA	NA	NA	NA	NA	NA	h	NA
+Kelly1986	I3_s	NA	1.0	ENA10S	cumulative amount	enalaprilat	urine	RIA	ENA10S_I3_s_cumulative amount	48.0	hr	2.3	NA	NA	NA	NA	NA	NA	mg	NA
+Kelly1986	I4_s	NA	1.0	ENA10S	gfr	NA	NA	NR	ENA10S_I4_s_gfr	NA	NA	120.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I4_s	NA	1.0	ENA10S	cmax	enalaprilat	serum	RIA	ENA10S_I4_s_cmax	NA	NA	31.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Kelly1986	I4_s	NA	1.0	ENA10S	tmax	enalaprilat	serum	RIA	ENA10S_I4_s_tmax	NA	NA	4.0	NA	NA	NA	NA	NA	NA	h	NA
+Kelly1986	I4_s	NA	1.0	ENA10S	cumulative amount	enalaprilat	urine	RIA	ENA10S_I4_s_cumulative amount	48.0	hr	2.7	NA	NA	NA	NA	NA	NA	mg	NA
+Kelly1986	I5_s	NA	1.0	ENA10S	gfr	NA	NA	NR	ENA10S_I5_s_gfr	NA	NA	118.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I5_s	NA	1.0	ENA10S	cmax	enalaprilat	serum	RIA	ENA10S_I5_s_cmax	NA	NA	50.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Kelly1986	I5_s	NA	1.0	ENA10S	tmax	enalaprilat	serum	RIA	ENA10S_I5_s_tmax	NA	NA	4.0	NA	NA	NA	NA	NA	NA	h	NA
+Kelly1986	I5_s	NA	1.0	ENA10S	cumulative amount	enalaprilat	urine	RIA	ENA10S_I5_s_cumulative amount	48.0	hr	2.3	NA	NA	NA	NA	NA	NA	mg	NA
+Kelly1986	I6_s	NA	1.0	ENA10S	gfr	NA	NA	NR	ENA10S_I6_s_gfr	NA	NA	126.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I6_s	NA	1.0	ENA10S	cmax	enalaprilat	serum	RIA	ENA10S_I6_s_cmax	NA	NA	36.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Kelly1986	I6_s	NA	1.0	ENA10S	tmax	enalaprilat	serum	RIA	ENA10S_I6_s_tmax	NA	NA	4.0	NA	NA	NA	NA	NA	NA	h	NA
+Kelly1986	I6_s	NA	1.0	ENA10S	cumulative amount	enalaprilat	urine	RIA	ENA10S_I6_s_cumulative amount	48.0	hr	0.9	NA	NA	NA	NA	NA	NA	mg	NA
+Kelly1986	I7_s	NA	1.0	ENA10S	gfr	NA	NA	NR	ENA10S_I7_s_gfr	NA	NA	72.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I7_s	NA	1.0	ENA10S	cmax	enalaprilat	serum	RIA	ENA10S_I7_s_cmax	NA	NA	23.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Kelly1986	I7_s	NA	1.0	ENA10S	tmax	enalaprilat	serum	RIA	ENA10S_I7_s_tmax	NA	NA	6.0	NA	NA	NA	NA	NA	NA	h	NA
+Kelly1986	I7_s	NA	1.0	ENA10S	cumulative amount	enalaprilat	urine	RIA	ENA10S_I7_s_cumulative amount	48.0	hr	0.5	NA	NA	NA	NA	NA	NA	mg	NA
+Kelly1986	I8_s	NA	1.0	ENA10S	gfr	NA	NA	NR	ENA10S_I8_s_gfr	NA	NA	88.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I8_s	NA	1.0	ENA10S	cmax	enalaprilat	serum	RIA	ENA10S_I8_s_cmax	NA	NA	30.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Kelly1986	I8_s	NA	1.0	ENA10S	tmax	enalaprilat	serum	RIA	ENA10S_I8_s_tmax	NA	NA	5.0	NA	NA	NA	NA	NA	NA	h	NA
+Kelly1986	I8_s	NA	1.0	ENA10S	cumulative amount	enalaprilat	urine	RIA	ENA10S_I8_s_cumulative amount	48.0	hr	1.4	NA	NA	NA	NA	NA	NA	mg	NA
+Kelly1986	I9_s	NA	1.0	ENA10S	gfr	NA	NA	NR	ENA10S_I9_s_gfr	NA	NA	54.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I9_s	NA	1.0	ENA10S	cmax	enalaprilat	serum	RIA	ENA10S_I9_s_cmax	NA	NA	96.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Kelly1986	I9_s	NA	1.0	ENA10S	tmax	enalaprilat	serum	RIA	ENA10S_I9_s_tmax	NA	NA	6.0	NA	NA	NA	NA	NA	NA	h	NA
+Kelly1986	I9_s	NA	1.0	ENA10S	cumulative amount	enalaprilat	urine	RIA	ENA10S_I9_s_cumulative amount	48.0	hr	2.1	NA	NA	NA	NA	NA	NA	mg	NA
+Kelly1986	I10_s	NA	1.0	ENA10S	gfr	NA	NA	NR	ENA10S_I10_s_gfr	NA	NA	77.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I10_s	NA	1.0	ENA10S	cmax	enalaprilat	serum	RIA	ENA10S_I10_s_cmax	NA	NA	88.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Kelly1986	I10_s	NA	1.0	ENA10S	tmax	enalaprilat	serum	RIA	ENA10S_I10_s_tmax	NA	NA	6.0	NA	NA	NA	NA	NA	NA	h	NA
+Kelly1986	I10_s	NA	1.0	ENA10S	cumulative amount	enalaprilat	urine	RIA	ENA10S_I10_s_cumulative amount	48.0	hr	2.1	NA	NA	NA	NA	NA	NA	mg	NA
+Kelly1986	I11_s	NA	1.0	ENA10S	gfr	NA	NA	NR	ENA10S_I11_s_gfr	NA	NA	45.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I11_s	NA	1.0	ENA10S	cmax	enalaprilat	serum	RIA	ENA10S_I11_s_cmax	NA	NA	81.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Kelly1986	I11_s	NA	1.0	ENA10S	tmax	enalaprilat	serum	RIA	ENA10S_I11_s_tmax	NA	NA	5.0	NA	NA	NA	NA	NA	NA	h	NA
+Kelly1986	I11_s	NA	1.0	ENA10S	cumulative amount	enalaprilat	urine	RIA	ENA10S_I11_s_cumulative amount	48.0	hr	1.4	NA	NA	NA	NA	NA	NA	mg	NA
+Kelly1986	I12_s	NA	1.0	ENA10S	gfr	NA	NA	NR	ENA10S_I12_s_gfr	NA	NA	58.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I12_s	NA	1.0	ENA10S	cmax	enalaprilat	serum	RIA	ENA10S_I12_s_cmax	NA	NA	33.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Kelly1986	I12_s	NA	1.0	ENA10S	tmax	enalaprilat	serum	RIA	ENA10S_I12_s_tmax	NA	NA	6.0	NA	NA	NA	NA	NA	NA	h	NA
+Kelly1986	I12_s	NA	1.0	ENA10S	cumulative amount	enalaprilat	urine	RIA	ENA10S_I12_s_cumulative amount	48.0	hr	1.2	NA	NA	NA	NA	NA	NA	mg	NA
+Kelly1986	I13_s	NA	1.0	ENA10S	gfr	NA	NA	NR	ENA10S_I13_s_gfr	NA	NA	20.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I13_s	NA	1.0	ENA10S	cmax	enalaprilat	serum	RIA	ENA10S_I13_s_cmax	NA	NA	61.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Kelly1986	I13_s	NA	1.0	ENA10S	tmax	enalaprilat	serum	RIA	ENA10S_I13_s_tmax	NA	NA	10.0	NA	NA	NA	NA	NA	NA	h	NA
+Kelly1986	I13_s	NA	1.0	ENA10S	cumulative amount	enalaprilat	urine	RIA	ENA10S_I13_s_cumulative amount	48.0	hr	1.6	NA	NA	NA	NA	NA	NA	mg	NA
+Kelly1986	I14_s	NA	1.0	ENA10S	gfr	NA	NA	NR	ENA10S_I14_s_gfr	NA	NA	30.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I14_s	NA	1.0	ENA10S	cmax	enalaprilat	serum	RIA	ENA10S_I14_s_cmax	NA	NA	12.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Kelly1986	I14_s	NA	1.0	ENA10S	tmax	enalaprilat	serum	RIA	ENA10S_I14_s_tmax	NA	NA	6.0	NA	NA	NA	NA	NA	NA	h	NA
+Kelly1986	I14_s	NA	1.0	ENA10S	cumulative amount	enalaprilat	urine	RIA	ENA10S_I14_s_cumulative amount	48.0	hr	0.7	NA	NA	NA	NA	NA	NA	mg	NA
+Kelly1986	I15_s	NA	1.0	ENA10S	gfr	NA	NA	NR	ENA10S_I15_s_gfr	NA	NA	21.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I15_s	NA	1.0	ENA10S	cmax	enalaprilat	serum	RIA	ENA10S_I15_s_cmax	NA	NA	55.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Kelly1986	I15_s	NA	1.0	ENA10S	tmax	enalaprilat	serum	RIA	ENA10S_I15_s_tmax	NA	NA	10.0	NA	NA	NA	NA	NA	NA	h	NA
+Kelly1986	I15_s	NA	1.0	ENA10S	cumulative amount	enalaprilat	urine	RIA	ENA10S_I15_s_cumulative amount	48.0	hr	0.6	NA	NA	NA	NA	NA	NA	mg	NA
+Kelly1986	I16_s	NA	1.0	ENA10S	gfr	NA	NA	NR	ENA10S_I16_s_gfr	NA	NA	29.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I16_s	NA	1.0	ENA10S	cmax	enalaprilat	serum	RIA	ENA10S_I16_s_cmax	NA	NA	30.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Kelly1986	I16_s	NA	1.0	ENA10S	tmax	enalaprilat	serum	RIA	ENA10S_I16_s_tmax	NA	NA	8.0	NA	NA	NA	NA	NA	NA	h	NA
+Kelly1986	I16_s	NA	1.0	ENA10S	cumulative amount	enalaprilat	urine	RIA	ENA10S_I16_s_cumulative amount	48.0	hr	1.0	NA	NA	NA	NA	NA	NA	mg	NA
+Kelly1986	I17_s	NA	1.0	ENA10S	gfr	NA	NA	NR	ENA10S_I17_s_gfr	NA	NA	29.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I17_s	NA	1.0	ENA10S	cmax	enalaprilat	serum	RIA	ENA10S_I17_s_cmax	NA	NA	101.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Kelly1986	I17_s	NA	1.0	ENA10S	tmax	enalaprilat	serum	RIA	ENA10S_I17_s_tmax	NA	NA	6.0	NA	NA	NA	NA	NA	NA	h	NA
+Kelly1986	I17_s	NA	1.0	ENA10S	cumulative amount	enalaprilat	urine	RIA	ENA10S_I17_s_cumulative amount	48.0	hr	3.7	NA	NA	NA	NA	NA	NA	mg	NA
+Kelly1986	I18_s	NA	1.0	ENA10S	gfr	NA	NA	NR	ENA10S_I18_s_gfr	NA	NA	20.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I18_s	NA	1.0	ENA10S	cmax	enalaprilat	serum	RIA	ENA10S_I18_s_cmax	NA	NA	134.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Kelly1986	I18_s	NA	1.0	ENA10S	tmax	enalaprilat	serum	RIA	ENA10S_I18_s_tmax	NA	NA	24.0	NA	NA	NA	NA	NA	NA	h	NA
+Kelly1986	I18_s	NA	1.0	ENA10S	cumulative amount	enalaprilat	urine	RIA	ENA10S_I18_s_cumulative amount	48.0	hr	1.5	NA	NA	NA	NA	NA	NA	mg	NA
+Kelly1986	I19_s	NA	1.0	ENA10S	gfr	NA	NA	NR	ENA10S_I19_s_gfr	NA	NA	5.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I19_s	NA	1.0	ENA10S	cmax	enalaprilat	serum	RIA	ENA10S_I19_s_cmax	NA	NA	131.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Kelly1986	I19_s	NA	1.0	ENA10S	tmax	enalaprilat	serum	RIA	ENA10S_I19_s_tmax	NA	NA	12.0	NA	NA	NA	NA	NA	NA	h	NA
+Kelly1986	I19_s	NA	1.0	ENA10S	cumulative amount	enalaprilat	urine	RIA	ENA10S_I19_s_cumulative amount	48.0	hr	0.7	NA	NA	NA	NA	NA	NA	mg	NA
+Kelly1986	I20_s	NA	1.0	ENA10S	gfr	NA	NA	NR	ENA10S_I20_s_gfr	NA	NA	7.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I20_s	NA	1.0	ENA10S	cmax	enalaprilat	serum	RIA	ENA10S_I20_s_cmax	NA	NA	58.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Kelly1986	I20_s	NA	1.0	ENA10S	tmax	enalaprilat	serum	RIA	ENA10S_I20_s_tmax	NA	NA	10.0	NA	NA	NA	NA	NA	NA	h	NA
+Kelly1986	I20_s	NA	1.0	ENA10S	cumulative amount	enalaprilat	urine	RIA	ENA10S_I20_s_cumulative amount	48.0	hr	0.4	NA	NA	NA	NA	NA	NA	mg	NA
+Kelly1986	I21_s	NA	1.0	ENA10S	gfr	NA	NA	NR	ENA10S_I21_s_gfr	NA	NA	8.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I21_s	NA	1.0	ENA10S	cmax	enalaprilat	serum	RIA	ENA10S_I21_s_cmax	NA	NA	214.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Kelly1986	I21_s	NA	1.0	ENA10S	tmax	enalaprilat	serum	RIA	ENA10S_I21_s_tmax	NA	NA	12.0	NA	NA	NA	NA	NA	NA	h	NA
+Kelly1986	I21_s	NA	1.0	ENA10S	cumulative amount	enalaprilat	urine	RIA	ENA10S_I21_s_cumulative amount	48.0	hr	0.6	NA	NA	NA	NA	NA	NA	mg	NA
+Kelly1986	I22_s	NA	1.0	ENA10S	gfr	NA	NA	NR	ENA10S_I22_s_gfr	NA	NA	9.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I22_s	NA	1.0	ENA10S	cmax	enalaprilat	serum	RIA	ENA10S_I22_s_cmax	NA	NA	135.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Kelly1986	I22_s	NA	1.0	ENA10S	tmax	enalaprilat	serum	RIA	ENA10S_I22_s_tmax	NA	NA	12.0	NA	NA	NA	NA	NA	NA	h	NA
+Kelly1986	I22_s	NA	1.0	ENA10S	cumulative amount	enalaprilat	urine	RIA	ENA10S_I22_s_cumulative amount	48.0	hr	0.5	NA	NA	NA	NA	NA	NA	mg	NA
+Kelly1986	I23_s	NA	1.0	ENA10S	gfr	NA	NA	NR	ENA10S_I23_s_gfr	NA	NA	10.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I23_s	NA	1.0	ENA10S	cmax	enalaprilat	serum	RIA	ENA10S_I23_s_cmax	NA	NA	201.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Kelly1986	I23_s	NA	1.0	ENA10S	tmax	enalaprilat	serum	RIA	ENA10S_I23_s_tmax	NA	NA	10.0	NA	NA	NA	NA	NA	NA	h	NA
+Kelly1986	I23_s	NA	1.0	ENA10S	cumulative amount	enalaprilat	urine	RIA	ENA10S_I23_s_cumulative amount	48.0	hr	1.1	NA	NA	NA	NA	NA	NA	mg	NA
+Kelly1986	I24_s	NA	1.0	ENA10S	gfr	NA	NA	NR	ENA10S_I24_s_gfr	NA	NA	8.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I24_s	NA	1.0	ENA10S	cmax	enalaprilat	serum	RIA	ENA10S_I24_s_cmax	NA	NA	152.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Kelly1986	I24_s	NA	1.0	ENA10S	tmax	enalaprilat	serum	RIA	ENA10S_I24_s_tmax	NA	NA	10.0	NA	NA	NA	NA	NA	NA	h	NA
+Kelly1986	I24_s	NA	1.0	ENA10S	cumulative amount	enalaprilat	urine	RIA	ENA10S_I24_s_cumulative amount	48.0	hr	1.2	NA	NA	NA	NA	NA	NA	mg	NA

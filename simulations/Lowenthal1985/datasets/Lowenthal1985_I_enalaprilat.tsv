@@ -1,0 +1,11 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	median	mean_sd	mean_se	min	max	comments	mean_unit	value_unit	median_unit	count_unit
+Lowenthal1985		I	9.0	ENA10	concentration	enalaprilat	plasma	enzymatic assay	I_enalaprilat	0.0	hr		0.0								mole/meter^3	ng/ml	ng/ml	dimensionless
+Lowenthal1985		I	9.0	ENA10	concentration	enalaprilat	plasma	enzymatic assay	I_enalaprilat	0.5	hr		2.1744824175178764e-05								mole/meter^3	ng/ml	ng/ml	dimensionless
+Lowenthal1985		I	9.0	ENA10	concentration	enalaprilat	plasma	enzymatic assay	I_enalaprilat	2.0	hr		7.393240219560779e-05								mole/meter^3	ng/ml	ng/ml	dimensionless
+Lowenthal1985		I	9.0	ENA10	concentration	enalaprilat	plasma	enzymatic assay	I_enalaprilat	3.0	hr		0.0002000523824116448								mole/meter^3	ng/ml	ng/ml	dimensionless
+Lowenthal1985		I	9.0	ENA10	concentration	enalaprilat	plasma	enzymatic assay	I_enalaprilat	4.0	hr		0.000232025327587741								mole/meter^3	ng/ml	ng/ml	dimensionless
+Lowenthal1985		I	9.0	ENA10	concentration	enalaprilat	plasma	enzymatic assay	I_enalaprilat	6.0	hr		0.00032665558094268385								mole/meter^3	ng/ml	ng/ml	dimensionless
+Lowenthal1985		I	9.0	ENA10	concentration	enalaprilat	plasma	enzymatic assay	I_enalaprilat	8.0	hr		0.00042732606323517996								mole/meter^3	ng/ml	ng/ml	dimensionless
+Lowenthal1985		I	9.0	ENA10	concentration	enalaprilat	plasma	enzymatic assay	I_enalaprilat	12.0	hr		0.0005008155153086997								mole/meter^3	ng/ml	ng/ml	dimensionless
+Lowenthal1985		I	9.0	ENA10	concentration	enalaprilat	plasma	enzymatic assay	I_enalaprilat	24.0	hr		0.0005501440516320219								mole/meter^3	ng/ml	ng/ml	dimensionless
+Lowenthal1985		I	9.0	ENA10	concentration	enalaprilat	plasma	enzymatic assay	I_enalaprilat	48.0	hr		0.0002971792637274422								mole/meter^3	ng/ml	ng/ml	dimensionless

@@ -1,0 +1,16 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Wade1992		all	8.0	PLACEBO	relative ACE activity			enzymatic assay	PLACEBO_relative ACE activity	0.0	hr		100.0				PLACEBO-immediate	percent	percent	dimensionless
+Wade1992		all	8.0	PLACEBO	relative ACE activity			enzymatic assay	PLACEBO_relative ACE activity	0.5	hr		92.1385620915035					percent	percent	dimensionless
+Wade1992		all	8.0	PLACEBO	relative ACE activity			enzymatic assay	PLACEBO_relative ACE activity	1.0	hr		94.5699346405231					percent	percent	dimensionless
+Wade1992		all	8.0	PLACEBO	relative ACE activity			enzymatic assay	PLACEBO_relative ACE activity	1.5	hr		94.5490196078434					percent	percent	dimensionless
+Wade1992		all	8.0	PLACEBO	relative ACE activity			enzymatic assay	PLACEBO_relative ACE activity	2.0	hr		89.1359477124187					percent	percent	dimensionless
+Wade1992		all	8.0	PLACEBO	relative ACE activity			enzymatic assay	PLACEBO_relative ACE activity	3.0	hr		92.0366013071898					percent	percent	dimensionless
+Wade1992		all	8.0	PLACEBO	relative ACE activity			enzymatic assay	PLACEBO_relative ACE activity	4.0	hr		94.4483660130721					percent	percent	dimensionless
+Wade1992		all	8.0	PLACEBO	relative ACE activity			enzymatic assay	PLACEBO_relative ACE activity	5.0	hr		94.9006535947714					percent	percent	dimensionless
+Wade1992		all	8.0	PLACEBO	relative ACE activity			enzymatic assay	PLACEBO_relative ACE activity	6.0	hr		94.8601307189545					percent	percent	dimensionless
+Wade1992		all	8.0	PLACEBO	relative ACE activity			enzymatic assay	PLACEBO_relative ACE activity	8.0	hr		88.4065359477128					percent	percent	dimensionless
+Wade1992		all	8.0	PLACEBO	relative ACE activity			enzymatic assay	PLACEBO_relative ACE activity	10.0	hr		89.7947712418305					percent	percent	dimensionless
+Wade1992		all	8.0	PLACEBO	relative ACE activity			enzymatic assay	PLACEBO_relative ACE activity	12.0	hr		89.2235294117651					percent	percent	dimensionless
+Wade1992		all	8.0	PLACEBO	relative ACE activity			enzymatic assay	PLACEBO_relative ACE activity	24.0	hr		97.9281045751636					percent	percent	dimensionless
+Wade1992		all	8.0	PLACEBO	relative ACE activity			enzymatic assay	PLACEBO_relative ACE activity	48.0	hr		95.2732026143793					percent	percent	dimensionless
+Wade1992		all	8.0	PLACEBO	relative ACE activity			enzymatic assay	PLACEBO_relative ACE activity	72.0	hr		101.937254901961					percent	percent	dimensionless

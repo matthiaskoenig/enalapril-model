@@ -1,0 +1,12 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Schwartz1985	CHF1		1.0	ENA5	concentration	enalapril	serum	RIA	CHF_ENA5_enalapril	1441.4496928695555	min	2.799634196347903e-06						mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985	CHF1		1.0	ENA5	concentration	enalapril	serum	RIA	CHF_ENA5_enalapril	1476.6744417288514	min	7.1032006932666425e-06						mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985	CHF1		1.0	ENA5	concentration	enalapril	serum	RIA	CHF_ENA5_enalapril	1493.8198477822484	min	3.901272950627512e-05						mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985	CHF1		1.0	ENA5	concentration	enalapril	serum	RIA	CHF_ENA5_enalapril	1557.271789534333	min	6.292305351695447e-05						mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985	CHF1		1.0	ENA5	concentration	enalapril	serum	RIA	CHF_ENA5_enalapril	1624.0831157245211	min	3.997266228573474e-05						mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985	CHF1		1.0	ENA5	concentration	enalapril	serum	RIA	CHF_ENA5_enalapril	1667.239357302828	min	3.4046016228060175e-05						mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985	CHF1		1.0	ENA5	concentration	enalapril	serum	RIA	CHF_ENA5_enalapril	1792.72142664647	min	3.582783641297215e-05						mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985	CHF1		1.0	ENA5	concentration	enalapril	serum	RIA	CHF_ENA5_enalapril	1878.113912405096	min	1.4471010807388217e-05						mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985	CHF1		1.0	ENA5	concentration	enalapril	serum	RIA	CHF_ENA5_enalapril	2017.85594141754	min	1.332722644916712e-05						mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985	CHF1		1.0	ENA5	concentration	enalapril	serum	RIA	CHF_ENA5_enalapril	2084.834539861907	min	9.417476540836724e-06						mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985	CHF1		1.0	ENA5	concentration	enalapril	serum	RIA	CHF_ENA5_enalapril	2256.706781031326	min	3.069451478794475e-06						mole/meter^3	mole/meter^3	dimensionless

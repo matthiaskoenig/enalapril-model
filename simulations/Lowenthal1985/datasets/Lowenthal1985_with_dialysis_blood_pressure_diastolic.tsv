@@ -1,0 +1,12 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	median	mean_sd	mean_se	min	max	comments	mean_unit	value_unit	median_unit	count_unit
+Lowenthal1985		I	9.0	ENA10	blood pressure diastolic			sphygmomanometer	with dialysis_blood pressure diastolic	0.0	hr		74.6666666666666								mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		I	9.0	ENA10	blood pressure diastolic			sphygmomanometer	with dialysis_blood pressure diastolic	0.5	hr		74.3333333333333								mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		I	9.0	ENA10	blood pressure diastolic			sphygmomanometer	with dialysis_blood pressure diastolic	1.0	hr		73.5555555555555								mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		I	9.0	ENA10	blood pressure diastolic			sphygmomanometer	with dialysis_blood pressure diastolic	2.0	hr		66.0								mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		I	9.0	ENA10	blood pressure diastolic			sphygmomanometer	with dialysis_blood pressure diastolic	3.0	hr		66.1111111111111								mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		I	9.0	ENA10	blood pressure diastolic			sphygmomanometer	with dialysis_blood pressure diastolic	4.0	hr		67.4444444444444								mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		I	9.0	ENA10	blood pressure diastolic			sphygmomanometer	with dialysis_blood pressure diastolic	6.0	hr		70.1111111111111								mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		I	9.0	ENA10	blood pressure diastolic			sphygmomanometer	with dialysis_blood pressure diastolic	8.0	hr		67.1111111111111								mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		I	9.0	ENA10	blood pressure diastolic			sphygmomanometer	with dialysis_blood pressure diastolic	12.0	hr		66.5555555555555								mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		I	9.0	ENA10	blood pressure diastolic			sphygmomanometer	with dialysis_blood pressure diastolic	24.0	hr		62.4444444444444								mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		I	9.0	ENA10	blood pressure diastolic			sphygmomanometer	with dialysis_blood pressure diastolic	48.0	hr		60.4444444444444								mmHg	mmHg	mmHg	dimensionless

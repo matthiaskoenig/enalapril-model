@@ -1,0 +1,8 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Kelly1986		S2	6.0	ENA10S	 cumulative amount	enalaprilat	urine	RIA	S2_urine	2.0	hr		2.7009172933156377e-07	0.168202662885752	5.210143023977728e-07	2.12703198261113e-07		mole	mg	dimensionless
+Kelly1986		S2	6.0	ENA10S	 cumulative amount	enalaprilat	urine	RIA	S2_urine	4.0	hr		6.947562611862129e-07	0.295919271583331	3.787542935716827e-07	1.5462579285648762e-07		mole	mg	dimensionless
+Kelly1986		S2	6.0	ENA10S	 cumulative amount	enalaprilat	urine	RIA	S2_urine	6.0	hr		1.4870677261588559e-06	0.693284447299822	1.2317951494157766e-06	5.028782639506696e-07		mole	mg	dimensionless
+Kelly1986		S2	6.0	ENA10S	 cumulative amount	enalaprilat	urine	RIA	S2_urine	8.0	hr		2.2019073237030615e-06	0.962526861472341	1.3737955596856204e-06	5.608496886885005e-07		mole	mg	dimensionless
+Kelly1986		S2	6.0	ENA10S	 cumulative amount	enalaprilat	urine	RIA	S2_urine	12.0	hr		2.741931811365995e-06	1.17090173316496	1.5160555685116902e-06	6.189270940931177e-07		mole	mg	dimensionless
+Kelly1986		S2	6.0	ENA10S	 cumulative amount	enalaprilat	urine	RIA	S2_urine	24.0	hr		3.762313671285265e-06	1.50618090786238	1.3739253589637898e-06	5.609026790219165e-07		mole	mg	dimensionless
+Kelly1986		S2	6.0	ENA10S	 cumulative amount	enalaprilat	urine	RIA	S2_urine	48.0	hr		4.081845381677534e-06	1.17274788246675	1.7530690503697834e-06	7.156874428785719e-07		mole	mg	dimensionless

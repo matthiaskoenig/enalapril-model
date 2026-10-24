@@ -1,0 +1,6 @@
+study	name	time	time_end	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+Dickstein1987a	ENAPO10	0	NA	hr	oral	single dose	dosing	NR	enalapril maleate	10	mg	a single, oral dose of enalapril maleate 10 mg
+Dickstein1987a	ENAIV5	0	NA	hr	iv	single dose	dosing	solution	enalapril maleate	5	mg	a single, intravenous bolus of enalapril maleate 5 mg
+Dickstein1987a	EATIV5	0	NA	hr	iv	single dose	dosing	solution	enalaprilat	5	mg	a single intravenous bolus of enalaprilat 5 mg
+Dickstein1987a	LIPO10	0	NA	hr	iv	single dose	dosing	NR	lisinopril	10	mg	a single oral dose of lisinopril 10 mg
+Dickstein1987a	LIIV5	0	NA	hr	iv	single dose	dosing	solution	lisinopril	5	mg	a single intravenous bolus of lisinopril 5 mg

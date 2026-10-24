@@ -1,0 +1,4 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	min	max	comments	mean_unit	value_unit	count_unit
+Schwartz1985		HT	5	control	relative ACE activity			radioenzymatic assay	HT_placebo20_relative ACE activity	0	hr		100.0		41.62	18.61				percent	percent	dimensionless
+Schwartz1985		HT	5	control	relative ACE activity			radioenzymatic assay	HT_placebo20_relative ACE activity	4	hr		107.37		61.99	27.72				percent	percent	dimensionless
+Schwartz1985		HT	5	control	relative ACE activity			radioenzymatic assay	HT_placebo20_relative ACE activity	12	hr									percent	percent	dimensionless

@@ -1,0 +1,9 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	median	mean_pm	sd	se	min	max	unit	comments
+ElungJensen2001	NA	all	59	NA	blood pressure systolic	NA	NA	sphygmomanometer	NA	NA	NA	NA	NA	136.0	NA	NA	NA	112.0	209.0	mmHg	NA
+ElungJensen2001	NA	all	59	NA	blood pressure diastolic	NA	NA	sphygmomanometer	NA	NA	NA	NA	NA	87.0	NA	NA	NA	65.0	111.0	mmHg	NA
+ElungJensen2001	NA	all	59	NA	concentration	haemoglobin	blood	NA	NA	NA	NA	NA	NA	7.2	NA	NA	NA	5.5	9.0	mmol/l	NA
+ElungJensen2001	NA	all	59	NA	concentration	creatinine	plasma	NA	NA	NA	NA	NA	NA	245.0	NA	NA	NA	125.0	673.0	μmol/l	NA
+ElungJensen2001	NA	all	59	NA	concentration	urea	plasma	NA	NA	NA	NA	NA	NA	15.7	NA	NA	NA	6.0	42.0	mmol/l	NA
+ElungJensen2001	NA	all	59	NA	concentration	sodium	plasma	NA	NA	NA	NA	NA	NA	141.0	NA	NA	NA	132.0	145.0	mmol/l	NA
+ElungJensen2001	NA	all	59	NA	concentration	potassium	plasma	NA	NA	NA	NA	NA	NA	4.4	NA	NA	NA	3.2	5.9	mmol/l	NA
+ElungJensen2001	NA	all	59	NA	concentration	hydrogencarbonate	plasma	NA	NA	NA	NA	NA	NA	23.0	NA	NA	NA	16.0	29.0	mmol/l	NA

@@ -1,0 +1,3 @@
+study	name	time	time_end	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+MacDonald1993	ENA10	0	NA	hr	oral	single dose	dosing	tablet	enalapril maleate	10	mg	no information about application form, assumed tablet
+MacDonald1993	BEN10	0	NA	hr	oral	single dose	dosing	tablet	benazepril hydrochloride	10	ml	no information about application form, assumed tablet

@@ -1,0 +1,14 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Burckhardt2015		enalapril	9.0	ENA20	renin activity		plasma	immunofluorescence	ENA20_renin activity	0.0	hr		1.0	1.1622566150773466	0.3874188716924488		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	renin activity		plasma	immunofluorescence	ENA20_renin activity	0.5	hr		0.9965052421367893	0.8716924613079962	0.29056415376933203		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	renin activity		plasma	immunofluorescence	ENA20_renin activity	1.0	hr		0.9930104842735769	1.162256615077336	0.38741887169244527		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	renin activity		plasma	immunofluorescence	ENA20_renin activity	2.0	hr		2.7289066400398605	2.4697953070393766	0.8232651023464588		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	renin activity		plasma	immunofluorescence	ENA20_renin activity	3.0	hr		4.610084872690808	4.939590614078723	1.6465302046929076		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	renin activity		plasma	immunofluorescence	ENA20_renin activity	4.0	hr		5.184223664503109	6.392411382925421	2.130803794308474		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	renin activity		plasma	immunofluorescence	ENA20_renin activity	5.0	hr		19.41437843235088	23.39091362955483	7.79697120985161		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	renin activity		plasma	immunofluorescence	ENA20_renin activity	6.0	hr		18.099850224662415	17.869695456814203	5.956565152271401		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	renin activity		plasma	immunofluorescence	ENA20_renin activity	7.0	hr		12.135796305541303	9.443334997503317	3.1477783325011055		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	renin activity		plasma	immunofluorescence	ENA20_renin activity	8.0	hr		7.915626560159518	7.264103844233446	2.4213679480778154		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	renin activity		plasma	immunofluorescence	ENA20_renin activity	24.0	hr		6.188217673489594	7.554667998002738	2.518222666000912		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	renin activity		plasma	immunofluorescence	ENA20_renin activity	48.0	hr		3.108337493759257	1.5981028457313362	0.532700948577112		dimensionless	dimensionless	dimensionless
+Burckhardt2015		enalapril	9.0	ENA20	renin activity		plasma	immunofluorescence	ENA20_renin activity	72.0	hr		2.4982526210683114	1.3080379430853522	0.43601264769511744		dimensionless	dimensionless	dimensionless

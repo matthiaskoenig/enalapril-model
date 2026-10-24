@@ -1,0 +1,7 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Donnelly1990	NA	all	13.0	ENAs20	ACE inhibition	NA	NA	HPLC	ENAs20_ACE inhibition	24.0	hr	NA	102.4	NA	5.0	1.38675049056307	NA	NA	percent	max inhibition
+Donnelly1990	NA	all	13.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_ACE inhibition	192.0	hr	NA	103.0	NA	5.0	1.38675049056307	NA	NA	percent	max inhibition
+Donnelly1990	NA	all	13.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_ACE inhibition	1032.0	hr	NA	101.3	NA	2.2	0.610170215847752	NA	NA	percent	max inhibition
+Donnelly1990	NA	all	13.0	ENAs20	IC50 ACE	NA	NA	HPLC	ENAs20_IC50 ACE	24.0	hr	NA	19.8	NA	13.0	3.60555127546399	NA	NA	ng/ml	NA
+Donnelly1990	NA	all	13.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_IC50 ACE	192.0	hr	NA	33.4	NA	20.3	5.63020699168608	NA	NA	ng/ml	NA
+Donnelly1990	NA	all	13.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_IC50 ACE	1032.0	hr	NA	31.3	NA	18.9	5.24191685432842	NA	NA	ng/ml	NA

@@ -1,0 +1,6 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Matalka2002	all	48	NA	species	48	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Matalka2002	all	48	NA	sex	48	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Matalka2002	all	48	NA	healthy	48	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Matalka2002	all	48	NA	age	48	NA	NA	31.0	NA	7.4	NA	18.0	43.0	yr	NA
+Matalka2002	all	48	NA	weight	48	NA	NA	74.1	NA	8.6	NA	60.0	90.0	kg	NA

@@ -1,0 +1,7 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Kelly1986	I7_m	NA	1.0	ENA2.5M	gfr	NA	urine	NR	ENA2.5M_I7_m_gfr	NA	NA	8.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I8_m	NA	1.0	ENA2.5M	gfr	NA	urine	NR	ENA2.5M_I8_m_gfr	NA	NA	7.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I9_m	NA	1.0	ENA2.5M	gfr	NA	urine	NR	ENA2.5M_I9_m_gfr	NA	NA	14.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I10_m	NA	1.0	ENA2.5M	gfr	NA	urine	NR	ENA2.5M_I10_m_gfr	NA	NA	15.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I11_m	NA	1.0	ENA2.5M	gfr	NA	urine	NR	ENA2.5M_I11_m_gfr	NA	NA	28.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA
+Kelly1986	I12_m	NA	1.0	ENA2.5M	gfr	NA	urine	NR	ENA2.5M_I12_m_gfr	NA	NA	7.0	NA	NA	NA	NA	NA	NA	ml/min/(1.73*m^2)	NA

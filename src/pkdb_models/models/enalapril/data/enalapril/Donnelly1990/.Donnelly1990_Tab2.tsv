@@ -1,0 +1,79 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Donnelly1990	P1	NA	1.0	ENAs20	ACE inhibition	NA	NA	HPLC	ENAs20_P1_ACE inhibition	24.0	hr	103.4	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P2	NA	1.0	ENAs20	ACE inhibition	NA	NA	HPLC	ENAs20_P2_ACE inhibition	24.0	hr	102.6	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P3	NA	1.0	ENAs20	ACE inhibition	NA	NA	HPLC	ENAs20_P3_ACE inhibition	24.0	hr	98.0	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P4	NA	1.0	ENAs20	ACE inhibition	NA	NA	HPLC	ENAs20_P4_ACE inhibition	24.0	hr	102.3	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P5	NA	1.0	ENAs20	ACE inhibition	NA	NA	HPLC	ENAs20_P5_ACE inhibition	24.0	hr	100.8	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P6	NA	1.0	ENAs20	ACE inhibition	NA	NA	HPLC	ENAs20_P6_ACE inhibition	24.0	hr	98.0	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P7	NA	1.0	ENAs20	ACE inhibition	NA	NA	HPLC	ENAs20_P7_ACE inhibition	24.0	hr	108.8	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P8	NA	1.0	ENAs20	ACE inhibition	NA	NA	HPLC	ENAs20_P8_ACE inhibition	24.0	hr	103.9	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P9	NA	1.0	ENAs20	ACE inhibition	NA	NA	HPLC	ENAs20_P9_ACE inhibition	24.0	hr	103.6	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P10	NA	1.0	ENAs20	ACE inhibition	NA	NA	HPLC	ENAs20_P10_ACE inhibition	24.0	hr	105.2	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P11	NA	1.0	ENAs20	ACE inhibition	NA	NA	HPLC	ENAs20_P11_ACE inhibition	24.0	hr	113.0	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P12	NA	1.0	ENAs20	ACE inhibition	NA	NA	HPLC	ENAs20_P12_ACE inhibition	24.0	hr	97.5	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P13	NA	1.0	ENAs20	ACE inhibition	NA	NA	HPLC	ENAs20_P13_ACE inhibition	24.0	hr	94.3	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P1	NA	1.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_P1_ACE inhibition	-816.0	hr	102.6	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P2	NA	1.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_P2_ACE inhibition	-816.0	hr	100.6	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P3	NA	1.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_P3_ACE inhibition	-816.0	hr	102.0	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P4	NA	1.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_P4_ACE inhibition	-816.0	hr	101.6	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P5	NA	1.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_P5_ACE inhibition	-816.0	hr	102.3	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P6	NA	1.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_P6_ACE inhibition	-816.0	hr	102.9	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P7	NA	1.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_P7_ACE inhibition	-816.0	hr	NA	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P8	NA	1.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_P8_ACE inhibition	-816.0	hr	104.2	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P9	NA	1.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_P9_ACE inhibition	-816.0	hr	109.1	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P10	NA	1.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_P10_ACE inhibition	-816.0	hr	90.1	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P11	NA	1.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_P11_ACE inhibition	-816.0	hr	109.4	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P12	NA	1.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_P12_ACE inhibition	-816.0	hr	106.7	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P13	NA	1.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_P13_ACE inhibition	-816.0	hr	104.1	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P1	NA	1.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_P1_ACE inhibition	24.0	hr	101.9	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P2	NA	1.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_P2_ACE inhibition	24.0	hr	101.2	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P3	NA	1.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_P3_ACE inhibition	24.0	hr	102.0	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P4	NA	1.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_P4_ACE inhibition	24.0	hr	101.4	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P5	NA	1.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_P5_ACE inhibition	24.0	hr	102.4	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P6	NA	1.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_P6_ACE inhibition	24.0	hr	101.6	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P7	NA	1.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_P7_ACE inhibition	24.0	hr	101.2	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P8	NA	1.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_P8_ACE inhibition	24.0	hr	98.7	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P9	NA	1.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_P9_ACE inhibition	24.0	hr	95.6	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P10	NA	1.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_P10_ACE inhibition	24.0	hr	101.6	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P11	NA	1.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_P11_ACE inhibition	24.0	hr	101.5	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P12	NA	1.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_P12_ACE inhibition	24.0	hr	105.3	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P13	NA	1.0	ENAm20	ACE inhibition	NA	NA	HPLC	ENAm20_P13_ACE inhibition	24.0	hr	102.3	NA	NA	NA	NA	NA	NA	percent	max inhibition
+Donnelly1990	P1	NA	1.0	ENAs20	IC50 ACE	NA	NA	HPLC	ENAs20_P1_IC50 ACE	24.0	hr	47.7	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P2	NA	1.0	ENAs20	IC50 ACE	NA	NA	HPLC	ENAs20_P2_IC50 ACE	24.0	hr	33.8	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P3	NA	1.0	ENAs20	IC50 ACE	NA	NA	HPLC	ENAs20_P3_IC50 ACE	24.0	hr	12.7	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P4	NA	1.0	ENAs20	IC50 ACE	NA	NA	HPLC	ENAs20_P4_IC50 ACE	24.0	hr	11.6	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P5	NA	1.0	ENAs20	IC50 ACE	NA	NA	HPLC	ENAs20_P5_IC50 ACE	24.0	hr	11.7	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P6	NA	1.0	ENAs20	IC50 ACE	NA	NA	HPLC	ENAs20_P6_IC50 ACE	24.0	hr	24.6	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P7	NA	1.0	ENAs20	IC50 ACE	NA	NA	HPLC	ENAs20_P7_IC50 ACE	24.0	hr	21.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P8	NA	1.0	ENAs20	IC50 ACE	NA	NA	HPLC	ENAs20_P8_IC50 ACE	24.0	hr	38.3	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P9	NA	1.0	ENAs20	IC50 ACE	NA	NA	HPLC	ENAs20_P9_IC50 ACE	24.0	hr	16.1	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P10	NA	1.0	ENAs20	IC50 ACE	NA	NA	HPLC	ENAs20_P10_IC50 ACE	24.0	hr	8.4	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P11	NA	1.0	ENAs20	IC50 ACE	NA	NA	HPLC	ENAs20_P11_IC50 ACE	24.0	hr	13.2	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P12	NA	1.0	ENAs20	IC50 ACE	NA	NA	HPLC	ENAs20_P12_IC50 ACE	24.0	hr	6.6	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P13	NA	1.0	ENAs20	IC50 ACE	NA	NA	HPLC	ENAs20_P13_IC50 ACE	24.0	hr	10.2	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P1	NA	1.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_P1_IC50 ACE	-816.0	hr	81.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P2	NA	1.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_P2_IC50 ACE	-816.0	hr	66.9	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P3	NA	1.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_P3_IC50 ACE	-816.0	hr	21.7	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P4	NA	1.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_P4_IC50 ACE	-816.0	hr	19.3	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P5	NA	1.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_P5_IC50 ACE	-816.0	hr	22.4	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P6	NA	1.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_P6_IC50 ACE	-816.0	hr	21.4	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P7	NA	1.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_P7_IC50 ACE	-816.0	hr	NA	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P8	NA	1.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_P8_IC50 ACE	-816.0	hr	39.7	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P9	NA	1.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_P9_IC50 ACE	-816.0	hr	31.5	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P10	NA	1.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_P10_IC50 ACE	-816.0	hr	18.4	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P11	NA	1.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_P11_IC50 ACE	-816.0	hr	33.9	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P12	NA	1.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_P12_IC50 ACE	-816.0	hr	19.4	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P13	NA	1.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_P13_IC50 ACE	-816.0	hr	25.5	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P1	NA	1.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_P1_IC50 ACE	24.0	hr	73.1	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P2	NA	1.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_P2_IC50 ACE	24.0	hr	69.4	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P3	NA	1.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_P3_IC50 ACE	24.0	hr	17.5	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P4	NA	1.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_P4_IC50 ACE	24.0	hr	20.5	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P5	NA	1.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_P5_IC50 ACE	24.0	hr	33.3	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P6	NA	1.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_P6_IC50 ACE	24.0	hr	25.7	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P7	NA	1.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_P7_IC50 ACE	24.0	hr	23.9	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P8	NA	1.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_P8_IC50 ACE	24.0	hr	37.1	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P9	NA	1.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_P9_IC50 ACE	24.0	hr	28.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P10	NA	1.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_P10_IC50 ACE	24.0	hr	19.8	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P11	NA	1.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_P11_IC50 ACE	24.0	hr	15.3	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P12	NA	1.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_P12_IC50 ACE	24.0	hr	14.9	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Donnelly1990	P13	NA	1.0	ENAm20	IC50 ACE	NA	NA	HPLC	ENAm20_P13_IC50 ACE	24.0	hr	28.7	NA	NA	NA	NA	NA	NA	ng/ml	NA

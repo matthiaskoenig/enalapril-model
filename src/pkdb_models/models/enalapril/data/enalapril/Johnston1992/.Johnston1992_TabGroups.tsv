@@ -1,0 +1,10 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Johnston1992	all	13.0	NA	species	13.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Johnston1992	all	13.0	NA	sex	13.0	NA	NR	NA	NA	NA	NA	NA	NA	NA	NA
+Johnston1992	all	13.0	NA	healthy	13.0	NA	NR	NA	NA	NA	NA	NA	NA	NA	NA
+Johnston1992	all	13.0	NA	disease	13.0	NA	congestive heart failure	NA	NA	NA	NA	NA	NA	NA	New  York Heart Association class III-IV) on back-  ground therapy of diuretics and/or digoxin.  
+Johnston1992	all	13.0	NA	age	13.0	NA	NA	NA	NA	NA	NA	18.0	NA	yr	NA
+Johnston1992	lis	6.0	all	age	6.0	NA	NA	70.0	NA	NA	NA	NA	NA	yr	Only means given; neither SD nor SE
+Johnston1992	lis	6.0	all	weight	6.0	NA	NA	71.8	NA	NA	NA	NA	NA	kg	Only means given; neither SD nor SE
+Johnston1992	ena	7.0	all	age	7.0	NA	NA	69.0	NA	NA	NA	NA	NA	yr	Only means given; neither SD nor SE
+Johnston1992	ena	7.0	all	weight	7.0	NA	NA	73.7	NA	NA	NA	NA	NA	kg	Only means given; neither SD nor SE

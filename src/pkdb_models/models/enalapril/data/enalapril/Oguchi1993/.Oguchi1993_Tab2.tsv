@@ -1,0 +1,25 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Oguchi1993	NA	Tem1	6.0	TEM1	cmax	temocaprilat	plasma	GC/MS	NA	NA	NA	NA	15.8	NA	3.18433666561813	1.3	NA	NA	μg/l	unclear if se or sd; assumed to be SE
+Oguchi1993	NA	Tem1	6.0	TEM1	tmax	temocaprilat	plasma	GC/MS	NA	NA	NA	NA	2.9	NA	1.71464281994822	0.7	NA	NA	hr	NA
+Oguchi1993	NA	Tem1	6.0	TEM1	thalf	temocaprilat	plasma	GC/MS	NA	NA	NA	NA	13.1	NA	9.55300999685439	3.9	NA	NA	hr	NA
+Oguchi1993	NA	Tem1	6.0	TEM1	auc_end	temocaprilat	plasma	GC/MS	NA	48.0	hr	NA	123.0	NA	49.7246417784985	20.3	NA	NA	μg/l*hr	NA
+Oguchi1993	NA	Tem2	6.0	TEM1	cmax	temocaprilat	plasma	GC/MS	NA	NA	NA	NA	18.5	NA	4.40908153700972	1.8	NA	NA	μg/l	NA
+Oguchi1993	NA	Tem2	6.0	TEM1	tmax	temocaprilat	plasma	GC/MS	NA	NA	NA	NA	3.5	NA	1.22474487139159	0.5	NA	NA	hr	NA
+Oguchi1993	NA	Tem2	6.0	TEM1	thalf	temocaprilat	plasma	GC/MS	NA	NA	NA	NA	19.2	NA	13.2272446110292	5.4	NA	NA	hr	NA
+Oguchi1993	NA	Tem2	6.0	TEM1	auc_end	temocaprilat	plasma	GC/MS	NA	48.0	hr	NA	236.2	NA	62.9518863895277	25.7	NA	NA	μg/l*hr	NA
+Oguchi1993	NA	Tem3	6.0	TEM1	cmax	temocaprilat	plasma	GC/MS	NA	NA	NA	NA	16.9	NA	6.36867333123626	2.6	NA	NA	μg/l	NA
+Oguchi1993	NA	Tem3	6.0	TEM1	tmax	temocaprilat	plasma	GC/MS	NA	NA	NA	NA	3.7	NA	0.734846922834953	0.3	NA	NA	hr	NA
+Oguchi1993	NA	Tem3	6.0	TEM1	thalf	temocaprilat	plasma	GC/MS	NA	NA	NA	NA	15.2	NA	6.8585712797929	2.8	NA	NA	hr	NA
+Oguchi1993	NA	Tem3	6.0	TEM1	auc_end	temocaprilat	plasma	GC/MS	NA	48.0	hr	NA	263.8	NA	65.8912740808675	26.9	NA	NA	μg/l*hr	NA
+Oguchi1993	NA	Ena1	6.0	ENA5	cmax	enalaprilat	plasma	GC/MS	NA	NA	NA	NA	6.3	NA	2.44948974278318	1.0	NA	NA	μg/l	NA
+Oguchi1993	NA	Ena1	6.0	ENA5	tmax	enalaprilat	plasma	GC/MS	NA	NA	NA	NA	6.0	NA	0.0	0.0	NA	NA	hr	NA
+Oguchi1993	NA	Ena1	6.0	ENA5	thalf	enalaprilat	plasma	GC/MS	NA	NA	NA	NA	13.7	NA	7.34846922834953	3.0	NA	NA	hr	NA
+Oguchi1993	NA	Ena1	6.0	ENA5	auc_end	enalaprilat	plasma	GC/MS	NA	48.0	hr	NA	86.9	NA	27.1893361448933	11.1	NA	NA	μg/l*hr	NA
+Oguchi1993	NA	Ena2	6.0	ENA5	cmax	enalaprilat	plasma	GC/MS	NA	NA	NA	NA	16.2	NA	5.38887743412299	2.2	NA	NA	μg/l	NA
+Oguchi1993	NA	Ena2	6.0	ENA5	tmax	enalaprilat	plasma	GC/MS	NA	NA	NA	NA	6.7	NA	1.95959179422654	0.8	NA	NA	hr	NA
+Oguchi1993	NA	Ena2	6.0	ENA5	thalf	enalaprilat	plasma	GC/MS	NA	NA	NA	NA	12.4	NA	3.91918358845308	1.6	NA	NA	hr	NA
+Oguchi1993	NA	Ena2	6.0	ENA5	auc_end	enalaprilat	plasma	GC/MS	NA	48.0	hr	NA	347.0	NA	109.492191502408	44.7	NA	NA	μg/l*hr	NA
+Oguchi1993	NA	Ena3	6.0	ENA5	cmax	enalaprilat	plasma	GC/MS	NA	NA	NA	NA	35.4	NA	18.8610710194305	7.7	NA	NA	μg/l	NA
+Oguchi1993	NA	Ena3	6.0	ENA5	tmax	enalaprilat	plasma	GC/MS	NA	NA	NA	NA	18.7	NA	8.3282651254628	3.4	NA	NA	hr	NA
+Oguchi1993	NA	Ena3	6.0	ENA5	thalf	enalaprilat	plasma	GC/MS	NA	NA	NA	NA	39.4	NA	28.1691320420065	11.5	NA	NA	hr	NA
+Oguchi1993	NA	Ena3	6.0	ENA5	auc_end	enalaprilat	plasma	GC/MS	NA	48.0	hr	NA	1172.1	NA	557.013967508895	227.4	NA	NA	μg/l*hr	NA

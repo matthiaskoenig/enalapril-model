@@ -1,0 +1,17 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Fruncillo1987		Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	1.15944089573772	hr		5.960299738958344e-05					mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	1.95004861321652	hr		2.986565064892932e-05					mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	2.92557473367275	hr		1.4181469861611592e-05					mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	4.25738868618862	hr		1.6490940210562214e-05					mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	6.0716966535289	hr		7.025610977363169e-06					mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	8.30803006701306	hr		2.636062115468854e-06					mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	12.0445359790075	hr		2.2492063920335526e-06					mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	23.9199606912486	hr		2.243374396202854e-06					mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	287.835686	hr		1.915045544809071e-06				last dose on day 13 (288 hr), shifted by 24 hr	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	288.946903	hr		1.8193670556064912e-05				last dose on day 13 (288 hr), shifted by 24 hr	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	289.867775	hr		1.4812210737154769e-05				last dose on day 13 (288 hr), shifted by 24 hr	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	290.70141	hr		8.622870114296738e-06				last dose on day 13 (288 hr), shifted by 24 hr	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	291.875738	hr		6.362004631650457e-06				last dose on day 13 (288 hr), shifted by 24 hr	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	293.89005	hr		3.5295278150539772e-06				last dose on day 13 (288 hr), shifted by 24 hr	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	299.955842	hr		1.5255922805333027e-05				last dose on day 13 (288 hr), shifted by 24 hr	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group1	6.0	ENA5m1	concentration	enalapril	serum	enzymatic assay	Group1_enalapril	311.798416	hr		6.128834431743114e-06				last dose on day 13 (288 hr), shifted by 24 hr	mole/meter^3	ng/ml	dimensionless

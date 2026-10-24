@@ -1,0 +1,57 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Ishizaki1988	NA	all	7.0	ENA10	recovery	enalapril	urine	RIA	ENA10_recovery_enalapril	0.0	hr	NA	0.0	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	ENA10	recovery	enalapril	urine	RIA	ENA10_recovery_enalapril	2.0	hr	NA	15.4285522938156	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	ENA10	recovery	enalapril	urine	RIA	ENA10_recovery_enalapril	4.0	hr	NA	21.8662936861193	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	ENA10	recovery	enalapril	urine	RIA	ENA10_recovery_enalapril	6.0	hr	NA	23.1345845501075	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	ENA10	recovery	enalapril	urine	RIA	ENA10_recovery_enalapril	8.0	hr	NA	23.7852889053742	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	ENA10	recovery	enalapril	urine	RIA	ENA10_recovery_enalapril	12.0	hr	NA	24.5687712935487	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	ENA10	recovery	enalapril	urine	RIA	ENA10_recovery_enalapril	24.0	hr	NA	24.8505796359097	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	recovery	enalapril	urine	RIA	CIM400, ENA10_recovery_enalapril	0.0	hr	NA	0.0	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	recovery	enalapril	urine	RIA	CIM400, ENA10_recovery_enalapril	2.0	hr	NA	15.8345525607209	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	recovery	enalapril	urine	RIA	CIM400, ENA10_recovery_enalapril	4.0	hr	NA	22.1689540059347	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	recovery	enalapril	urine	RIA	CIM400, ENA10_recovery_enalapril	6.0	hr	NA	24.0597377262807	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	recovery	enalapril	urine	RIA	CIM400, ENA10_recovery_enalapril	8.0	hr	NA	24.5019223070039	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	recovery	enalapril	urine	RIA	CIM400, ENA10_recovery_enalapril	12.0	hr	NA	25.079338094453	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	recovery	enalapril	urine	RIA	CIM400, ENA10_recovery_enalapril	24.0	hr	NA	25.3605331433595	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	ENA10	recovery	enalaprilat	urine	RIA	ENA10_recovery_enalaprilat	0.0	hr	NA	0.0	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	ENA10	recovery	enalaprilat	urine	RIA	ENA10_recovery_enalaprilat	2.0	hr	NA	2.88929215771094	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	ENA10	recovery	enalaprilat	urine	RIA	ENA10_recovery_enalaprilat	4.0	hr	NA	13.9912007680864	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	ENA10	recovery	enalaprilat	urine	RIA	ENA10_recovery_enalaprilat	6.0	hr	NA	21.3415663476857	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	ENA10	recovery	enalaprilat	urine	RIA	ENA10_recovery_enalaprilat	8.0	hr	NA	26.7281944693556	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	ENA10	recovery	enalaprilat	urine	RIA	ENA10_recovery_enalaprilat	12.0	hr	NA	31.7877528196579	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	ENA10	recovery	enalaprilat	urine	RIA	ENA10_recovery_enalaprilat	24.0	hr	NA	36.4297696795771	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	recovery	enalaprilat	urine	RIA	CIM400, ENA10_recovery_enalaprilat	0.0	hr	NA	0.0	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	recovery	enalaprilat	urine	RIA	CIM400, ENA10_recovery_enalaprilat	2.0	hr	NA	1.99169664806237	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	recovery	enalaprilat	urine	RIA	CIM400, ENA10_recovery_enalaprilat	4.0	hr	NA	14.7007311591985	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	recovery	enalaprilat	urine	RIA	CIM400, ENA10_recovery_enalaprilat	6.0	hr	NA	23.8410124392019	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	recovery	enalaprilat	urine	RIA	CIM400, ENA10_recovery_enalaprilat	8.0	hr	NA	30.1204882835167	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	recovery	enalaprilat	urine	RIA	CIM400, ENA10_recovery_enalaprilat	12.0	hr	NA	36.2519914328821	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	recovery	enalaprilat	urine	RIA	CIM400, ENA10_recovery_enalaprilat	24.0	hr	NA	41.0725778373302	NA	NA	NA	percent	NA
+Ishizaki1988	NA	all	7.0	ENA10	cumulative amount	enalapril	urine	RIA	ENA10_cumulative amount_enalapril	0.0	hr	NA	0.0	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	ENA10	cumulative amount	enalapril	urine	RIA	ENA10_cumulative amount_enalapril	2.0	hr	NA	1.54285522938156	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	ENA10	cumulative amount	enalapril	urine	RIA	ENA10_cumulative amount_enalapril	4.0	hr	NA	2.18662936861193	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	ENA10	cumulative amount	enalapril	urine	RIA	ENA10_cumulative amount_enalapril	6.0	hr	NA	2.31345845501075	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	ENA10	cumulative amount	enalapril	urine	RIA	ENA10_cumulative amount_enalapril	8.0	hr	NA	2.37852889053742	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	ENA10	cumulative amount	enalapril	urine	RIA	ENA10_cumulative amount_enalapril	12.0	hr	NA	2.45687712935487	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	ENA10	cumulative amount	enalapril	urine	RIA	ENA10_cumulative amount_enalapril	24.0	hr	NA	2.48505796359097	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	cumulative amount	enalapril	urine	RIA	CIM400, ENA10_cumulative amount_enalapril	0.0	hr	NA	0.0	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	cumulative amount	enalapril	urine	RIA	CIM400, ENA10_cumulative amount_enalapril	2.0	hr	NA	1.58345525607209	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	cumulative amount	enalapril	urine	RIA	CIM400, ENA10_cumulative amount_enalapril	4.0	hr	NA	2.21689540059347	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	cumulative amount	enalapril	urine	RIA	CIM400, ENA10_cumulative amount_enalapril	6.0	hr	NA	2.40597377262807	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	cumulative amount	enalapril	urine	RIA	CIM400, ENA10_cumulative amount_enalapril	8.0	hr	NA	2.45019223070039	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	cumulative amount	enalapril	urine	RIA	CIM400, ENA10_cumulative amount_enalapril	12.0	hr	NA	2.5079338094453	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	cumulative amount	enalapril	urine	RIA	CIM400, ENA10_cumulative amount_enalapril	24.0	hr	NA	2.53605331433595	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	ENA10	cumulative amount	enalaprilat	urine	RIA	ENA10_cumulative amount_enalaprilat	0.0	hr	NA	0.0	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	ENA10	cumulative amount	enalaprilat	urine	RIA	ENA10_cumulative amount_enalaprilat	2.0	hr	NA	0.288929215771094	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	ENA10	cumulative amount	enalaprilat	urine	RIA	ENA10_cumulative amount_enalaprilat	4.0	hr	NA	1.39912007680864	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	ENA10	cumulative amount	enalaprilat	urine	RIA	ENA10_cumulative amount_enalaprilat	6.0	hr	NA	2.13415663476857	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	ENA10	cumulative amount	enalaprilat	urine	RIA	ENA10_cumulative amount_enalaprilat	8.0	hr	NA	2.67281944693556	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	ENA10	cumulative amount	enalaprilat	urine	RIA	ENA10_cumulative amount_enalaprilat	12.0	hr	NA	3.17877528196579	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	ENA10	cumulative amount	enalaprilat	urine	RIA	ENA10_cumulative amount_enalaprilat	24.0	hr	NA	3.64297696795771	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	cumulative amount	enalaprilat	urine	RIA	CIM400, ENA10_cumulative amount_enalaprilat	0.0	hr	NA	0.0	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	cumulative amount	enalaprilat	urine	RIA	CIM400, ENA10_cumulative amount_enalaprilat	2.0	hr	NA	0.199169664806237	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	cumulative amount	enalaprilat	urine	RIA	CIM400, ENA10_cumulative amount_enalaprilat	4.0	hr	NA	1.47007311591985	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	cumulative amount	enalaprilat	urine	RIA	CIM400, ENA10_cumulative amount_enalaprilat	6.0	hr	NA	2.38410124392019	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	cumulative amount	enalaprilat	urine	RIA	CIM400, ENA10_cumulative amount_enalaprilat	8.0	hr	NA	3.01204882835167	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	cumulative amount	enalaprilat	urine	RIA	CIM400, ENA10_cumulative amount_enalaprilat	12.0	hr	NA	3.62519914328821	NA	NA	NA	mg	NA
+Ishizaki1988	NA	all	7.0	CIM400, ENA10	cumulative amount	enalaprilat	urine	RIA	CIM400, ENA10_cumulative amount_enalaprilat	24.0	hr	NA	4.10725778373302	NA	NA	NA	mg	NA

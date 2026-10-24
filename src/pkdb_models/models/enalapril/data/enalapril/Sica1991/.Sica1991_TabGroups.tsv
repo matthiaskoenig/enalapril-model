@@ -1,0 +1,28 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Sica1991	all	29.0	NA	species	29.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Sica1991	all	29.0	NA	healthy	29.0	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Sica1991	all	29.0	NA	sex	25.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Sica1991	all	29.0	NA	sex	4.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Sica1991	all	29.0	NA	ethnicity	19.0	NA	caucasian	NA	NA	NA	NA	NA	NA	NA	NA
+Sica1991	all	29.0	NA	ethnicity	10.0	NA	black	NA	NA	NA	NA	NA	NA	NA	NA
+Sica1991	fos	9.0	all	age	9.0	NA	NA	61.0	NA	NA	NA	NA	NA	yr	NA
+Sica1991	fos	9.0	all	sex	8.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Sica1991	fos	9.0	all	sex	1.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Sica1991	fos	9.0	all	ethnicity	5.0	NA	caucasian	NA	NA	NA	NA	NA	NA	NA	NA
+Sica1991	fos	9.0	all	ethnicity	4.0	NA	black	NA	NA	NA	NA	NA	NA	NA	NA
+Sica1991	fos	9.0	all	body position	9.0	NA	sitting	NA	NA	NA	NA	NA	NA	NA	NA
+Sica1991	fos	9.0	all	blood pressure	9.0	NA	NA	NA	NA	NA	NA	90.0	153.0	mmHg	blood pressure min/max or syst/dias
+Sica1991	ena	10.0	all	age	10.0	NA	NA	61.0	NA	NA	NA	NA	NA	yr	NA
+Sica1991	ena	10.0	all	sex	9.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Sica1991	ena	10.0	all	sex	1.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Sica1991	ena	10.0	all	ethnicity	5.0	NA	caucasian	NA	NA	NA	NA	NA	NA	NA	NA
+Sica1991	ena	10.0	all	ethnicity	5.0	NA	black	NA	NA	NA	NA	NA	NA	NA	NA
+Sica1991	ena	10.0	all	body position	10.0	NA	sitting	NA	NA	NA	NA	NA	NA	NA	NA
+Sica1991	ena	10.0	all	blood pressure	10.0	NA	NA	NA	NA	NA	NA	91.0	165.0	mmHg	blood pressure min/max or syst/dias
+Sica1991	lis	10.0	all	age	10.0	NA	NA	66.0	NA	NA	NA	NA	NA	yr	NA
+Sica1991	lis	10.0	all	sex	8.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Sica1991	lis	10.0	all	sex	2.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Sica1991	lis	10.0	all	ethnicity	9.0	NA	caucasian	NA	NA	NA	NA	NA	NA	NA	NA
+Sica1991	lis	10.0	all	ethnicity	1.0	NA	black	NA	NA	NA	NA	NA	NA	NA	NA
+Sica1991	lis	10.0	all	body position	10.0	NA	sitting	NA	NA	NA	NA	NA	NA	NA	NA
+Sica1991	lis	10.0	all	blood pressure	10.0	NA	NA	NA	NA	NA	NA	96.0	181.0	mmHg	blood pressure min/max or syst/dias

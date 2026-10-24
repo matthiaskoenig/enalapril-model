@@ -1,0 +1,9 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time_start	time	time_unit	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	count_unit
+Ulm1982		all	12.0	ENAPO10	cumulative amount	enalapril	urine	RIA	enalapril_urine	0.0	2.0	hr	2240.0		250.0		calculated cumulative amount	nmole	dimensionless
+Ulm1982		all	12.0	ENAPO10	cumulative amount	enalapril	urine	RIA	enalapril_urine	2.0	4.0	hr	3470.0		420.0		calculated cumulative amount	nmole	dimensionless
+Ulm1982		all	12.0	ENAPO10	cumulative amount	enalapril	urine	RIA	enalapril_urine	4.0	6.0	hr	3630.0		500.0		calculated cumulative amount; 4-6 hr enalapril 160 nmol (typo 1600 in Tab2: total 1860 - MK-422 1700)	nmole	dimensionless
+Ulm1982		all	12.0	ENAPO10	cumulative amount	enalapril	urine	RIA	enalapril_urine	6.0	8.0	hr	3630.0		500.0		calculated cumulative amount; 4-6 hr enalapril 160 nmol (typo 1600 in Tab2: total 1860 - MK-422 1700)	nmole	dimensionless
+Ulm1982		all	12.0	ENAPO10	cumulative amount	enalapril	urine	RIA	enalapril_urine	8.0	20.0	hr	3630.0		500.0		calculated cumulative amount; 4-6 hr enalapril 160 nmol (typo 1600 in Tab2: total 1860 - MK-422 1700)	nmole	dimensionless
+Ulm1982		all	12.0	ENAPO10	cumulative amount	enalapril	urine	RIA	enalapril_urine	20.0	24.0	hr	3630.0		500.0		calculated cumulative amount; 4-6 hr enalapril 160 nmol (typo 1600 in Tab2: total 1860 - MK-422 1700)	nmole	dimensionless
+Ulm1982		all	12.0	ENAPO10	cumulative amount	enalapril	urine	RIA	enalapril_urine	24.0	48.0	hr	3630.0		500.0		calculated cumulative amount; 4-6 hr enalapril 160 nmol (typo 1600 in Tab2: total 1860 - MK-422 1700)	nmole	dimensionless
+Ulm1982		all	12.0	ENAPO10	cumulative amount	enalapril	urine	RIA	enalapril_urine	48.0	72.0	hr	3630.0		500.0		calculated cumulative amount; 4-6 hr enalapril 160 nmol (typo 1600 in Tab2: total 1860 - MK-422 1700)	nmole	dimensionless

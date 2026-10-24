@@ -1,0 +1,12 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Weisser1992		all	19.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	0.0	hr		0.0					mole/meter^3	ng/ml	dimensionless
+Weisser1992		all	19.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	0.5	hr		7.867873437597676e-06					mole/meter^3	ng/ml	dimensionless
+Weisser1992		all	19.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	1.0	hr		3.496832638932317e-05					mole/meter^3	ng/ml	dimensionless
+Weisser1992		all	19.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	2.0	hr		0.00011015022812636771	44.4670050761421	7.621170047790259e-05	1.748416319466144e-05		mole/meter^3	ng/ml	dimensionless
+Weisser1992		all	19.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	4.0	hr		0.0002036905012178071	80.1015228426396	0.00011431755071685359	2.6226244791992164e-05		mole/meter^3	ng/ml	dimensionless
+Weisser1992		all	19.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	6.0	hr		0.00021942624809300227	86.1928934010152	0.00012193872076464466	2.797466111145842e-05		mole/meter^3	ng/ml	dimensionless
+Weisser1992		all	19.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	8.0	hr		0.0001932000033010101	77.3604060913706	0.00012574930578854006	2.884886927119155e-05		mole/meter^3	ng/ml	dimensionless
+Weisser1992		all	19.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	10.0	hr		0.00016172850955061918	66.7005076142132	0.00012955989081243514	2.972307743092468e-05		mole/meter^3	ng/ml	dimensionless
+Weisser1992		all	19.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	12.0	hr		0.00013550226475862701	57.8680203045685	0.00013337047583632938	3.059728559065752e-05		mole/meter^3	ng/ml	dimensionless
+Weisser1992		all	19.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	24.0	hr		5.594932222291684e-05	28.3248730964467	0.00011050696569295964	2.5352036632259316e-05		mole/meter^3	ng/ml	dimensionless
+Weisser1992		all	19.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	32.0	hr		2.272941215305999e-05	11.5736040609137	4.572702028674178e-05	1.0490497916796923e-05		mole/meter^3	ng/ml	dimensionless

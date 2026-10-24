@@ -1,0 +1,113 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Ishizaki1988	A1	NA	1.0	ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_ENA10_A1	0.0	hr	7.78846153846154	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	A1	NA	1.0	ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_ENA10_A1	4.0	hr	0.57692307692308	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	A2	NA	1.0	ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_ENA10_A2	0.0	hr	9.42307692307692	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	A2	NA	1.0	ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_ENA10_A2	4.0	hr	1.05769230769231	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	A3	NA	1.0	ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_ENA10_A3	0.0	hr	10.6730769230769	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	A3	NA	1.0	ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_ENA10_A3	4.0	hr	1.92307692307692	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	A4	NA	1.0	ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_ENA10_A4	0.0	hr	11.25	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	A4	NA	1.0	ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_ENA10_A4	4.0	hr	1.53846153846154	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	A5	NA	1.0	ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_ENA10_A5	0.0	hr	11.7307692307692	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	A5	NA	1.0	ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_ENA10_A5	4.0	hr	2.30769230769231	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	A6	NA	1.0	ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_ENA10_A6	0.0	hr	13.4615384615384	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	A6	NA	1.0	ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_ENA10_A6	4.0	hr	1.73076923076923	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	A7	NA	1.0	ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_ENA10_A7	0.0	hr	19.4230769230769	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	A7	NA	1.0	ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_ENA10_A7	4.0	hr	2.78846153846154	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	B1	NA	1.0	CIM400, ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_CIM400, ENA10_B1	0.0	hr	8.36538461538461	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	B1	NA	1.0	CIM400, ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_CIM400, ENA10_B1	4.0	hr	1.81295010288065	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	B2	NA	1.0	CIM400, ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_CIM400, ENA10_B2	0.0	hr	9.425438726654	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	B2	NA	1.0	CIM400, ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_CIM400, ENA10_B2	4.0	hr	1.34924521209243	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	B3	NA	1.0	CIM400, ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_CIM400, ENA10_B3	0.0	hr	11.5893948836657	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	B3	NA	1.0	CIM400, ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_CIM400, ENA10_B3	4.0	hr	1.34924521209243	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	B4	NA	1.0	CIM400, ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_CIM400, ENA10_B4	0.0	hr	11.5507528094333	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	B4	NA	1.0	CIM400, ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_CIM400, ENA10_B4	4.0	hr	1.15603484093066	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	B5	NA	1.0	CIM400, ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_CIM400, ENA10_B5	0.0	hr	12.1690259971509	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	B5	NA	1.0	CIM400, ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_CIM400, ENA10_B5	4.0	hr	1.81295010288065	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	B6	NA	1.0	CIM400, ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_CIM400, ENA10_B6	0.0	hr	13.4055723725862	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	B6	NA	1.0	CIM400, ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_CIM400, ENA10_B6	4.0	hr	0.962824469768907	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	B7	NA	1.0	CIM400, ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_CIM400, ENA10_B7	0.0	hr	18.7381786166508	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	B7	NA	1.0	CIM400, ENA10	concentration	angiotensin converting enzyme	serum	enzymatic assay	concentration_CIM400, ENA10_B7	4.0	hr	1.54245558325419	NA	NA	NA	NA	IU/l	ACE activity (active concentration)
+Ishizaki1988	C1	NA	1.0	ENA10	renin activity	NA	plasma	RIA	renin activity_ENA10_C1	0.0	hr	3.38491295938104	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	C1	NA	1.0	ENA10	renin activity	NA	plasma	RIA	renin activity_ENA10_C1	4.0	hr	47.2920696324951	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	C2	NA	1.0	ENA10	renin activity	NA	plasma	RIA	renin activity_ENA10_C2	0.0	hr	2.22437137330754	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	C2	NA	1.0	ENA10	renin activity	NA	plasma	RIA	renin activity_ENA10_C2	4.0	hr	20.2127659574468	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	C3	NA	1.0	ENA10	renin activity	NA	plasma	RIA	renin activity_ENA10_C3	0.0	hr	0.967117988394584	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	C3	NA	1.0	ENA10	renin activity	NA	plasma	RIA	renin activity_ENA10_C3	4.0	hr	7.64023210831721	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	C4	NA	1.0	ENA10	renin activity	NA	plasma	RIA	renin activity_ENA10_C4	0.0	hr	1.16054158607349	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	C4	NA	1.0	ENA10	renin activity	NA	plasma	RIA	renin activity_ENA10_C4	4.0	hr	19.7292069632495	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	C5	NA	1.0	ENA10	renin activity	NA	plasma	RIA	renin activity_ENA10_C5	0.0	hr	1.35396518375242	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	C5	NA	1.0	ENA10	renin activity	NA	plasma	RIA	renin activity_ENA10_C5	4.0	hr	22.3404255319148	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	C6	NA	1.0	ENA10	renin activity	NA	plasma	RIA	renin activity_ENA10_C6	0.0	hr	1.45067698259187	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	C6	NA	1.0	ENA10	renin activity	NA	plasma	RIA	renin activity_ENA10_C6	4.0	hr	12.0889748549323	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	C7	NA	1.0	ENA10	renin activity	NA	plasma	RIA	renin activity_ENA10_C7	0.0	hr	1.06382978723404	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	C7	NA	1.0	ENA10	renin activity	NA	plasma	RIA	renin activity_ENA10_C7	4.0	hr	1.06382978723404	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	D1	NA	1.0	CIM400, ENA10	renin activity	NA	plasma	RIA	renin activity_CIM400, ENA10_D1	0.0	hr	2.41779497098646	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	D1	NA	1.0	CIM400, ENA10	renin activity	NA	plasma	RIA	renin activity_CIM400, ENA10_D1	4.0	hr	34.2359767891682	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	D2	NA	1.0	CIM400, ENA10	renin activity	NA	plasma	RIA	renin activity_CIM400, ENA10_D2	0.0	hr	2.03094777562862	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	D2	NA	1.0	CIM400, ENA10	renin activity	NA	plasma	RIA	renin activity_CIM400, ENA10_D2	4.0	hr	21.8568665377176	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	D3	NA	1.0	CIM400, ENA10	renin activity	NA	plasma	RIA	renin activity_CIM400, ENA10_D3	0.0	hr	0.967117988394584	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	D3	NA	1.0	CIM400, ENA10	renin activity	NA	plasma	RIA	renin activity_CIM400, ENA10_D3	4.0	hr	14.8936170212765	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	D4	NA	1.0	CIM400, ENA10	renin activity	NA	plasma	RIA	renin activity_CIM400, ENA10_D4	0.0	hr	0.676982591876203	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	D4	NA	1.0	CIM400, ENA10	renin activity	NA	plasma	RIA	renin activity_CIM400, ENA10_D4	4.0	hr	9.96131528046422	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	D5	NA	1.0	CIM400, ENA10	renin activity	NA	plasma	RIA	renin activity_CIM400, ENA10_D5	0.0	hr	1.06382978723404	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	D5	NA	1.0	CIM400, ENA10	renin activity	NA	plasma	RIA	renin activity_CIM400, ENA10_D5	4.0	hr	4.54545454545454	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	D6	NA	1.0	CIM400, ENA10	renin activity	NA	plasma	RIA	renin activity_CIM400, ENA10_D6	0.0	hr	0.483558994197288	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	D6	NA	1.0	CIM400, ENA10	renin activity	NA	plasma	RIA	renin activity_CIM400, ENA10_D6	4.0	hr	3.19148936170212	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	D7	NA	1.0	CIM400, ENA10	renin activity	NA	plasma	RIA	renin activity_CIM400, ENA10_D7	0.0	hr	0.38684719535783	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	D7	NA	1.0	CIM400, ENA10	renin activity	NA	plasma	RIA	renin activity_CIM400, ENA10_D7	4.0	hr	0.967117988394584	NA	NA	NA	NA	ng/ml/min	NA
+Ishizaki1988	E1	NA	1.0	ENA10	concentration	aldosterone	plasma	RIA	concentration_ENA10_E1	0.0	hr	80.3118908382065	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	E1	NA	1.0	ENA10	concentration	aldosterone	plasma	RIA	concentration_ENA10_E1	4.0	hr	43.6647173489278	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	E2	NA	1.0	ENA10	concentration	aldosterone	plasma	RIA	concentration_ENA10_E2	0.0	hr	89.2787524366471	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	E2	NA	1.0	ENA10	concentration	aldosterone	plasma	RIA	concentration_ENA10_E2	4.0	hr	47.5633528265107	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	E3	NA	1.0	ENA10	concentration	aldosterone	plasma	RIA	concentration_ENA10_E3	0.0	hr	96.2962962962962	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	E3	NA	1.0	ENA10	concentration	aldosterone	plasma	RIA	concentration_ENA10_E3	4.0	hr	38.5964912280701	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	E4	NA	1.0	ENA10	concentration	aldosterone	plasma	RIA	concentration_ENA10_E4	0.0	hr	97.0760233918127	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	E4	NA	1.0	ENA10	concentration	aldosterone	plasma	RIA	concentration_ENA10_E4	4.0	hr	118.908382066276	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	E5	NA	1.0	ENA10	concentration	aldosterone	plasma	RIA	concentration_ENA10_E5	0.0	hr	102.14424951267	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	E5	NA	1.0	ENA10	concentration	aldosterone	plasma	RIA	concentration_ENA10_E5	4.0	hr	88.1091617933722	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	E6	NA	1.0	ENA10	concentration	aldosterone	plasma	RIA	concentration_ENA10_E6	0.0	hr	76.803118908382	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	E6	NA	1.0	ENA10	concentration	aldosterone	plasma	RIA	concentration_ENA10_E6	4.0	hr	152.04678362573	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	E7	NA	1.0	ENA10	concentration	aldosterone	plasma	RIA	concentration_ENA10_E7	0.0	hr	132.553606237816	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	E7	NA	1.0	ENA10	concentration	aldosterone	plasma	RIA	concentration_ENA10_E7	4.0	hr	102.923976608187	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	F1	NA	1.0	CIM400, ENA10	concentration	aldosterone	plasma	RIA	concentration_CIM400, ENA10_F1	0.0	hr	71.9948018193631	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	F1	NA	1.0	CIM400, ENA10	concentration	aldosterone	plasma	RIA	concentration_CIM400, ENA10_F1	4.0	hr	83.3658219623131	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	F2	NA	1.0	CIM400, ENA10	concentration	aldosterone	plasma	RIA	concentration_CIM400, ENA10_F2	0.0	hr	80.7667316439245	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	F2	NA	1.0	CIM400, ENA10	concentration	aldosterone	plasma	RIA	concentration_CIM400, ENA10_F2	4.0	hr	113.255360623781	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	F3	NA	1.0	CIM400, ENA10	concentration	aldosterone	plasma	RIA	concentration_CIM400, ENA10_F3	0.0	hr	84.6653671215073	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	F3	NA	1.0	CIM400, ENA10	concentration	aldosterone	plasma	RIA	concentration_CIM400, ENA10_F3	4.0	hr	99.9350227420402	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	F4	NA	1.0	CIM400, ENA10	concentration	aldosterone	plasma	RIA	concentration_CIM400, ENA10_F4	0.0	hr	128.525016244314	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	F4	NA	1.0	CIM400, ENA10	concentration	aldosterone	plasma	RIA	concentration_CIM400, ENA10_F4	4.0	hr	140.545808966861	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	F5	NA	1.0	CIM400, ENA10	concentration	aldosterone	plasma	RIA	concentration_CIM400, ENA10_F5	0.0	hr	137.296946068875	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	F5	NA	1.0	CIM400, ENA10	concentration	aldosterone	plasma	RIA	concentration_CIM400, ENA10_F5	4.0	hr	67.7712800519817	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	F6	NA	1.0	CIM400, ENA10	concentration	aldosterone	plasma	RIA	concentration_CIM400, ENA10_F6	0.0	hr	153.541260558804	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	F6	NA	1.0	CIM400, ENA10	concentration	aldosterone	plasma	RIA	concentration_CIM400, ENA10_F6	4.0	hr	95.0617283950616	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	F7	NA	1.0	CIM400, ENA10	concentration	aldosterone	plasma	RIA	concentration_CIM400, ENA10_F7	0.0	hr	163.287849252761	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	F7	NA	1.0	CIM400, ENA10	concentration	aldosterone	plasma	RIA	concentration_CIM400, ENA10_F7	4.0	hr	115.85445094217	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	G1	NA	1.0	ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_ENA10_G1	0.0	hr	9.38650638943037	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	G1	NA	1.0	ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_ENA10_G1	4.0	hr	16.6766839939354	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	G2	NA	1.0	ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_ENA10_G2	0.0	hr	12.1637426900584	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	G2	NA	1.0	ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_ENA10_G2	4.0	hr	11.7232510288065	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	G3	NA	1.0	ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_ENA10_G3	0.0	hr	12.4415204678362	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	G3	NA	1.0	ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_ENA10_G3	4.0	hr	17.1862139917695	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	G4	NA	1.0	ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_ENA10_G4	0.0	hr	13.4148256443578	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	G4	NA	1.0	ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_ENA10_G4	4.0	hr	13.5751028806584	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	G5	NA	1.0	ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_ENA10_G5	0.0	hr	14.7566060212259	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	G5	NA	1.0	ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_ENA10_G5	4.0	hr	9.17749620965996	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	G6	NA	1.0	ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_ENA10_G6	0.0	hr	15.9142841672081	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	G6	NA	1.0	ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_ENA10_G6	4.0	hr	15.0100173272687	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	G7	NA	1.0	ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_ENA10_G7	0.0	hr	16.3767056530214	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	G7	NA	1.0	ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_ENA10_G7	4.0	hr	18.9912280701754	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	H1	NA	1.0	CIM400, ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_CIM400, ENA10_H1	0.0	hr	9.37269872211393	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	H1	NA	1.0	CIM400, ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_CIM400, ENA10_H1	4.0	hr	14.9512670565302	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	H2	NA	1.0	CIM400, ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_CIM400, ENA10_H2	0.0	hr	12.4285250162443	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	H2	NA	1.0	CIM400, ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_CIM400, ENA10_H2	4.0	hr	11.8948992852501	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	H3	NA	1.0	CIM400, ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_CIM400, ENA10_H3	0.0	hr	13.0303768680961	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	H3	NA	1.0	CIM400, ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_CIM400, ENA10_H3	4.0	hr	17.9602555772146	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	H4	NA	1.0	CIM400, ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_CIM400, ENA10_H4	0.0	hr	16.2248213125406	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	H4	NA	1.0	CIM400, ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_CIM400, ENA10_H4	4.0	hr	12.9605263157894	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	H5	NA	1.0	CIM400, ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_CIM400, ENA10_H5	0.0	hr	18.7248213125406	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	H5	NA	1.0	CIM400, ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_CIM400, ENA10_H5	4.0	hr	18.330625947585	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	H6	NA	1.0	CIM400, ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_CIM400, ENA10_H6	0.0	hr	19.6965020576131	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	H6	NA	1.0	CIM400, ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_CIM400, ENA10_H6	4.0	hr	18.8404266839939	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	H7	NA	1.0	CIM400, ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_CIM400, ENA10_H7	0.0	hr	23.632228719948	NA	NA	NA	NA	pg/ml	NA
+Ishizaki1988	H7	NA	1.0	CIM400, ENA10	concentration	atrial natriuretic peptide	serum	RIA	concentration_CIM400, ENA10_H7	4.0	hr	22.8213666883257	NA	NA	NA	NA	pg/ml	NA

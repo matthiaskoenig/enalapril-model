@@ -1,0 +1,12 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Swanson1984		fed	12.0	ENA40	concentration	enalaprilat	serum	RIA	enalaprilat_fed	1.0	hr		8.97961940253937e-05					mole/meter^3	ng/ml	dimensionless
+Swanson1984		fed	12.0	ENA40	concentration	enalaprilat	serum	RIA	enalaprilat_fed	2.0	hr		0.0003133881085393417					mole/meter^3	ng/ml	dimensionless
+Swanson1984		fed	12.0	ENA40	concentration	enalaprilat	serum	RIA	enalaprilat_fed	3.0	hr		0.00042582206899637655					mole/meter^3	ng/ml	dimensionless
+Swanson1984		fed	12.0	ENA40	concentration	enalaprilat	serum	RIA	enalaprilat_fed	4.0	hr		0.00038445567998067704					mole/meter^3	ng/ml	dimensionless
+Swanson1984		fed	12.0	ENA40	concentration	enalaprilat	serum	RIA	enalaprilat_fed	6.0	hr		0.0002677951401838429					mole/meter^3	ng/ml	dimensionless
+Swanson1984		fed	12.0	ENA40	concentration	enalaprilat	serum	RIA	enalaprilat_fed	8.0	hr		0.00023246140145534935					mole/meter^3	ng/ml	dimensionless
+Swanson1984		fed	12.0	ENA40	concentration	enalaprilat	serum	RIA	enalaprilat_fed	12.0	hr		0.00010103405786079509					mole/meter^3	ng/ml	dimensionless
+Swanson1984		fed	12.0	ENA40	concentration	enalaprilat	serum	RIA	enalaprilat_fed	16.0	hr		5.691758258463588e-05					mole/meter^3	ng/ml	dimensionless
+Swanson1984		fed	12.0	ENA40	concentration	enalaprilat	serum	RIA	enalaprilat_fed	24.0	hr		1.8935975959279766e-05					mole/meter^3	ng/ml	dimensionless
+Swanson1984		fed	12.0	ENA40	concentration	enalaprilat	serum	RIA	enalaprilat_fed	36.0	hr		8.492989794459543e-06					mole/meter^3	ng/ml	dimensionless
+Swanson1984		fed	12.0	ENA40	concentration	enalaprilat	serum	RIA	enalaprilat_fed	48.0	hr		3.204244937811372e-06					mole/meter^3	ng/ml	dimensionless

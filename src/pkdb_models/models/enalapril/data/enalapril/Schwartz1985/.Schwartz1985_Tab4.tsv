@@ -1,0 +1,65 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+#Schwartz1985	NA	HT	5	control	ACE activity	NA	NA	radioenzymatic assay	HT_placebo20_ACE activity	0	hr	NA	69.2	NA	28.8	12.8797515503988	NA	NA	nmol/ml/min 	NA
+#Schwartz1985	NA	HT	5	control	ACE activity	NA	NA	radioenzymatic assay	HT_placebo20_ACE activity	4	hr	NA	74.3	NA	42.9	19.1854632469482	NA	NA	nmol/ml/min 	NA
+#Schwartz1985	NA	HT	5	control	ACE activity	NA	NA	radioenzymatic assay	HT_placebo20_ACE activity	12	hr	NA	NA	NA	NA	NA	NA	NA	nmol/ml/min 	NA
+#Schwartz1985	NA	HT	5	control	ACE activity	NA	NA	radioenzymatic assay	HT_placebo20_ACE activity	24	hr	NA	72.5	NA	31.1	13.9083428200487	NA	NA	nmol/ml/min 	NA
+#Schwartz1985	NA	HT	5	ENA20	ACE activity	NA	NA	radioenzymatic assay	HT_ENA20_ACE activity	0	hr	NA	72.5	NA	31.1	13.9083428200487	NA	NA	nmol/ml/min 	NA
+#Schwartz1985	NA	HT	5	ENA20	ACE activity	NA	NA	radioenzymatic assay	HT_ENA20_ACE activity	4	hr	NA	3.9	NA	7	3.13049516849971	NA	NA	nmol/ml/min 	NA
+#Schwartz1985	NA	HT	5	ENA20	ACE activity	NA	NA	radioenzymatic assay	HT_ENA20_ACE activity	12	hr	NA	2.7	NA	2.4	1.0733126291999	NA	NA	nmol/ml/min 	NA
+#Schwartz1985	NA	HT	5	ENA20	ACE activity	NA	NA	radioenzymatic assay	HT_ENA20_ACE activity	24	hr	NA	NA	NA	NA	NA	NA	NA	nmol/ml/min 	NA
+#Schwartz1985	NA	HT	5	control	ACE activity	NA	NA	radioenzymatic assay	HT_placebo40_ACE activity	0	hr	NA	63.1	NA	36.9	16.5021816739484	NA	NA	nmol/ml/min 	NA
+#Schwartz1985	NA	HT	5	control	ACE activity	NA	NA	radioenzymatic assay	HT_placebo40_ACE activity	4	hr	NA	74.9	NA	22.6	10.1070272582991	NA	NA	nmol/ml/min 	NA
+#Schwartz1985	NA	HT	5	control	ACE activity	NA	NA	radioenzymatic assay	HT_placebo40_ACE activity	12	hr	NA	NA	NA	NA	NA	NA	NA	nmol/ml/min 	NA
+#Schwartz1985	NA	HT	5	control	ACE activity	NA	NA	radioenzymatic assay	HT_placebo40_ACE activity	24	hr	NA	76.8	NA	30.9	13.8189001009487	NA	NA	nmol/ml/min 	NA
+#Schwartz1985	NA	HT	5	ENA40	ACE activity	NA	NA	radioenzymatic assay	HT_ENA40_ACE activity	0	hr	NA	76.8	NA	30.9	13.8189001009487	NA	NA	nmol/ml/min 	NA
+#Schwartz1985	NA	HT	5	ENA40	ACE activity	NA	NA	radioenzymatic assay	HT_ENA40_ACE activity	4	hr	NA	11.7	NA	21.5	9.6150923032491	NA	NA	nmol/ml/min 	NA
+#Schwartz1985	NA	HT	4	ENA40	ACE activity	NA	NA	radioenzymatic assay	HT_ENA40_ACE activity	12	hr	NA	2	NA	1.7	0.85	NA	NA	nmol/ml/min 	undetectable in 1 patient
+#Schwartz1985	NA	HT	4	ENA40	ACE activity	NA	NA	radioenzymatic assay	HT_ENA40_ACE activity	24	hr	NA	3.8	NA	3.4	1.7	NA	NA	nmol/ml/min 	undetectable in 1 patient
+Schwartz1985	NA	HT	5	control	renin activity	NA	plasma	RIA	HT_placebo20_renin activity	0	hr	NA	1.3	NA	1	0.447213595499958	NA	NA	ng/ml/hr	NA
+Schwartz1985	NA	HT	5	control	renin activity	NA	plasma	RIA	HT_placebo20_renin activity	4	hr	NA	1	NA	1	0.447213595499958	NA	NA	ng/ml/hr	NA
+Schwartz1985	NA	HT	5	control	renin activity	NA	plasma	RIA	HT_placebo20_renin activity	12	hr	NA	NA	NA	NA	NA	NA	NA	ng/ml/hr	NA
+Schwartz1985	NA	HT	5	control	renin activity	NA	plasma	RIA	HT_placebo20_renin activity	24	hr	NA	0.9	NA	0.5	0.223606797749979	NA	NA	ng/ml/hr	NA
+Schwartz1985	NA	HT	5	ENA20	renin activity	NA	plasma	RIA	HT_ENA20_renin activity	0	hr	NA	0.9	NA	0.5	0.223606797749979	NA	NA	ng/ml/hr	NA
+Schwartz1985	NA	HT	5	ENA20	renin activity	NA	plasma	RIA	HT_ENA20_renin activity	4	hr	NA	6	NA	5.1	2.28078933704979	NA	NA	ng/ml/hr	NA
+Schwartz1985	NA	HT	5	ENA20	renin activity	NA	plasma	RIA	HT_ENA20_renin activity	12	hr	NA	4.6	NA	4.3	1.92301846064982	NA	NA	ng/ml/hr	NA
+Schwartz1985	NA	HT	5	ENA20	renin activity	NA	plasma	RIA	HT_ENA20_renin activity	24	hr	NA	NA	NA	NA	NA	NA	NA	ng/ml/hr	NA
+Schwartz1985	NA	HT	5	control	renin activity	NA	plasma	RIA	HT_placebo40_renin activity	0	hr	NA	1	NA	0.5	0.223606797749979	NA	NA	ng/ml/hr	NA
+Schwartz1985	NA	HT	5	control	renin activity	NA	plasma	RIA	HT_placebo40_renin activity	4	hr	NA	0.9	NA	0.5	0.223606797749979	NA	NA	ng/ml/hr	NA
+Schwartz1985	NA	HT	5	control	renin activity	NA	plasma	RIA	HT_placebo40_renin activity	12	hr	NA	NA	NA	NA	NA	NA	NA	ng/ml/hr	NA
+Schwartz1985	NA	HT	5	control	renin activity	NA	plasma	RIA	HT_placebo40_renin activity	24	hr	NA	1.1	NA	0.8	0.357770876399966	NA	NA	ng/ml/hr	NA
+Schwartz1985	NA	HT	5	ENA40	renin activity	NA	plasma	RIA	HT_ENA40_renin activity	0	hr	NA	1.1	NA	0.8	0.357770876399966	NA	NA	ng/ml/hr	NA
+Schwartz1985	NA	HT	5	ENA40	renin activity	NA	plasma	RIA	HT_ENA40_renin activity	4	hr	NA	4.2	NA	2.7	1.20747670784989	NA	NA	ng/ml/hr	NA
+Schwartz1985	NA	HT	5	ENA40	renin activity	NA	plasma	RIA	HT_ENA40_renin activity	12	hr	NA	6	NA	4.4	1.96773982019982	NA	NA	ng/ml/hr	NA
+Schwartz1985	NA	HT	5	ENA40	renin activity	NA	plasma	RIA	HT_ENA40_renin activity	24	hr	NA	7.8	NA	6.8	3.04105244939971	NA	NA	ng/ml/hr	NA
+Schwartz1985	NA	HT	5	control	concentration	aldosterone	plasma	CC	HT_placebo20_aldosterone	0	hr	NA	30.7	NA	41.4	18.5146428536983	NA	NA	ng/dl	NA
+Schwartz1985	NA	HT	5	control	concentration	aldosterone	plasma	CC	HT_placebo20_aldosterone	4	hr	NA	35.1	NA	51.1	22.8526147300478	NA	NA	ng/dl	NA
+Schwartz1985	NA	HT	5	control	concentration	aldosterone	plasma	CC	HT_placebo20_aldosterone	12	hr	NA	NA	NA	NA	NA	NA	NA	ng/dl	NA
+Schwartz1985	NA	HT	5	control	concentration	aldosterone	plasma	CC	HT_placebo20_aldosterone	24	hr	NA	33.3	NA	39.4	17.6202156626983	NA	NA	ng/dl	NA
+Schwartz1985	NA	HT	5	ENA20	concentration	aldosterone	plasma	CC	HT_ENA20_aldosterone	0	hr	NA	33.3	NA	39.4	17.6202156626983	NA	NA	ng/dl	NA
+Schwartz1985	NA	HT	5	ENA20	concentration	aldosterone	plasma	CC	HT_ENA20_aldosterone	4	hr	NA	9.6	NA	8	3.57770876399966	NA	NA	ng/dl	NA
+Schwartz1985	NA	HT	5	ENA20	concentration	aldosterone	plasma	CC	HT_ENA20_aldosterone	12	hr	NA	7.6	NA	4.4	1.96773982019982	NA	NA	ng/dl	NA
+Schwartz1985	NA	HT	5	ENA20	concentration	aldosterone	plasma	CC	HT_ENA20_aldosterone	24	hr	NA	NA	NA	NA	NA	NA	NA	ng/dl	NA
+Schwartz1985	NA	HT	5	control	concentration	aldosterone	plasma	CC	HT_placebo40_aldosterone	0	hr	NA	13.6	NA	9.6	4.2932505167996	NA	NA	ng/dl	NA
+Schwartz1985	NA	HT	5	control	concentration	aldosterone	plasma	CC	HT_placebo40_aldosterone	4	hr	NA	9.6	NA	5.9	2.63856021344975	NA	NA	ng/dl	NA
+Schwartz1985	NA	HT	5	control	concentration	aldosterone	plasma	CC	HT_placebo40_aldosterone	12	hr	NA	NA	NA	NA	NA	NA	NA	ng/dl	NA
+Schwartz1985	NA	HT	5	control	concentration	aldosterone	plasma	CC	HT_placebo40_aldosterone	24	hr	NA	17.8	NA	7.1	3.1752165280497	NA	NA	ng/dl	NA
+Schwartz1985	NA	HT	5	ENA40	concentration	aldosterone	plasma	CC	HT_ENA40_aldosterone	0	hr	NA	14.2	NA	7.9	3.53298740444967	NA	NA	ng/dl	NA
+Schwartz1985	NA	HT	5	ENA40	concentration	aldosterone	plasma	CC	HT_ENA40_aldosterone	4	hr	NA	7.4	NA	4	1.78885438199983	NA	NA	ng/dl	NA
+Schwartz1985	NA	HT	5	ENA40	concentration	aldosterone	plasma	CC	HT_ENA40_aldosterone	12	hr	NA	11.5	NA	7.3	3.26465924714969	NA	NA	ng/dl	NA
+Schwartz1985	NA	HT	5	ENA40	concentration	aldosterone	plasma	CC	HT_ENA40_aldosterone	24	hr	NA	22.6	NA	9.8	4.38269323589959	NA	NA	ng/dl	NA
+Schwartz1985	NA	HT	5	control	relative ACE activity	NA	NA	radioenzymatic assay	HT_placebo20_relative ACE activity	0	hr	NA	100.00	NA	41.62	18.61	NA	NA	percent	NA
+Schwartz1985	NA	HT	5	control	relative ACE activity	NA	NA	radioenzymatic assay	HT_placebo20_relative ACE activity	4	hr	NA	107.37	NA	61.99	27.72	NA	NA	percent	NA
+Schwartz1985	NA	HT	5	control	relative ACE activity	NA	NA	radioenzymatic assay	HT_placebo20_relative ACE activity	12	hr	NA	NA	NA	NA	NA	NA	NA	percent	NA
+Schwartz1985	NA	HT	5	control	relative ACE activity	NA	NA	radioenzymatic assay	HT_placebo20_relative ACE activity	24	hr	NA	104.77	NA	44.94	20.10	NA	NA	percent	NA
+Schwartz1985	NA	HT	5	ENA20	relative ACE activity	NA	NA	radioenzymatic assay	HT_ENA20_relative ACE activity	0	hr	NA	100.00	NA	42.90	19.18	NA	NA	percent	NA
+Schwartz1985	NA	HT	5	ENA20	relative ACE activity	NA	NA	radioenzymatic assay	HT_ENA20_relative ACE activity	4	hr	NA	5.38	NA	9.66	4.32	NA	NA	percent	NA
+Schwartz1985	NA	HT	5	ENA20	relative ACE activity	NA	NA	radioenzymatic assay	HT_ENA20_relative ACE activity	12	hr	NA	3.72	NA	3.31	1.48	NA	NA	percent	NA
+Schwartz1985	NA	HT	5	ENA20	relative ACE activity	NA	NA	radioenzymatic assay	HT_ENA20_relative ACE activity	24	hr	NA	NA	NA	NA	NA	NA	NA	percent	NA
+Schwartz1985	NA	HT	5	control	relative ACE activity	NA	NA	radioenzymatic assay	HT_placebo40_relative ACE activity	0	hr	NA	100.00	NA	58.48	26.15	NA	NA	percent	NA
+Schwartz1985	NA	HT	5	control	relative ACE activity	NA	NA	radioenzymatic assay	HT_placebo40_relative ACE activity	4	hr	NA	118.70	NA	35.82	16.02	NA	NA	percent	NA
+Schwartz1985	NA	HT	5	control	relative ACE activity	NA	NA	radioenzymatic assay	HT_placebo40_relative ACE activity	12	hr	NA	NA	NA	NA	NA	NA	NA	percent	NA
+Schwartz1985	NA	HT	5	control	relative ACE activity	NA	NA	radioenzymatic assay	HT_placebo40_relative ACE activity	24	hr	NA	121.71	NA	48.97	21.90	NA	NA	percent	NA
+Schwartz1985	NA	HT	5	ENA40	relative ACE activity	NA	NA	radioenzymatic assay	HT_ENA40_relative ACE activity	0	hr	NA	100.00	NA	40.23	17.99	NA	NA	percent	NA
+Schwartz1985	NA	HT	5	ENA40	relative ACE activity	NA	NA	radioenzymatic assay	HT_ENA40_relative ACE activity	4	hr	NA	15.234375	NA	27.9947916666667	12.5196514365223	NA	NA	percent	NA
+Schwartz1985	NA	HT	4	ENA40	relative ACE activity	NA	NA	radioenzymatic assay	HT_ENA40_relative ACE activity	12	hr	NA	2.60416666666667	NA	2.21354166666667	1.10677083333333	NA	NA	percent	NA
+Schwartz1985	NA	HT	4	ENA40	relative ACE activity	NA	NA	radioenzymatic assay	HT_ENA40_relative ACE activity	24	hr	NA	4.94791666666667	NA	4.42708333333333	2.21354166666667	NA	NA	percent	NA

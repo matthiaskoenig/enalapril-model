@@ -1,0 +1,15 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Shionoiri1985	NA	all	13.0	ENA10	concentration	enalapril	plasma	immunofluorescence	ENA10_enalapril	0.0	hr	NA	0.0	NA	NA	NA	ng/ml	MK-421
+Shionoiri1985	NA	all	13.0	ENA10	concentration	enalapril	plasma	immunofluorescence	ENA10_enalapril	1.0	hr	NA	53.5134744522031	48.0351039656561	19.7525456952338	5.478370486547	ng/ml	MK-421
+Shionoiri1985	NA	all	13.0	ENA10	concentration	enalapril	plasma	immunofluorescence	ENA10_enalapril	2.0	hr	NA	51.3833092901323	47.531508191193	13.8878663651142	3.8518010989393	ng/ml	MK-421
+Shionoiri1985	NA	all	13.0	ENA10	concentration	enalapril	plasma	immunofluorescence	ENA10_enalapril	4.0	hr	NA	15.2824295498524	13.1423080937712	7.71631764562142	2.1401214560812	ng/ml	MK-421
+Shionoiri1985	NA	all	13.0	ENA10	concentration	enalapril	plasma	immunofluorescence	ENA10_enalapril	6.0	hr	NA	5.5438893245511	4.1744171419548	4.93770217467254	1.3694721825963	ng/ml	MK-421
+Shionoiri1985	NA	all	13.0	ENA10	concentration	enalapril	plasma	immunofluorescence	ENA10_enalapril	9.0	hr	NA	1.29287295287087	2.32013767520534	3.70385562985221	1.02726472233447	ng/ml	MK-421
+Shionoiri1985	NA	all	13.0	ENA10	concentration	enalapril	plasma	immunofluorescence	ENA10_enalapril	24.0	hr	NA	0.0	NA	NA	NA	ng/ml	MK-421
+Shionoiri1985	NA	all	13.0	ENA10	concentration	enalaprilat	plasma	immunofluorescence	ENA10_enalaprilat	0.0	hr	NA	0.0	NA	NA	NA	ng/ml	MK-422
+Shionoiri1985	NA	all	13.0	ENA10	concentration	enalaprilat	plasma	immunofluorescence	ENA10_enalaprilat	1.0	hr	NA	2.07251500804265	2.9285957075526	3.0866428580182	0.85608069950995	ng/ml	MK-422
+Shionoiri1985	NA	all	13.0	ENA10	concentration	enalaprilat	plasma	immunofluorescence	ENA10_enalaprilat	2.0	hr	NA	15.0922964513306	17.7451670489491	9.56506096688429	2.6528705976185	ng/ml	MK-422
+Shionoiri1985	NA	all	13.0	ENA10	concentration	enalaprilat	plasma	immunofluorescence	ENA10_enalaprilat	4.0	hr	NA	34.2833743272141	36.8514558403567	9.2593495752068	2.5680815131426	ng/ml	MK-422
+Shionoiri1985	NA	all	13.0	ENA10	concentration	enalaprilat	plasma	immunofluorescence	ENA10_enalaprilat	6.0	hr	NA	34.1321028924105	37.2985255585026	11.4166992823864	3.1664226660921	ng/ml	MK-422
+Shionoiri1985	NA	all	13.0	ENA10	concentration	enalaprilat	plasma	immunofluorescence	ENA10_enalaprilat	9.0	hr	NA	25.6011647793423	28.2541959623481	9.56563996573229	2.6530311830058	ng/ml	MK-422
+Shionoiri1985	NA	all	13.0	ENA10	concentration	enalaprilat	plasma	immunofluorescence	ENA10_enalaprilat	24.0	hr	NA	4.42220039450476	5.27812050862745	3.08606385917035	0.85592011412269	ng/ml	MK-422

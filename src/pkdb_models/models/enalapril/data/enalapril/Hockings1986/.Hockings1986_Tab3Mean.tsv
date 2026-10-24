@@ -1,0 +1,7 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Hockings1986	NA	young	9.0	ENAPO10	auc_end	enalapril	plasma	RIA	young_auc_end_enalapril	96.0	hr	NA	722.0	NA	188.0	NA	NA	NA	ng/ml*hr	NA
+Hockings1986	NA	young	9.0	ENAPO10	tmax	enalapril	plasma	RIA	young_tmax_enalapril	NA	NA	NA	3.0	NA	1.0	NA	NA	NA	hr	NA
+Hockings1986	NA	young	9.0	ENAPO10	cmax	enalapril	plasma	RIA	young_cmax_enalapril	NA	NA	NA	68.0	NA	29.0	NA	NA	NA	ng/ml	NA
+Hockings1986	NA	elder	9.0	ENAPO10	auc_end	enalapril	plasma	RIA	elder_auc_end_enalapril	96.0	hr	NA	997.0	NA	332.0	NA	NA	NA	ng/ml*hr	NA
+Hockings1986	NA	elder	9.0	ENAPO10	tmax	enalapril	plasma	RIA	elder_tmax_enalapril	NA	NA	NA	4.0	NA	2.0	NA	NA	NA	hr	NA
+Hockings1986	NA	elder	9.0	ENAPO10	cmax	enalapril	plasma	RIA	elder_cmax_enalapril	NA	NA	NA	101.0	NA	54.0	NA	NA	NA	ng/ml	NA

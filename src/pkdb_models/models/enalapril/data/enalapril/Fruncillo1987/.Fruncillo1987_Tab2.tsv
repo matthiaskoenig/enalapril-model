@@ -1,0 +1,9 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Fruncillo1987	NA	Group1	6.0	ENA5s	auc_end	enalaprilat	plasma	enzymatic assay	NA	24.0	hr	NA	186.0	NA	108.0	NA	NA	NA	ng/ml*hr	NA
+Fruncillo1987	NA	Group2	6.0	ENA5s	auc_end	enalaprilat	plasma	enzymatic assay	NA	24.0	hr	NA	228.0	NA	118.0	NA	NA	NA	ng/ml*hr	NA
+Fruncillo1987	NA	Group3	6.0	ENA5s	auc_end	enalaprilat	plasma	enzymatic assay	NA	24.0	hr	NA	884.0	NA	409.0	NA	NA	NA	ng/ml*hr	NA
+Fruncillo1987	NA	Group4	5.0	ENA5s	auc_end	enalaprilat	plasma	enzymatic assay	NA	24.0	hr	NA	1189.0	NA	320.0	NA	NA	NA	ng/ml*hr	NA
+Fruncillo1987	NA	Group1	6.0	ENA5m1	auc_end	enalaprilat	plasma	enzymatic assay	NA	24.0	hr	NA	177.0	NA	89.0	NA	NA	NA	ng/ml*hr	NA
+Fruncillo1987	NA	Group2	6.0	ENA5m1	auc_end	enalaprilat	plasma	enzymatic assay	NA	24.0	hr	NA	383.0	NA	203.0	NA	NA	NA	ng/ml*hr	NA
+Fruncillo1987	NA	Group3	6.0	ENA5m1	auc_end	enalaprilat	plasma	enzymatic assay	NA	24.0	hr	NA	1365.0	NA	582.0	NA	NA	NA	ng/ml*hr	NA
+Fruncillo1987	NA	Group4	5.0	ENA5m2	auc_end	enalaprilat	plasma	enzymatic assay	NA	24.0	hr	NA	5833.0	NA	1223.0	NA	NA	NA	ng/ml*hr	NA

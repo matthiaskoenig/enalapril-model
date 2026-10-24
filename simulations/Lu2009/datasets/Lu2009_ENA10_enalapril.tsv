@@ -1,0 +1,13 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Lu2009		all	20.0	ENA10	concentration	enalapril	plasma	HPLC MS/MS	ENA10_enalapril	0.25	hr		1.566885655033451e-05	11.2048833158945	1.4096003430891254e-05	3.151962188254311e-06		mole/meter^3	ng/ml	dimensionless
+Lu2009		all	20.0	ENA10	concentration	enalapril	plasma	HPLC MS/MS	ENA10_enalapril	0.5	hr		0.00015196148119585854	33.3222126020839	6.34437372441015e-05	1.4186450922444611e-05		mole/meter^3	ng/ml	dimensionless
+Lu2009		all	20.0	ENA10	concentration	enalapril	plasma	HPLC MS/MS	ENA10_enalapril	0.75	hr		0.00020209883842472415	104.089643345445	7.440682185983939e-05	1.663787116683182e-05		mole/meter^3	ng/ml	dimensionless
+Lu2009		all	20.0	ENA10	concentration	enalapril	plasma	HPLC MS/MS	ENA10_enalapril	1.0	hr		0.00019818908361765266	105.567876018332	8.224338137229679e-05	1.8390179144789557e-05		mole/meter^3	ng/ml	dimensionless
+Lu2009		all	20.0	ENA10	concentration	enalapril	plasma	HPLC MS/MS	ENA10_enalapril	1.5	hr		0.0001332001993388679	65.1806338816812	3.994684613046735e-05	8.93238634344494e-06		mole/meter^3	ng/ml	dimensionless
+Lu2009		all	20.0	ENA10	concentration	enalapril	plasma	HPLC MS/MS	ENA10_enalapril	2.0	hr		7.683323551361668e-05	39.8320524434965	2.8977367802859475e-05	6.479536421620751e-06		mole/meter^3	ng/ml	dimensionless
+Lu2009		all	20.0	ENA10	concentration	enalapril	plasma	HPLC MS/MS	ENA10_enalapril	3.0	hr		2.909245461647718e-05	16.849445579175	1.5666725313045385e-05	3.5031862784786144e-06		mole/meter^3	ng/ml	dimensionless
+Lu2009		all	20.0	ENA10	concentration	enalapril	plasma	HPLC MS/MS	ENA10_enalapril	4.0	hr		1.3468354049216398e-05	8.01775751234367	7.830165800588819e-06	1.7508783005210662e-06		mole/meter^3	ng/ml	dimensionless
+Lu2009		all	20.0	ENA10	concentration	enalapril	plasma	HPLC MS/MS	ENA10_enalapril	5.0	hr		4.889058341467305e-06	2.72580488799597	2.351820348652625e-06	5.258830170454524e-07		mole/meter^3	ng/ml	dimensionless
+Lu2009		all	20.0	ENA10	concentration	enalapril	plasma	HPLC MS/MS	ENA10_enalapril	6.0	hr		2.5819939758882147e-06	2.15136006097459	3.1329188151512346e-06	7.005419438666258e-07		mole/meter^3	ng/ml	dimensionless
+Lu2009		all	20.0	ENA10	concentration	enalapril	plasma	HPLC MS/MS	ENA10_enalapril	8.0	hr		1.8754888145123094e-06	1.59055428710875	2.3496891113633853e-06	5.254064578999603e-07		mole/meter^3	ng/ml	dimensionless
+Lu2009		all	20.0	ENA10	concentration	enalapril	plasma	HPLC MS/MS	ENA10_enalapril	12.0	hr		4.667409663388443e-07	1.64992428319756	3.916148518939045e-06	8.756774298332826e-07		mole/meter^3	ng/ml	dimensionless

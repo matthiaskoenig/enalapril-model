@@ -1,0 +1,8 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	median	mean_pm	sd	se	comments	value_unit	median_unit	count_unit
+Stage2017		copies_normal3	10.0	ENA10	concentration	enalapril	plasma	HPLC MS/MS	copies_normal3_enalapril	0.5	hr		4.832547153611467e-05				median	ng/ml	mole/meter^3	dimensionless
+Stage2017		copies_normal3	10.0	ENA10	concentration	enalapril	plasma	HPLC MS/MS	copies_normal3_enalapril	1.0	hr		0.00011710773777156608				median	ng/ml	mole/meter^3	dimensionless
+Stage2017		copies_normal3	10.0	ENA10	concentration	enalapril	plasma	HPLC MS/MS	copies_normal3_enalapril	2.0	hr		8.034480236985928e-05				median	ng/ml	mole/meter^3	dimensionless
+Stage2017		copies_normal3	10.0	ENA10	concentration	enalapril	plasma	HPLC MS/MS	copies_normal3_enalapril	3.0	hr		2.579334983829432e-05				median	ng/ml	mole/meter^3	dimensionless
+Stage2017		copies_normal3	10.0	ENA10	concentration	enalapril	plasma	HPLC MS/MS	copies_normal3_enalapril	4.0	hr		1.0376634992417282e-05				median	ng/ml	mole/meter^3	dimensionless
+Stage2017		copies_normal3	10.0	ENA10	concentration	enalapril	plasma	HPLC MS/MS	copies_normal3_enalapril	5.0	hr		3.854178711469274e-06				median	ng/ml	mole/meter^3	dimensionless
+Stage2017		copies_normal3	10.0	ENA10	concentration	enalapril	plasma	HPLC MS/MS	copies_normal3_enalapril	6.0	hr		1.1859011419905766e-06				median	ng/ml	mole/meter^3	dimensionless

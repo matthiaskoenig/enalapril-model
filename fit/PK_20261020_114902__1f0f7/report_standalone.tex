@@ -1,0 +1,701 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{hyperref}
+\title{Enalapril PBPK/PD model: fit PK}
+\date{}
+\begin{document}
+\maketitle
+
+\section{Methods: Enalapril PBPK/PD model: fit PK}
+
+\subsection{Parameters and data}
+
+12 parameters were optimized: Ka\_dis [1/hr] dissolution enalapril (\texttt{Ka\_dis\_ena}), rate of enalapril absorption (\texttt{GU\_\_ENAABS\_k}), fraction absorbed enalapril (\texttt{GU\_\_F\_ena\_abs}), fed effect on the dissolution and gastric emptying (\texttt{GU\_\_FED\_f\_dissolution}), tissue/plasma partition coefficient enalapril (\texttt{Kp\_ena}), Vmax enalapril conversion (\texttt{LI\_\_ENA2EAT\_Vmax}), renal clearance of unbound enalapril relative to the GFR (\texttt{KI\_\_ENAEX\_f}), tissue/plasma partition coefficient enalaprilat (\texttt{Kp\_eat}), Vmax enalaprilat export (\texttt{LI\_\_EATEX\_Vmax}), renal clearance of unbound enalaprilat relative to the GFR (\texttt{KI\_\_EATEX\_f}), capacity of the binding of enalaprilat to tissue ACE (\texttt{EATACE\_Bmax}) and dissociation constant of enalaprilat and tissue ACE (\texttt{EATACE\_Kd}).
+
+A fit mapping is a curve of a study, the data and the observable of the model it is compared with. The fit has 101 fit mappings of training data with 1083 data points, whose residuals enter the objective; 117 fit mappings of validation data with 1000 data points, which were simulated and evaluated with the fitted parameters but not fitted; and 9 fit mappings of outliers with 138 data points, data the fit dropped as not usable, which were evaluated like the validation data so that the decision to drop them can be checked. The fit was set up and run with sbmlsim \cite{Koenig2026_sbmlsim}.
+
+\subsection{Objective function}
+
+The parameters were estimated by minimizing the objective function
+
+\begin{equation}
+F(\vec{p}) = \frac{1}{2} \sum_{k} \sum_{i} \rho\left(w_{i,k}\, r_{i,k}(\vec{p})^2\right)
+\end{equation}
+
+where $k$ runs over the fit mappings of the training data and $i$ over their data points, $r_{i,k}$ is the residual, $w_{i,k} = w_k\, w^{p}_{i,k}$ the weight of the data point and $\rho$ the loss function, applied to the squared weighted residual $z = w_{i,k}\, r_{i,k}^2$. The loss function is linear, $\rho(z) = z$, i.e. a standard least squares problem.
+
+The residuals are normalized by the mean $\overline{y}_k$ of the data of their curve, which makes curves of different quantities and magnitudes comparable:
+
+\begin{equation}
+r_{i,k} = \frac{y_{i,k} - f_k(x_{i,k}, \vec{p})}{\overline{y}_k}
+\end{equation}
+
+The weight of curve $k$ is $w_k = n_k / N_k$, the weight $n_k$ of its fit mapping (the weight its fit mapping collection assigns, 1 by default, or, for a collection which uses the weights of its mappings, the weight of the mapping, by default the number of subjects of its data) divided by the number $N_k$ of its data points.
+
+A data point is weighted with the inverse of its coefficient of variation, $w^{p}_{i,k} = |y_{i,k}| / \sigma_{i,k}$, with $\sigma_{i,k}$ the standard deviation of the data point, or its standard error for data without a standard deviation. An error of zero is missing, a missing error of a curve with errors is replaced by the largest error of the curve, and the data points of a curve without errors have the weight $w^{p}_{i,k} = 2$, the weight of a coefficient of variation of 0.5.
+
+\subsection{Optimization}
+
+The optimizer searched the parameters in log10 space within their bounds; bounds, values and intervals are given in the units of the fit parameters, the units of the table of the parameters.
+
+The objective was minimized in 3 runs with differential evolution \cite{Storn1997} of SciPy \cite{Virtanen2020} within the bounds of the parameters, with the strategy \texttt{best1bin}, a population of 15 times the number of parameters, at most 1000 generations, the relative tolerance 0.01 of convergence, the recombination constant 0.7 and a mutation dithered between 0.5 and 1. The initial population of a run was drawn by latin hypercube sampling \cite{McKay1979}, with a seed of every run derived from the seed 1234 of the fit. The best member of the final population was polished with the L-BFGS-B method of SciPy.
+
+The convergence of the runs was assessed from the traces of their cost and the waterfall plot of their final costs, and the parameter set with the lowest cost was used.
+
+The models were simulated with libRoadRunner \cite{Welsh2023} and its integrator CVODE \cite{Hindmarsh2005} with the relative tolerance $10^{-6}$ and the absolute tolerances $10^{-12}$ of an amount, $10^{-12}$ of a concentration and $10^{-6}$ of the other states, which for a species in a concentration is multiplied by the initial volume of its compartment, and 6 states of its own. It ran with the variable step size of libRoadRunner, i.e. with an output at every step of the integrator. A data point at the time of a change after the start of a simulation, e.g. a dose or the reset of a collection, was compared with the state before the change, except the first data point of a curve with data at later times, which starts a collection and was compared with the state after the change.
+
+\subsection{Goodness of fit}
+
+The goodness of fit is given per kind of data (training data, validation data and outliers) by metrics over its $n$ data points with the residuals $e_i = y_i - f(x_i, \hat{\vec{p}})$ at the fitted parameters $\hat{\vec{p}}$, the mean squared error, its root and the root mean squared error normalized by the mean $\overline{y}_{k(i)}$ of the data of the curve of a point:
+
+\begin{equation}
+\mathrm{MSE} = \frac{1}{n} \sum_{i=1}^{n} e_i^2, \quad \mathrm{RMSE} = \sqrt{\mathrm{MSE}}, \quad \mathrm{NRMSE} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} \left(\frac{e_i}{\overline{y}_{k(i)}}\right)^2}
+\end{equation}
+
+The root mean square of the residuals of the objective, i.e. what the fit minimizes, and the coefficient of determination:
+
+\begin{equation}
+\mathrm{RMSE}_w = \sqrt{\frac{1}{n} \sum_{i=1}^{n} \rho\left(w_i\, r_i^2\right)}, \quad R^2 = 1 - \frac{\sum_{i} e_i^2}{\sum_{i} \left(y_i - \overline{y}\right)^2}
+\end{equation}
+
+The predictions of a non-linear model are no linear regression of the data, so $R^2$ can be negative: the prediction is worse than the mean of the data. The information criteria of Akaike \cite{Akaike1974} and Schwarz \cite{Schwarz1978} with the number $n_p$ of fitted parameters are those of a least squares fit with normally distributed residuals, up to an additive constant, so only differences between models fitted to the same data are meaningful:
+
+\begin{equation}
+\mathrm{AIC} = n \ln(\mathrm{MSE}) + 2 n_p, \quad \mathrm{BIC} = n \ln(\mathrm{MSE}) + n_p \ln(n)
+\end{equation}
+
+The percentage of the data points whose prediction $f_i = f(x_i, \hat{\vec{p}})$ lies within twofold of the data is taken over the $n_+$ data points with positive data $y_i > 0$ and a positive prediction $f_i > 0$; the others have no ratio and are not counted, and a kind of data without such a point has no percentage:
+
+\begin{equation}
+P_2 = \frac{100}{n_+} \left|\left\{ i : \frac{1}{2} \le \frac{f_i}{y_i} \le 2 \right\}\right|
+\end{equation}
+
+The goodness of fit plot shows the predictions against the data on logarithmic axes, with the lines of twofold $f = 2y$ and $f = y/2$. The Bland-Altman plot \cite{Bland1986} shows the ratio of prediction and data as $d_i = \log_{10}(f_i / y_i)$ against the geometric mean $\sqrt{f_i\, y_i}$ for the data points with positive values, with the bias $\overline{d}$ and the limits of agreement $\overline{d} \pm 1.96\, s_d$, with the sample standard deviation $s_d$ of $d_i$, of the training data; they are read as the fold factors $10^{\overline{d}}$ and $10^{\overline{d} \pm 1.96\, s_d}$.
+
+\subsection{Identifiability}
+
+The identifiability of the parameters was analysed with the profile likelihood \cite{Raue2009,Kreutz2013}. The profile of a parameter is the lowest objective with the parameter fixed:
+
+\begin{equation}
+\mathrm{PL}(p_j) = \min_{p_{l \neq j}} F(\vec{p})
+\end{equation}
+
+At every point of a scan the other parameters were re-optimized from the previous point with the least squares optimizer of SciPy with the relative step 0.05. A scan ran from the optimum in both directions in the space of the optimizer, with steps in decades of the parameter, starting at 0.1. A step which raised the objective by more than 0.2 of the distance between the objective at the optimum and the threshold was reduced by the factor 2 and repeated, down to 0.01, and the step after one which raised it by less than that divided by the factor was enlarged by the factor, up to 1. A scan stopped at the threshold, at the bound of the parameter, at a point which failed or after 50 points.
+
+The confidence intervals are the values at which the profile crosses the threshold of the likelihood ratio test
+
+\begin{equation}
+F_{\mathrm{thr}} = F_{\min} + \frac{\chi^2_{\alpha}(\mathrm{df})}{2}
+\end{equation}
+
+with $F_{\min}$ the lowest objective of the fit and of all profiles and $\chi^2_{\alpha}(\mathrm{df})$ the quantile of the $\chi^2$ distribution at the confidence level $\alpha = 0.95$ with df = 1 degrees of freedom, i.e. 1.92 above the lowest objective. The threshold has this confidence level if $F$ is the negative log-likelihood of the data up to a constant, i.e. if the weighted residuals are independent and normally distributed with unit variance; otherwise the level is approximate. A crossing is interpolated between two points of the profile, on the logarithm of a parameter on a logarithmic scale. A parameter is identifiable if its profile reaches the threshold within the scan on both sides of the optimum, i.e. its confidence interval is finite; practically non-identifiable towards the lower bound if its profile reaches the threshold above the optimum but not below it within the scan, which ends at the lower bound or after 50 points; practically non-identifiable towards the upper bound if its profile reaches the threshold below the optimum but not above it within the scan, which ends at the upper bound or after 50 points; practically non-identifiable if its profile reaches the threshold on neither side within the scans, which end at the bounds or after 50 points, and is not flat; and structurally non-identifiable if its profile is flat on both sides. A side of a profile is flat if it rises by less than 0.05 of the distance between the lowest objective and the threshold, and a profile with a point which failed or did not converge is not classified. The profile likelihood is preferred over the intervals of the Fisher information, its intervals are invariant under a transformation of the parameters and can be asymmetric \cite{Wieland2021}.
+
+The Fisher information is the local alternative to the profiles: it is the Gauss-Newton approximation of the curvature of the objective at the optimum, from the Jacobian $J$ of the weighted residuals of the training data with respect to the parameters $\vec{p}$ in the space of the optimizer, computed by central finite differences with the step $h_j = \epsilon \max(|p_j|, 1),\ \epsilon = 10^{-6}$ of the parameter $p_j$:
+
+\begin{equation}
+I = J^\top J, \quad \mathrm{cov} = \sigma^2 I^{-1}, \quad \sigma^2 = \frac{2 F}{n - n_p}
+\end{equation}
+
+with the number $n$ of data points of the training data and the number $n_p$ of parameters. The information has rank 12 of 12, the number of its eigenvalues above $10^{-8}$ of the largest one, and the condition number 6820; the covariance of an information of a lower rank is computed with the pseudo-inverse. The Wald intervals are $\hat{p}_j \pm t_{(1+\alpha)/2,\, n-n_p}\, \mathrm{SE}_j$ with the standard errors $\mathrm{SE}_j = \sqrt{\mathrm{cov}_{jj}}$ at the confidence level $\alpha = 0.95$, transformed back into the units of the fit parameters.
+
+\subsection{Provenance}
+
+The fit PK\_20261020\_114902\_\_1f0f7 was run on 2026-10-20 09:49:07 UTC with sbmlsim 0.10.0 \cite{Koenig2026_sbmlsim}, libRoadRunner 2.10.0 \cite{Welsh2023}, SciPy 1.18.1 \cite{Virtanen2020}, NumPy 2.5.3 \cite{Harris2020} and Python 3.14.4 (seed 1234). The models and data were those of commit \texttt{58cb7684edcebecfae243ce7545cdbf96c4c2a1c} of \texttt{/home/mkoenig/git/pkdb\_models-enalapril}; their SHA-256 checksums are listed in Table~\ref{tab:checksums:PK_20261020_114902__1f0f7}.
+
+\begin{longtable}{ll}
+\caption{SHA-256 checksums of the models and data of the fit PK\_20261020\_114902\_\_1f0f7, their first 12 characters; the full checksums are in the provenance of the result (optimization\_result.json).}\label{tab:checksums:PK_20261020_114902__1f0f7} \\
+\toprule
+File & SHA-256 \\
+\midrule
+\endfirsthead
+\multicolumn{2}{l}{\small\tablename~\thetable{} (continued)} \\
+\toprule
+File & SHA-256 \\
+\midrule
+\endhead
+\bottomrule
+\endlastfoot
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Arafat2005/.Arafat2005\_Fig1.tsv} & \texttt{8fa3bd2ac3c7...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Arafat2005/.Arafat2005\_Fig2.tsv} & \texttt{69bc82ef0606...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Arafat2005/.Arafat2005\_Fig3.tsv} & \texttt{0be807123a40...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Arafat2005/.Arafat2005\_Tab1.tsv} & \texttt{c91217907a24...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Arafat2005/.Arafat2005\_Tab10mgvs20mg.tsv} & \texttt{e964b899f69b...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Arafat2005/.Arafat2005\_Tab1Mean.tsv} & \texttt{cf7fd4c7b002...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Arafat2005/.Arafat2005\_Tab2.tsv} & \texttt{23e67f9473bb...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Arafat2005/.Arafat2005\_Tab2Mean.tsv} & \texttt{14d73f284ac1...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Arafat2005/.Arafat2005\_TabGroups.tsv} & \texttt{aebca4bfe4e3...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Arafat2005/.Arafat2005\_TabIndividuals.tsv} & \texttt{1c6523c275dd...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Arafat2005/.Arafat2005\_TabInterventions.tsv} & \texttt{262c9f105891...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Arafat2005/.Arafat2005\_TabText.tsv} & \texttt{83404f8ef113...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Baba1990/.Baba1990\_Fig1.tsv} & \texttt{985ff701e7fe...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Baba1990/.Baba1990\_Tab1.tsv} & \texttt{2282e79551b7...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Baba1990/.Baba1990\_TabGroups.tsv} & \texttt{ed6b67555b66...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Baba1990/.Baba1990\_TabInterventions.tsv} & \texttt{e74f776fbe59...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Biollaz1982/.Biollaz1982\_Fig1.tsv} & \texttt{b34313ba553f...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Biollaz1982/.Biollaz1982\_Fig2.tsv} & \texttt{8fab6d7ce06b...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Biollaz1982/.Biollaz1982\_TabGroups.tsv} & \texttt{09788cc3c5bd...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Biollaz1982/.Biollaz1982\_TabInterventions.tsv} & \texttt{1b44b0dff57f...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Burckhardt2015/.Burckhardt2015\_Fig2.tsv} & \texttt{ddeecf424a20...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Burckhardt2015/.Burckhardt2015\_Fig3.tsv} & \texttt{bbf1c83c7b5f...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Burckhardt2015/.Burckhardt2015\_Fig3Mean.tsv} & \texttt{68e1f0231f80...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Burckhardt2015/.Burckhardt2015\_Fig4.tsv} & \texttt{7cc2d905e18d...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Burckhardt2015/.Burckhardt2015\_Fig4Mean.tsv} & \texttt{d59ccc729d18...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Burckhardt2015/.Burckhardt2015\_Fig6.tsv} & \texttt{8412de4a5110...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Burckhardt2015/.Burckhardt2015\_Tab2.tsv} & \texttt{b7ffff5fbb5c...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Burckhardt2015/.Burckhardt2015\_Tab3.tsv} & \texttt{23e9db24629e...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Burckhardt2015/.Burckhardt2015\_Tab5.tsv} & \texttt{9e170a406d7d...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Burckhardt2015/.Burckhardt2015\_Tab6.tsv} & \texttt{edb7553cd2f1...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Burckhardt2015/.Burckhardt2015\_TabGroups.tsv} & \texttt{4fbbe6349766...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Burckhardt2015/.Burckhardt2015\_TabIndividuals.tsv} & \texttt{369eb9e79060...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Burckhardt2015/.Burckhardt2015\_TabInterventions.tsv} & \texttt{31fbd276352c...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Dayyih2017/.Dayyih2017\_Fig5.tsv} & \texttt{a2fe255484a3...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Dayyih2017/.Dayyih2017\_Fig6.tsv} & \texttt{791cdc2b7337...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Dayyih2017/.Dayyih2017\_Tab6.tsv} & \texttt{01c367007a74...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Dayyih2017/.Dayyih2017\_TabGroups.tsv} & \texttt{12733d2d4d49...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Dayyih2017/.Dayyih2017\_TabInterventions.tsv} & \texttt{c4350169842e...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Dickstein1987/.Dickstein1987\_Fig1.tsv} & \texttt{b0c45d504fad...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Dickstein1987/.Dickstein1987\_Fig2.tsv} & \texttt{1aefc3fd350d...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Dickstein1987/.Dickstein1987\_Fig3.tsv} & \texttt{c21912ea1945...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Dickstein1987/.Dickstein1987\_Fig4.tsv} & \texttt{320c365c6325...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Dickstein1987/.Dickstein1987\_Fig5.tsv} & \texttt{f466351a85b5...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Dickstein1987/.Dickstein1987\_Tab1.tsv} & \texttt{052d8b038511...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Dickstein1987/.Dickstein1987\_Tab1\_Mean.tsv} & \texttt{0cef444758aa...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Dickstein1987/.Dickstein1987\_Tab2.tsv} & \texttt{8800ba501668...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Dickstein1987/.Dickstein1987\_Tab3.tsv} & \texttt{186877a70df7...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Dickstein1987/.Dickstein1987\_Tab4.tsv} & \texttt{50e668d62fcf...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Dickstein1987/.Dickstein1987\_TabGroups.tsv} & \texttt{b3f75012e49f...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Dickstein1987/.Dickstein1987\_TabIndividuals.tsv} & \texttt{33b470880cfc...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Dickstein1987/.Dickstein1987\_TabInterventions.tsv} & \texttt{0097192a22a2...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Dickstein1987a/.Dickstein1987a\_Fig1.tsv} & \texttt{6a6fec999688...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Dickstein1987a/.Dickstein1987a\_Fig2.tsv} & \texttt{5e87d3c76c8d...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Dickstein1987a/.Dickstein1987a\_Tab1.tsv} & \texttt{fa2a3741b86b...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Dickstein1987a/.Dickstein1987a\_Tab2.tsv} & \texttt{8e3746213437...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Dickstein1987a/.Dickstein1987a\_TabGroups.tsv} & \texttt{36b7a8c0e8ad...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Dickstein1987a/.Dickstein1987a\_TabInterventions.tsv} & \texttt{4d9ab8d48663...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Donnelly1990/.Donnelly1990\_Fig1.tsv} & \texttt{3f0c3309f0c0...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Donnelly1990/.Donnelly1990\_Fig2.tsv} & \texttt{cca03272e295...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Donnelly1990/.Donnelly1990\_Fig3.tsv} & \texttt{bf77f1101e08...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Donnelly1990/.Donnelly1990\_Fig4.tsv} & \texttt{0bff612126f0...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Donnelly1990/.Donnelly1990\_Fig4\_Time.tsv} & \texttt{9b9c573884fb...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Donnelly1990/.Donnelly1990\_Tab1.tsv} & \texttt{b4c28674481b...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Donnelly1990/.Donnelly1990\_Tab1\_Mean.tsv} & \texttt{f51c54317677...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Donnelly1990/.Donnelly1990\_Tab2.tsv} & \texttt{dfc00c3a577b...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Donnelly1990/.Donnelly1990\_Tab2\_Mean.tsv} & \texttt{04d045cff124...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Donnelly1990/.Donnelly1990\_Tab3.tsv} & \texttt{0de5232f16b6...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Donnelly1990/.Donnelly1990\_Tab3\_Mean.tsv} & \texttt{55dac573716f...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Donnelly1990/.Donnelly1990\_TabGroups.tsv} & \texttt{5a53cb6b6bc8...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Donnelly1990/.Donnelly1990\_TabIndividuals.tsv} & \texttt{d1fa568ab9ba...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Donnelly1990/.Donnelly1990\_TabInterventions.tsv} & \texttt{79ce1b89bc23...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/ElungJensen2001/.ElungJensen2001\_Fig2.tsv} & \texttt{795eccc55f63...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/ElungJensen2001/.ElungJensen2001\_Fig3.tsv} & \texttt{3ab09f36e59a...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/ElungJensen2001/.ElungJensen2001\_Fig4.tsv} & \texttt{9b8c3e1b0580...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/ElungJensen2001/.ElungJensen2001\_Tab1.tsv} & \texttt{79a0f240e75e...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/ElungJensen2001/.ElungJensen2001\_Tab2.tsv} & \texttt{78e3fd73a9b8...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/ElungJensen2001/.ElungJensen2001\_TabGroups.tsv} & \texttt{6f722792db08...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/ElungJensen2001/.ElungJensen2001\_TabIndividuals.tsv} & \texttt{115af0e4f0d7...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/ElungJensen2001/.ElungJensen2001\_TabInterventions.tsv} & \texttt{7394ff5f37d9...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Fruncillo1987/.Fruncillo1987\_Fig1.tsv} & \texttt{1d3d68a3ee95...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Fruncillo1987/.Fruncillo1987\_Fig2.tsv} & \texttt{45ab74a90a3d...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Fruncillo1987/.Fruncillo1987\_Fig3.tsv} & \texttt{76ef21dbbd8a...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Fruncillo1987/.Fruncillo1987\_Fig4.tsv} & \texttt{bcf137dd6ec7...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Fruncillo1987/.Fruncillo1987\_Tab1.tsv} & \texttt{f092a71c1da0...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Fruncillo1987/.Fruncillo1987\_Tab2.tsv} & \texttt{8a2f9d475e27...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Fruncillo1987/.Fruncillo1987\_Tab3.tsv} & \texttt{6ad7556b7de5...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Fruncillo1987/.Fruncillo1987\_Tab4.tsv} & \texttt{8a3d95bb5511...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Fruncillo1987/.Fruncillo1987\_Tab4\_Mean.tsv} & \texttt{97d6ba04e42b...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Fruncillo1987/.Fruncillo1987\_TabGroups.tsv} & \texttt{1d5598948125...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Fruncillo1987/.Fruncillo1987\_TabIndividuals.tsv} & \texttt{749d795d97d3...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Fruncillo1987/.Fruncillo1987\_TabInterventions.tsv} & \texttt{dfa927cfab8d...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ghosh2012/.Ghosh2012\_Fig5A.tsv} & \texttt{44fb620ff5bb...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ghosh2012/.Ghosh2012\_Fig5B.tsv} & \texttt{2a4dd03163a9...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ghosh2012/.Ghosh2012\_TabGroups.tsv} & \texttt{65dc6d2aeb3b...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ghosh2012/.Ghosh2012\_TabInterventions.tsv} & \texttt{8aba174c0d12...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ghosh2012/.Ghosh2012\_TabText1.tsv} & \texttt{0ae803802d0a...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Gu2004/.Gu2004\_Fig3.tsv} & \texttt{094ee0413fe5...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Gu2004/.Gu2004\_TabGroups.tsv} & \texttt{4b9e0b484553...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Gu2004/.Gu2004\_TabIndividuals.tsv} & \texttt{86dc6df1b392...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Gu2004/.Gu2004\_TabInterventions.tsv} & \texttt{111ff0885fde...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Gu2004/.Gu2004\_TabText1.tsv} & \texttt{bc39ff9b4906...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/He2014/.He2014\_Fig1.tsv} & \texttt{60ee17524964...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/He2014/.He2014\_Tab2.tsv} & \texttt{391df5e54526...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/He2014/.He2014\_Tab3.tsv} & \texttt{ec4ba7f40a57...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/He2014/.He2014\_TabGroups.tsv} & \texttt{4454a39e9af6...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/He2014/.He2014\_TabInterventions.tsv} & \texttt{25d8f6771e14...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Her2021/.Her2021\_Fig3.tsv} & \texttt{36e12fc3b3c0...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Her2021/.Her2021\_Fig4.tsv} & \texttt{4c6f25909856...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Her2021/.Her2021\_Fig4\_Mean.tsv} & \texttt{cbaa243499ec...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Her2021/.Her2021\_Fig6.tsv} & \texttt{7d5eaa40ec1e...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Her2021/.Her2021\_Tab3.tsv} & \texttt{1ce50d524133...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Her2021/.Her2021\_TabGroups.tsv} & \texttt{fd350f080468...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Her2021/.Her2021\_TabIndividuals.tsv} & \texttt{a6201645c3a4...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Her2021/.Her2021\_TabInterventions.tsv} & \texttt{647e7f6d68bd...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Hockings1986/.Hockings1986\_Fig1.tsv} & \texttt{1cde2440794b...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Hockings1986/.Hockings1986\_Fig2.tsv} & \texttt{0ce7926a68da...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Hockings1986/.Hockings1986\_Fig3.tsv} & \texttt{2ab3caf4f4d0...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Hockings1986/.Hockings1986\_Fig4.tsv} & \texttt{6e53b9fd7855...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Hockings1986/.Hockings1986\_Tab1.tsv} & \texttt{2d8f0c0c98ac...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Hockings1986/.Hockings1986\_Tab1Mean.tsv} & \texttt{11622ac490c8...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Hockings1986/.Hockings1986\_Tab2.tsv} & \texttt{cd222936b6f4...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Hockings1986/.Hockings1986\_Tab2Mean.tsv} & \texttt{0ad498572cae...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Hockings1986/.Hockings1986\_Tab3.tsv} & \texttt{3162c04a96fd...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Hockings1986/.Hockings1986\_Tab3Mean.tsv} & \texttt{a10e4b1d8120...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Hockings1986/.Hockings1986\_Tab4.tsv} & \texttt{25dfd9108e8c...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Hockings1986/.Hockings1986\_Tab4Mean.tsv} & \texttt{74ead297515f...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Hockings1986/.Hockings1986\_TabGroups.tsv} & \texttt{a30ade132354...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Hockings1986/.Hockings1986\_TabIndividuals.tsv} & \texttt{a643d6dbcfb7...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Hockings1986/.Hockings1986\_TabInterventions.tsv} & \texttt{1c8ddd64b29b...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ishizaki1988/.Ishizaki1988\_Fig1.tsv} & \texttt{72086158ca11...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ishizaki1988/.Ishizaki1988\_Fig2.tsv} & \texttt{535fc40daf98...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ishizaki1988/.Ishizaki1988\_Fig3.tsv} & \texttt{8ef83c2329e3...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ishizaki1988/.Ishizaki1988\_Fig4.tsv} & \texttt{96c3149a5ec2...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ishizaki1988/.Ishizaki1988\_Fig4Mean.tsv} & \texttt{30aeb23faa9e...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ishizaki1988/.Ishizaki1988\_Fig5.tsv} & \texttt{e5a5e835bbb0...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ishizaki1988/.Ishizaki1988\_Tab2.tsv} & \texttt{cee234c44cf7...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ishizaki1988/.Ishizaki1988\_TabGroups.tsv} & \texttt{adfa4388c82b...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ishizaki1988/.Ishizaki1988\_TabIndividuals.tsv} & \texttt{8e2b5d548132...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ishizaki1988/.Ishizaki1988\_TabInterventions.tsv} & \texttt{87f953acf5e8...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Johnston1992/.Johnston1992\_Fig1.tsv} & \texttt{f96da70a41ac...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Johnston1992/.Johnston1992\_Fig2.tsv} & \texttt{2f4b6ee94362...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Johnston1992/.Johnston1992\_Fig3.tsv} & \texttt{0e13bab38841...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Johnston1992/.Johnston1992\_Tab1.tsv} & \texttt{696fac438ac1...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Johnston1992/.Johnston1992\_Tab2.tsv} & \texttt{a33a879d42bc...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Johnston1992/.Johnston1992\_TabGroups.tsv} & \texttt{51c30887d49d...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Johnston1992/.Johnston1992\_TabInterventions.tsv} & \texttt{0925c88a8863...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Kelly1986/.Kelly1986\_Fig1.tsv} & \texttt{920819579715...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Kelly1986/.Kelly1986\_Fig2.tsv} & \texttt{e80e17c9bb4f...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Kelly1986/.Kelly1986\_Fig3.tsv} & \texttt{3ec0874683c0...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Kelly1986/.Kelly1986\_Fig4.tsv} & \texttt{6081c9dcfb88...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Kelly1986/.Kelly1986\_Fig5.tsv} & \texttt{7a0e18330c64...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Kelly1986/.Kelly1986\_Fig6.tsv} & \texttt{de8c02b23024...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Kelly1986/.Kelly1986\_Fig7.tsv} & \texttt{747d5964198a...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Kelly1986/.Kelly1986\_Tab1.tsv} & \texttt{014beec6f3ff...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Kelly1986/.Kelly1986\_Tab2.tsv} & \texttt{cecaca264cf8...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Kelly1986/.Kelly1986\_TabGroups.tsv} & \texttt{f5a549b4da66...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Kelly1986/.Kelly1986\_TabIndividuals.tsv} & \texttt{741be5447724...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Kelly1986/.Kelly1986\_TabInterventions.tsv} & \texttt{d620f58ee03e...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lee2003/.Lee2003\_Fig4.tsv} & \texttt{732cc46c6b87...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lee2003/.Lee2003\_TabGroups.tsv} & \texttt{1e97f28dc096...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lee2003/.Lee2003\_TabInterventions.tsv} & \texttt{8f54cbe96b03...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lee2003/.Lee2003\_TabText1.tsv} & \texttt{1ab3ef47ca6a...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lees1987a/.Lees1987a\_Fig1.tsv} & \texttt{1e57ce2c99cf...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lees1987a/.Lees1987a\_Fig2.tsv} & \texttt{fc0772130a24...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lees1987a/.Lees1987a\_Tab2.tsv} & \texttt{8766476d7bdd...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lees1987a/.Lees1987a\_Tab2\_Mean.tsv} & \texttt{bebc6613cf76...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lees1987a/.Lees1987a\_Tab3.tsv} & \texttt{3b359c255493...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lees1987a/.Lees1987a\_Tab3\_Mean.tsv} & \texttt{50db7f82cdea...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lees1987a/.Lees1987a\_TabGroups.tsv} & \texttt{41f78010ea15...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lees1987a/.Lees1987a\_TabIndividuals.tsv} & \texttt{ec192f80fffa...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lees1987a/.Lees1987a\_TabInterventions.tsv} & \texttt{e0191f877c16...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lowenthal1985/.Lowenthal1985\_Fig1.tsv} & \texttt{1fffc374b73c...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lowenthal1985/.Lowenthal1985\_Fig2.tsv} & \texttt{f1a41ae2eb85...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lowenthal1985/.Lowenthal1985\_Fig3.tsv} & \texttt{80cebca4efa9...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lowenthal1985/.Lowenthal1985\_Fig4.tsv} & \texttt{b0ba9dde3c11...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lowenthal1985/.Lowenthal1985\_Tab1.tsv} & \texttt{0d253fa814dd...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lowenthal1985/.Lowenthal1985\_Tab2.tsv} & \texttt{d9f811169a40...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lowenthal1985/.Lowenthal1985\_Tab2Median.tsv} & \texttt{491ea7120c0e...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lowenthal1985/.Lowenthal1985\_Tab3.tsv} & \texttt{71ee26f6cb06...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lowenthal1985/.Lowenthal1985\_Tab3Mean.tsv} & \texttt{5dd8072fd862...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lowenthal1985/.Lowenthal1985\_Tab4.tsv} & \texttt{c2ceedbd2a36...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lowenthal1985/.Lowenthal1985\_Tab5.tsv} & \texttt{6825e648a41c...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lowenthal1985/.Lowenthal1985\_TabGroups.tsv} & \texttt{68d147f80656...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lowenthal1985/.Lowenthal1985\_TabIndividuals.tsv} & \texttt{d915ea1dce70...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lowenthal1985/.Lowenthal1985\_TabInterventions.tsv} & \texttt{0c3ec8d50926...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lu2009/.Lu2009\_Fig3.tsv} & \texttt{c22462e6cf9d...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lu2009/.Lu2009\_TabGroups.tsv} & \texttt{bdfa29a73a47...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lu2009/.Lu2009\_TabIndividuals.tsv} & \texttt{b8775ac957cd...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lu2009/.Lu2009\_TabInterventions.tsv} & \texttt{9ee6cab68313...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Lu2009/.Lu2009\_TabText1.tsv} & \texttt{f39ff43f97e2...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/MacDonald1993/.MacDonald1993\_Fig1.tsv} & \texttt{f973e1dad086...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/MacDonald1993/.MacDonald1993\_Fig2.tsv} & \texttt{eac6edc029ed...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/MacDonald1993/.MacDonald1993\_Tab1.tsv} & \texttt{23e33b762243...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/MacDonald1993/.MacDonald1993\_Tab2.tsv} & \texttt{4518738826f7...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/MacDonald1993/.MacDonald1993\_Tab2Mean.tsv} & \texttt{53a35f676df3...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/MacDonald1993/.MacDonald1993\_TabGroups.tsv} & \texttt{7340ecc1525b...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/MacDonald1993/.MacDonald1993\_TabIndividuals.tsv} & \texttt{cfa60bad504f...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/MacDonald1993/.MacDonald1993\_TabInterventions.tsv} & \texttt{7a27963d389e...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Marzo2002/.Marzo2002\_Fig6.tsv} & \texttt{7dcd33404e92...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Marzo2002/.Marzo2002\_Fig7.tsv} & \texttt{ee588a1f2cfd...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Marzo2002/.Marzo2002\_Tab3.tsv} & \texttt{8e40656650c0...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Marzo2002/.Marzo2002\_Tab4.tsv} & \texttt{3421134ffe13...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Marzo2002/.Marzo2002\_Tab5.tsv} & \texttt{d31383eaae3d...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Marzo2002/.Marzo2002\_TabGroups.tsv} & \texttt{acc22249237e...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Marzo2002/.Marzo2002\_TabIndividuals.tsv} & \texttt{9ee6a0bc2eb5...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Marzo2002/.Marzo2002\_TabInterventions.tsv} & \texttt{e1274d94fad3...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Matalka2002/.Matalka2002\_Fig2.tsv} & \texttt{bcd889c869d9...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Matalka2002/.Matalka2002\_Fig3.tsv} & \texttt{3b7c09e03666...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Matalka2002/.Matalka2002\_Fig4.tsv} & \texttt{e89aa290a867...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Matalka2002/.Matalka2002\_Tab1.tsv} & \texttt{2a84c8bf04b4...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Matalka2002/.Matalka2002\_TabGroups.tsv} & \texttt{ba272b65f30c...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Matalka2002/.Matalka2002\_TabInterventions.tsv} & \texttt{9e62d7a198b7...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Moffett2014/.Moffett2014\_Fig1.tsv} & \texttt{70b79b6faa79...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Moffett2014/.Moffett2014\_Fig2.tsv} & \texttt{544b0f776e20...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Moffett2014/.Moffett2014\_Tab1.tsv} & \texttt{817ff9b3b845...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Moffett2014/.Moffett2014\_TabGroups.tsv} & \texttt{869d18f8860a...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Moffett2014/.Moffett2014\_TabInterventions.tsv} & \texttt{007acc712704...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Mujais1992/.Mujais1992\_Fig1.tsv} & \texttt{50d85b51c54b...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Mujais1992/.Mujais1992\_Fig2.tsv} & \texttt{68169509dd8f...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Mujais1992/.Mujais1992\_Fig4.tsv} & \texttt{c11a90d2f0f7...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Mujais1992/.Mujais1992\_Tab1.tsv} & \texttt{d63c000d031b...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Mujais1992/.Mujais1992\_Tab1\_Mean.tsv} & \texttt{c4290701d753...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Mujais1992/.Mujais1992\_TabGroups.tsv} & \texttt{9527daaf5bf3...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Mujais1992/.Mujais1992\_TabIndividuals.tsv} & \texttt{2f4ed38370e5...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Mujais1992/.Mujais1992\_TabInterventions.tsv} & \texttt{c5f8a663fbd0...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Najib2003a/.Najib2003a\_Fig1.tsv} & \texttt{28bfdd3b5c53...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Najib2003a/.Najib2003a\_Tab1.tsv} & \texttt{5ad8f842d70a...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Najib2003a/.Najib2003a\_TabGroups.tsv} & \texttt{4c4c80c4b459...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Najib2003a/.Najib2003a\_TabInterventions.tsv} & \texttt{248dfccb70c1...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Niopas2011/.Niopas2011\_Fig1.tsv} & \texttt{87d23da940d0...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Niopas2011/.Niopas2011\_Fig2.tsv} & \texttt{922e259ccaf8...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Niopas2011/.Niopas2011\_Tab2.tsv} & \texttt{5ddfc6849b7b...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Niopas2011/.Niopas2011\_Tab3.tsv} & \texttt{9c67f2f7b9dc...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Niopas2011/.Niopas2011\_TabGroups.tsv} & \texttt{1e1913492778...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Niopas2011/.Niopas2011\_TabInterventions.tsv} & \texttt{7e44753b6aa6...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Oguchi1993/.Oguchi1993\_Fig1.tsv} & \texttt{83312399d416...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Oguchi1993/.Oguchi1993\_Fig2.tsv} & \texttt{e45b515be5f4...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Oguchi1993/.Oguchi1993\_Fig3.tsv} & \texttt{4e7e482b2a7a...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Oguchi1993/.Oguchi1993\_Fig4.tsv} & \texttt{992c4ec2ad59...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Oguchi1993/.Oguchi1993\_Tab2.tsv} & \texttt{c4536600d7bb...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Oguchi1993/.Oguchi1993\_Tab3.tsv} & \texttt{9994a1bd4caa...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Oguchi1993/.Oguchi1993\_TabGroups.tsv} & \texttt{b216723aece0...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Oguchi1993/.Oguchi1993\_TabInterventions.tsv} & \texttt{31c5674fd7f7...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ohnishi1989/.Ohnishi1989\_Fig1.tsv} & \texttt{c86112b336dc...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ohnishi1989/.Ohnishi1989\_Fig2.tsv} & \texttt{3c8955dea39a...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ohnishi1989/.Ohnishi1989\_Fig3.tsv} & \texttt{e41d483f25ce...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ohnishi1989/.Ohnishi1989\_Tab1.tsv} & \texttt{deb2c4344e5a...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ohnishi1989/.Ohnishi1989\_Tab2.tsv} & \texttt{df210171e547...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ohnishi1989/.Ohnishi1989\_TabGroups.tsv} & \texttt{225d72cf03d6...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ohnishi1989/.Ohnishi1989\_TabIndividuals.tsv} & \texttt{44e2db278a00...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ohnishi1989/.Ohnishi1989\_TabInterventions.tsv} & \texttt{39d675be7a0d...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Portoles2004/.Portoles2004\_Fig1.tsv} & \texttt{045097eff9fc...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Portoles2004/.Portoles2004\_Fig2.tsv} & \texttt{047a91076aba...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Portoles2004/.Portoles2004\_Tab1.tsv} & \texttt{31f329304858...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Portoles2004/.Portoles2004\_Tab2.tsv} & \texttt{a0ba3fa205c9...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Portoles2004/.Portoles2004\_TabGroups.tsv} & \texttt{d391106ab317...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Portoles2004/.Portoles2004\_TabInterventions.tsv} & \texttt{642be523092c...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ribeiro1996/.Ribeiro1996\_Fig1.tsv} & \texttt{3b3b835247f5...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ribeiro1996/.Ribeiro1996\_Fig2.tsv} & \texttt{c88ca199c29d...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ribeiro1996/.Ribeiro1996\_Fig3.tsv} & \texttt{abbef8d70a20...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ribeiro1996/.Ribeiro1996\_Tab1.tsv} & \texttt{1f391fd08922...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ribeiro1996/.Ribeiro1996\_Tab2.tsv} & \texttt{efa7f521b7d9...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ribeiro1996/.Ribeiro1996\_TabGroups.tsv} & \texttt{c432ebfcd775...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Ribeiro1996/.Ribeiro1996\_TabInterventions.tsv} & \texttt{684d196a7358...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Schwartz1985/.Schwartz1985\_Fig1.tsv} & \texttt{8a0f06b8d2a7...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Schwartz1985/.Schwartz1985\_Fig2.tsv} & \texttt{40a9b588cd9e...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Schwartz1985/.Schwartz1985\_Fig3.tsv} & \texttt{3d771282f827...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Schwartz1985/.Schwartz1985\_Fig5.tsv} & \texttt{a260c7379ea3...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Schwartz1985/.Schwartz1985\_Fig6.tsv} & \texttt{d0aa994a309f...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Schwartz1985/.Schwartz1985\_Fig7.tsv} & \texttt{ea18529f8df1...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Schwartz1985/.Schwartz1985\_Tab1.tsv} & \texttt{a63e0f593ccc...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Schwartz1985/.Schwartz1985\_Tab2.tsv} & \texttt{8357a7eab18c...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Schwartz1985/.Schwartz1985\_Tab3.tsv} & \texttt{da190211e327...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Schwartz1985/.Schwartz1985\_Tab4.tsv} & \texttt{3dbbad229407...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Schwartz1985/.Schwartz1985\_TabGroups.tsv} & \texttt{160e6c250777...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Schwartz1985/.Schwartz1985\_TabIndividuals.tsv} & \texttt{3469de670ebf...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Schwartz1985/.Schwartz1985\_TabInterventions.tsv} & \texttt{60eaeed216c9...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Shionoiri1985/.Shionoiri1985\_Fig2.tsv} & \texttt{c40d54960267...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Shionoiri1985/.Shionoiri1985\_Fig3.tsv} & \texttt{d1b141fa880d...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Shionoiri1985/.Shionoiri1985\_Fig4.tsv} & \texttt{46b02ab6178c...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Shionoiri1985/.Shionoiri1985\_Tab1.tsv} & \texttt{8ccacdad7b7f...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Shionoiri1985/.Shionoiri1985\_Tab2.tsv} & \texttt{ff244285c112...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Shionoiri1985/.Shionoiri1985\_TabGroups.tsv} & \texttt{b2e1c838c4c1...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Shionoiri1985/.Shionoiri1985\_TabInterventions.tsv} & \texttt{bb860b9ab8cd...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Shioya1992/.Shioya1992\_Fig3.tsv} & \texttt{d3db3f528092...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Shioya1992/.Shioya1992\_Fig4.tsv} & \texttt{14da61fc222f...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Shioya1992/.Shioya1992\_Tab2.tsv} & \texttt{6efec5945b81...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Shioya1992/.Shioya1992\_TabGroups.tsv} & \texttt{24ddb5a0f438...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Shioya1992/.Shioya1992\_TabInterventions.tsv} & \texttt{3ff494b2395b...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Sica1991/.Sica1991\_Tab2.tsv} & \texttt{27581ab187a4...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Sica1991/.Sica1991\_TabGroups.tsv} & \texttt{1a5475bb87db...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Sica1991/.Sica1991\_TabInterventions.tsv} & \texttt{f59deca69a4c...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Stage2017/.Stage2017\_Fig1.tsv} & \texttt{1da77475af0f...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Stage2017/.Stage2017\_Fig2.tsv} & \texttt{75d580670ad0...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Stage2017/.Stage2017\_Tab2.tsv} & \texttt{9c7e6b6f6d16...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Stage2017/.Stage2017\_TabGroups.tsv} & \texttt{7727a7eb8b3a...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Stage2017/.Stage2017\_TabInterventions.tsv} & \texttt{7d1e590628fb...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Sunaga1995/.Sunaga1995\_Fig1.tsv} & \texttt{34b505045ffb...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Sunaga1995/.Sunaga1995\_Fig2.tsv} & \texttt{22cfb3465153...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Sunaga1995/.Sunaga1995\_Fig3.tsv} & \texttt{0d6cf1dbfcc7...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Sunaga1995/.Sunaga1995\_Fig4.tsv} & \texttt{172639ee6a48...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Sunaga1995/.Sunaga1995\_Fig5.tsv} & \texttt{c6922581d125...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Sunaga1995/.Sunaga1995\_Fig6.tsv} & \texttt{31c5f3bdbba7...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Sunaga1995/.Sunaga1995\_Tab1.tsv} & \texttt{b8bb8f458ab6...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Sunaga1995/.Sunaga1995\_TabGroups.tsv} & \texttt{cc4191018b69...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Sunaga1995/.Sunaga1995\_TabIndividuals.tsv} & \texttt{bec2e9e046b8...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Sunaga1995/.Sunaga1995\_TabInterventions.tsv} & \texttt{241afd330b54...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Swanson1984/.Swanson1984\_Fig1.tsv} & \texttt{7e4fcacc11ce...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Swanson1984/.Swanson1984\_Fig2.tsv} & \texttt{9e79953ab8ff...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Swanson1984/.Swanson1984\_Fig3.tsv} & \texttt{ea2fdf618914...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Swanson1984/.Swanson1984\_Tab1.tsv} & \texttt{2ac50b0f9e41...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Swanson1984/.Swanson1984\_Tab1B.tsv} & \texttt{abd935cc9502...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Swanson1984/.Swanson1984\_TabGroups.tsv} & \texttt{53e1c7eb9834...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Swanson1984/.Swanson1984\_TabInterventions.tsv} & \texttt{ed7cfc760c22...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Tarkiainen2015/.Tarkiainen2015\_Fig2.tsv} & \texttt{089263747d8c...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Tarkiainen2015/.Tarkiainen2015\_Tab1.tsv} & \texttt{f9632dbdc9ec...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Tarkiainen2015/.Tarkiainen2015\_Tab2.tsv} & \texttt{60f037d3b4bf...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Tarkiainen2015/.Tarkiainen2015\_TabGroups.tsv} & \texttt{d5a88315a8c7...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Tarkiainen2015/.Tarkiainen2015\_TabInterventions.tsv} & \texttt{184d552fa387...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Thongnopnua2005/.Thongnopnua2005\_Fig4.tsv} & \texttt{9ad8d74f655e...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Thongnopnua2005/.Thongnopnua2005\_Fig5.tsv} & \texttt{9ad8d74f655e...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Thongnopnua2005/.Thongnopnua2005\_Fig7.tsv} & \texttt{a9e4e7412161...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Thongnopnua2005/.Thongnopnua2005\_Tab7.tsv} & \texttt{302b75890935...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Thongnopnua2005/.Thongnopnua2005\_TabGroups.tsv} & \texttt{5a24d9c9a7fd...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Thongnopnua2005/.Thongnopnua2005\_TabInterventions.tsv} & \texttt{7f0512511620...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Till1984/.Till1984\_Fig1.tsv} & \texttt{234acdf5c134...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Till1984/.Till1984\_Fig2.tsv} & \texttt{0c5f1437c41a...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Till1984/.Till1984\_Tab1.tsv} & \texttt{9b4a1542eb06...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Till1984/.Till1984\_Tab3.tsv} & \texttt{e1dd38e9675f...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Till1984/.Till1984\_TabGroups.tsv} & \texttt{f5e3aa3c228d...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Till1984/.Till1984\_TabInterventions.tsv} & \texttt{2682d07f2761...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Tsuruoka2007/.Tsuruoka2007\_Fig1.tsv} & \texttt{78fe7cebc541...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Tsuruoka2007/.Tsuruoka2007\_Tab2.tsv} & \texttt{4c5a93949a35...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Tsuruoka2007/.Tsuruoka2007\_Tab3.tsv} & \texttt{ccc9921b1acd...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Tsuruoka2007/.Tsuruoka2007\_TabGroups.tsv} & \texttt{f37c50569b60...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Tsuruoka2007/.Tsuruoka2007\_TabInterventions.tsv} & \texttt{33f6a3545c89...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/VanHecken2020/.VanHecken2020\_Fig1.tsv} & \texttt{603ce7111124...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/VanHecken2020/.VanHecken2020\_Fig2.tsv} & \texttt{8d7ff93916ab...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/VanHecken2020/.VanHecken2020\_Tab2.tsv} & \texttt{e9509767a624...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/VanHecken2020/.VanHecken2020\_Tab3.tsv} & \texttt{5321a08962ee...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/VanHecken2020/.VanHecken2020\_TabGroups.tsv} & \texttt{0c36874b6d93...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/VanHecken2020/.VanHecken2020\_TabInterventions.tsv} & \texttt{6224c1772c8b...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Wade1992/.Wade1992\_Fig1.tsv} & \texttt{76b02fd77168...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Wade1992/.Wade1992\_Fig2.tsv} & \texttt{3841acf01aef...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Wade1992/.Wade1992\_Fig3.tsv} & \texttt{efde8ce63c77...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Wade1992/.Wade1992\_Tab1.tsv} & \texttt{d96ae8a1c8e9...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Wade1992/.Wade1992\_Tab1\_Mean.tsv} & \texttt{89f8478cf87c...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Wade1992/.Wade1992\_Tab2.tsv} & \texttt{6c5f2094bf09...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Wade1992/.Wade1992\_Tab2\_Mean.tsv} & \texttt{37bcd41cab74...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Wade1992/.Wade1992\_TabGroups.tsv} & \texttt{4df1f2b080ea...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Wade1992/.Wade1992\_TabIndividuals.tsv} & \texttt{6656e3675206...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Wade1992/.Wade1992\_TabInterventions.tsv} & \texttt{1ec1ffe8530f...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Wagner2003/.Wagner2003\_Tab2.tsv} & \texttt{a618db246d1c...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Wagner2003/.Wagner2003\_Tab3.tsv} & \texttt{865262610d5d...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Wagner2003/.Wagner2003\_Tab5.tsv} & \texttt{9574727a8a47...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Wagner2003/.Wagner2003\_Tab6.tsv} & \texttt{f27c37b02ea3...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Wagner2003/.Wagner2003\_TabGroups.tsv} & \texttt{783fc6f0b439...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Wagner2003/.Wagner2003\_TabInterventions.tsv} & \texttt{af0389e9346c...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Weisser1991/.Weisser1991\_Fig1.tsv} & \texttt{b9d7aebffbaa...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Weisser1991/.Weisser1991\_Fig2.tsv} & \texttt{e8aea1a29df7...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Weisser1991/.Weisser1991\_Fig3.tsv} & \texttt{4ec6b8a53e15...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Weisser1991/.Weisser1991\_Tab1.tsv} & \texttt{a131d07f924c...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Weisser1991/.Weisser1991\_TabGroups.tsv} & \texttt{66947c7c16b6...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Weisser1991/.Weisser1991\_TabInterventions.tsv} & \texttt{a2ff2652770b...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Weisser1992/.Weisser1992\_Fig1.tsv} & \texttt{c8310bdf2323...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Weisser1992/.Weisser1992\_Fig2.tsv} & \texttt{718f868810c7...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Weisser1992/.Weisser1992\_Fig3.tsv} & \texttt{99f3517111eb...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Weisser1992/.Weisser1992\_Tab1.tsv} & \texttt{e57732003b4c...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Weisser1992/.Weisser1992\_Tab1U.tsv} & \texttt{98219e656c6d...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Weisser1992/.Weisser1992\_TabGroups.tsv} & \texttt{3de11fbab2ee...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Weisser1992/.Weisser1992\_TabIndividuals.tsv} & \texttt{4494263407dc...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Weisser1992/.Weisser1992\_TabInterventions.tsv} & \texttt{f328d07d2f49...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Witte1993/.Witte1993\_Fig1.tsv} & \texttt{d0d9ec204639...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Witte1993/.Witte1993\_Fig2.tsv} & \texttt{6ead8d51c726...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Witte1993/.Witte1993\_Fig3.tsv} & \texttt{8a0cc17945b0...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Witte1993/.Witte1993\_Tab1.tsv} & \texttt{35da59e1b090...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Witte1993/.Witte1993\_Tab3.tsv} & \texttt{8d0c04d2b639...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Witte1993/.Witte1993\_TabGroups.tsv} & \texttt{00e08a2fcaff...} \\
+\texttt{pkdb\_models/models/enalapril/data/enalapril/Witte1993/.Witte1993\_TabInterventions.tsv} & \texttt{440fdce9f3a0...} \\
+\texttt{pkdb\_models/models/enalapril/data/hydrochlorothiazide/Howes1991/.Howes1991\_Fig1.tsv} & \texttt{87a1bcadd50e...} \\
+\texttt{pkdb\_models/models/enalapril/data/hydrochlorothiazide/Howes1991/.Howes1991\_Tab1.tsv} & \texttt{f27a51afb4da...} \\
+\texttt{pkdb\_models/models/enalapril/data/hydrochlorothiazide/Howes1991/.Howes1991\_Tab2.tsv} & \texttt{82f669940103...} \\
+\texttt{pkdb\_models/models/enalapril/data/hydrochlorothiazide/Howes1991/.Howes1991\_Tab3.tsv} & \texttt{08a669855f8d...} \\
+\texttt{pkdb\_models/models/enalapril/data/hydrochlorothiazide/Howes1991/.Howes1991\_TabGroups.tsv} & \texttt{67c05dd8e03d...} \\
+\texttt{pkdb\_models/models/enalapril/data/hydrochlorothiazide/Howes1991/.Howes1991\_TabInterventions.tsv} & \texttt{920d37c4e642...} \\
+\texttt{pkdb\_models/models/enalapril/data/lisinopril/Ulm1982/.Ulm1982\_Fig2.tsv} & \texttt{e344422b520f...} \\
+\texttt{pkdb\_models/models/enalapril/data/lisinopril/Ulm1982/.Ulm1982\_Fig3.tsv} & \texttt{40b511995315...} \\
+\texttt{pkdb\_models/models/enalapril/data/lisinopril/Ulm1982/.Ulm1982\_Tab1.tsv} & \texttt{a4e2f40ea4fe...} \\
+\texttt{pkdb\_models/models/enalapril/data/lisinopril/Ulm1982/.Ulm1982\_Tab2.tsv} & \texttt{489762a53d4d...} \\
+\texttt{pkdb\_models/models/enalapril/data/lisinopril/Ulm1982/.Ulm1982\_TabGroups.tsv} & \texttt{73ef273bd9e2...} \\
+\texttt{pkdb\_models/models/enalapril/data/lisinopril/Ulm1982/.Ulm1982\_TabInterventions.tsv} & \texttt{456b5724b542...} \\
+\texttt{pkdb\_models/models/enalapril/models/output/models/enalapril\_body\_flat.xml} & \texttt{56a8f1e09e74...} \\
+\end{longtable}
+
+\section{Results: Enalapril PBPK/PD model: fit PK}
+
+\subsection{Parameters}
+
+\begin{longtable}{llrlrl}
+\caption{Parameters of the fit PK\_20261020\_114902\_\_1f0f7, the parameter set PK\_20261020\_114902\_\_1f0f7\_0, cost 323, with their bounds in the optimization. The 95\% confidence intervals are those of the profile likelihood, LB and UB an interval which is open towards the lower or the upper bound, and the Wald intervals of the Fisher information for a parameter without a profile. Identifiable is the classification of the profile: yes, no (LB) or no (UB) if the profile does not reach the threshold towards the lower or the upper bound, no if it reaches it on neither side, structural if it is flat.}\label{tab:parameters:PK_20261020_114902__1f0f7} \\
+\toprule
+Parameter & Description & Value [95\% CI] & Unit & Bounds & Identifiable \\
+\midrule
+\endfirsthead
+\multicolumn{6}{l}{\small\tablename~\thetable{} (continued)} \\
+\toprule
+Parameter & Description & Value [95\% CI] & Unit & Bounds & Identifiable \\
+\midrule
+\endhead
+\bottomrule
+\endlastfoot
+\texttt{Ka\_dis\_ena} & Ka\_dis [1/hr] dissolution enalapril & 1.21 [0.9, 1.55] & 1/hr & [0.1, 20] & yes \\
+\texttt{GU\_\_ENAABS\_k} & rate of enalapril absorption & 0.0229 [0.0178, 0.0313] & 1/min & [0.001, 1] & yes \\
+\texttt{GU\_\_F\_ena\_abs} & fraction absorbed enalapril & 0.577 [0.548, 0.626] & dimensionless & [0.4, 0.9] & yes \\
+\texttt{GU\_\_FED\_f\_dissolution} & fed effect on the dissolution and gastric emptying & 0.427 [0.365, 0.604] & dimensionless & [0.05, 1] & yes \\
+\texttt{Kp\_ena} & tissue/plasma partition coefficient enalapril & 0.0218 [LB, 0.0626] & dimensionless & [0.02, 5] & no (LB) \\
+\texttt{LI\_\_ENA2EAT\_Vmax} & Vmax enalapril conversion & 0.643 [0.555, 0.776] & mmol/min/l & [0.01, 50] & yes \\
+\texttt{KI\_\_ENAEX\_f} & renal clearance of unbound enalapril relative to the GFR & 2.88 [2.55, 3.43] & dimensionless & [0.5, 10] & yes \\
+\texttt{Kp\_eat} & tissue/plasma partition coefficient enalaprilat & 0.0201 [0.0111, 0.0512] & dimensionless & [0.005, 5] & yes \\
+\texttt{LI\_\_EATEX\_Vmax} & Vmax enalaprilat export & 0.00146 [0.00124, 0.00211] & mmol/min/l & [1e-05, 1] & yes \\
+\texttt{KI\_\_EATEX\_f} & renal clearance of unbound enalaprilat relative to the GFR & 2.56 [2.4, 2.96] & dimensionless & [0.5, 5] & yes \\
+\texttt{EATACE\_Bmax} & capacity of the binding of enalaprilat to tissue ACE & 5.58e-05 [4.19e-05, UB] & mmol/l & [2e-05, 6e-05] & no (UB) \\
+\texttt{EATACE\_Kd} & dissociation constant of enalaprilat and tissue ACE & 8.39e-07 [LB, UB] & mmol/l & [1e-07, 1e-05] & no \\
+\end{longtable}
+
+\subsection{Data}
+
+\begin{longtable}{lrrrr}
+\caption{Data of the fit PK\_20261020\_114902\_\_1f0f7: the number of fit mappings and, in parentheses, of data points per study and kind. The training data enters the cost, the validation data and the outliers are evaluated only.}\label{tab:data:PK_20261020_114902__1f0f7} \\
+\toprule
+Study & Training & Validation & Outlier & Total \\
+\midrule
+\endfirsthead
+\multicolumn{5}{l}{\small\tablename~\thetable{} (continued)} \\
+\toprule
+Study & Training & Validation & Outlier & Total \\
+\midrule
+\endhead
+\bottomrule
+\endlastfoot
+Arafat2005 & - & - & 4 (78) & 4 (78) \\
+Baba1990 & 2 (12) & 2 (14) & - & 4 (26) \\
+Burckhardt2015 & 4 (67) & - & - & 4 (67) \\
+Dayyih2017 & 2 (35) & - & - & 2 (35) \\
+Dickstein1987 & 4 (46) & 9 (62) & - & 13 (108) \\
+Donnelly1990 & - & 1 (16) & - & 1 (16) \\
+Fruncillo1987 & 4 (40) & 10 (131) & - & 14 (171) \\
+Ghosh2012 & 2 (33) & - & 2 (14) & 4 (47) \\
+Gu2004 & 2 (22) & - & - & 2 (22) \\
+He2014 & 2 (32) & - & - & 2 (32) \\
+Her2021 & 2 (27) & 2 (30) & - & 4 (57) \\
+Hockings1986 & 2 (20) & 2 (20) & - & 4 (40) \\
+Howes1991 & 2 (12) & 4 (24) & - & 6 (36) \\
+Ishizaki1988 & 4 (28) & 4 (28) & - & 8 (56) \\
+Johnston1992 & - & 6 (32) & - & 6 (32) \\
+Kelly1986 & 2 (19) & 8 (89) & - & 10 (108) \\
+Lee2003 & 2 (26) & - & - & 2 (26) \\
+Lees1987a & 1 (8) & 3 (26) & - & 4 (34) \\
+Lowenthal1985 & 3 (12) & 4 (22) & - & 7 (34) \\
+Lu2009 & 2 (26) & - & - & 2 (26) \\
+MacDonald1993 & 1 (14) & 1 (15) & - & 2 (29) \\
+Marzo2002 & 4 (64) & - & - & 4 (64) \\
+Matalka2002 & - & 2 (39) & 2 (35) & 4 (74) \\
+Moffett2014 & 4 (48) & - & - & 4 (48) \\
+Mujais1992 & 1 (7) & - & - & 1 (7) \\
+Najib2003a & 2 (35) & - & - & 2 (35) \\
+Niopas2004 & - & 2 (37) & - & 2 (37) \\
+Oguchi1993 & - & 12 (48) & - & 12 (48) \\
+Ohnishi1989 & 4 (28) & 4 (28) & - & 8 (56) \\
+Portoles2004 & 4 (64) & - & - & 4 (64) \\
+Ribeiro1996 & 4 (56) & - & - & 4 (56) \\
+Schwartz1985 & - & 14 (141) & - & 14 (141) \\
+Shionoiri1985 & 2 (14) & - & - & 2 (14) \\
+Shioya1992 & 4 (21) & - & - & 4 (21) \\
+Stage2017 & 2 (17) & 10 (81) & - & 12 (98) \\
+Sunaga1995 & 2 (18) & 2 (18) & - & 4 (36) \\
+Swanson1984 & 6 (26) & - & - & 6 (26) \\
+Tarkiainen2015 & 4 (24) & 4 (24) & - & 8 (48) \\
+Thongnopnua2005 & - & - & 1 (11) & 1 (11) \\
+Till1984 & 3 (34) & - & - & 3 (34) \\
+Tsuruoka2007 & - & 1 (5) & - & 1 (5) \\
+Ulm1982 & 5 (37) & - & - & 5 (37) \\
+VanHecken2020 & 2 (34) & - & - & 2 (34) \\
+Wade1992 & 1 (14) & - & - & 1 (14) \\
+Weisser1991 & 2 (42) & - & - & 2 (42) \\
+Weisser1992 & - & 8 (45) & - & 8 (45) \\
+Witte1993 & 2 (21) & 2 (25) & - & 4 (46) \\
+Total & 101 (1083) & 117 (1000) & 9 (138) & 227 (2221) \\
+\end{longtable}
+
+\subsection{Goodness of fit}
+
+\begin{longtable}{lrrrrrrrrrr}
+\caption{Goodness of fit of the fit PK\_20261020\_114902\_\_1f0f7 per kind of data, the parameter set PK\_20261020\_114902\_\_1f0f7\_0. The cost is defined on the training data only, 2-fold is the percentage of the data points with a positive value and prediction whose prediction is within twofold of the data.}\label{tab:metrics:PK_20261020_114902__1f0f7} \\
+\toprule
+Kind & n & cost & MSE & RMSE & NRMSE & RMSE\_w & R\ensuremath{^{2}} & 2-fold [\%] & AIC & BIC \\
+\midrule
+\endfirsthead
+\multicolumn{11}{l}{\small\tablename~\thetable{} (continued)} \\
+\toprule
+Kind & n & cost & MSE & RMSE & NRMSE & RMSE\_w & R\ensuremath{^{2}} & 2-fold [\%] & AIC & BIC \\
+\midrule
+\endhead
+\bottomrule
+\endlastfoot
+training & 1083 & 323 & 1.92e-07 & 0.000438 & 0.467 & 0.772 & 0.975 & 82.3 & -16725.7 & -16665.8 \\
+validation & 1000 & - & 2.76e-07 & 0.000526 & 0.982 & 1.11 & 0.824 & 63.8 & -15078.3 & -15019.4 \\
+outlier & 138 & - & 4.47e-08 & 0.000211 & 0.898 & 1.7 & 0.166 & 35.7 & -2311.4 & -2276.3 \\
+\end{longtable}
+
+\subsection{Figures}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\linewidth]{plots/traces.png}
+\caption{Cost of the optimizers over their steps, fit PK\_20261020\_114902\_\_1f0f7. The cost of every optimization run over its steps. Runs which end at the same cost found the same optimum; a run which stops much higher is stuck in a local minimum.}
+\label{fig:traces:PK_20261020_114902__1f0f7}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\linewidth]{plots/waterfall.png}
+\caption{Cost of the optimization runs, ordered, fit PK\_20261020\_114902\_\_1f0f7. The final cost of the runs, ordered. A flat plateau at the left is the global optimum found repeatedly, which is the evidence that the multistart converged; steps to the right are local minima.}
+\label{fig:waterfall:PK_20261020_114902__1f0f7}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\linewidth]{plots/goodness_of_fit.png}
+\caption{Prediction against the measured data points, per kind of fit mapping, with the agreement of the training data, the lines of twofold and the metrics of the panel, fit PK\_20261020\_114902\_\_1f0f7. Within twofold of the data are 848 of the 1030 training data points (82.3\%), 604 of the 947 validation data points (63.8\%) and 45 of the 126 outlier data points (35.7\%); only the data points with a positive value and prediction are counted. Prediction against measurement, one point per data point, with a panel per kind of fit mapping. The points scatter around the diagonal when the model describes the data; a systematic deviation from it is a systematic error of the model. The band is the agreement of the training data, i.e. the same band the Bland-Altman plot draws, here as lines parallel to the diagonal. The dark red dotted lines are twofold, prediction = 2 x measurement and prediction = measurement / 2; the caption states the points between them of every kind. A point which is zero or negative is not drawn on the logarithmic axes and not counted, the title of a panel then states the points drawn of all. The validation panel shows how the fit describes data it was not fitted on, the outlier panel the data the fit dropped. The box of a panel carries its R\ensuremath{^{2}}, its normalized RMSE, the RMSE of the residuals of the cost, its fold errors GMFE and AFE and the percentages of its points within twofold and within two standard deviations of the data.}
+\label{fig:goodness_of_fit:PK_20261020_114902__1f0f7}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\linewidth]{plots/bland_altman.png}
+\caption{Agreement of prediction and measurement as a ratio, per kind of fit mapping, with the agreement of the training data and the agreement of the panel, fit PK\_20261020\_114902\_\_1f0f7. The ratio of prediction and measurement over the geometric mean of the two, i.e. the goodness of fit with the diagonal turned into the horizontal. The band is the same, the bias and the limits of agreement \texttt{bias \ensuremath{\pm} 1.96 SD} of the training data as fold factors. A bias away from 1 is a systematic over- or underprediction, wide limits are a large scatter, and a trend over the mean is a model which describes the large or the small values better. The box of a panel carries the bias and the SD of its own points as fold factors and the share of them inside the limits of agreement of the training data.}
+\label{fig:bland_altman:PK_20261020_114902__1f0f7}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\linewidth]{plots/profiles.png}
+\caption{Profile likelihood of every parameter: the cost with the parameter fixed and the other parameters optimized, the threshold of the confidence level and the confidence interval, fit PK\_20261020\_114902\_\_1f0f7. One profile per parameter. A profile which crosses the dashed threshold on both sides gives a finite confidence interval; one which stays below it up to a bound is practically non-identifiable; a flat profile is structurally non-identifiable, the parameter is compensated by the others.}
+\label{fig:profiles:PK_20261020_114902__1f0f7}
+\end{figure}
+
+\subsection{Provenance}
+
+\begin{longtable}{ll}
+\caption{Provenance of the fit PK\_20261020\_114902\_\_1f0f7: the versions it ran with and the revision of its models and data; the SHA-256 checksums of the models and data are listed in Table~\ref{tab:checksums:PK_20261020_114902__1f0f7}.}\label{tab:provenance:PK_20261020_114902__1f0f7} \\
+\toprule
+Item & Value \\
+\midrule
+\endfirsthead
+\multicolumn{2}{l}{\small\tablename~\thetable{} (continued)} \\
+\toprule
+Item & Value \\
+\midrule
+\endhead
+\bottomrule
+\endlastfoot
+Fit & \texttt{PK\_20261020\_114902\_\_1f0f7} \\
+Created & 2026-10-20 09:49:07 UTC \\
+Seed & 1234 \\
+Python & 3.14.4 \\
+sbmlsim & 0.10.0 \\
+libRoadRunner & 2.10.0 \\
+SciPy & 1.18.1 \\
+NumPy & 2.5.3 \\
+Repository & \texttt{/home/mkoenig/git/pkdb\_models-enalapril} \\
+Commit & \texttt{58cb7684edcebecfae243ce7545cdbf96c4c2a1c} \\
+Uncommitted changes & no \\
+\end{longtable}
+
+\bibliographystyle{unsrt}
+\bibliography{references}
+
+\end{document}

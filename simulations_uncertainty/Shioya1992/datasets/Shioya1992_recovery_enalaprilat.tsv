@@ -1,0 +1,6 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Shioya1992		all	5.0	ENA5	recovery	enalaprilat	urine	GC/MS	recovery_enalaprilat	4.09313617023967	hr		2.1193075743041943e-07	3.06776585723588	9.950560138097706e-08	4.450025776597234e-08	cumulative excretion	count*mole	percent	dimensionless
+Shioya1992		all	5.0	ENA5	recovery	enalaprilat	urine	GC/MS	recovery_enalaprilat	8.17221214209398	hr		1.077502411858012e-06	12.4343615064137	1.8482087222445677e-07	8.265440679093778e-08	cumulative excretion	count*mole	percent	dimensionless
+Shioya1992		all	5.0	ENA5	recovery	enalaprilat	urine	GC/MS	recovery_enalaprilat	12.1010260657365	hr		1.3652657565637787e-06	16.480777862774	3.0784545427239544e-07	1.3767267246347604e-07	cumulative excretion	count*mole	percent	dimensionless
+Shioya1992		all	5.0	ENA5	recovery	enalaprilat	urine	GC/MS	recovery_enalaprilat	23.9610057087946	hr		1.830668164415995e-06	21.6719877099705	3.694492026505755e-07	1.6522270627195625e-07	cumulative excretion	count*mole	percent	dimensionless
+Shioya1992		all	5.0	ENA5	recovery	enalaprilat	urine	GC/MS	recovery_enalaprilat	48.1469745917548	hr		2.259266207515945e-06	26.2204365995056	4.026049003243449e-07	1.800503850399528e-07	cumulative excretion	count*mole	percent	dimensionless

@@ -1,0 +1,12 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	median	mean_sd	mean_se	min	max	comments	mean_unit	value_unit	median_unit	count_unit
+Lowenthal1985		I	9.0	ENA10	blood pressure diastolic			sphygmomanometer	without dialysis_blood pressure diastolic	0.0	hr		79.0								mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		I	9.0	ENA10	blood pressure diastolic			sphygmomanometer	without dialysis_blood pressure diastolic	0.5	hr		77.3333333333333								mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		I	9.0	ENA10	blood pressure diastolic			sphygmomanometer	without dialysis_blood pressure diastolic	1.0	hr		71.5555555555555								mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		I	9.0	ENA10	blood pressure diastolic			sphygmomanometer	without dialysis_blood pressure diastolic	2.0	hr		65.3333333333333								mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		I	9.0	ENA10	blood pressure diastolic			sphygmomanometer	without dialysis_blood pressure diastolic	3.0	hr		58.3333333333333								mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		I	9.0	ENA10	blood pressure diastolic			sphygmomanometer	without dialysis_blood pressure diastolic	4.0	hr		59.6666666666666								mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		I	9.0	ENA10	blood pressure diastolic			sphygmomanometer	without dialysis_blood pressure diastolic	6.0	hr		61.3333333333333								mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		I	9.0	ENA10	blood pressure diastolic			sphygmomanometer	without dialysis_blood pressure diastolic	8.0	hr		63.3333333333333								mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		I	9.0	ENA10	blood pressure diastolic			sphygmomanometer	without dialysis_blood pressure diastolic	12.0	hr		68.7777777777777								mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		I	9.0	ENA10	blood pressure diastolic			sphygmomanometer	without dialysis_blood pressure diastolic	24.0	hr		69.5555555555555								mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		I	9.0	ENA10	blood pressure diastolic			sphygmomanometer	without dialysis_blood pressure diastolic	48.0	hr		72.4444444444444								mmHg	mmHg	mmHg	dimensionless

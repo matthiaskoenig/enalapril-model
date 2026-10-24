@@ -1,0 +1,12 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Hockings1986		young	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_young_enalaprilat	0.083333	hr		0.007683838049837885				first sample at 5 min, read from Fig1	mole/meter^3	ng/ml	dimensionless
+Hockings1986		young	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_young_enalaprilat	0.3	hr		0.0021912942640994436					mole/meter^3	ng/ml	dimensionless
+Hockings1986		young	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_young_enalaprilat	1.0	hr		0.0012360409271641242					mole/meter^3	ng/ml	dimensionless
+Hockings1986		young	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_young_enalaprilat	2.0	hr		0.0005236379029380046					mole/meter^3	ng/ml	dimensionless
+Hockings1986		young	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_young_enalaprilat	4.0	hr		0.0001822937377868919					mole/meter^3	ng/ml	dimensionless
+Hockings1986		young	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_young_enalaprilat	6.0	hr		7.233538390624599e-05					mole/meter^3	ng/ml	dimensionless
+Hockings1986		young	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_young_enalaprilat	8.0	hr		3.166347718464748e-05					mole/meter^3	ng/ml	dimensionless
+Hockings1986		young	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_young_enalaprilat	24.0	hr		5.026539336495906e-06					mole/meter^3	ng/ml	dimensionless
+Hockings1986		young	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_young_enalaprilat	48.0	hr		3.39432941647869e-06					mole/meter^3	ng/ml	dimensionless
+Hockings1986		young	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_young_enalaprilat	72.0	hr		2.4672347372110937e-06					mole/meter^3	ng/ml	dimensionless
+Hockings1986		young	9.0	EATIV10	concentration	enalaprilat	plasma	RIA	EATIV10_young_enalaprilat	96.0	hr		1.7356308570965539e-06					mole/meter^3	ng/ml	dimensionless

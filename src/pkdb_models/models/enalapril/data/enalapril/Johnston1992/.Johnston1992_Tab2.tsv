@@ -1,0 +1,17 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Johnston1992	NA	lis	6.0	LISs	recovery	lisinopril	urine	RIA	LISs_recovery_lisinopril	48.0	hr	NA	14.9	NA	8.81816307401944	3.6	NA	NA	percent	NA
+Johnston1992	NA	lis	6.0	LISm	recovery	lisinopril	urine	RIA	LISm_recovery_lisinopril	192.0	hr	NA	29.0	NA	8.3282651254628	3.4	NA	NA	percent	NA
+Johnston1992	NA	lis	6.0	LISs	clearance	lisinopril	urine	RIA	LISs_clearance_lisinopril	48.0	hr	NA	29.2	NA	15.9216833280907	6.5	NA	NA	ml/min	NA
+Johnston1992	NA	lis	6.0	LISm	clearance	lisinopril	urine	RIA	LISm_clearance_lisinopril	192.0	hr	NA	40.6	NA	10.042907945411	4.1	NA	NA	ml/min	NA
+Johnston1992	NA	ena	7.0	ENAs	recovery	enalaprilat	urine	RIA	ENAs_recovery_enalaprilat	48.0	hr	NA	17.4	NA	6.61437827766148	2.5	NA	NA	percent	NA
+Johnston1992	NA	ena	7.0	ENAm	recovery	enalaprilat	urine	RIA	ENAm_recovery_enalaprilat	216.0	hr	NA	28.8	NA	7.1435285398744	2.7	NA	NA	percent	NA
+Johnston1992	NA	ena	7.0	ENAs	clearance	enalaprilat	urine	RIA	ENAs_clearance_enalaprilat	48.0	hr	NA	33.1	NA	17.7265337841328	6.7	NA	NA	ml/min	NA
+Johnston1992	NA	ena	7.0	ENAm	clearance	enalaprilat	urine	RIA	ENAm_clearance_enalaprilat	216.0	hr	NA	55.0	NA	30.1615649461363	11.4	NA	NA	ml/min	NA
+Johnston1992	NA	ena	7.0	ENAs	recovery	enalapril	urine	RIA	ENAs_recovery_enalapril	48.0	hr	NA	11.4	NA	3.96862696659689	1.5	NA	NA	percent	NA
+Johnston1992	NA	ena	7.0	ENAm	recovery	enalapril	urine	RIA	ENAm_recovery_enalapril	216.0	hr	NA	11.8	NA	5.29150262212918	2.0	NA	NA	percent	NA
+Johnston1992	NA	lis	6.0	LISs	cumulative amount	lisinopril	urine	RIA	LISs_cumulative amount_lisinopril	48.0	hr	NA	0.3725	NA	0.220454076850486	0.09	NA	NA	mg	NA
+Johnston1992	NA	lis	6.0	LISm	cumulative amount	lisinopril	urine	RIA	LISm_cumulative amount_lisinopril	192.0	hr	NA	0.725	NA	0.20820662813657	0.085	NA	NA	mg	NA
+Johnston1992	NA	ena	7.0	ENAs	cumulative amount	enalaprilat	urine	RIA	ENAs_cumulative amount_enalaprilat	48.0	hr	NA	0.435	NA	0.251072698635275	0.1025	NA	NA	mg	NA
+Johnston1992	NA	ena	7.0	ENAm	cumulative amount	enalaprilat	urine	RIA	ENAm_cumulative amount_enalaprilat	216.0	hr	NA	0.72	NA	0.0	0.0	NA	NA	mg	NA
+Johnston1992	NA	ena	7.0	ENAs	cumulative amount	enalapril	urine	RIA	ENAs_cumulative amount_enalapril	48.0	hr	NA	0.285	NA	0.17858821349686	0.0675	NA	NA	mg	NA
+Johnston1992	NA	ena	7.0	ENAm	cumulative amount	enalapril	urine	RIA	ENAm_cumulative amount_enalapril	216.0	hr	NA	0.295	NA	0.44316334460332	0.1675	NA	NA	mg	NA

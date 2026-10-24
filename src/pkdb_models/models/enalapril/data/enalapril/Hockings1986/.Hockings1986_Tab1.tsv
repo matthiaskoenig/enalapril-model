@@ -1,0 +1,91 @@
+study	individual	group	count	intervention	measurement_type	choice	substance	tissue	method	label	time	time_unit	value	min	max	unit	comments
+Hockings1986	Y1	NA	1.0	NA	age	NA	NA	NA	NR	Y1_age	NA	NA	22.0	NA	NA	yr	NA
+Hockings1986	Y1	NA	1.0	NA	sex	M	NA	NA	NR	Y1_sex	NA	NA	NA	NA	NA	NA	NA
+Hockings1986	Y1	NA	1.0	NA	weight	NA	NA	NA	NR	Y1_weight	NA	NA	60.0	NA	NA	kg	NA
+Hockings1986	Y1	NA	1.0	NA	clearance	NA	creatinine	urine	NR	Y1_creatinine_clearance	0.0	hr	69.0	NA	NA	ml/min	NA
+Hockings1986	Y1	NA	1.0	NA	estimated clearance	NA	creatinine	urine	NR	Y1_creatinine_estimated clearance	0.0	hr	72.0	NA	NA	ml/min	NA
+Hockings1986	Y2	NA	1.0	NA	age	NA	NA	NA	NR	Y2_age	NA	NA	24.0	NA	NA	yr	NA
+Hockings1986	Y2	NA	1.0	NA	sex	M	NA	NA	NR	Y2_sex	NA	NA	NA	NA	NA	NA	NA
+Hockings1986	Y2	NA	1.0	NA	weight	NA	NA	NA	NR	Y2_weight	NA	NA	58.0	NA	NA	kg	NA
+Hockings1986	Y2	NA	1.0	NA	clearance	NA	creatinine	urine	NR	Y2_creatinine_clearance	0.0	hr	98.0	NA	NA	ml/min	NA
+Hockings1986	Y2	NA	1.0	NA	estimated clearance	NA	creatinine	urine	NR	Y2_creatinine_estimated clearance	0.0	hr	78.0	NA	NA	ml/min	NA
+Hockings1986	Y3	NA	1.0	NA	age	NA	NA	NA	NR	Y3_age	NA	NA	24.0	NA	NA	yr	NA
+Hockings1986	Y3	NA	1.0	NA	sex	M	NA	NA	NR	Y3_sex	NA	NA	NA	NA	NA	NA	NA
+Hockings1986	Y3	NA	1.0	NA	weight	NA	NA	NA	NR	Y3_weight	NA	NA	75.0	NA	NA	kg	NA
+Hockings1986	Y3	NA	1.0	NA	clearance	NA	creatinine	urine	NR	Y3_creatinine_clearance	0.0	hr	96.0	NA	NA	ml/min	NA
+Hockings1986	Y3	NA	1.0	NA	estimated clearance	NA	creatinine	urine	NR	Y3_creatinine_estimated clearance	0.0	hr	111.0	NA	NA	ml/min	NA
+Hockings1986	Y4	NA	1.0	NA	age	NA	NA	NA	NR	Y4_age	NA	NA	27.0	NA	NA	yr	NA
+Hockings1986	Y4	NA	1.0	NA	sex	F	NA	NA	NR	Y4_sex	NA	NA	NA	NA	NA	NA	NA
+Hockings1986	Y4	NA	1.0	NA	weight	NA	NA	NA	NR	Y4_weight	NA	NA	56.0	NA	NA	kg	NA
+Hockings1986	Y4	NA	1.0	NA	clearance	NA	creatinine	urine	NR	Y4_creatinine_clearance	0.0	hr	109.0	NA	NA	ml/min	NA
+Hockings1986	Y4	NA	1.0	NA	estimated clearance	NA	creatinine	urine	NR	Y4_creatinine_estimated clearance	0.0	hr	68.0	NA	NA	ml/min	NA
+Hockings1986	Y5	NA	1.0	NA	age	NA	NA	NA	NR	Y5_age	NA	NA	24.0	NA	NA	yr	NA
+Hockings1986	Y5	NA	1.0	NA	sex	F	NA	NA	NR	Y5_sex	NA	NA	NA	NA	NA	NA	NA
+Hockings1986	Y5	NA	1.0	NA	weight	NA	NA	NA	NR	Y5_weight	NA	NA	54.0	NA	NA	kg	NA
+Hockings1986	Y5	NA	1.0	NA	clearance	NA	creatinine	urine	NR	Y5_creatinine_clearance	0.0	hr	71.0	NA	NA	ml/min	NA
+Hockings1986	Y5	NA	1.0	NA	estimated clearance	NA	creatinine	urine	NR	Y5_creatinine_estimated clearance	0.0	hr	75.0	NA	NA	ml/min	NA
+Hockings1986	Y6	NA	1.0	NA	age	NA	NA	NA	NR	Y6_age	NA	NA	23.0	NA	NA	yr	NA
+Hockings1986	Y6	NA	1.0	NA	sex	F	NA	NA	NR	Y6_sex	NA	NA	NA	NA	NA	NA	NA
+Hockings1986	Y6	NA	1.0	NA	weight	NA	NA	NA	NR	Y6_weight	NA	NA	58.0	NA	NA	kg	NA
+Hockings1986	Y6	NA	1.0	NA	clearance	NA	creatinine	urine	NR	Y6_creatinine_clearance	0.0	hr	NA	NA	NA	ml/min	NA
+Hockings1986	Y6	NA	1.0	NA	estimated clearance	NA	creatinine	urine	NR	Y6_creatinine_estimated clearance	0.0	hr	97.0	NA	NA	ml/min	NA
+Hockings1986	Y7	NA	1.0	NA	age	NA	NA	NA	NR	Y7_age	NA	NA	22.0	NA	NA	yr	NA
+Hockings1986	Y7	NA	1.0	NA	sex	M	NA	NA	NR	Y7_sex	NA	NA	NA	NA	NA	NA	NA
+Hockings1986	Y7	NA	1.0	NA	weight	NA	NA	NA	NR	Y7_weight	NA	NA	79.0	NA	NA	kg	NA
+Hockings1986	Y7	NA	1.0	NA	clearance	NA	creatinine	urine	NR	Y7_creatinine_clearance	0.0	hr	97.0	NA	NA	ml/min	NA
+Hockings1986	Y7	NA	1.0	NA	estimated clearance	NA	creatinine	urine	NR	Y7_creatinine_estimated clearance	0.0	hr	99.0	NA	NA	ml/min	NA
+Hockings1986	Y8	NA	1.0	NA	age	NA	NA	NA	NR	Y8_age	NA	NA	28.0	NA	NA	yr	NA
+Hockings1986	Y8	NA	1.0	NA	sex	M	NA	NA	NR	Y8_sex	NA	NA	NA	NA	NA	NA	NA
+Hockings1986	Y8	NA	1.0	NA	weight	NA	NA	NA	NR	Y8_weight	NA	NA	62.0	NA	NA	kg	NA
+Hockings1986	Y8	NA	1.0	NA	clearance	NA	creatinine	urine	NR	Y8_creatinine_clearance	0.0	hr	94.0	NA	NA	ml/min	NA
+Hockings1986	Y8	NA	1.0	NA	estimated clearance	NA	creatinine	urine	NR	Y8_creatinine_estimated clearance	0.0	hr	79.0	NA	NA	ml/min	NA
+Hockings1986	Y9	NA	1.0	NA	age	NA	NA	NA	NR	Y9_age	NA	NA	30.0	NA	NA	yr	NA
+Hockings1986	Y9	NA	1.0	NA	sex	M	NA	NA	NR	Y9_sex	NA	NA	NA	NA	NA	NA	NA
+Hockings1986	Y9	NA	1.0	NA	weight	NA	NA	NA	NR	Y9_weight	NA	NA	78.0	NA	NA	kg	NA
+Hockings1986	Y9	NA	1.0	NA	clearance	NA	creatinine	urine	NR	Y9_creatinine_clearance	0.0	hr	105.0	NA	NA	ml/min	NA
+Hockings1986	Y9	NA	1.0	NA	estimated clearance	NA	creatinine	urine	NR	Y9_creatinine_estimated clearance	0.0	hr	94.0	NA	NA	ml/min	NA
+Hockings1986	E1	NA	1.0	NA	age	NA	NA	NA	NR	E1_age	NA	NA	73.0	NA	NA	yr	NA
+Hockings1986	E1	NA	1.0	NA	sex	M	NA	NA	NR	E1_sex	NA	NA	NA	NA	NA	NA	NA
+Hockings1986	E1	NA	1.0	NA	weight	NA	NA	NA	NR	E1_weight	NA	NA	67.0	NA	NA	kg	NA
+Hockings1986	E1	NA	1.0	NA	clearance	NA	creatinine	urine	NR	E1_creatinine_clearance	0.0	hr	64.0	NA	NA	ml/min	NA
+Hockings1986	E1	NA	1.0	NA	estimated clearance	NA	creatinine	urine	NR	E1_creatinine_estimated clearance	0.0	hr	58.0	NA	NA	ml/min	NA
+Hockings1986	E2	NA	1.0	NA	age	NA	NA	NA	NR	E2_age	NA	NA	73.0	NA	NA	yr	NA
+Hockings1986	E2	NA	1.0	NA	sex	F	NA	NA	NR	E2_sex	NA	NA	NA	NA	NA	NA	NA
+Hockings1986	E2	NA	1.0	NA	weight	NA	NA	NA	NR	E2_weight	NA	NA	66.0	NA	NA	kg	NA
+Hockings1986	E2	NA	1.0	NA	clearance	NA	creatinine	urine	NR	E2_creatinine_clearance	0.0	hr	40.0	NA	NA	ml/min	NA
+Hockings1986	E2	NA	1.0	NA	estimated clearance	NA	creatinine	urine	NR	E2_creatinine_estimated clearance	0.0	hr	64.0	NA	NA	ml/min	NA
+Hockings1986	E3	NA	1.0	NA	age	NA	NA	NA	NR	E3_age	NA	NA	66.0	NA	NA	yr	NA
+Hockings1986	E3	NA	1.0	NA	sex	F	NA	NA	NR	E3_sex	NA	NA	NA	NA	NA	NA	NA
+Hockings1986	E3	NA	1.0	NA	weight	NA	NA	NA	NR	E3_weight	NA	NA	64.0	NA	NA	kg	NA
+Hockings1986	E3	NA	1.0	NA	clearance	NA	creatinine	urine	NR	E3_creatinine_clearance	0.0	hr	80.0	NA	NA	ml/min	NA
+Hockings1986	E3	NA	1.0	NA	estimated clearance	NA	creatinine	urine	NR	E3_creatinine_estimated clearance	0.0	hr	61.0	NA	NA	ml/min	NA
+Hockings1986	E4	NA	1.0	NA	age	NA	NA	NA	NR	E4_age	NA	NA	72.0	NA	NA	yr	NA
+Hockings1986	E4	NA	1.0	NA	sex	M	NA	NA	NR	E4_sex	NA	NA	NA	NA	NA	NA	NA
+Hockings1986	E4	NA	1.0	NA	weight	NA	NA	NA	NR	E4_weight	NA	NA	84.0	NA	NA	kg	NA
+Hockings1986	E4	NA	1.0	NA	clearance	NA	creatinine	urine	NR	E4_creatinine_clearance	0.0	hr	NA	NA	NA	ml/min	NA
+Hockings1986	E4	NA	1.0	NA	estimated clearance	NA	creatinine	urine	NR	E4_creatinine_estimated clearance	0.0	hr	56.0	NA	NA	ml/min	NA
+Hockings1986	E5	NA	1.0	NA	age	NA	NA	NA	NR	E5_age	NA	NA	72.0	NA	NA	yr	NA
+Hockings1986	E5	NA	1.0	NA	sex	F	NA	NA	NR	E5_sex	NA	NA	NA	NA	NA	NA	NA
+Hockings1986	E5	NA	1.0	NA	weight	NA	NA	NA	NR	E5_weight	NA	NA	52.0	NA	NA	kg	NA
+Hockings1986	E5	NA	1.0	NA	clearance	NA	creatinine	urine	NR	E5_creatinine_clearance	0.0	hr	45.0	NA	NA	ml/min	NA
+Hockings1986	E5	NA	1.0	NA	estimated clearance	NA	creatinine	urine	NR	E5_creatinine_estimated clearance	0.0	hr	41.0	NA	NA	ml/min	NA
+Hockings1986	E6	NA	1.0	NA	age	NA	NA	NA	NR	E6_age	NA	NA	65.0	NA	NA	yr	NA
+Hockings1986	E6	NA	1.0	NA	sex	M	NA	NA	NR	E6_sex	NA	NA	NA	NA	NA	NA	NA
+Hockings1986	E6	NA	1.0	NA	weight	NA	NA	NA	NR	E6_weight	NA	NA	73.0	NA	NA	kg	NA
+Hockings1986	E6	NA	1.0	NA	clearance	NA	creatinine	urine	NR	E6_creatinine_clearance	0.0	hr	97.0	NA	NA	ml/min	NA
+Hockings1986	E6	NA	1.0	NA	estimated clearance	NA	creatinine	urine	NR	E6_creatinine_estimated clearance	0.0	hr	61.0	NA	NA	ml/min	NA
+Hockings1986	E7	NA	1.0	NA	age	NA	NA	NA	NR	E7_age	NA	NA	65.0	NA	NA	yr	NA
+Hockings1986	E7	NA	1.0	NA	sex	M	NA	NA	NR	E7_sex	NA	NA	NA	NA	NA	NA	NA
+Hockings1986	E7	NA	1.0	NA	weight	NA	NA	NA	NR	E7_weight	NA	NA	84.0	NA	NA	kg	NA
+Hockings1986	E7	NA	1.0	NA	clearance	NA	creatinine	urine	NR	E7_creatinine_clearance	0.0	hr	78.0	NA	NA	ml/min	NA
+Hockings1986	E7	NA	1.0	NA	estimated clearance	NA	creatinine	urine	NR	E7_creatinine_estimated clearance	0.0	hr	63.0	NA	NA	ml/min	NA
+Hockings1986	E8	NA	1.0	NA	age	NA	NA	NA	NR	E8_age	NA	NA	65.0	NA	NA	yr	NA
+Hockings1986	E8	NA	1.0	NA	sex	M	NA	NA	NR	E8_sex	NA	NA	NA	NA	NA	NA	NA
+Hockings1986	E8	NA	1.0	NA	weight	NA	NA	NA	NR	E8_weight	NA	NA	84.0	NA	NA	kg	NA
+Hockings1986	E8	NA	1.0	NA	clearance	NA	creatinine	urine	NR	E8_creatinine_clearance	0.0	hr	NA	NA	NA	ml/min	NA
+Hockings1986	E8	NA	1.0	NA	estimated clearance	NA	creatinine	urine	NR	E8_creatinine_estimated clearance	0.0	hr	67.0	NA	NA	ml/min	NA
+Hockings1986	E9	NA	1.0	NA	age	NA	NA	NA	NR	E9_age	NA	NA	66.0	NA	NA	yr	NA
+Hockings1986	E9	NA	1.0	NA	sex	M	NA	NA	NR	E9_sex	NA	NA	NA	NA	NA	NA	NA
+Hockings1986	E9	NA	1.0	NA	weight	NA	NA	NA	NR	E9_weight	NA	NA	53.0	NA	NA	kg	NA
+Hockings1986	E9	NA	1.0	NA	clearance	NA	creatinine	urine	NR	E9_creatinine_clearance	0.0	hr	63.0	NA	NA	ml/min	NA
+Hockings1986	E9	NA	1.0	NA	estimated clearance	NA	creatinine	urine	NR	E9_creatinine_estimated clearance	0.0	hr	51.0	NA	NA	ml/min	NA

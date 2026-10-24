@@ -1,0 +1,11 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Dickstein1987	NA	CHF	10.0	ENAPO10	recovery	enalaprilat	urine	RIA	ENAPO10_CHF_recovery_enalaprilat	72.0	hr	NA	35.0	NA	12.0	3.794733192202055	NA	NA	percent	NA
+Dickstein1987	NA	CHF	10.0	ENAPO10	recovery	enalapril+enalaprilat	urine	RIA	ENAPO10_CHF_recovery_enalapril+enalaprilat	72.0	hr	NA	53.0	NA	8.0	2.5298221281347035	NA	NA	percent	NA
+Dickstein1987	NA	CHF	11.0	ENAIV5	recovery	enalaprilat	urine	RIA	ENAIV5_CHF_recovery_enalaprilat	72.0	hr	NA	41.0	NA	11.0	3.3166247903554	NA	NA	percent	NA
+Dickstein1987	NA	CHF	11.0	ENAIV5	recovery	enalapril+enalaprilat	urine	RIA	ENAIV5_CHF_recovery_enalapril+enalaprilat	72.0	hr	NA	77.0	NA	13.0	3.9196474795109273	NA	NA	percent	NA
+Dickstein1987	NA	CHF	10.0	EATIV5	recovery	enalaprilat	urine	RIA	EATIV5_CHF_recovery_enalaprilat	72.0	hr	NA	88.0	NA	7.0	2.2135943621178655	NA	NA	percent	NA
+Dickstein1987	NA	CHF	10.0	ENAPO10	cumulative amount	enalaprilat	urine	RIA	ENAPO10_CHF_cumulative amount_enalaprilat	72.0	hr	NA	2.475798593718941	NA	0.8488452321322084	0.2684284314512125	NA	NA	mg	NA
+Dickstein1987	NA	CHF	10.0	ENAPO10	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAPO10_CHF_cumulative amount_enalapril+enalaprilat	72.0	hr	NA	3.7490664419172535	NA	0.5658968214214722	0.17895228763414164	NA	NA	mg	NA
+Dickstein1987	NA	CHF	11.0	ENAIV5	cumulative amount	enalaprilat	urine	RIA	ENAIV5_CHF_cumulative amount_enalaprilat	72.0	hr	NA	1.4501106048925225	NA	0.38905406472726217	0.1173042141693611	NA	NA	mg	NA
+Dickstein1987	NA	CHF	11.0	ENAIV5	cumulative amount	enalapril+enalaprilat	urine	RIA	ENAIV5_CHF_cumulative amount_enalapril+enalaprilat	72.0	hr	NA	2.7233784530908354	NA	0.4597911674049462	0.13863225310924493	NA	NA	mg	NA
+Dickstein1987	NA	CHF	10.0	EATIV5	cumulative amount	enalaprilat	urine	RIA	EATIV5_CHF_cumulative amount_enalaprilat	72.0	hr	NA	4.4	NA	0.35000000000000003	0.11067971810589328	NA	NA	mg	NA

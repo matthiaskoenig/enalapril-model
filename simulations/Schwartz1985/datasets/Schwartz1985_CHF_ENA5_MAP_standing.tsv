@@ -1,0 +1,15 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Schwartz1985		CHF	8.0	ENA5	MAP			sphygmomanometer	CHF_ENA5_MAP_standing	1440.0	min		83.9583268735853	79.30808347028	13.1528745785808	4.65024340330531	standing	mmHg	mmHg	dimensionless
+Schwartz1985		CHF	8.0	ENA5	MAP			sphygmomanometer	CHF_ENA5_MAP_standing	1491.5100306967227	min		81.4095686955443	76.641499488388	13.4861362781879	4.76806920715629	standing	mmHg	mmHg	dimensionless
+Schwartz1985		CHF	8.0	ENA5	MAP			sphygmomanometer	CHF_ENA5_MAP_standing	1546.624600787573	min		80.8367182412949	75.1399956590493	16.1127646737776	5.6967225822456	standing	mmHg	mmHg	dimensionless
+Schwartz1985		CHF	8.0	ENA5	MAP			sphygmomanometer	CHF_ENA5_MAP_standing	1607.552944094757	min		76.1950017053735	71.1951567393259	14.1416971214947	4.9998449660476	standing	mmHg	mmHg	dimensionless
+Schwartz1985		CHF	8.0	ENA5	MAP			sphygmomanometer	CHF_ENA5_MAP_standing	1667.899910080308	min		74.4601717776193	67.3673684536914	20.0614773118876	7.0928033239279	standing	mmHg	mmHg	dimensionless
+Schwartz1985		CHF	8.0	ENA5	MAP			sphygmomanometer	CHF_ENA5_MAP_standing	1727.7585191156859	min		75.1671266007256	66.4456916064618	24.6679433044863	8.72143499426379	standing	mmHg	mmHg	dimensionless
+Schwartz1985		CHF	8.0	ENA5	MAP			sphygmomanometer	CHF_ENA5_MAP_standing	1793.198350438746	min		72.9679699854268	67.9681250193792	14.1416971214947	4.9998449660476	standing	mmHg	mmHg	dimensionless
+Schwartz1985		CHF	8.0	ENA5	MAP			sphygmomanometer	CHF_ENA5_MAP_standing	1842.75495333478	min		75.1849555052557	66.6976217791696	24.0058049276351	8.48733372608611	standing	mmHg	mmHg	dimensionless
+Schwartz1985		CHF	8.0	ENA5	MAP			sphygmomanometer	CHF_ENA5_MAP_standing	1902.846113298812	min		74.729155685095	70.659514433661	11.5106837035419	4.06964125143399	standing	mmHg	mmHg	dimensionless
+Schwartz1985		CHF	8.0	ENA5	MAP			sphygmomanometer	CHF_ENA5_MAP_standing	1972.3090756875758	min		77.4143437412793	71.5997953551828	16.4460263733845	5.81454838609649	standing	mmHg	mmHg	dimensionless
+Schwartz1985		CHF	8.0	ENA5	MAP			sphygmomanometer	CHF_ENA5_MAP_standing	2036.772193110291	min		80.0987566277015	75.2151871259806	13.8128204442506	4.8835695017209	standing	mmHg	mmHg	dimensionless
+Schwartz1985		CHF	8.0	ENA5	MAP			sphygmomanometer	CHF_ENA5_MAP_standing	2102.16551424762	min		78.1321509410561	73.9454590555332	11.8417528919677	4.18669188552289	standing	mmHg	mmHg	dimensionless
+Schwartz1985		CHF	8.0	ENA5	MAP			sphygmomanometer	CHF_ENA5_MAP_standing	2172.39589470094	min		76.9802486744597	71.2819757526898	16.1171496961407	5.6982729217699	standing	mmHg	mmHg	dimensionless
+Schwartz1985		CHF	8.0	ENA5	MAP			sphygmomanometer	CHF_ENA5_MAP_standing	2865.46742736659	min		86.6225853461908	77.6685994232737	25.3256966589743	8.9539859229171	standing	mmHg	mmHg	dimensionless

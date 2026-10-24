@@ -1,0 +1,10 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Lees1987a		elder	6.0	ENA10	heart rate			electrocardiography	elder_heart rate	0.0	hr		76.5243902439025					1/min	1/min	dimensionless
+Lees1987a		elder	6.0	ENA10	heart rate			electrocardiography	elder_heart rate	1.0	hr		66.6463414634146					1/min	1/min	dimensionless
+Lees1987a		elder	6.0	ENA10	heart rate			electrocardiography	elder_heart rate	2.0	hr		67.7439024390244					1/min	1/min	dimensionless
+Lees1987a		elder	6.0	ENA10	heart rate			electrocardiography	elder_heart rate	4.0	hr		66.6463414634146					1/min	1/min	dimensionless
+Lees1987a		elder	6.0	ENA10	heart rate			electrocardiography	elder_heart rate	6.0	hr		75.7926829268293					1/min	1/min	dimensionless
+Lees1987a		elder	6.0	ENA10	heart rate			electrocardiography	elder_heart rate	8.0	hr		72.8658536585366					1/min	1/min	dimensionless
+Lees1987a		elder	6.0	ENA10	heart rate			electrocardiography	elder_heart rate	10.0	hr		76.1585365853659					1/min	1/min	dimensionless
+Lees1987a		elder	6.0	ENA10	heart rate			electrocardiography	elder_heart rate	12.0	hr		72.5					1/min	1/min	dimensionless
+Lees1987a		elder	6.0	ENA10	heart rate			electrocardiography	elder_heart rate	24.0	hr		75.4268292682927					1/min	1/min	dimensionless

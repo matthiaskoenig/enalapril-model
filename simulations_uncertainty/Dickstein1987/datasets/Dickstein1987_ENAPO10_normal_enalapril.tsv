@@ -1,0 +1,11 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Dickstein1987		normal	10.0	ENAPO10	concentration	enalapril	serum	RIA	ENAPO10_normal_enalapril	0.0	hr		5.52382252400037e-06					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	ENAPO10	concentration	enalapril	serum	RIA	ENAPO10_normal_enalapril	0.5	hr		0.00013177460358575625					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	ENAPO10	concentration	enalapril	serum	RIA	ENAPO10_normal_enalapril	1.0	hr		0.00013646862793680514					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	ENAPO10	concentration	enalapril	serum	RIA	ENAPO10_normal_enalapril	2.0	hr		7.681501906065506e-05					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	ENAPO10	concentration	enalapril	serum	RIA	ENAPO10_normal_enalapril	3.0	hr		2.6057499822196738e-05					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	ENAPO10	concentration	enalapril	serum	RIA	ENAPO10_normal_enalapril	4.0	hr		1.0879235824707988e-05					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	ENAPO10	concentration	enalapril	serum	RIA	ENAPO10_normal_enalapril	6.0	hr		8.542940599756646e-07					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	ENAPO10	concentration	enalapril	serum	RIA	ENAPO10_normal_enalapril	8.0	hr		7.843787157602232e-07					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	ENAPO10	concentration	enalapril	serum	RIA	ENAPO10_normal_enalapril	12.0	hr		0.0					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	ENAPO10	concentration	enalapril	serum	RIA	ENAPO10_normal_enalapril	24.0	hr		0.0					mole/meter^3	ng/ml	dimensionless

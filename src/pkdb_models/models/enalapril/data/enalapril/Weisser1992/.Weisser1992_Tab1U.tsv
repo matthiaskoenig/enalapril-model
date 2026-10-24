@@ -1,0 +1,17 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	sd	se	unit	comments
+Weisser1992	NA	all	18.0	ENA10	cumulative amount	enalapril	urine	RIA	ENA10_cumulative amount_enalapril	0.0	hr	NA	0.0	NA	NA	mg	NA
+Weisser1992	NA	all	18.0	ENA10	cumulative amount	enalapril	urine	RIA	ENA10_cumulative amount_enalapril	24.0	hr	NA	1.05	1.01	NA	mg	NA
+Weisser1992	NA	all	18.0	ENA10	cumulative amount	enalaprilat	urine	RIA	ENA10_cumulative amount_enalaprilat	0.0	hr	NA	0.0	NA	NA	mg	NA
+Weisser1992	NA	all	18.0	ENA10	cumulative amount	enalaprilat	urine	RIA	ENA10_cumulative amount_enalaprilat	24.0	hr	NA	2.67	1.91	NA	mg	NA
+Weisser1992	NA	all	18.0	HCTZ25, ENA10	cumulative amount	enalapril	urine	RIA	HCTZ25, ENA10_cumulative amount_enalapril	0.0	hr	NA	0.0	NA	NA	mg	NA
+Weisser1992	NA	all	18.0	HCTZ25, ENA10	cumulative amount	enalapril	urine	RIA	HCTZ25, ENA10_cumulative amount_enalapril	24.0	hr	NA	1.52	1.07	NA	mg	NA
+Weisser1992	NA	all	18.0	HCTZ25, ENA10	cumulative amount	enalaprilat	urine	RIA	HCTZ25, ENA10_cumulative amount_enalaprilat	0.0	hr	NA	0.0	NA	NA	mg	NA
+Weisser1992	NA	all	18.0	HCTZ25, ENA10	cumulative amount	enalaprilat	urine	RIA	HCTZ25, ENA10_cumulative amount_enalaprilat	24.0	hr	NA	1.97	1.08	NA	mg	NA
+Weisser1992	NA	all	18.0	ENA10	recovery	enalapril	urine	RIA	ENA10_recovery_enalapril	0.0	hr	NA	0.0	NA	NA	percent	NA
+Weisser1992	NA	all	18.0	ENA10	recovery	enalapril	urine	RIA	ENA10_recovery_enalapril	24.0	hr	NA	10.5	10.1	NA	percent	NA
+Weisser1992	NA	all	18.0	ENA10	recovery	enalaprilat	urine	RIA	ENA10_recovery_enalaprilat	0.0	hr	NA	0.0	NA	NA	percent	NA
+Weisser1992	NA	all	18.0	ENA10	recovery	enalaprilat	urine	RIA	ENA10_recovery_enalaprilat	24.0	hr	NA	26.7	19.1	NA	percent	NA
+Weisser1992	NA	all	18.0	HCTZ25, ENA10	recovery	enalapril	urine	RIA	HCTZ25, ENA10_recovery_enalapril	0.0	hr	NA	0.0	NA	NA	percent	NA
+Weisser1992	NA	all	18.0	HCTZ25, ENA10	recovery	enalapril	urine	RIA	HCTZ25, ENA10_recovery_enalapril	24.0	hr	NA	15.2	10.7	NA	percent	NA
+Weisser1992	NA	all	18.0	HCTZ25, ENA10	recovery	enalaprilat	urine	RIA	HCTZ25, ENA10_recovery_enalaprilat	0.0	hr	NA	0.0	NA	NA	percent	NA
+Weisser1992	NA	all	18.0	HCTZ25, ENA10	recovery	enalaprilat	urine	RIA	HCTZ25, ENA10_recovery_enalaprilat	24.0	hr	NA	19.7	10.8	NA	percent	NA

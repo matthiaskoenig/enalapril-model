@@ -1,0 +1,17 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Najib2003a		all	24.0	REN20	concentration	enalapril	plasma	LC MS/MS	enalapril_REN20	0.0	hr		0.0					mole/meter^3	ng/ml	dimensionless
+Najib2003a		all	24.0	REN20	concentration	enalapril	plasma	LC MS/MS	enalapril_REN20	0.25	hr		1.9881371598050187e-05					mole/meter^3	ng/ml	dimensionless
+Najib2003a		all	24.0	REN20	concentration	enalapril	plasma	LC MS/MS	enalapril_REN20	0.5	hr		0.00017834759815898028					mole/meter^3	ng/ml	dimensionless
+Najib2003a		all	24.0	REN20	concentration	enalapril	plasma	LC MS/MS	enalapril_REN20	0.75	hr		0.0002853561570543692					mole/meter^3	ng/ml	dimensionless
+Najib2003a		all	24.0	REN20	concentration	enalapril	plasma	LC MS/MS	enalapril_REN20	1.0	hr		0.00029003412684214523					mole/meter^3	ng/ml	dimensionless
+Najib2003a		all	24.0	REN20	concentration	enalapril	plasma	LC MS/MS	enalapril_REN20	1.33	hr		0.0002356527280592429					mole/meter^3	ng/ml	dimensionless
+Najib2003a		all	24.0	REN20	concentration	enalapril	plasma	LC MS/MS	enalapril_REN20	1.66	hr		0.0001877035377345335					mole/meter^3	ng/ml	dimensionless
+Najib2003a		all	24.0	REN20	concentration	enalapril	plasma	LC MS/MS	enalapril_REN20	2.0	hr		0.00013215264650468712					mole/meter^3	ng/ml	dimensionless
+Najib2003a		all	24.0	REN20	concentration	enalapril	plasma	LC MS/MS	enalapril_REN20	2.5	hr		7.894074016872907e-05					mole/meter^3	ng/ml	dimensionless
+Najib2003a		all	24.0	REN20	concentration	enalapril	plasma	LC MS/MS	enalapril_REN20	3.0	hr		5.145766766554176e-05					mole/meter^3	ng/ml	dimensionless
+Najib2003a		all	24.0	REN20	concentration	enalapril	plasma	LC MS/MS	enalapril_REN20	3.5	hr		3.5084773408323934e-05					mole/meter^3	ng/ml	dimensionless
+Najib2003a		all	24.0	REN20	concentration	enalapril	plasma	LC MS/MS	enalapril_REN20	4.0	hr		2.2220356491938458e-05					mole/meter^3	ng/ml	dimensionless
+Najib2003a		all	24.0	REN20	concentration	enalapril	plasma	LC MS/MS	enalapril_REN20	6.0	hr		7.016954681664789e-06					mole/meter^3	ng/ml	dimensionless
+Najib2003a		all	24.0	REN20	concentration	enalapril	plasma	LC MS/MS	enalapril_REN20	8.0	hr		1.7542386704161201e-06					mole/meter^3	ng/ml	dimensionless
+Najib2003a		all	24.0	REN20	concentration	enalapril	plasma	LC MS/MS	enalapril_REN20	10.0	hr		2.338984893888258e-06					mole/meter^3	ng/ml	dimensionless
+Najib2003a		all	24.0	REN20	concentration	enalapril	plasma	LC MS/MS	enalapril_REN20	12.0	hr		1.1694924469441303e-06					mole/meter^3	ng/ml	dimensionless

@@ -1,0 +1,14 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Witte1993		night	8.0	ENAs10	concentration	enalaprilat	serum	RIA	night_ENAs10_enalaprilat	0.0	hr		3.487099934560954e-07					mole/meter^3	ng/ml	dimensionless
+Witte1993		night	8.0	ENAs10	concentration	enalaprilat	serum	RIA	night_ENAs10_enalaprilat	1.0137160274320598	hr		1.0361448712820336e-05					mole/meter^3	ng/ml	dimensionless
+Witte1993		night	8.0	ENAs10	concentration	enalaprilat	serum	RIA	night_ENAs10_enalaprilat	1.99338104558564	hr		4.7467745427608574e-05	19.886674507242542	2.719054769636903e-05	9.6133103301394e-06		mole/meter^3	ng/ml	dimensionless
+Witte1993		night	8.0	ENAs10	concentration	enalaprilat	serum	RIA	night_ENAs10_enalaprilat	3.0540871669979	hr		8.937919569698074e-05	36.92414885241702	4.6965491475546975e-05	1.660480875205913e-05		mole/meter^3	ng/ml	dimensionless
+Witte1993		night	8.0	ENAs10	concentration	enalaprilat	serum	RIA	night_ENAs10_enalaprilat	4.03638183746961	hr		0.0001164352134302598	46.80543406234286	5.066055184665593e-05	1.791120987471154e-05		mole/meter^3	ng/ml	dimensionless
+Witte1993		night	8.0	ENAs10	concentration	enalaprilat	serum	RIA	night_ENAs10_enalaprilat	6.02069357079896	hr		9.888288846165644e-05	39.32122894728572	3.954564036252589e-05	1.3981495233353248e-05		mole/meter^3	ng/ml	dimensionless
+Witte1993		night	8.0	ENAs10	concentration	enalaprilat	serum	RIA	night_ENAs10_enalaprilat	8.08652452599031	hr		8.39493721803012e-05	32.749400018490235	2.8430728878395838e-05	1.0051780591994952e-05		mole/meter^3	ng/ml	dimensionless
+Witte1993		night	8.0	ENAs10	concentration	enalaprilat	serum	RIA	night_ENAs10_enalaprilat	10.112073988854	hr		6.596007856032757e-05	25.568622763543065	2.1015124961204752e-05	7.429968683775282e-06		mole/meter^3	ng/ml	dimensionless
+Witte1993		night	8.0	ENAs10	concentration	enalaprilat	serum	RIA	night_ENAs10_enalaprilat	12.1378625110193	hr		4.709985085858587e-05	18.083894497003048	1.3595273848184515e-05	4.8066551650697e-06		mole/meter^3	ng/ml	dimensionless
+Witte1993		night	8.0	ENAs10	concentration	enalaprilat	serum	RIA	night_ENAs10_enalaprilat	14.0802193369094	hr		3.173236914683221e-05					mole/meter^3	ng/ml	dimensionless
+Witte1993		night	8.0	ENAs10	concentration	enalaprilat	serum	RIA	night_ENAs10_enalaprilat	16.1032586771057	hr		2.3359389077969805e-05					mole/meter^3	ng/ml	dimensionless
+Witte1993		night	8.0	ENAs10	concentration	enalaprilat	serum	RIA	night_ENAs10_enalaprilat	20.0641127164609	hr		1.4911328484817067e-05					mole/meter^3	ng/ml	dimensionless
+Witte1993		night	8.0	ENAs10	concentration	enalaprilat	serum	RIA	night_ENAs10_enalaprilat	24.0237714593079	hr		1.2145361969959673e-05					mole/meter^3	ng/ml	dimensionless

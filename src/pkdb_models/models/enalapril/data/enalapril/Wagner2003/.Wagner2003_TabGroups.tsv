@@ -1,0 +1,18 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Wagner2003	all	40.0	NA	species	40.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Wagner2003	all	40.0	NA	sex	8.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Wagner2003	all	40.0	NA	sex	32.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Wagner2003	all	40.0	NA	age	40.0	NA	NA	61.0	NA	NA	8.0	43.0	77.0	yr	NA
+Wagner2003	all	40.0	NA	healthy	40.0	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Wagner2003	all	40.0	NA	disease	40.0	NA	coronary atherosclerosis	NA	NA	NA	NA	NA	NA	NA	NA
+Wagner2003	all	40.0	NA	body surface area	40.0	NA	NA	1.9	NA	NA	0.2	NA	NA	m^2	NA
+Wagner2003	plac	20.0	all	healthy	20.0	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Wagner2003	plac	20.0	all	sex	4.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Wagner2003	plac	20.0	all	sex	16.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Wagner2003	plac	20.0	all	age	20.0	NA	NA	61.0	NA	NA	7.0	NA	NA	yr	NA
+Wagner2003	plac	20.0	all	body surface area	20.0	NA	NA	1.9	NA	NA	0.2	NA	NA	m^2	NA
+Wagner2003	ena	20.0	all	healthy	20.0	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Wagner2003	ena	20.0	all	sex	4.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Wagner2003	ena	20.0	all	sex	16.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Wagner2003	ena	20.0	all	age	20.0	NA	NA	60.0	NA	NA	9.0	NA	NA	yr	NA
+Wagner2003	ena	20.0	all	body surface area	20.0	NA	NA	1.8	NA	NA	0.2	NA	NA	m^2	NA

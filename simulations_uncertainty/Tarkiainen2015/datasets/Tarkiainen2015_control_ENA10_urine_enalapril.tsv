@@ -1,0 +1,2 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	median	mean_pm	mean_sd	mean_se	min	max	comments	mean_unit	value_unit	median_unit	count_unit
+Tarkiainen2015		control	12.0	ENA10	amount	enalapril	urine	LC/MS	control_ENA10_urine_enalapril	12.0	hr		6.906688250952924e-06			2.3482740053239944e-06				geometric mean adjusted to 70 kg, sd = CV * mean	mole	mg	mg	dimensionless

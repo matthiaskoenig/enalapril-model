@@ -1,0 +1,19 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Fruncillo1987	NA	Group1	6.0	ENA5s	recovery	enalapril	urine	enzymatic assay	Group1_recovery_enalapril	48.0	hr	NA	26.0	NA	11.9	NA	NA	NA	percent	NA
+Fruncillo1987	NA	Group2	6.0	ENA5s	recovery	enalapril	urine	enzymatic assay	Group2_recovery_enalapril	48.0	hr	NA	22.2	NA	5.7	NA	NA	NA	percent	NA
+Fruncillo1987	NA	Group3	6.0	ENA5s	recovery	enalapril	urine	enzymatic assay	Group3_recovery_enalapril	48.0	hr	NA	8.2	NA	10.2	NA	NA	NA	percent	NA
+Fruncillo1987	NA	Group1	6.0	ENA5s	recovery	enalaprilat	urine	enzymatic assay	Group1_recovery_enalaprilat	48.0	hr	NA	28.8	NA	9.9	NA	NA	NA	percent	NA
+Fruncillo1987	NA	Group2	6.0	ENA5s	recovery	enalaprilat	urine	enzymatic assay	Group2_recovery_enalaprilat	48.0	hr	NA	30.6	NA	8.7	NA	NA	NA	percent	NA
+Fruncillo1987	NA	Group3	6.0	ENA5s	recovery	enalaprilat	urine	enzymatic assay	Group3_recovery_enalaprilat	48.0	hr	NA	28.8	NA	25.8	NA	NA	NA	percent	NA
+Fruncillo1987	NA	Group1	6.0	ENA5s	recovery	enalapril+enalaprilat	urine	enzymatic assay	Group1_recovery_enalapril+enalaprilat	48.0	hr	NA	54.8	NA	20.0	NA	NA	NA	percent	NA
+Fruncillo1987	NA	Group2	6.0	ENA5s	recovery	enalapril+enalaprilat	urine	enzymatic assay	Group2_recovery_enalapril+enalaprilat	48.0	hr	NA	52.8	NA	6.9	NA	NA	NA	percent	NA
+Fruncillo1987	NA	Group3	6.0	ENA5s	recovery	enalapril+enalaprilat	urine	enzymatic assay	Group3_recovery_enalapril+enalaprilat	48.0	hr	NA	37.0	NA	31.7	NA	NA	NA	percent	NA
+Fruncillo1987	NA	Group1	6.0	ENA5s	cumulative amount	enalapril	urine	enzymatic assay	Group1_cumulative amount_enalapril	48.0	hr	NA	1.3	NA	0.595	NA	NA	NA	mg	NA
+Fruncillo1987	NA	Group2	6.0	ENA5s	cumulative amount	enalapril	urine	enzymatic assay	Group2_cumulative amount_enalapril	48.0	hr	NA	1.11	NA	0.285	NA	NA	NA	mg	NA
+Fruncillo1987	NA	Group3	6.0	ENA5s	cumulative amount	enalapril	urine	enzymatic assay	Group3_cumulative amount_enalapril	48.0	hr	NA	0.41	NA	0.51	NA	NA	NA	mg	NA
+Fruncillo1987	NA	Group1	6.0	ENA5s	cumulative amount	enalaprilat	urine	enzymatic assay	Group1_cumulative amount_enalaprilat	48.0	hr	NA	1.44	NA	0.495	NA	NA	NA	mg	NA
+Fruncillo1987	NA	Group2	6.0	ENA5s	cumulative amount	enalaprilat	urine	enzymatic assay	Group2_cumulative amount_enalaprilat	48.0	hr	NA	1.53	NA	0.435	NA	NA	NA	mg	NA
+Fruncillo1987	NA	Group3	6.0	ENA5s	cumulative amount	enalaprilat	urine	enzymatic assay	Group3_cumulative amount_enalaprilat	48.0	hr	NA	1.44	NA	1.29	NA	NA	NA	mg	NA
+Fruncillo1987	NA	Group1	6.0	ENA5s	cumulative amount	enalapril+enalaprilat	urine	enzymatic assay	Group1_cumulative amount_enalapril+enalaprilat	48.0	hr	NA	2.74	NA	1.0	NA	NA	NA	mg	NA
+Fruncillo1987	NA	Group2	6.0	ENA5s	cumulative amount	enalapril+enalaprilat	urine	enzymatic assay	Group2_cumulative amount_enalapril+enalaprilat	48.0	hr	NA	2.64	NA	0.345	NA	NA	NA	mg	NA
+Fruncillo1987	NA	Group3	6.0	ENA5s	cumulative amount	enalapril+enalaprilat	urine	enzymatic assay	Group3_cumulative amount_enalapril+enalaprilat	48.0	hr	NA	1.85	NA	1.585	NA	NA	NA	mg	NA

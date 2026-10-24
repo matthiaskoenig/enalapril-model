@@ -1,0 +1,2 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Swanson1984		fed	11.0	ENA40	recovery	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_urine_recovery_fed	48.0	hr		4.91423171780819e-05		1.0579248836948188e-05	3.0539660819180355e-06		count*mole	percent	dimensionless

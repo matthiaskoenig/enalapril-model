@@ -1,0 +1,63 @@
+study	individual	group	count	intervention	time	time_unit	x_measurement_type	x_substance	x_tissue	x_method	x_label	x	x_unit	y_measurement_type	y_substance	y_tissue	y_method	y_label	y	y_unit	comments
+Weisser1992	S1	NA	19.0	ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	10.9891720263779	ml/min	auc_end	enalaprilat	serum	RIA	NA	3550.57803468208	ng/ml*hr	NA
+Weisser1992	S2	NA	19.0	ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	16.5391191077098	ml/min	auc_end	enalaprilat	serum	RIA	NA	2508.67052023121	ng/ml*hr	NA
+Weisser1992	S3	NA	19.0	ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	25.9960921598958	ml/min	auc_end	enalaprilat	serum	RIA	NA	1011.56069364162	ng/ml*hr	NA
+Weisser1992	S4	NA	19.0	ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	26.579825775462	ml/min	auc_end	enalaprilat	serum	RIA	NA	1264.45086705202	ng/ml*hr	NA
+Weisser1992	S5	NA	19.0	ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	27.4411788650981	ml/min	auc_end	enalaprilat	serum	RIA	NA	1466.76300578035	ng/ml*hr	NA
+Weisser1992	S6	NA	19.0	ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	31.6103557762761	ml/min	auc_end	enalaprilat	serum	RIA	NA	768.78612716763	ng/ml*hr	NA
+Weisser1992	S7	NA	19.0	ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	34.9987787999674	ml/min	auc_end	enalaprilat	serum	RIA	NA	869.942196531792	ng/ml*hr	NA
+Weisser1992	S8	NA	19.0	ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	35.589839615729	ml/min	auc_end	enalaprilat	serum	RIA	NA	1213.87283236994	ng/ml*hr	NA
+Weisser1992	S9	NA	19.0	ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	36.9518847187169	ml/min	auc_end	enalaprilat	serum	RIA	NA	637.283236994219	ng/ml*hr	NA
+Weisser1992	S10	NA	19.0	ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	37.7904420744118	ml/min	auc_end	enalaprilat	serum	RIA	NA	556.35838150289	ng/ml*hr	NA
+Weisser1992	S11	NA	19.0	ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	39.4561589188309	ml/min	auc_end	enalaprilat	serum	RIA	NA	252.890173410404	ng/ml*hr	NA
+Weisser1992	S12	NA	19.0	ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	44.29862411463	ml/min	auc_end	enalaprilat	serum	RIA	NA	920.520231213873	ng/ml*hr	NA
+Weisser1992	S13	NA	19.0	ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	47.3605796629488	ml/min	auc_end	enalaprilat	serum	RIA	NA	465.317919075144	ng/ml*hr	NA
+Weisser1992	S14	NA	19.0	ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	51.0347634942603	ml/min	auc_end	enalaprilat	serum	RIA	NA	617.052023121387	ng/ml*hr	NA
+Weisser1992	S15	NA	19.0	ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	57.7790442074412	ml/min	auc_end	enalaprilat	serum	RIA	NA	414.739884393064	ng/ml*hr	NA
+Weisser1992	S16	NA	19.0	ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	67.3589513962387	ml/min	auc_end	enalaprilat	serum	RIA	NA	445.086705202312	ng/ml*hr	NA
+Weisser1992	S1	NA	18.0	ENA10	NA	NA	clearance	creatinine	urine	NR	NA	11.2113110519617	ml/min	clearance	enalaprilat	urine	NR	NA	1.89771343472745	ml/min	NA
+Weisser1992	S2	NA	18.0	ENA10	NA	NA	clearance	creatinine	urine	NR	NA	16.347082627573	ml/min	clearance	enalaprilat	urine	NR	NA	12.9478258645694	ml/min	NA
+Weisser1992	S3	NA	18.0	ENA10	NA	NA	clearance	creatinine	urine	NR	NA	25.7628605771595	ml/min	clearance	enalaprilat	urine	NR	NA	33.2803349091221	ml/min	NA
+Weisser1992	S4	NA	18.0	ENA10	NA	NA	clearance	creatinine	urine	NR	NA	26.5879362681162	ml/min	clearance	enalaprilat	urine	NR	NA	23.5087947088142	ml/min	NA
+Weisser1992	S5	NA	18.0	ENA10	NA	NA	clearance	creatinine	urine	NR	NA	27.4271763486171	ml/min	clearance	enalaprilat	urine	NR	NA	19.0630649771704	ml/min	NA
+Weisser1992	S6	NA	18.0	ENA10	NA	NA	clearance	creatinine	urine	NR	NA	27.4342585433893	ml/min	clearance	enalaprilat	urine	NR	NA	21.7259702115024	ml/min	NA
+Weisser1992	S7	NA	18.0	ENA10	NA	NA	clearance	creatinine	urine	NR	NA	35.1711628767088	ml/min	clearance	enalaprilat	urine	NR	NA	157.468666206324	ml/min	NA
+Weisser1992	S8	NA	18.0	ENA10	NA	NA	clearance	creatinine	urine	NR	NA	35.6716379739415	ml/min	clearance	enalaprilat	urine	NR	NA	25.6473027657943	ml/min	NA
+Weisser1992	S9	NA	18.0	ENA10	NA	NA	clearance	creatinine	urine	NR	NA	37.1726698103742	ml/min	clearance	enalaprilat	urine	NR	NA	56.7019399311851	ml/min	NA
+Weisser1992	S10	NA	18.0	ENA10	NA	NA	clearance	creatinine	urine	NR	NA	38.6229459176066	ml/min	clearance	enalaprilat	urine	NR	NA	68.6724229171957	ml/min	NA
+Weisser1992	S11	NA	18.0	ENA10	NA	NA	clearance	creatinine	urine	NR	NA	39.0577139855641	ml/min	clearance	enalaprilat	urine	NR	NA	125.478549802584	ml/min	NA
+Weisser1992	S12	NA	18.0	ENA10	NA	NA	clearance	creatinine	urine	NR	NA	44.5294963575879	ml/min	clearance	enalaprilat	urine	NR	NA	49.5353883501835	ml/min	NA
+Weisser1992	S13	NA	18.0	ENA10	NA	NA	clearance	creatinine	urine	NR	NA	47.5610691753374	ml/min	clearance	enalaprilat	urine	NR	NA	122.740101157349	ml/min	NA
+Weisser1992	S14	NA	18.0	ENA10	NA	NA	clearance	creatinine	urine	NR	NA	51.3472891915872	ml/min	clearance	enalaprilat	urine	NR	NA	53.0254939339039	ml/min	NA
+Weisser1992	S15	NA	18.0	ENA10	NA	NA	clearance	creatinine	urine	NR	NA	58.2146573889915	ml/min	clearance	enalaprilat	urine	NR	NA	75.155936157949	ml/min	NA
+Weisser1992	S16	NA	18.0	ENA10	NA	NA	clearance	creatinine	urine	NR	NA	67.8456553685987	ml/min	clearance	enalaprilat	urine	NR	NA	69.7445098235947	ml/min	NA
+Weisser1992	S1	NA	19.0	HCTZ25, ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	10.9940568265082	ml/min	auc_end	enalaprilat	serum	RIA	NA	3611.27167630058	ng/ml*hr	NA
+Weisser1992	S2	NA	19.0	HCTZ25, ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	16.0490108279736	ml/min	auc_end	enalaprilat	serum	RIA	NA	3419.07514450867	ng/ml*hr	NA
+Weisser1992	S3	NA	19.0	HCTZ25, ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	26.0091182935765	ml/min	auc_end	enalaprilat	serum	RIA	NA	1173.41040462428	ng/ml*hr	NA
+Weisser1992	S4	NA	19.0	HCTZ25, ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	26.3420988357893	ml/min	auc_end	enalaprilat	serum	RIA	NA	1810.6936416185	ng/ml*hr	NA
+Weisser1992	S5	NA	19.0	HCTZ25, ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	27.4656028657494	ml/min	auc_end	enalaprilat	serum	RIA	NA	1770.23121387283	ng/ml*hr	NA
+Weisser1992	S6	NA	19.0	HCTZ25, ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	31.0380200276805	ml/min	auc_end	enalaprilat	serum	RIA	NA	657.514450867052	ng/ml*hr	NA
+Weisser1992	S7	NA	19.0	HCTZ25, ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	34.4793617194496	ml/min	auc_end	enalaprilat	serum	RIA	NA	1416.18497109827	ng/ml*hr	NA
+Weisser1992	S8	NA	19.0	HCTZ25, ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	35.365138809737	ml/min	auc_end	enalaprilat	serum	RIA	NA	1921.96531791908	ng/ml*hr	NA
+Weisser1992	S9	NA	19.0	HCTZ25, ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	37.2295041927868	ml/min	auc_end	enalaprilat	serum	RIA	NA	586.705202312139	ng/ml*hr	NA
+Weisser1992	S10	NA	19.0	HCTZ25, ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	38.6493527639827	ml/min	auc_end	enalaprilat	serum	RIA	NA	728.323699421966	ng/ml*hr	NA
+Weisser1992	S11	NA	19.0	HCTZ25, ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	39.1883090450216	ml/min	auc_end	enalaprilat	serum	RIA	NA	424.85549132948	ng/ml*hr	NA
+Weisser1992	S12	NA	19.0	HCTZ25, ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	44.0210046405601	ml/min	auc_end	enalaprilat	serum	RIA	NA	971.098265895954	ng/ml*hr	NA
+Weisser1992	S13	NA	19.0	HCTZ25, ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	47.3630220630139	ml/min	auc_end	enalaprilat	serum	RIA	NA	495.664739884393	ng/ml*hr	NA
+Weisser1992	S14	NA	19.0	HCTZ25, ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	50.7677277538061	ml/min	auc_end	enalaprilat	serum	RIA	NA	799.132947976878	ng/ml*hr	NA
+Weisser1992	S15	NA	19.0	HCTZ25, ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	58.0884148823577	ml/min	auc_end	enalaprilat	serum	RIA	NA	758.670520231214	ng/ml*hr	NA
+Weisser1992	S16	NA	19.0	HCTZ25, ENA10	32.0	hr	clearance	creatinine	urine	NR	NA	67.364650329724	ml/min	auc_end	enalaprilat	serum	RIA	NA	515.895953757225	ng/ml*hr	NA
+Weisser1992	S2	NA	18.0	HCTZ25, ENA10	NA	NA	clearance	creatinine	urine	NR	NA	16.3376397012101	ml/min	clearance	enalaprilat	urine	NR	NA	9.39728555212656	ml/min	NA
+Weisser1992	S3	NA	18.0	HCTZ25, ENA10	NA	NA	clearance	creatinine	urine	NR	NA	25.4473094545333	ml/min	clearance	enalaprilat	urine	NR	NA	21.2997794683245	ml/min	NA
+Weisser1992	S4	NA	18.0	HCTZ25, ENA10	NA	NA	clearance	creatinine	urine	NR	NA	26.5607878548229	ml/min	clearance	enalaprilat	urine	NR	NA	13.3009913105411	ml/min	NA
+Weisser1992	S5	NA	18.0	HCTZ25, ENA10	NA	NA	clearance	creatinine	urine	NR	NA	27.1541183946238	ml/min	clearance	enalaprilat	urine	NR	NA	23.0599409423653	ml/min	NA
+Weisser1992	S7	NA	18.0	HCTZ25, ENA10	NA	NA	clearance	creatinine	urine	NR	NA	34.78164216424	ml/min	clearance	enalaprilat	urine	NR	NA	11.0088783180581	ml/min	NA
+Weisser1992	S8	NA	18.0	HCTZ25, ENA10	NA	NA	clearance	creatinine	urine	NR	NA	35.3667101434735	ml/min	clearance	enalaprilat	urine	NR	NA	17.6611051764948	ml/min	NA
+Weisser1992	S9	NA	18.0	HCTZ25, ENA10	NA	NA	clearance	creatinine	urine	NR	NA	36.8523972245665	ml/min	clearance	enalaprilat	urine	NR	NA	42.9461143341659	ml/min	NA
+Weisser1992	S10	NA	18.0	HCTZ25, ENA10	NA	NA	clearance	creatinine	urine	NR	NA	38.3180180871385	ml/min	clearance	enalaprilat	urine	NR	NA	60.6862253278962	ml/min	NA
+Weisser1992	S11	NA	18.0	HCTZ25, ENA10	NA	NA	clearance	creatinine	urine	NR	NA	38.9562025271632	ml/min	clearance	enalaprilat	urine	NR	NA	87.3102414438236	ml/min	NA
+Weisser1992	S12	NA	18.0	HCTZ25, ENA10	NA	NA	clearance	creatinine	urine	NR	NA	44.3343425460884	ml/min	clearance	enalaprilat	urine	NR	NA	82.8242218930316	ml/min	NA
+Weisser1992	S13	NA	18.0	HCTZ25, ENA10	NA	NA	clearance	creatinine	urine	NR	NA	47.8577344452379	ml/min	clearance	enalaprilat	urine	NR	NA	127.619575973261	ml/min	NA
+Weisser1992	S14	NA	18.0	HCTZ25, ENA10	NA	NA	clearance	creatinine	urine	NR	NA	51.0093111188491	ml/min	clearance	enalaprilat	urine	NR	NA	32.6124052510545	ml/min	NA
+Weisser1992	S15	NA	18.0	HCTZ25, ENA10	NA	NA	clearance	creatinine	urine	NR	NA	58.1001619068416	ml/min	clearance	enalaprilat	urine	NR	NA	32.1056348695799	ml/min	NA
+Weisser1992	S16	NA	18.0	HCTZ25, ENA10	NA	NA	clearance	creatinine	urine	NR	NA	68.0537932038472	ml/min	clearance	enalaprilat	urine	NR	NA	41.3376692103554	ml/min	NA

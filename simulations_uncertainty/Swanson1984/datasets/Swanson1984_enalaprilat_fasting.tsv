@@ -1,0 +1,12 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Swanson1984		fasting	12.0	ENA40	concentration	enalaprilat	serum	RIA	enalaprilat_fasting	1.0	hr		4.567249067509822e-05					mole/meter^3	ng/ml	dimensionless
+Swanson1984		fasting	12.0	ENA40	concentration	enalaprilat	serum	RIA	enalaprilat_fasting	2.0	hr		0.0002829440912969122					mole/meter^3	ng/ml	dimensionless
+Swanson1984		fasting	12.0	ENA40	concentration	enalaprilat	serum	RIA	enalaprilat_fasting	3.0	hr		0.00037845853108836103					mole/meter^3	ng/ml	dimensionless
+Swanson1984		fasting	12.0	ENA40	concentration	enalaprilat	serum	RIA	enalaprilat_fasting	4.0	hr		0.00040302336810629986					mole/meter^3	ng/ml	dimensionless
+Swanson1984		fasting	12.0	ENA40	concentration	enalaprilat	serum	RIA	enalaprilat_fasting	6.0	hr		0.00030368724297701505					mole/meter^3	ng/ml	dimensionless
+Swanson1984		fasting	12.0	ENA40	concentration	enalaprilat	serum	RIA	enalaprilat_fasting	8.0	hr		0.00021829255445636803					mole/meter^3	ng/ml	dimensionless
+Swanson1984		fasting	12.0	ENA40	concentration	enalaprilat	serum	RIA	enalaprilat_fasting	12.0	hr		0.00010844105044882341					mole/meter^3	ng/ml	dimensionless
+Swanson1984		fasting	12.0	ENA40	concentration	enalaprilat	serum	RIA	enalaprilat_fasting	16.0	hr		5.64719072068821e-05					mole/meter^3	ng/ml	dimensionless
+Swanson1984		fasting	12.0	ENA40	concentration	enalaprilat	serum	RIA	enalaprilat_fasting	24.0	hr		1.8935975959279766e-05					mole/meter^3	ng/ml	dimensionless
+Swanson1984		fasting	12.0	ENA40	concentration	enalaprilat	serum	RIA	enalaprilat_fasting	36.0	hr		8.426488086849615e-06					mole/meter^3	ng/ml	dimensionless
+Swanson1984		fasting	12.0	ENA40	concentration	enalaprilat	serum	RIA	enalaprilat_fasting	48.0	hr		3.204244937811372e-06					mole/meter^3	ng/ml	dimensionless

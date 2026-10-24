@@ -1,0 +1,5 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	min	max	comments	mean_unit	value_unit	count_unit
+Schwartz1985		HT	5	ENA40	concentration	aldosterone	plasma	CC	HT_ENA40_aldosterone	0	hr		1.0		0.5563380281690141	0.24880192989082184				dimensionless	dimensionless	dimensionless
+Schwartz1985		HT	5	ENA40	concentration	aldosterone	plasma	CC	HT_ENA40_aldosterone	4	hr		0.5211267605633804		0.28169014084507044	0.12597566070421337				dimensionless	dimensionless	dimensionless
+Schwartz1985		HT	5	ENA40	concentration	aldosterone	plasma	CC	HT_ENA40_aldosterone	12	hr		0.8098591549295775		0.5140845070422535	0.22990558078518944				dimensionless	dimensionless	dimensionless
+Schwartz1985		HT	5	ENA40	concentration	aldosterone	plasma	CC	HT_ENA40_aldosterone	24	hr		1.591549295774648		0.6901408450704226	0.3086403687253233				dimensionless	dimensionless	dimensionless

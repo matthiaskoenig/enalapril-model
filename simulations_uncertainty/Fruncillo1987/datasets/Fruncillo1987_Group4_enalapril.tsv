@@ -1,0 +1,16 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Fruncillo1987		Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	0.89021776630111	hr		0.0001685757834845116					mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	3.23393934325113	hr		0.0001203723939453038					mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	4.0162671322384	hr		8.445507562273544e-05					mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	6.14847417226851	hr		6.43308020096574e-05					mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	8.11081722476033	hr		4.1389674410359555e-05					mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	12.0641067190783	hr		1.685641194928501e-05					mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	23.8534703563924	hr		1.4599429562810566e-05					mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	336.0	hr		7.53080715270515e-06				last dose on day 15 (336 hr), shifted by 72 hr	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	337.0	hr		0.00011594412786407478				last dose on day 15 (336 hr), shifted by 72 hr	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	338.0	hr		0.00012828935853258908				last dose on day 15 (336 hr), shifted by 72 hr	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	339.0	hr		7.940429147352468e-05				last dose on day 15 (336 hr), shifted by 72 hr	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	340.0	hr		4.961753631573553e-05				last dose on day 15 (336 hr), shifted by 72 hr	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	344.0	hr		9.685417860710161e-06				last dose on day 15 (336 hr), shifted by 72 hr	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	348.0	hr		3.458691298626419e-06				last dose on day 15 (336 hr), shifted by 72 hr	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group4	6.0	ENA5m2	concentration	enalapril	plasma	enzymatic assay	Group4_enalapril	360.0	hr		8.938682916703002e-06				last dose on day 15 (336 hr), shifted by 72 hr	mole/meter^3	ng/ml	dimensionless

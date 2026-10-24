@@ -1,0 +1,8 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Shionoiri1985		all	13.0	ENA10	MAP			sphygmomanometer	ENA10_MAP	0.0	hr		131.62504844693	137.618072089032	21.6081540366667	5.993023642102		mmHg	mmHg	dimensionless
+Shionoiri1985		all	13.0	ENA10	MAP			sphygmomanometer	ENA10_MAP	1.0	hr		122.383035269365	128.389347212225	21.6560656864135	6.00631194286001		mmHg	mmHg	dimensionless
+Shionoiri1985		all	13.0	ENA10	MAP			sphygmomanometer	ENA10_MAP	2.0	hr		111.440119594707	116.582691988262	18.5418084527481	5.142572393555		mmHg	mmHg	dimensionless
+Shionoiri1985		all	13.0	ENA10	MAP			sphygmomanometer	ENA10_MAP	4.0	hr		105.819168373844	110.961740767399	18.5418084527481	5.142572393555		mmHg	mmHg	dimensionless
+Shionoiri1985		all	13.0	ENA10	MAP			sphygmomanometer	ENA10_MAP	6.0	hr		101.912407950833	106.197884945463	15.4515070439598	4.28547699463		mmHg	mmHg	dimensionless
+Shionoiri1985		all	13.0	ENA10	MAP			sphygmomanometer	ENA10_MAP	9.0	hr		105.905542328775	110.197663473783	15.4754628688295	4.292121145008		mmHg	mmHg	dimensionless
+Shionoiri1985		all	13.0	ENA10	MAP			sphygmomanometer	ENA10_MAP	24.0	hr		117.977963567909	121.399701013233	12.3372498102908	3.421737445324		mmHg	mmHg	dimensionless

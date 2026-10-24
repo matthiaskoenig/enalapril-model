@@ -1,0 +1,9 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Ishizaki1988		all	7.0	ENA10	blood pressure diastolic	enalapril		sphygmomanometer	ENA10_blood pressure diastolic	0.0	hr		74.1102471055814	71.1553481942284	7.81792766877553	2.954898911353		mmHg	mmHg	dimensionless
+Ishizaki1988		all	7.0	ENA10	blood pressure diastolic	enalapril		sphygmomanometer	ENA10_blood pressure diastolic	1.0	hr		71.4197338862968	68.7603248660791	7.03613490189796	2.65940902021769		mmHg	mmHg	dimensionless
+Ishizaki1988		all	7.0	ENA10	blood pressure diastolic	enalapril		sphygmomanometer	ENA10_blood pressure diastolic	2.0	hr		67.2534992223949	62.8211508553654	11.7268915031633	4.43234836702949		mmHg	mmHg	dimensionless
+Ishizaki1988		all	7.0	ENA10	blood pressure diastolic	enalapril		sphygmomanometer	ENA10_blood pressure diastolic	4.0	hr		56.5553827544496	52.7140141696906	10.1633059694085	3.841368584759		mmHg	mmHg	dimensionless
+Ishizaki1988		all	7.0	ENA10	blood pressure diastolic	enalapril		sphygmomanometer	ENA10_blood pressure diastolic	6.0	hr		67.1359944703645	70.6818731639882	9.38151320253092	3.54587869362371		mmHg	mmHg	dimensionless
+Ishizaki1988		all	7.0	ENA10	blood pressure diastolic	enalapril		sphygmomanometer	ENA10_blood pressure diastolic	8.0	hr		67.6682218766199	62.3511318472437	14.0676979162705	5.3170900293762		mmHg	mmHg	dimensionless
+Ishizaki1988		all	7.0	ENA10	blood pressure diastolic	enalapril		sphygmomanometer	ENA10_blood pressure diastolic	12.0	hr		64.8878520822533	59.2752721617418	14.8494906831481	5.6125799205115		mmHg	mmHg	dimensionless
+Ishizaki1988		all	7.0	ENA10	blood pressure diastolic	enalapril		sphygmomanometer	ENA10_blood pressure diastolic	24.0	hr		68.0794885087264	72.2163469846206	10.9450987362857	4.1368584758942		mmHg	mmHg	dimensionless

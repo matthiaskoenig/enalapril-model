@@ -1,0 +1,7 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Ulm1982	all	12	NA	species	12	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Ulm1982	all	12	NA	healthy	12	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Ulm1982	all	12	NA	sex	12	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Ulm1982	all	12	NA	age	12	NA	NA	NA	NA	NA	NA	22.0	33.0	yr	NA
+Ulm1982	all	12	NA	weight	12	NA	NA	69.4	NA	2.2	NA	59.0	82.0	kg	they published weight in another paper (Brunner et all 1981)
+Ulm1982	all	12	NA	overnight fast	12	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA

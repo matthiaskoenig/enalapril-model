@@ -1,0 +1,49 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Sunaga1995	NA	day	12.0	PLACEBO	renin activity	NA	plasma	RIA	day_PLACEBO_renin activity	0.0	hr	NA	1.98426573426574	3.54857099422317	1.56430525995743	0.451576031465585	ng/ml/hr	NA
+Sunaga1995	NA	day	12.0	PLACEBO	renin activity	NA	plasma	RIA	day_PLACEBO_renin activity	4.0	hr	NA	1.2697628458498	2.15415019762846	0.88438735177866	0.255300637808655	ng/ml/hr	NA
+Sunaga1995	NA	day	12.0	PLACEBO	renin activity	NA	plasma	RIA	day_PLACEBO_renin activity	8.0	hr	NA	1.10025843721496	1.64487686226817	0.54461842505321	0.15721779715505	ng/ml/hr	NA
+Sunaga1995	NA	day	12.0	ENA5	renin activity	NA	plasma	RIA	day_ENA5_renin activity	0.0	hr	NA	1.71442687747036	2.93858315597446	1.2241562785041	0.353383478462256	ng/ml/hr	NA
+Sunaga1995	NA	day	12.0	ENA5	renin activity	NA	plasma	RIA	day_ENA5_renin activity	4.0	hr	NA	2.56460930373974	5.3545910611128	2.78998175737306	0.805398359326741	ng/ml/hr	NA
+Sunaga1995	NA	day	12.0	ENA5	renin activity	NA	plasma	RIA	day_ENA5_renin activity	8.0	hr	NA	NA	NA	NA	NA	ng/ml/hr	NA
+Sunaga1995	NA	night	12.0	PLACEBO	renin activity	NA	plasma	RIA	night_PLACEBO_renin activity	0.0	hr	NA	1.38986013986014	2.20583764062025	0.81597750076011	0.235552414858264	ng/ml/hr	NA
+Sunaga1995	NA	night	12.0	PLACEBO	renin activity	NA	plasma	RIA	night_PLACEBO_renin activity	4.0	hr	NA	1.28724536333232	2.51254180602007	1.22529644268775	0.353712615511432	ng/ml/hr	NA
+Sunaga1995	NA	night	12.0	PLACEBO	renin activity	NA	plasma	RIA	night_PLACEBO_renin activity	8.0	hr	NA	1.04971115840681	2.0701581027668	1.02044694435999	0.294577659009986	ng/ml/hr	NA
+Sunaga1995	NA	night	12.0	ENA5	renin activity	NA	plasma	RIA	night_ENA5_renin activity	0.0	hr	NA	1.32411067193676	2.00440863484342	0.68029796290666	0.196385106006657	ng/ml/hr	NA
+Sunaga1995	NA	night	12.0	ENA5	renin activity	NA	plasma	RIA	night_ENA5_renin activity	4.0	hr	NA	3.94382791121922	9.24977196716327	5.30594405594405	1.5316941145022	ng/ml/hr	NA
+Sunaga1995	NA	night	12.0	ENA5	renin activity	NA	plasma	RIA	night_ENA5_renin activity	8.0	hr	NA	4.0453025235634	8.80738826391001	4.76208574034661	1.3746957420466	ng/ml/hr	NA
+Sunaga1995	NA	day	12.0	PLACEBO	concentration	bradykinin	plasma	RIA	day_PLACEBO_bradykinin	0.0	hr	NA	22.9117584065102	34.6344684800449	11.7227100735347	3.3840549082936	pg/ml	NA
+Sunaga1995	NA	day	12.0	PLACEBO	concentration	bradykinin	plasma	RIA	day_PLACEBO_bradykinin	4.0	hr	NA	36.2657956735912	89.678375098165	53.4125794245738	15.418883554445	pg/ml	NA
+Sunaga1995	NA	day	12.0	PLACEBO	concentration	bradykinin	plasma	RIA	day_PLACEBO_bradykinin	8.0	hr	NA	18.3426144070816	26.1565645748548	7.8139501677732	2.25569311639909	pg/ml	NA
+Sunaga1995	NA	day	12.0	ENA5	concentration	bradykinin	plasma	RIA	day_ENA5_bradykinin	0.0	hr	NA	20.3309059755828	30.7506960805304	10.4197901049476	3.00793431099545	pg/ml	NA
+Sunaga1995	NA	day	12.0	ENA5	concentration	bradykinin	plasma	RIA	day_ENA5_bradykinin	4.0	hr	NA	50.6157635467975	136.612051117299	85.9962875705015	24.8249898890688	pg/ml	NA
+Sunaga1995	NA	day	12.0	ENA5	concentration	bradykinin	plasma	RIA	day_ENA5_bradykinin	8.0	hr	NA	65.2727207824657	179.926108374385	114.653387591919	33.0975820948486	pg/ml	NA
+Sunaga1995	NA	night	12.0	PLACEBO	concentration	bradykinin	plasma	RIA	night_PLACEBO_bradykinin	0.0	hr	NA	22.412008281573	31.5360177054326	9.1240094238596	2.63387464847701	pg/ml	NA
+Sunaga1995	NA	night	12.0	PLACEBO	concentration	bradykinin	plasma	RIA	night_PLACEBO_bradykinin	4.0	hr	NA	18.820946669522	26.6384664810448	7.8175198115228	2.25672358378896	pg/ml	NA
+Sunaga1995	NA	night	12.0	PLACEBO	concentration	bradykinin	plasma	RIA	night_PLACEBO_bradykinin	8.0	hr	NA	23.0581138002425	36.0837438423645	13.025630042122	3.76017550559181	pg/ml	NA
+Sunaga1995	NA	night	12.0	ENA5	concentration	bradykinin	plasma	RIA	night_ENA5_bradykinin	0.0	hr	NA	28.9480259870061	38.0720354108657	9.1240094238596	2.63387464847701	pg/ml	NA
+Sunaga1995	NA	night	12.0	ENA5	concentration	bradykinin	plasma	RIA	night_ENA5_bradykinin	4.0	hr	NA	18.8459341757688	25.3569643749551	6.5110301991863	1.879572519101	pg/ml	NA
+Sunaga1995	NA	night	12.0	ENA5	concentration	bradykinin	plasma	RIA	night_ENA5_bradykinin	8.0	hr	NA	17.8714214321409	25.6889412436637	7.8175198115228	2.25672358378896	pg/ml	NA
+Sunaga1995	NA	day	12.0	PLACEBO	concentration	substance P	plasma	RIA	day_PLACEBO_substance P	0.0	hr	NA	12.3684210526315	20.5263157894737	8.1578947368422	2.35498136116824	pg/ml	NA
+Sunaga1995	NA	day	12.0	PLACEBO	concentration	substance P	plasma	RIA	day_PLACEBO_substance P	4.0	hr	NA	15.7894736842105	20.6578947368421	4.8684210526316	1.40539210263265	pg/ml	NA
+Sunaga1995	NA	day	12.0	PLACEBO	concentration	substance P	plasma	RIA	day_PLACEBO_substance P	8.0	hr	NA	13.9473684210526	19.8684210526316	5.921052631579	1.70926066536404	pg/ml	NA
+Sunaga1995	NA	day	12.0	ENA5	concentration	substance P	plasma	RIA	day_ENA5_substance P	0.0	hr	NA	13.6842105263157	17.7631578947368	4.0789473684211	1.17749068058412	pg/ml	NA
+Sunaga1995	NA	day	12.0	ENA5	concentration	substance P	plasma	RIA	day_ENA5_substance P	4.0	hr	NA	15.1315789473684	22.2368421052632	7.1052631578948	2.05111279843685	pg/ml	NA
+Sunaga1995	NA	day	12.0	ENA5	concentration	substance P	plasma	RIA	day_ENA5_substance P	8.0	hr	NA	11.8421052631579	16.3157894736842	4.4736842105263	1.29144139160837	pg/ml	NA
+Sunaga1995	NA	night	12.0	PLACEBO	concentration	substance P	plasma	RIA	night_PLACEBO_substance P	0.0	hr	NA	9.73684210526314	13.9473684210527	4.21052631578956	1.21547425092555	pg/ml	NA
+Sunaga1995	NA	night	12.0	PLACEBO	concentration	substance P	plasma	RIA	night_PLACEBO_substance P	4.0	hr	NA	10.921052631579	14.8684210526316	3.9473684210526	1.13950711024267	pg/ml	NA
+Sunaga1995	NA	night	12.0	PLACEBO	concentration	substance P	plasma	RIA	night_PLACEBO_substance P	8.0	hr	NA	9.86842105263163	13.9473684210527	4.07894736842107	1.17749068058411	pg/ml	NA
+Sunaga1995	NA	night	12.0	ENA5	concentration	substance P	plasma	RIA	night_ENA5_substance P	0.0	hr	NA	9.47368421052632	14.4736842105264	5.00000000000008	1.44337567297409	pg/ml	NA
+Sunaga1995	NA	night	12.0	ENA5	concentration	substance P	plasma	RIA	night_ENA5_substance P	4.0	hr	NA	9.34210526315792	13.6842105263158	4.34210526315788	1.25345782126695	pg/ml	NA
+Sunaga1995	NA	night	12.0	ENA5	concentration	substance P	plasma	RIA	night_ENA5_substance P	8.0	hr	NA	11.3157894736843	17.2368421052633	5.921052631579	1.70926066536404	pg/ml	NA
+Sunaga1995	NA	day	12.0	PLACEBO	concentration	prostaglandin E2	plasma	RIA	day_PLACEBO_prostaglandin E2	0.0	hr	NA	7.16693510768447	19.0515670794498	11.8846319717653	3.43079773405917	pg/ml	NA
+Sunaga1995	NA	day	12.0	PLACEBO	concentration	prostaglandin E2	plasma	RIA	day_PLACEBO_prostaglandin E2	4.0	hr	NA	9.7548825460531	20.746001989104	10.9911194430509	3.17286288457038	pg/ml	NA
+Sunaga1995	NA	day	12.0	PLACEBO	concentration	prostaglandin E2	plasma	RIA	day_PLACEBO_prostaglandin E2	8.0	hr	NA	3.78052966493291	6.59238331617084	2.81185365123793	0.811712231232025	pg/ml	NA
+Sunaga1995	NA	day	12.0	ENA5	concentration	prostaglandin E2	plasma	RIA	day_ENA5_prostaglandin E2	0.0	hr	NA	3.3355336695447	4.3578978867971	1.0223642172524	0.295131128020257	pg/ml	NA
+Sunaga1995	NA	day	12.0	ENA5	concentration	prostaglandin E2	plasma	RIA	day_ENA5_prostaglandin E2	4.0	hr	NA	9.11872134062092	21.642330948169	12.5236096075481	3.61525468907183	pg/ml	NA
+Sunaga1995	NA	day	12.0	ENA5	concentration	prostaglandin E2	plasma	RIA	day_ENA5_prostaglandin E2	8.0	hr	NA	6.72158705850266	15.9232170675681	9.20163000906544	2.65628178135864	pg/ml	NA
+Sunaga1995	NA	night	12.0	PLACEBO	concentration	prostaglandin E2	plasma	RIA	night_PLACEBO_prostaglandin E2	0.0	hr	NA	4.94547566868232	8.90748906432918	3.96201339564686	1.14373475025481	pg/ml	NA
+Sunaga1995	NA	night	12.0	PLACEBO	concentration	prostaglandin E2	plasma	RIA	night_PLACEBO_prostaglandin E2	4.0	hr	NA	5.36125119918344	9.32291254103649	3.96166134185305	1.1436331210785	pg/ml	NA
+Sunaga1995	NA	night	12.0	PLACEBO	concentration	prostaglandin E2	plasma	RIA	night_PLACEBO_prostaglandin E2	8.0	hr	NA	5.64817504114656	10.8881437083589	5.23996866721234	1.51264866028012	pg/ml	NA
+Sunaga1995	NA	night	12.0	ENA5	concentration	prostaglandin E2	plasma	RIA	night_ENA5_prostaglandin E2	0.0	hr	NA	3.92557582798666	6.48148637111767	2.55591054313101	0.737827820050646	pg/ml	NA
+Sunaga1995	NA	night	12.0	ENA5	concentration	prostaglandin E2	plasma	RIA	night_ENA5_prostaglandin E2	4.0	hr	NA	6.51352326635532	16.0985398568904	9.58501659053508	2.76695595436623	pg/ml	NA
+Sunaga1995	NA	night	12.0	ENA5	concentration	prostaglandin E2	plasma	RIA	night_ENA5_prostaglandin E2	8.0	hr	NA	6.28926499969224	12.0404157755308	5.75115077583856	1.66021422429026	pg/ml	NA

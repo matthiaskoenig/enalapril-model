@@ -1,0 +1,29 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Johnston1992	NA	ena	7.0	ENAs	concentration	enalaprilat	serum	RIA	ENAs_enalaprilat	1.62065000443376	hr	NA	1.46631380859143	NA	NA	NA	ng/ml	timepoints from digitized plots
+Johnston1992	NA	ena	7.0	ENAs	concentration	enalaprilat	serum	RIA	ENAs_enalaprilat	2.70910288223776	hr	NA	2.59901318772786	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAs	concentration	enalaprilat	serum	RIA	ENAs_enalaprilat	3.70960731382186	hr	NA	4.6061460993455	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAs	concentration	enalaprilat	serum	RIA	ENAs_enalaprilat	4.58451264204401	hr	NA	5.8612540411397	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAs	concentration	enalaprilat	serum	RIA	ENAs_enalaprilat	5.72435357892028	hr	NA	7.04705466853818	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAs	concentration	enalaprilat	serum	RIA	ENAs_enalaprilat	6.68938789335124	hr	NA	8.00068792153322	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAs	concentration	enalaprilat	serum	RIA	ENAs_enalaprilat	7.65616663977334	hr	NA	8.29046016350158	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAs	concentration	enalaprilat	serum	RIA	ENAs_enalaprilat	8.83976374576066	hr	NA	10.0827836079607	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAs	concentration	enalaprilat	serum	RIA	ENAs_enalaprilat	9.72251901794294	hr	NA	8.50600350309513	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAs	concentration	enalaprilat	serum	RIA	ENAs_enalaprilat	10.8205662716982	hr	NA	9.12285992939471	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAs	concentration	enalaprilat	serum	RIA	ENAs_enalaprilat	24.5098509528233	hr	NA	4.63230725699374	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAs	concentration	enalaprilat	serum	RIA	ENAs_enalaprilat	32.7881256514363	hr	NA	2.61716263687314	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAs	concentration	enalaprilat	serum	RIA	ENAs_enalaprilat	48.6730687320741	hr	NA	1.56395789904419	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAm	concentration	enalaprilat	serum	RIA	ENAm_enalaprilat	169.634314721698	hr	NA	7.16953936882406	NA	NA	NA	ng/ml	timepoints from digitized plots
+Johnston1992	NA	ena	7.0	ENAm	concentration	enalaprilat	serum	RIA	ENAm_enalaprilat	170.773719550576	hr	NA	8.81912392237443	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAm	concentration	enalaprilat	serum	RIA	ENAm_enalaprilat	171.781637818123	hr	NA	10.6014200173518	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAm	concentration	enalaprilat	serum	RIA	ENAm_enalaprilat	172.702043747447	hr	NA	12.4546982017557	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAm	concentration	enalaprilat	serum	RIA	ENAm_enalaprilat	173.844065224312	hr	NA	13.3587193019764	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAm	concentration	enalaprilat	serum	RIA	ENAm_enalaprilat	174.855908463839	hr	NA	13.0752366385369	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAm	concentration	enalaprilat	serum	RIA	ENAm_enalaprilat	175.648534749812	hr	NA	12.3631123104619	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAm	concentration	enalaprilat	serum	RIA	ENAm_enalaprilat	176.791864550671	hr	NA	12.3824944788141	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAm	concentration	enalaprilat	serum	RIA	ENAm_enalaprilat	177.716195451975	hr	NA	11.8446831413543	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAm	concentration	enalaprilat	serum	RIA	ENAm_enalaprilat	178.817077407716	hr	NA	10.951352894048	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAm	concentration	enalaprilat	serum	RIA	ENAm_enalaprilat	179.784074208137	hr	NA	11.2191649224566	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAm	concentration	enalaprilat	serum	RIA	ENAm_enalaprilat	180.753251548547	hr	NA	10.2533979021459	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAm	concentration	enalaprilat	serum	RIA	ENAm_enalaprilat	192.69032697924	hr	NA	3.64562939505632	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAm	concentration	enalaprilat	serum	RIA	ENAm_enalaprilat	200.697778611229	hr	NA	2.96703319988079	NA	NA	NA	ng/ml	NA
+Johnston1992	NA	ena	7.0	ENAm	concentration	enalaprilat	serum	RIA	ENAm_enalaprilat	216.672959705075	hr	NA	1.57291165995947	NA	NA	NA	ng/ml	NA

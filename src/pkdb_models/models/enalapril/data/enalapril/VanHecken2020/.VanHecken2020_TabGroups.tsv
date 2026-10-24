@@ -1,0 +1,9 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+VanHecken2020	all	24	NA	species	24	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+VanHecken2020	all	24	NA	healthy	24	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+VanHecken2020	all	24	NA	ethnicity	24	NA	caucasian	NA	NA	NA	NA	NA	NA	NA	NA
+VanHecken2020	all	24	NA	overnight fast	24	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+VanHecken2020	all	24	NA	sex	11	NA	F	NA	NA	NA	NA	NA	NA	NA	all women practised an “effective method of birth control”
+VanHecken2020	all	24	NA	sex	13	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+VanHecken2020	all	24	NA	age	24	NA	NA	27.7	24.4	NA	NA	22.1	47.2	yr	NA
+VanHecken2020	all	24	NA	bmi	24	NA	NA	22.7	22.2	NA	NA	18.6	28.8	kg/m^2	NA

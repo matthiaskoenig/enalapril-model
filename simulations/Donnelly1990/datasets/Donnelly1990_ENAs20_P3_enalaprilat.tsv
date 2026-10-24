@@ -1,0 +1,17 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Donnelly1990	P3		1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	0.0	hr	1.6125203981437804e-06						ng/ml	mole/meter^3	dimensionless
+Donnelly1990	P3		1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	0.5	hr	1.3758243510440893e-05						ng/ml	mole/meter^3	dimensionless
+Donnelly1990	P3		1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	1.0	hr	0.00010976112381166533						ng/ml	mole/meter^3	dimensionless
+Donnelly1990	P3		1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	1.5	hr	0.00018478142535934675						ng/ml	mole/meter^3	dimensionless
+Donnelly1990	P3		1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	2.0	hr	0.0002904563798067157						ng/ml	mole/meter^3	dimensionless
+Donnelly1990	P3		1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	2.5	hr	0.00030663035567165414						ng/ml	mole/meter^3	dimensionless
+Donnelly1990	P3		1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	3.0	hr	0.00041875081934752533						ng/ml	mole/meter^3	dimensionless
+Donnelly1990	P3		1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	3.5	hr	0.00036316763749505155						ng/ml	mole/meter^3	dimensionless
+Donnelly1990	P3		1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	4.0	hr	0.0003430599044017485						ng/ml	mole/meter^3	dimensionless
+Donnelly1990	P3		1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	5.0	hr	0.0003488088901690444						ng/ml	mole/meter^3	dimensionless
+Donnelly1990	P3		1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	6.0	hr	0.00022071411052630702						ng/ml	mole/meter^3	dimensionless
+Donnelly1990	P3		1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	7.0	hr	0.0001442199836241785						ng/ml	mole/meter^3	dimensionless
+Donnelly1990	P3		1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	8.0	hr	0.0001064278703988667						ng/ml	mole/meter^3	dimensionless
+Donnelly1990	P3		1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	12.0	hr	6.228169522661496e-05						ng/ml	mole/meter^3	dimensionless
+Donnelly1990	P3		1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	24.0	hr	2.297765361287297e-05						ng/ml	mole/meter^3	dimensionless
+Donnelly1990	P3		1.0	ENAs20	concentration	enalaprilat	plasma	RIA	ENAs20_P3_enalaprilat	32.0	hr	8.666154049004747e-06						ng/ml	mole/meter^3	dimensionless

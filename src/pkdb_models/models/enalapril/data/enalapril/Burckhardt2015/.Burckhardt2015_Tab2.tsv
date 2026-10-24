@@ -1,0 +1,34 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	median	mean_pm	sd	se	min	max	unit	comments
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	cmax	aliskiren	serum	HPLC MS/MS	cmax_aliskiren	NA	NA	NA	502.5	307.0	NA	503.1	NA	267.0	517.0	ng/ml	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	tmax	aliskiren	serum	HPLC MS/MS	tmax_aliskiren	NA	NA	NA	NA	2.67	NA	NA	NA	0.8	4.3	hr	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	auc_end	aliskiren	serum	HPLC MS/MS	auc_end_aliskiren	192.0	hr	NA	1946.2	NA	NA	1285.3	NA	NA	NA	ng/ml*hr	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	auc_inf	aliskiren	serum	HPLC MS/MS	auc_inf_aliskiren	NA	NA	NA	2076.1	1678.1	NA	1340.9	NA	1292.9	5731.4	ng/ml*hr	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	thalf	aliskiren	serum	HPLC MS/MS	thalf_aliskiren	NA	NA	NA	75.6	65.9	NA	20.0	NA	62.7	80.5	hr	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	kel	aliskiren	serum	HPLC MS/MS	kel_aliskiren	NA	NA	NA	0.0097	NA	NA	0.002	NA	NA	NA	1/hr	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	clearance	aliskiren	saliva	HPLC MS/MS	clearance_aliskiren	NA	NA	NA	191.5	178.8	NA	97.2	NA	138.7	232.0	l/hr	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	vd	aliskiren	NA	HPLC MS/MS	vd_aliskiren	NA	NA	NA	21368.3	NA	NA	12694.2	NA	NA	NA	l	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	cumulative amount	aliskiren	urine	HPLC MS/MS	cumulative amount_aliskiren	24.0	hr	NA	1.51	NA	NA	1.0	NA	NA	NA	mg	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	cumulative amount	aliskiren	urine	HPLC MS/MS	cumulative amount_aliskiren	192.0	hr	NA	2.15	1.71	NA	1.36	NA	1.26	5.6	mg	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	clearance_renal	aliskiren	urine	HPLC MS/MS	clearance_renal_aliskiren	NA	NA	NA	1.18	1.14	NA	0.43	NA	0.92	1.03	l/hr	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	cmax	enalapril	serum	HPLC MS/MS	cmax_enalapril	NA	NA	NA	159.7	158.0	NA	67.8	NA	109.0	200.5	ng/ml	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	tmax	enalapril	serum	HPLC MS/MS	tmax_enalapril	NA	NA	NA	NA	1.0	NA	NA	NA	0.7	1.0	hr	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	auc_end	enalapril	serum	HPLC MS/MS	auc_end_enalapril	72.0	hr	NA	230.2	NA	NA	78.2	NA	NA	NA	ng/ml*hr	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	auc_inf	enalapril	serum	HPLC MS/MS	auc_inf_enalapril	NA	NA	NA	231.6	229.3	NA	78.3	NA	178.3	270.5	ng/ml*hr	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	thalf	enalapril	serum	HPLC MS/MS	thalf_enalapril	NA	NA	NA	0.9	0.9	NA	0.3	NA	0.8	1.0	hr	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	kel	enalapril	serum	HPLC MS/MS	kel_enalapril	NA	NA	NA	0.805	NA	NA	0.247	NA	NA	NA	1/hr	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	clearance	enalapril	saliva	HPLC MS/MS	clearance_enalapril	NA	NA	NA	97.5	87.2	NA	40.3	NA	73.9	112.2	l/hr	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	vd	enalapril	NA	HPLC MS/MS	vd_enalapril	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	l	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	cumulative amount	enalapril	urine	HPLC MS/MS	cumulative amount_enalapril	24.0	hr	NA	NA	NA	NA	NA	NA	NA	NA	mg	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	cumulative amount	enalapril	urine	HPLC MS/MS	cumulative amount_enalapril	192.0	hr	NA	3.41	3.44	NA	1.08	NA	2.73	4.26	mg	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	clearance_renal	enalapril	urine	HPLC MS/MS	clearance_renal_enalapril	NA	NA	NA	15.1	15.3	NA	3.5	NA	12.3	15.8	l/hr	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	cmax	enalaprilat	serum	HPLC MS/MS	cmax_enalaprilat	NA	NA	NA	52.5	41.8	NA	25.3	NA	39.1	62.8	ng/ml	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	tmax	enalaprilat	serum	HPLC MS/MS	tmax_enalaprilat	NA	NA	NA	NA	4.0	NA	NA	NA	2.8	4.4	hr	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	auc_end	enalaprilat	serum	HPLC MS/MS	auc_end_enalaprilat	72.0	hr	NA	491.4	NA	NA	148.0	NA	NA	NA	ng/ml*hr	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	auc_inf	enalaprilat	serum	HPLC MS/MS	auc_inf_enalaprilat	NA	NA	NA	513.5	477.1	NA	145.9	NA	380.7	601.8	ng/ml*hr	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	thalf	enalaprilat	serum	HPLC MS/MS	thalf_enalaprilat	NA	NA	NA	10.4	7.3	NA	11.3	NA	6.1	7.7	hr	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	kel	enalaprilat	serum	HPLC MS/MS	kel_enalaprilat	NA	NA	NA	0.0968	NA	NA	0.036	NA	NA	NA	1/hr	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	clearance	enalaprilat	saliva	HPLC MS/MS	clearance_enalaprilat	NA	NA	NA	29.7	28.9	NA	7.8	NA	22.9	36.3	l/hr	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	vd	enalaprilat	NA	HPLC MS/MS	vd_enalaprilat	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	l	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	cumulative amount	enalaprilat	urine	HPLC MS/MS	cumulative amount_enalaprilat	24.0	hr	NA	NA	NA	NA	NA	NA	NA	NA	mg	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	cumulative amount	enalaprilat	urine	HPLC MS/MS	cumulative amount_enalaprilat	192.0	hr	NA	3.78	3.3	NA	1.63	NA	2.42	6.34	mg	NA
+Burckhardt2015	NA	enalapril	9.0	ENA20	clearance_renal	enalaprilat	urine	HPLC MS/MS	clearance_renal_enalaprilat	NA	NA	NA	7.5	7.6	NA	2.1	NA	5.5	11.3	l/hr	NA

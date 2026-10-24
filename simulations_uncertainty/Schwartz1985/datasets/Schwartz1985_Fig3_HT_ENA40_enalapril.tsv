@@ -1,0 +1,7 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Schwartz1985		HT	1.0	ENA40	concentration	enalapril	serum	RIA	HT_ENA40_enalapril	0.0	min		2.832046572807067e-06					mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985		HT	1.0	ENA40	concentration	enalapril	serum	RIA	HT_ENA40_enalapril	22.9152981038511	min		0.0001764329405426264					mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985		HT	1.0	ENA40	concentration	enalapril	serum	RIA	HT_ENA40_enalapril	52.9355981092842	min		0.00040381524242924434					mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985		HT	1.0	ENA40	concentration	enalapril	serum	RIA	HT_ENA40_enalapril	119.392185238785	min		0.00026218566857601726					mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985		HT	1.0	ENA40	concentration	enalapril	serum	RIA	HT_ENA40_enalapril	170.423731743578	min		0.0002563210642579438					mole/meter^3	mole/meter^3	dimensionless
+Schwartz1985		HT	1.0	ENA40	concentration	enalapril	serum	RIA	HT_ENA40_enalapril	601.295051441498	min		3.1465938413784476e-06					mole/meter^3	mole/meter^3	dimensionless

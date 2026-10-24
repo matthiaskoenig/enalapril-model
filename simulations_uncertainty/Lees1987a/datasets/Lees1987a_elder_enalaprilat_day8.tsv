@@ -1,0 +1,10 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Lees1987a		elder	6.0	ENA10	concentration	enalaprilat	serum	RIA	elder_enalaprilat	168.028922012329	hr		3.828851849655045e-05	16.3762860922612	8.716610450310827e-06	3.5585413149788343e-06		mole/meter^3	ng/ml	dimensionless
+Lees1987a		elder	6.0	ENA10	concentration	enalaprilat	serum	RIA	elder_enalaprilat	168.972550867928	hr		0.00011020593533534945	14.8706275541082	6.752252337224708e-05	2.7565954734526176e-05		mole/meter^3	ng/ml	dimensionless
+Lees1987a		elder	6.0	ENA10	concentration	enalaprilat	serum	RIA	elder_enalaprilat	169.963611823747	hr		0.0001821255044236424	46.757146147213	4.7917682732276654e-05	1.956231205844169e-05		mole/meter^3	ng/ml	dimensionless
+Lees1987a		elder	6.0	ENA10	concentration	enalaprilat	serum	RIA	elder_enalaprilat	171.92311029463	hr		0.000207261626262946	89.662415844978	5.009791146960133e-05	2.04523867132747e-05		mole/meter^3	ng/ml	dimensionless
+Lees1987a		elder	6.0	ENA10	concentration	enalaprilat	serum	RIA	elder_enalaprilat	173.948550953623	hr		0.00018339533162504564	84.0034492177667	5.772117917700899e-05	2.3564572722572204e-05		mole/meter^3	ng/ml	dimensionless
+Lees1987a		elder	6.0	ENA10	concentration	enalaprilat	serum	RIA	elder_enalaprilat	175.790047614202	hr		0.00016932177218440808	76.8245772833661	5.118910196301051e-05	2.0897863366779416e-05		mole/meter^3	ng/ml	dimensionless
+Lees1987a		elder	6.0	ENA10	concentration	enalaprilat	serum	RIA	elder_enalaprilat	177.956499151085	hr		0.00014328385780715863	64.3354096481691	4.137914876979657e-05	1.6892966746119278e-05		mole/meter^3	ng/ml	dimensionless
+Lees1987a		elder	6.0	ENA10	concentration	enalaprilat	serum	RIA	elder_enalaprilat	179.975512696228	hr		0.0001085271807301044	48.434515743751	3.049522307912459e-05	1.2449622689366711e-05		mole/meter^3	ng/ml	dimensionless
+Lees1987a		elder	6.0	ENA10	concentration	enalaprilat	serum	RIA	elder_enalaprilat	191.882769443358	hr		3.17478322845767e-05	15.2372943993058	1.198802968104457e-05	4.894092623316502e-06		mole/meter^3	ng/ml	dimensionless

@@ -1,0 +1,11 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Weisser1992	all	19	NA	species	19	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Weisser1992	all	19	NA	sex	7	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Weisser1992	all	19	NA	sex	12	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Weisser1992	all	19	NA	age	19	NA	NA	NA	NA	NA	NA	62.0	84.0	yr	NA
+Weisser1992	all	19	NA	blood pressure systolic	19	NA	NA	NA	NA	NA	NA	160.0	NA	mmHg	NA
+Weisser1992	all	19	NA	blood pressure diastolic	19	NA	NA	NA	NA	NA	NA	100.0	NA	mmHg	NA
+Weisser1992	all	19	NA	concentration	19	sodium	NA	NA	NA	NA	NA	135.0	145.0	mmol/l	NA
+Weisser1992	all	19	NA	clearance	19	creatinine	NA	45.5563316008004	NA	24.2931254210053	5.57322519646953	11.0	93.0	ml/min	Clcr was calculated according to Klotz1984 via [140-age]*bodyweight/(0.813*Ccr); in woman multiplied by 0.85
+Weisser1992	all	19	NA	healthy	19	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Weisser1992	all	19	NA	disease	19	NA	hypertension	NA	NA	NA	NA	NA	NA	NA	NA

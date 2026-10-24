@@ -1,0 +1,15 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Dickstein1987		normal	10.0	ENAIV5	concentration	enalaprilat	serum	RIA	ENAIV5_normal_enalaprilat	0.0	hr		0.0					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	ENAIV5	concentration	enalaprilat	serum	RIA	ENAIV5_normal_enalaprilat	0.16	hr		7.749899962495235e-06					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	ENAIV5	concentration	enalaprilat	serum	RIA	ENAIV5_normal_enalaprilat	0.33	hr		7.948087222344067e-06					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	ENAIV5	concentration	enalaprilat	serum	RIA	ENAIV5_normal_enalaprilat	0.5	hr		1.0665037740733612e-05					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	ENAIV5	concentration	enalaprilat	serum	RIA	ENAIV5_normal_enalaprilat	0.75	hr		1.6094361704536967e-05					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	ENAIV5	concentration	enalaprilat	serum	RIA	ENAIV5_normal_enalaprilat	1.5	hr		3.063892649949396e-05					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	ENAIV5	concentration	enalaprilat	serum	RIA	ENAIV5_normal_enalaprilat	2.0	hr		3.568835340631228e-05					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	ENAIV5	concentration	enalaprilat	serum	RIA	ENAIV5_normal_enalaprilat	3.0	hr		3.978437601228725e-05					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	ENAIV5	concentration	enalaprilat	serum	RIA	ENAIV5_normal_enalaprilat	4.0	hr		4.330139888683346e-05					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	ENAIV5	concentration	enalaprilat	serum	RIA	ENAIV5_normal_enalaprilat	5.0	hr		4.0621064952249704e-05					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	ENAIV5	concentration	enalaprilat	serum	RIA	ENAIV5_normal_enalaprilat	6.0	hr		3.794256184685626e-05					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	ENAIV5	concentration	enalaprilat	serum	RIA	ENAIV5_normal_enalaprilat	8.0	hr		2.8517910882543595e-05					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	ENAIV5	concentration	enalaprilat	serum	RIA	ENAIV5_normal_enalaprilat	12.0	hr		1.663674485216023e-05					mole/meter^3	ng/ml	dimensionless
+Dickstein1987		normal	10.0	ENAIV5	concentration	enalaprilat	serum	RIA	ENAIV5_normal_enalaprilat	24.0	hr		7.516011533435747e-06					mole/meter^3	ng/ml	dimensionless

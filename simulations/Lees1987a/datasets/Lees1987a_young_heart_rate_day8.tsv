@@ -1,0 +1,10 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Lees1987a		young	6.0	ENA10	heart rate			electrocardiography	young_heart rate	167.993455140442	hr		62.467630215435					1/min	1/min	dimensionless
+Lees1987a		young	6.0	ENA10	heart rate			electrocardiography	young_heart rate	169.097703845105	hr		62.4741750749932					1/min	1/min	dimensionless
+Lees1987a		young	6.0	ENA10	heart rate			electrocardiography	young_heart rate	169.95481865285	hr		64.3119716389419					1/min	1/min	dimensionless
+Lees1987a		young	6.0	ENA10	heart rate			electrocardiography	young_heart rate	171.935031360785	hr		66.1563130624489					1/min	1/min	dimensionless
+Lees1987a		young	6.0	ENA10	heart rate			electrocardiography	young_heart rate	173.831469866376	hr		73.8550313607854					1/min	1/min	dimensionless
+Lees1987a		young	6.0	ENA10	heart rate			electrocardiography	young_heart rate	175.889173711481	hr		69.1132806108536					1/min	1/min	dimensionless
+Lees1987a		young	6.0	ENA10	heart rate			electrocardiography	young_heart rate	177.868339241887	hr		71.6886828470139					1/min	1/min	dimensionless
+Lees1987a		young	6.0	ENA10	heart rate			electrocardiography	young_heart rate	180.011911644396	hr		70.9733296973002					1/min	1/min	dimensionless
+Lees1987a		young	6.0	ENA10	heart rate			electrocardiography	young_heart rate	191.951306244887	hr		66.3088082901554					1/min	1/min	dimensionless

@@ -1,0 +1,12 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Swanson1984	NA	fasting	9.0	ENA40	excretion rate	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_urine_rate_fasting	1.0	hr	NA	1243.0	NA	NA	NA	μg/hr	re-digitized: y axis log 100-1000, linear 1000-1400
+Swanson1984	NA	fasting	9.0	ENA40	excretion rate	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_urine_rate_fasting	3.0	hr	NA	1160.0	NA	NA	NA	μg/hr	NA
+Swanson1984	NA	fasting	9.0	ENA40	excretion rate	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_urine_rate_fasting	5.0	hr	NA	1032.0	NA	NA	NA	μg/hr	NA
+Swanson1984	NA	fasting	9.0	ENA40	excretion rate	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_urine_rate_fasting	7.0	hr	NA	975.0	NA	NA	NA	μg/hr	NA
+Swanson1984	NA	fasting	9.0	ENA40	excretion rate	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_urine_rate_fasting	10.0	hr	NA	355.0	NA	NA	NA	μg/hr	NA
+Swanson1984	NA	fasting	9.0	ENA40	excretion rate	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_urine_rate_fasting	18.0	hr	NA	122.0	NA	NA	NA	μg/hr	NA
+Swanson1984	NA	fed	10.0	ENA40	excretion rate	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_urine_rate_fed	1.0	hr	NA	1279.0	NA	NA	NA	μg/hr	NA
+Swanson1984	NA	fed	10.0	ENA40	excretion rate	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_urine_rate_fed	3.0	hr	NA	1174.0	NA	NA	NA	μg/hr	NA
+Swanson1984	NA	fed	10.0	ENA40	excretion rate	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_urine_rate_fed	7.0	hr	NA	1006.0	NA	NA	NA	μg/hr	NA
+Swanson1984	NA	fed	10.0	ENA40	excretion rate	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_urine_rate_fed	10.0	hr	NA	330.0	NA	NA	NA	μg/hr	NA
+Swanson1984	NA	fed	10.0	ENA40	excretion rate	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_urine_rate_fed	18.0	hr	NA	134.0	NA	NA	NA	μg/hr	NA

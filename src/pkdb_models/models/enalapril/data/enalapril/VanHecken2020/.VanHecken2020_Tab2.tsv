@@ -1,0 +1,13 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	median	max	geometric_mean	unit	comments
+VanHecken2020	NA	all	23.0	REN10	cmax	enalapril	serum	HPLC MS/MS	NA	NA	NA	NA	61.1	NA	23.02	NA	21.98	57.43	117.96	56.84	ng/ml	NA
+VanHecken2020	NA	all	23.0	REN10	tmax	enalapril	serum	HPLC MS/MS	NA	NA	NA	NA	1.25	NA	0.9	NA	44.25	101.22	184.31	1.08	hr	NA
+VanHecken2020	NA	all	23.0	REN10	auc_end	enalapril	serum	HPLC MS/MS	NA	10.0	hr	NA	99.69	NA	37.17	NA	44.25	101.22	184.31	92.94	ng/ml*hr	NA
+VanHecken2020	NA	all	23.0	REN10	auc_inf	enalapril	serum	HPLC MS/MS	NA	NA	NA	NA	100.44	NA	37.25	NA	44.96	101.71	185.26	93.71	ng/ml*hr	NA
+VanHecken2020	NA	all	24.0	ENA10	cmax	enalapril	serum	HPLC MS/MS	NA	NA	NA	NA	61.2	NA	20.09	NA	27.23	61.64	120.24	58.15	ng/ml	NA
+VanHecken2020	NA	all	24.0	ENA10	tmax	enalapril	serum	HPLC MS/MS	NA	NA	NA	NA	0.88	NA	0.3	NA	0.5	0.75	2.0	0.84	hr	NA
+VanHecken2020	NA	all	24.0	ENA10	auc_end	enalapril	serum	HPLC MS/MS	NA	10.0	hr	NA	97.06	NA	32.47	NA	38.22	96.16	188.32	91.9	ng/ml*hr	NA
+VanHecken2020	NA	all	24.0	ENA10	auc_inf	enalapril	serum	HPLC MS/MS	NA	NA	NA	NA	97.79	NA	32.61	NA	38.74	96.72	189.46	92.63	ng/ml*hr	NA
+VanHecken2020	NA	all	24.0	ENAw10	cmax	enalapril	serum	HPLC MS/MS	NA	NA	NA	NA	68.0	NA	24.7	NA	34.81	60.83	128.16	64.11	ng/ml	NA
+VanHecken2020	NA	all	24.0	ENAw10	tmax	enalapril	serum	HPLC MS/MS	NA	NA	NA	NA	1.02	NA	0.36	NA	0.5	1.0	2.07	0.97	hr	NA
+VanHecken2020	NA	all	24.0	ENAw10	auc_end	enalapril	serum	HPLC MS/MS	NA	10.0	hr	NA	103.84	NA	36.71	NA	51.99	95.38	190.83	97.95	ng/ml*hr	NA
+VanHecken2020	NA	all	24.0	ENAw10	auc_inf	enalapril	serum	HPLC MS/MS	NA	NA	NA	NA	104.66	NA	36.8	NA	52.28	96.26	191.64	98.77	ng/ml*hr	NA

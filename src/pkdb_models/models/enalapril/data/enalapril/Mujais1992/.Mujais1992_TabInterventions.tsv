@@ -1,0 +1,4 @@
+study	name	time	time_end	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+Mujais1992	EATB	0	NA	hr	iv	constant infusion	dosing	solution	enalaprilat	1.5	mg	A loading dose of enalaprilat of 1.5 mg was administered, followed  immediately by a sustaining infusion (5 mL/min) of 0.475 ug/kg/min diluted in 5% dextrose in water. 
+Mujais1992	EATINF	0	NA	hr	iv	constant infusion	dosing	solution	enalaprilat	0.475	µg/kg/min	infusion rate of 5 ml/min
+Mujais1992	INU50	0	NA	hr	iv	constant infusion	dosing	solution	inulin	50.0	mg/kg	Inulin was administered as a  priming dose (50mg/kg ), followed by a sustaining infusion  calculated to maintain a stable plasma concentration 

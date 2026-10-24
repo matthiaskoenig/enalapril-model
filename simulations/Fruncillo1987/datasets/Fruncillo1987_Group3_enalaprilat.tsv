@@ -1,0 +1,25 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Fruncillo1987		Group3	6.0	ENA5m1	concentration	enalaprilat	serum	enzymatic assay	Group3_enalaprilat	1.0	hr		1.1219185579470979e-05				nominal sampling time	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group3	6.0	ENA5m1	concentration	enalaprilat	serum	enzymatic assay	Group3_enalaprilat	2.0	hr		2.2910016406463264e-05				nominal sampling time	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group3	6.0	ENA5m1	concentration	enalaprilat	serum	enzymatic assay	Group3_enalaprilat	3.0	hr		4.886507020809567e-05				nominal sampling time	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group3	6.0	ENA5m1	concentration	enalaprilat	serum	enzymatic assay	Group3_enalaprilat	4.0	hr		8.483741399167695e-05				nominal sampling time	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group3	6.0	ENA5m1	concentration	enalaprilat	serum	enzymatic assay	Group3_enalaprilat	6.0	hr		0.00011624593528577649				nominal sampling time	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group3	6.0	ENA5m1	concentration	enalaprilat	serum	enzymatic assay	Group3_enalaprilat	8.0	hr		0.00013838236485974457				nominal sampling time	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group3	6.0	ENA5m1	concentration	enalaprilat	serum	enzymatic assay	Group3_enalaprilat	12.0	hr		0.0001314859319104134				nominal sampling time	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group3	6.0	ENA5m1	concentration	enalaprilat	serum	enzymatic assay	Group3_enalaprilat	24.0	hr		9.175372977855074e-05				nominal sampling time	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group3	6.0	ENA5m1	concentration	enalaprilat	serum	enzymatic assay	Group3_enalaprilat	48.0	hr		3.524632570153183e-05				nominal sampling time	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group3	6.0	ENA5m1	concentration	enalaprilat	serum	enzymatic assay	Group3_enalaprilat	72.0	hr		6.010651263273092e-05				nominal sampling time	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group3	6.0	ENA5m1	concentration	enalaprilat	serum	enzymatic assay	Group3_enalaprilat	120.0	hr		0.0001419447826160848				nominal sampling time	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group3	6.0	ENA5m1	concentration	enalaprilat	serum	enzymatic assay	Group3_enalaprilat	168.0	hr		0.00014273228879759244				nominal sampling time	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group3	6.0	ENA5m1	concentration	enalaprilat	serum	enzymatic assay	Group3_enalaprilat	216.0	hr		0.00013454141787772966				nominal sampling time	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group3	6.0	ENA5m1	concentration	enalaprilat	serum	enzymatic assay	Group3_enalaprilat	264.0	hr		0.00017907578566611615				nominal sampling time	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group3	6.0	ENA5m1	concentration	enalaprilat	serum	enzymatic assay	Group3_enalaprilat	288.0	hr		0.0001194370591210315				nominal sampling time	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group3	6.0	ENA5m1	concentration	enalaprilat	serum	enzymatic assay	Group3_enalaprilat	289.0	hr		0.00014835280209180422				nominal sampling time	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group3	6.0	ENA5m1	concentration	enalaprilat	serum	enzymatic assay	Group3_enalaprilat	290.0	hr		0.00013726278226298415				nominal sampling time	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group3	6.0	ENA5m1	concentration	enalaprilat	serum	enzymatic assay	Group3_enalaprilat	291.0	hr		0.0001685068090680934				nominal sampling time	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group3	6.0	ENA5m1	concentration	enalaprilat	serum	enzymatic assay	Group3_enalaprilat	292.0	hr		0.00020022350008748094				nominal sampling time	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group3	6.0	ENA5m1	concentration	enalaprilat	serum	enzymatic assay	Group3_enalaprilat	294.0	hr		0.00016102123143460297				nominal sampling time	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group3	6.0	ENA5m1	concentration	enalaprilat	serum	enzymatic assay	Group3_enalaprilat	296.0	hr		0.0001522967051775888				nominal sampling time	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group3	6.0	ENA5m1	concentration	enalaprilat	serum	enzymatic assay	Group3_enalaprilat	300.0	hr		0.00016735824924709296				nominal sampling time	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group3	6.0	ENA5m1	concentration	enalaprilat	serum	enzymatic assay	Group3_enalaprilat	312.0	hr		9.558531792768697e-05				nominal sampling time	mole/meter^3	ng/ml	dimensionless
+Fruncillo1987		Group3	6.0	ENA5m1	concentration	enalaprilat	serum	enzymatic assay	Group3_enalaprilat	336.0	hr		4.848654447457962e-05				nominal sampling time	mole/meter^3	ng/ml	dimensionless

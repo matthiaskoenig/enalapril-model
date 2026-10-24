@@ -1,0 +1,27 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Dickstein1987a	NA	CHF	12.0	LIPO10	MAP (change absolute)	NA	NA	sphygmomanometer	LIPO10_MAP (change absolute)	-0.0132877528972131	hr	NA	0.0	NA	NA	NA	mmHg	NA
+Dickstein1987a	NA	CHF	12.0	LIPO10	MAP (change absolute)	NA	NA	sphygmomanometer	LIPO10_MAP (change absolute)	0.470394412278527	hr	NA	-3.30320801477191	NA	NA	NA	mmHg	NA
+Dickstein1987a	NA	CHF	12.0	LIPO10	MAP (change absolute)	NA	NA	sphygmomanometer	LIPO10_MAP (change absolute)	0.974279334667138	hr	NA	-6.06189675086002	NA	NA	NA	mmHg	NA
+Dickstein1987a	NA	CHF	12.0	LIPO10	MAP (change absolute)	NA	NA	sphygmomanometer	LIPO10_MAP (change absolute)	1.47427892009853	hr	NA	-9.18613549926082	NA	NA	NA	mmHg	NA
+Dickstein1987a	NA	CHF	12.0	LIPO10	MAP (change absolute)	NA	NA	sphygmomanometer	LIPO10_MAP (change absolute)	1.98206907873736	hr	NA	-11.6158142997978	NA	NA	NA	mmHg	NA
+Dickstein1987a	NA	CHF	12.0	LIPO10	MAP (change absolute)	NA	NA	sphygmomanometer	LIPO10_MAP (change absolute)	2.4819094698248	hr	NA	-14.4477324341064	NA	NA	NA	mmHg	NA
+Dickstein1987a	NA	CHF	12.0	LIPO10	MAP (change absolute)	NA	NA	sphygmomanometer	LIPO10_MAP (change absolute)	2.97330261103598	hr	NA	-16.7683879831486	NA	NA	NA	mmHg	NA
+Dickstein1987a	NA	CHF	12.0	LIPO10	MAP (change absolute)	NA	NA	sphygmomanometer	LIPO10_MAP (change absolute)	3.50950398524799	hr	NA	-18.8681613799496	NA	NA	NA	mmHg	NA
+Dickstein1987a	NA	CHF	12.0	LIPO10	MAP (change absolute)	NA	NA	sphygmomanometer	LIPO10_MAP (change absolute)	3.97932131802967	hr	NA	-19.0702387003109	NA	NA	NA	mmHg	NA
+Dickstein1987a	NA	CHF	12.0	LIPO10	MAP (change absolute)	NA	NA	sphygmomanometer	LIPO10_MAP (change absolute)	4.49283252340447	hr	NA	-17.0051895697856	NA	NA	NA	mmHg	NA
+Dickstein1987a	NA	CHF	12.0	LIPO10	MAP (change absolute)	NA	NA	sphygmomanometer	LIPO10_MAP (change absolute)	4.98984721488666	hr	NA	-14.648416803958	NA	NA	NA	mmHg	NA
+Dickstein1987a	NA	CHF	12.0	LIPO10	MAP (change absolute)	NA	NA	sphygmomanometer	LIPO10_MAP (change absolute)	5.48088216882394	hr	NA	-16.3113509712928	NA	NA	NA	mmHg	NA
+Dickstein1987a	NA	CHF	12.0	LIPO10	MAP (change absolute)	NA	NA	sphygmomanometer	LIPO10_MAP (change absolute)	5.99068713087848	hr	NA	-14.9407125439339	NA	NA	NA	mmHg	NA
+Dickstein1987a	NA	CHF	12.0	LIIV5	MAP (change absolute)	NA	NA	sphygmomanometer	LIIV5_MAP (change absolute)	-0.0132479543112254	hr	NA	0.0	NA	NA	NA	mmHg	NA
+Dickstein1987a	NA	CHF	12.0	LIIV5	MAP (change absolute)	NA	NA	sphygmomanometer	LIIV5_MAP (change absolute)	0.483274229669348	hr	NA	-19.4537726986675	NA	NA	NA	mmHg	NA
+Dickstein1987a	NA	CHF	12.0	LIIV5	MAP (change absolute)	NA	NA	sphygmomanometer	LIIV5_MAP (change absolute)	0.99178076285598	hr	NA	-23.1988942626193	NA	NA	NA	mmHg	NA
+Dickstein1987a	NA	CHF	12.0	LIIV5	MAP (change absolute)	NA	NA	sphygmomanometer	LIIV5_MAP (change absolute)	1.45783215443841	hr	NA	-23.9857620558623	NA	NA	NA	mmHg	NA
+Dickstein1987a	NA	CHF	12.0	LIIV5	MAP (change absolute)	NA	NA	sphygmomanometer	LIIV5_MAP (change absolute)	1.99648611651202	hr	NA	-23.089099913521	NA	NA	NA	mmHg	NA
+Dickstein1987a	NA	CHF	12.0	LIIV5	MAP (change absolute)	NA	NA	sphygmomanometer	LIIV5_MAP (change absolute)	2.51041520703971	hr	NA	-21.7913923949877	NA	NA	NA	mmHg	NA
+Dickstein1987a	NA	CHF	12.0	LIIV5	MAP (change absolute)	NA	NA	sphygmomanometer	LIIV5_MAP (change absolute)	2.98368009233272	hr	NA	-20.8240380142828	NA	NA	NA	mmHg	NA
+Dickstein1987a	NA	CHF	12.0	LIIV5	MAP (change absolute)	NA	NA	sphygmomanometer	LIIV5_MAP (change absolute)	3.51569764019259	hr	NA	-22.7412602719736	NA	NA	NA	mmHg	NA
+Dickstein1987a	NA	CHF	12.0	LIIV5	MAP (change absolute)	NA	NA	sphygmomanometer	LIIV5_MAP (change absolute)	3.98896252548561	hr	NA	-21.7739058912686	NA	NA	NA	mmHg	NA
+Dickstein1987a	NA	CHF	12.0	LIIV5	MAP (change absolute)	NA	NA	sphygmomanometer	LIIV5_MAP (change absolute)	4.51010510972387	hr	NA	-18.7219761987873	NA	NA	NA	mmHg	NA
+Dickstein1987a	NA	CHF	12.0	LIIV5	MAP (change absolute)	NA	NA	sphygmomanometer	LIIV5_MAP (change absolute)	4.99062328731345	hr	NA	-16.0734797976574	NA	NA	NA	mmHg	NA
+Dickstein1987a	NA	CHF	12.0	LIIV5	MAP (change absolute)	NA	NA	sphygmomanometer	LIIV5_MAP (change absolute)	5.51754164134343	hr	NA	-16.1273073852081	NA	NA	NA	mmHg	NA
+Dickstein1987a	NA	CHF	12.0	LIIV5	MAP (change absolute)	NA	NA	sphygmomanometer	LIIV5_MAP (change absolute)	5.98620481513142	hr	NA	-14.2100602534009	NA	NA	NA	mmHg	NA

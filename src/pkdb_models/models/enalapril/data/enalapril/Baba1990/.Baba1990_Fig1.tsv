@@ -1,0 +1,27 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Baba1990	NA	healthy	10.0	ENA10	concentration	enalapril	serum	enzymatic assay	enalapril_healthy	0.5	hr	NA	35.3391207080339	27.193805591745	25.7577480272722	8.1453151162889	ng/ml	NA
+Baba1990	NA	healthy	10.0	ENA10	concentration	enalapril	serum	enzymatic assay	enalapril_healthy	1.0	hr	NA	60.5284297537985	50.3083477044673	32.3187371496879	10.2200820493312	ng/ml	NA
+Baba1990	NA	healthy	10.0	ENA10	concentration	enalapril	serum	enzymatic assay	enalapril_healthy	2.0	hr	NA	26.2760698597741	22.5251500507109	11.8614499172836	3.7509198090632	ng/ml	NA
+Baba1990	NA	healthy	10.0	ENA10	concentration	enalapril	serum	enzymatic assay	enalapril_healthy	4.0	hr	NA	1.18099304148581	1.92108458445792	2.34037495282025	0.74009154297211	ng/ml	NA
+Baba1990	NA	cirrhosis	7.0	ENA10	concentration	enalapril	serum	enzymatic assay	enalapril_cirrhosis	0.5	hr	NA	96.2407467738268	81.2330781326107	39.7065589835204	15.0076686412161	ng/ml	NA
+Baba1990	NA	cirrhosis	7.0	ENA10	concentration	enalapril	serum	enzymatic assay	enalapril_cirrhosis	1.0	hr	NA	81.0907653247607	69.5086101294409	30.6435022929709	11.5821551953198	ng/ml	NA
+Baba1990	NA	cirrhosis	7.0	ENA10	concentration	enalapril	serum	enzymatic assay	enalapril_cirrhosis	2.0	hr	NA	35.7458476116784	27.9339999559944	20.6682061768628	7.811847655684	ng/ml	NA
+Baba1990	NA	cirrhosis	7.0	ENA10	concentration	enalapril	serum	enzymatic assay	enalapril_cirrhosis	4.0	hr	NA	13.689847644244	9.02984029425628	12.3292205558006	4.66000734998772	ng/ml	NA
+Baba1990	NA	cirrhosis	7.0	ENA10	concentration	enalapril	serum	enzymatic assay	enalapril_cirrhosis	6.0	hr	NA	4.92945052639826	2.70246832913997	5.89204106811362	2.22698219725829	ng/ml	NA
+Baba1990	NA	cirrhosis	7.0	ENA10	concentration	enalapril	serum	enzymatic assay	enalapril_cirrhosis	8.0	hr	NA	1.18853732642279	1.72048754352945	1.40740798433104	0.53195021710666	ng/ml	NA
+Baba1990	NA	healthy	10.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_healthy	0.5	hr	NA	0.710401801846362	0.372694211612813	1.06792516826485	0.337707590233549	ng/ml	NA
+Baba1990	NA	healthy	10.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_healthy	1.0	hr	NA	7.53017134554066	5.38385189779714	6.78725804118427	2.14631944774352	ng/ml	NA
+Baba1990	NA	healthy	10.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_healthy	2.0	hr	NA	32.3377299154348	24.3452909116079	25.2743113120602	7.9924390038269	ng/ml	NA
+Baba1990	NA	healthy	10.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_healthy	4.0	hr	NA	43.4166006412048	34.8644442592583	27.0442930728959	8.5521563819465	ng/ml	NA
+Baba1990	NA	healthy	10.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_healthy	6.0	hr	NA	31.3850481127042	25.2028543077837	19.5498133601315	6.1821938049205	ng/ml	NA
+Baba1990	NA	healthy	10.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_healthy	8.0	hr	NA	20.4593527398423	17.5242851527577	9.28149866172194	2.9350675870846	ng/ml	NA
+Baba1990	NA	healthy	10.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_healthy	12.0	hr	NA	9.26689068324264	7.63606411953209	5.15712641003104	1.63082656371055	ng/ml	NA
+Baba1990	NA	healthy	10.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_healthy	24.0	hr	NA	1.79971626290995	1.28674440101581	1.62215945916282	0.51297186189414	ng/ml	NA
+Baba1990	NA	cirrhosis	7.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_cirrhosis	0.5	hr	NA	1.25267715462619	0.828717207559618	1.12169258579026	0.423959947066572	ng/ml	NA
+Baba1990	NA	cirrhosis	7.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_cirrhosis	1.0	hr	NA	5.96542951722526	4.79001525478551	3.10985382589399	1.17541426243975	ng/ml	NA
+Baba1990	NA	cirrhosis	7.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_cirrhosis	2.0	hr	NA	26.2916892792794	21.3854290103562	12.9807445389277	4.9062602689232	ng/ml	NA
+Baba1990	NA	cirrhosis	7.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_cirrhosis	4.0	hr	NA	33.0911252052509	26.572870127001	17.2456819191331	6.5182550782499	ng/ml	NA
+Baba1990	NA	cirrhosis	7.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_cirrhosis	6.0	hr	NA	28.2962999789103	21.8596742757615	17.029710892938	6.4366257031488	ng/ml	NA
+Baba1990	NA	cirrhosis	7.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_cirrhosis	8.0	hr	NA	22.3804058842113	19.1711485397929	8.49089682653865	3.2092573444184	ng/ml	NA
+Baba1990	NA	cirrhosis	7.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_cirrhosis	12.0	hr	NA	12.1460143057859	10.008507406206	5.65531168197313	2.1375068995799	ng/ml	NA
+Baba1990	NA	cirrhosis	7.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_cirrhosis	24.0	hr	NA	2.51553302598431	1.99412627263876	1.37951260126192	0.52140675334555	ng/ml	NA

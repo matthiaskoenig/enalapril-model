@@ -1,0 +1,27 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	median	mean_pm	sd	se	min	max	unit	comments
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	recovery	aliskiren	urine	HPLC MS/MS	aliskiren_recovery	0.0	hr	NA	0.0	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	recovery	aliskiren	urine	HPLC MS/MS	aliskiren_recovery	2.0	hr	NA	0.071953874510743	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	recovery	aliskiren	urine	HPLC MS/MS	aliskiren_recovery	4.0	hr	NA	0.206505663661	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	recovery	aliskiren	urine	HPLC MS/MS	aliskiren_recovery	8.0	hr	NA	0.372329428271255	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	recovery	aliskiren	urine	HPLC MS/MS	aliskiren_recovery	12.0	hr	NA	0.403564303674086	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	recovery	aliskiren	urine	HPLC MS/MS	aliskiren_recovery	24.0	hr	NA	0.484742601489736	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	recovery	aliskiren	urine	HPLC MS/MS	aliskiren_recovery	48.0	hr	NA	0.568858549286583	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	recovery	aliskiren	urine	HPLC MS/MS	aliskiren_recovery	72.0	hr	NA	0.60915595683577	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	recovery	aliskiren	urine	HPLC MS/MS	aliskiren_recovery	96.0	hr	NA	0.636930408724584	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	recovery	aliskiren	urine	HPLC MS/MS	aliskiren_recovery	120.0	hr	NA	0.661581710346363	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	recovery	aliskiren	urine	HPLC MS/MS	aliskiren_recovery	144.0	hr	NA	0.676839952039744	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	recovery	aliskiren	urine	HPLC MS/MS	aliskiren_recovery	168.0	hr	NA	0.698354612464607	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	recovery	aliskiren	urine	HPLC MS/MS	aliskiren_recovery	192.0	hr	NA	0.710486331158483	NA	NA	NA	NA	NA	NA	percent	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	cumulative amount	aliskiren	urine	HPLC MS/MS	aliskiren_cumulative amount	0.0	hr	NA	0.0	NA	NA	NA	NA	NA	NA	mg	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	cumulative amount	aliskiren	urine	HPLC MS/MS	aliskiren_cumulative amount	2.0	hr	NA	0.215861623532229	NA	NA	NA	NA	NA	NA	mg	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	cumulative amount	aliskiren	urine	HPLC MS/MS	aliskiren_cumulative amount	4.0	hr	NA	0.619516990983	NA	NA	NA	NA	NA	NA	mg	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	cumulative amount	aliskiren	urine	HPLC MS/MS	aliskiren_cumulative amount	8.0	hr	NA	1.11698828481376	NA	NA	NA	NA	NA	NA	mg	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	cumulative amount	aliskiren	urine	HPLC MS/MS	aliskiren_cumulative amount	12.0	hr	NA	1.21069291102226	NA	NA	NA	NA	NA	NA	mg	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	cumulative amount	aliskiren	urine	HPLC MS/MS	aliskiren_cumulative amount	24.0	hr	NA	1.45422780446921	NA	NA	NA	NA	NA	NA	mg	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	cumulative amount	aliskiren	urine	HPLC MS/MS	aliskiren_cumulative amount	48.0	hr	NA	1.70657564785975	NA	NA	NA	NA	NA	NA	mg	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	cumulative amount	aliskiren	urine	HPLC MS/MS	aliskiren_cumulative amount	72.0	hr	NA	1.82746787050731	NA	NA	NA	NA	NA	NA	mg	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	cumulative amount	aliskiren	urine	HPLC MS/MS	aliskiren_cumulative amount	96.0	hr	NA	1.91079122617375	NA	NA	NA	NA	NA	NA	mg	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	cumulative amount	aliskiren	urine	HPLC MS/MS	aliskiren_cumulative amount	120.0	hr	NA	1.98474513103909	NA	NA	NA	NA	NA	NA	mg	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	cumulative amount	aliskiren	urine	HPLC MS/MS	aliskiren_cumulative amount	144.0	hr	NA	2.03051985611923	NA	NA	NA	NA	NA	NA	mg	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	cumulative amount	aliskiren	urine	HPLC MS/MS	aliskiren_cumulative amount	168.0	hr	NA	2.09506383739382	NA	NA	NA	NA	NA	NA	mg	NA
+Burckhardt2015	NA	aliskiren	13.0	ALIS300	cumulative amount	aliskiren	urine	HPLC MS/MS	aliskiren_cumulative amount	192.0	hr	NA	2.13145899347545	NA	NA	NA	NA	NA	NA	mg	NA

@@ -1,0 +1,29 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Wade1992	NA	all	8.0	ENA10	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10_enalaprilat	0.0	hr	NA	1.50038821141529	0.887617326055957	0.612770885359332	0.216647224175634	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10_enalaprilat	1.0	hr	NA	7.4094765102227	2.62233111701308	4.78714539320962	1.69251148503223	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10_enalaprilat	1.5	hr	NA	20.0189167663748	7.92232754570705	12.0965892206678	4.27679013358114	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10_enalaprilat	2.0	hr	NA	30.2596314666002	6.73711158674052	23.5225198798597	8.31646665882208	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10_enalaprilat	3.0	hr	NA	37.8275492238589	19.4628021711245	18.3647470527344	6.49291858788209	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10_enalaprilat	4.0	hr	NA	37.6113655969229	20.1228775305808	17.488488066342	6.18311425220523	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10_enalaprilat	5.0	hr	NA	34.2000400252338	20.2327104473394	13.9673295778944	4.93819672979828	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10_enalaprilat	6.0	hr	NA	30.2407178324607	18.9178450268739	11.3228728055868	4.00324007167159	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10_enalaprilat	8.0	hr	NA	19.3397141675371	13.9889500347873	5.35076413274978	1.89178080139856	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10_enalaprilat	10.0	hr	NA	13.5235307850094	9.67342041615792	3.85011036885144	1.36121957506575	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10_enalaprilat	12.0	hr	NA	9.29984690796626	6.50526394270775	2.79458296525851	0.988034282661351	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10_enalaprilat	24.0	hr	NA	2.92179928918808	1.77748748247768	1.1443118067104	0.404575319158377	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10_enalaprilat	48.0	hr	NA	1.07730534892008	0.487479226890802	0.589826122029273	0.208535025303932	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10_enalaprilat	72.0	hr	NA	0.698194272893324	0.399443287073894	0.29875098581943	0.105624423979542	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10, CAP50_enalaprilat	0.0	hr	NA	1.77401516335993	2.93243928792996	1.15842412457003	0.40956477698678	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10, CAP50_enalaprilat	1.0	hr	NA	10.0171986705729	17.6072955376456	7.59009686707277	2.68350448228496	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10, CAP50_enalaprilat	1.5	hr	NA	18.9317656792251	36.3865493507136	17.4547836714885	6.17119794912686	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10, CAP50_enalaprilat	2.0	hr	NA	30.0911248689318	53.1875518909123	23.0964270219805	8.16582008421132	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10, CAP50_enalaprilat	3.0	hr	NA	42.0617390358366	65.0210121378333	22.9592731019967	8.11732885076789	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10, CAP50_enalaprilat	4.0	hr	NA	40.8975484323682	62.8696766930545	21.9721282606863	7.76832044511594	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10, CAP50_enalaprilat	5.0	hr	NA	38.0281881346211	53.7611747455583	15.7329866109372	5.56245076045542	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10, CAP50_enalaprilat	6.0	hr	NA	28.1231747690313	18.8126126732299	9.31056209580137	3.29178079729979	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10, CAP50_enalaprilat	8.0	hr	NA	19.556920674935	24.5886195778921	5.03169890295711	1.77897420758494	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10, CAP50_enalaprilat	10.0	hr	NA	12.1622446899204	15.0373661836852	2.87512149376483	1.01650895248815	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10, CAP50_enalaprilat	12.0	hr	NA	8.50501485841734	10.398723495894	1.89370863747666	0.669527109575642	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10, CAP50_enalaprilat	24.0	hr	NA	2.62768935530738	0.983402854090113	1.64428650121727	0.581343067612117	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10, CAP50_enalaprilat	48.0	hr	NA	0.796851496115127	0.487482215054495	0.309369281060632	0.10937855826439	ng/ml	NA
+Wade1992	NA	all	8.0	ENA10, CAP50	concentration	enalaprilat	plasma	radioenzymatic assay	ENA10, CAP50_enalaprilat	72.0	hr	NA	0.485665810265595	0.297111125622212	0.188554684643383	0.0666641480679136	ng/ml	NA

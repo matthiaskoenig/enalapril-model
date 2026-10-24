@@ -1,0 +1,15 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Sica1991	NA	ena	10.0	ENA2.5	auc_end	enalaprilat	serum	radioenzymatic assay	NA	0.0	hr	NA	386.0	NA	155.267833114267	49.1	NA	NA	μg/l*hr	Day 1
+Sica1991	NA	ena	10.0	ENA2.5	auc_end	enalaprilat	serum	radioenzymatic assay	NA	240.0	hr	NA	632.3	NA	166.652032690874	52.7	NA	NA	μg/l*hr	Day 10
+Sica1991	NA	ena	10.0	ENA2.5	tmax	enalaprilat	serum	radioenzymatic assay	NA	0.0	hr	NA	9.4	NA	2.21359436211787	0.7	NA	NA	hr	Day 1
+Sica1991	NA	ena	10.0	ENA2.5	tmax	enalaprilat	serum	radioenzymatic assay	NA	240.0	hr	NA	8.2	NA	2.21359436211787	0.7	NA	NA	hr	Day 10
+Sica1991	NA	ena	10.0	ENA2.5	tmax	enalaprilat	serum	radioenzymatic assay	NA	NA	NA	NA	-1.2	NA	3.16227766016838	1.0	NA	NA	hr	change
+Sica1991	NA	ena	10.0	ENA2.5	clearance	creatinine	urine	radioenzymatic assay	NA	0.0	hr	NA	19.6	NA	6.32455532033676	2.0	NA	NA	ml/min	Day 1
+Sica1991	NA	ena	10.0	ENA2.5	clearance	creatinine	urine	radioenzymatic assay	NA	240.0	hr	NA	20.7	NA	6.6407830863536	2.1	NA	NA	ml/min	Day 10
+Sica1991	NA	lis	10.0	LIS5	auc_end	lisinopril	serum	radioenzymatic assay	NA	0.0	hr	NA	816.4	NA	361.764564323263	114.4	NA	NA	μg/l*hr	Day 1
+Sica1991	NA	lis	10.0	LIS5	auc_end	lisinopril	serum	radioenzymatic assay	NA	240.0	hr	NA	2163.7	NA	1238.98038725397	391.8	NA	NA	μg/l*hr	Day 10
+Sica1991	NA	lis	10.0	LIS5	tmax	lisinopril	serum	radioenzymatic assay	NA	0.0	hr	NA	13.2	NA	3.79473319220205	1.2	NA	NA	hr	Day 1
+Sica1991	NA	lis	10.0	LIS5	tmax	lisinopril	serum	radioenzymatic assay	NA	240.0	hr	NA	8.7	NA	3.79473319220205	1.2	NA	NA	hr	Day 10
+Sica1991	NA	lis	10.0	LIS5	tmax	lisinopril	serum	radioenzymatic assay	NA	NA	NA	NA	-4.6	NA	4.42718872423573	1.4	NA	NA	hr	change
+Sica1991	NA	lis	10.0	LIS5	clearance	creatinine	urine	radioenzymatic assay	NA	0.0	hr	NA	14.8	NA	5.05964425626941	1.6	NA	NA	ml/min	Day 1
+Sica1991	NA	lis	10.0	LIS5	clearance	creatinine	urine	radioenzymatic assay	NA	240.0	hr	NA	19.1	NA	8.85437744847146	2.8	NA	NA	ml/min	Day 10

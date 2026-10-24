@@ -1,0 +1,5 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Lee2003	NA	all	12.0	NA	auc_end	enalapril	plasma	LC MS/MS	auc_end_enalapril	12.0	hr	NA	231.1	NA	48.3	NA	ng/ml*hr	NA
+Lee2003	NA	all	12.0	NA	cmax	enalapril	plasma	LC MS/MS	cmax_enalapril	NA	NA	NA	152.1	NA	NA	NA	ng/ml	NA
+Lee2003	NA	all	12.0	NA	auc_end	enalaprilat	plasma	LC MS/MS	auc_end_enalaprilat	12.0	hr	NA	594.0	NA	153.7	NA	ng/ml*hr	NA
+Lee2003	NA	all	12.0	NA	cmax	enalaprilat	plasma	LC MS/MS	cmax_enalaprilat	NA	NA	NA	88.5	NA	NA	NA	ng/ml	NA

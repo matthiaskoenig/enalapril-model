@@ -1,0 +1,17 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+MacDonald1993	NA	young	9.0	BEN10	cmax	benazeprilat	plasma	GC/MS	young_cmax_BEN10	NA	hr	476.0	NA	NA	152.0	NA	nmol/l	unclear if SD or SE
+MacDonald1993	NA	young	9.0	BEN10	auc_end	benazeprilat	plasma	GC/MS	young_auc_end_BEN10	72.0	hr	2765.0	NA	NA	775.0	NA	nmol/l*hr	unclear if SD or SE
+MacDonald1993	NA	young	9.0	BEN10	thalf	benazeprilat	plasma	GC/MS	young_thalf_BEN10	NA	hr	43.0	NA	NA	13.0	NA	hr	unclear if SD or SE
+MacDonald1993	NA	young	9.0	BEN10	tmax	benazeprilat	plasma	GC/MS	young_tmax_BEN10	NA	hr	1.5	NA	NA	NA	NA	hr	unclear if SD or SE
+MacDonald1993	NA	elder	9.0	BEN10	cmax	benazeprilat	plasma	GC/MS	elder_cmax_BEN10	NA	hr	444.0	NA	NA	114.0	NA	nmol/l	unclear if SD or SE
+MacDonald1993	NA	elder	9.0	BEN10	auc_end	benazeprilat	plasma	GC/MS	elder_auc_end_BEN10	72.0	hr	3867.0	NA	NA	1340.0	NA	nmol/l*hr	unclear if SD or SE
+MacDonald1993	NA	elder	9.0	BEN10	thalf	benazeprilat	plasma	GC/MS	elder_thalf_BEN10	NA	hr	34.0	NA	NA	13.0	NA	hr	unclear if SD or SE
+MacDonald1993	NA	elder	9.0	BEN10	tmax	benazeprilat	plasma	GC/MS	elder_tmax_BEN10	NA	hr	1.5	NA	NA	NA	NA	hr	unclear if SD or SE
+MacDonald1993	NA	young	9.0	ENA10	cmax	enalaprilat	plasma	RIA	young_cmax_ENA10	NA	hr	128.0	NA	NA	63.0	NA	nmol/l	unclear if SD or SE
+MacDonald1993	NA	young	9.0	ENA10	auc_end	enalaprilat	plasma	RIA	young_auc_end_ENA10	72.0	hr	1272.0	NA	NA	215.0	NA	nmol/l*hr	unclear if SD or SE
+MacDonald1993	NA	young	9.0	ENA10	thalf	enalaprilat	plasma	RIA	young_thalf_ENA10	NA	hr	37.0	NA	NA	20.0	NA	hr	unclear if SD or SE
+MacDonald1993	NA	young	9.0	ENA10	tmax	enalaprilat	plasma	RIA	young_tmax_ENA10	NA	hr	4.0	NA	NA	NA	NA	hr	unclear if SD or SE
+MacDonald1993	NA	elder	9.0	ENA10	cmax	enalaprilat	plasma	RIA	elder_cmax_ENA10	NA	hr	199.0	NA	NA	63.0	NA	nmol/l	unclear if SD or SE
+MacDonald1993	NA	elder	9.0	ENA10	auc_end	enalaprilat	plasma	RIA	elder_auc_end_ENA10	72.0	hr	2709.0	NA	NA	1459.0	NA	nmol/l*hr	unclear if SD or SE
+MacDonald1993	NA	elder	9.0	ENA10	thalf	enalaprilat	plasma	RIA	elder_thalf_ENA10	NA	hr	30.0	NA	NA	14.0	NA	hr	unclear if SD or SE
+MacDonald1993	NA	elder	9.0	ENA10	tmax	enalaprilat	plasma	RIA	elder_tmax_ENA10	NA	hr	5.0	NA	NA	NA	NA	hr	unclear if SD or SE

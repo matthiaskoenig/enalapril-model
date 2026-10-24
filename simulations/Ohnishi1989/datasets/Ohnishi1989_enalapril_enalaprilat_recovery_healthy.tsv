@@ -1,0 +1,8 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Ohnishi1989		healthy	7.0	ENA10	recovery	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_recovery_healthy	0.0	hr		0.0					count*mole	percent	dimensionless
+Ohnishi1989		healthy	7.0	ENA10	recovery	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_recovery_healthy	2.0	hr		3.7407858593949802e-06	14.9946005799058	1.8422729976861214e-06	6.963137427095651e-07		count*mole	percent	dimensionless
+Ohnishi1989		healthy	7.0	ENA10	recovery	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_recovery_healthy	4.0	hr		7.347966529481224e-06	32.1051955164528	2.194373594232384e-06	8.29395259129404e-07		count*mole	percent	dimensionless
+Ohnishi1989		healthy	7.0	ENA10	recovery	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_recovery_healthy	6.0	hr		8.86517805035415e-06	39.7441432677323	2.1049886333171985e-06	7.956109194821437e-07		count*mole	percent	dimensionless
+Ohnishi1989		healthy	7.0	ENA10	recovery	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_recovery_healthy	8.0	hr		1.0101287418624503e-05	44.7683723237809	2.676472196815533e-06	1.0116114033932303e-06		count*mole	percent	dimensionless
+Ohnishi1989		healthy	7.0	ENA10	recovery	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_recovery_healthy	12.0	hr		1.127462507266182e-05	51.2844119688215	2.2804950068788427e-06	8.619460934751338e-07		count*mole	percent	dimensionless
+Ohnishi1989		healthy	7.0	ENA10	recovery	enalapril+enalaprilat	urine	RIA	enalapril+enalaprilat_recovery_healthy	24.0	hr		1.2669564558842311e-05		2.9545327521147514e-06	1.11670841464155e-06		count*mole	percent	dimensionless

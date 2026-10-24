@@ -1,0 +1,10 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Lees1987a		elder	6.0	ENA10	blood pressure diastolic			sphygmomanometer	elder_blood pressure diastolic	168.06056342157	hr		88.2632964949825	78.3048739972054	9.95842249777699	4.06550896043433		mmHg	mmHg	dimensionless
+Lees1987a		elder	6.0	ENA10	blood pressure diastolic			sphygmomanometer	elder_blood pressure diastolic	169.083047518541	hr		83.6470700319527					mmHg	mmHg	dimensionless
+Lees1987a		elder	6.0	ENA10	blood pressure diastolic			sphygmomanometer	elder_blood pressure diastolic	170.113505115352	hr		85.0774142799911					mmHg	mmHg	dimensionless
+Lees1987a		elder	6.0	ENA10	blood pressure diastolic			sphygmomanometer	elder_blood pressure diastolic	171.906018233518	hr		79.3998622226132					mmHg	mmHg	dimensionless
+Lees1987a		elder	6.0	ENA10	blood pressure diastolic			sphygmomanometer	elder_blood pressure diastolic	173.957552839094	hr		75.1469381174334	57.3635417582741	17.7833963591592	7.26004116226804		mmHg	mmHg	dimensionless
+Lees1987a		elder	6.0	ENA10	blood pressure diastolic			sphygmomanometer	elder_blood pressure diastolic	175.934159997655	hr		79.0740333597163					mmHg	mmHg	dimensionless
+Lees1987a		elder	6.0	ENA10	blood pressure diastolic			sphygmomanometer	elder_blood pressure diastolic	177.983818485621	hr		73.3983867342852					mmHg	mmHg	dimensionless
+Lees1987a		elder	6.0	ENA10	blood pressure diastolic			sphygmomanometer	elder_blood pressure diastolic	179.786650250638	hr		75.5458085382895					mmHg	mmHg	dimensionless
+Lees1987a		elder	6.0	ENA10	blood pressure diastolic			sphygmomanometer	elder_blood pressure diastolic	192.05235540703	hr		82.0388854688829					mmHg	mmHg	dimensionless

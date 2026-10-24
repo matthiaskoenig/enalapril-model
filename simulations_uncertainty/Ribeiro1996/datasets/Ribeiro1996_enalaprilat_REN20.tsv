@@ -1,0 +1,15 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Ribeiro1996		all	18.0	REN20	concentration	enalaprilat	serum	RIA	enalaprilat_REN20	0.0	hr		0.0					mole/meter^3	ng/ml	dimensionless
+Ribeiro1996		all	18.0	REN20	concentration	enalaprilat	serum	RIA	enalaprilat_REN20	0.5	hr		9.010884552659149e-06	4.27942940941207	1.3883759672534457e-05	3.2724335376044798e-06		mole/meter^3	ng/ml	dimensionless
+Ribeiro1996		all	18.0	REN20	concentration	enalaprilat	serum	RIA	enalaprilat_REN20	1.0	hr		5.318802868460902e-05	19.6704636912609	1.388375967253371e-05	3.2724335376043074e-06		mole/meter^3	ng/ml	dimensionless
+Ribeiro1996		all	18.0	REN20	concentration	enalaprilat	serum	RIA	enalaprilat_REN20	1.5	hr		0.0001194431154968547	44.1773195672676	3.1224930263956055e-05	7.359786643906776e-06		mole/meter^3	ng/ml	dimensionless
+Ribeiro1996		all	18.0	REN20	concentration	enalaprilat	serum	RIA	enalaprilat_REN20	2.0	hr		0.00018160943195137484	56.4339569538876	8.326648070388235e-05	1.9626097717084646e-05		mole/meter^3	ng/ml	dimensionless
+Ribeiro1996		all	18.0	REN20	concentration	enalaprilat	serum	RIA	enalaprilat_REN20	3.0	hr		0.00019227424891563394	57.58590212663	0.00011448539807928302	2.6984467109567454e-05		mole/meter^3	ng/ml	dimensionless
+Ribeiro1996		all	18.0	REN20	concentration	enalaprilat	serum	RIA	enalaprilat_REN20	4.0	hr		0.00021193436066688998	63.8650649049263	0.00012143028435982636	2.8621392504081302e-05		mole/meter^3	ng/ml	dimensionless
+Ribeiro1996		all	18.0	REN20	concentration	enalaprilat	serum	RIA	enalaprilat_REN20	5.0	hr		0.00019234227698397736	57.8945029551615	0.00011101596138328776	2.6166713038022252e-05		mole/meter^3	ng/ml	dimensionless
+Ribeiro1996		all	18.0	REN20	concentration	enalaprilat	serum	RIA	enalaprilat_REN20	6.0	hr		0.00015475960372707045	49.074938156394	5.8968398054806403e-05	1.3898984713420396e-05		mole/meter^3	ng/ml	dimensionless
+Ribeiro1996		all	18.0	REN20	concentration	enalaprilat	serum	RIA	enalaprilat_REN20	8.0	hr		0.00011230442007506425	33.4286292691839	6.938272103134615e-05	1.6353664179479763e-05		mole/meter^3	ng/ml	dimensionless
+Ribeiro1996		all	18.0	REN20	concentration	enalaprilat	serum	RIA	enalaprilat_REN20	10.0	hr		7.884311395863129e-05	22.9105255101789	5.55049742473662e-05	1.3082647893299133e-05		mole/meter^3	ng/ml	dimensionless
+Ribeiro1996		all	18.0	REN20	concentration	enalaprilat	serum	RIA	enalaprilat_REN20	12.0	hr		5.356218306049795e-05	15.8122126926286	3.4688354071397124e-05	8.176123464028329e-06		mole/meter^3	ng/ml	dimensionless
+Ribeiro1996		all	18.0	REN20	concentration	enalaprilat	serum	RIA	enalaprilat_REN20	18.0	hr		2.1875275726689696e-05	5.91180435201234	2.0816620175970252e-05	4.9065244292710895e-06		mole/meter^3	ng/ml	dimensionless
+Ribeiro1996		all	18.0	REN20	concentration	enalaprilat	serum	RIA	enalaprilat_REN20	24.0	hr		8.995294786997034e-06	1.99430199430199	1.3877746783980247e-05	3.271016286180745e-06		mole/meter^3	ng/ml	dimensionless

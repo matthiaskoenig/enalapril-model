@@ -1,0 +1,37 @@
+{
+  "sets": [
+    {
+      "sid": "PK_20261020_114902__1f0f7_0",
+      "values": {
+        "Ka_dis_ena": 1.2105975057352698,
+        "GU__ENAABS_k": 0.022889410817020044,
+        "GU__F_ena_abs": 0.5772615737349208,
+        "GU__FED_f_dissolution": 0.42677125646477043,
+        "Kp_ena": 0.0217554333669896,
+        "LI__ENA2EAT_Vmax": 0.6433771676720234,
+        "KI__ENAEX_f": 2.8779239853805096,
+        "Kp_eat": 0.02007731697159188,
+        "LI__EATEX_Vmax": 0.0014569738076739293,
+        "KI__EATEX_f": 2.564109605515077,
+        "EATACE_Bmax": 5.578620777246979e-05,
+        "EATACE_Kd": 8.390093759607398e-07
+      },
+      "units": {
+        "Ka_dis_ena": "1/(hr)",
+        "GU__ENAABS_k": "1/(min)",
+        "GU__F_ena_abs": "dimensionless",
+        "GU__FED_f_dissolution": "dimensionless",
+        "Kp_ena": "dimensionless",
+        "LI__ENA2EAT_Vmax": "(mmol)/(min)/l",
+        "KI__ENAEX_f": "dimensionless",
+        "Kp_eat": "dimensionless",
+        "LI__EATEX_Vmax": "(mmol)/(min)/l",
+        "KI__EATEX_f": "dimensionless",
+        "EATACE_Bmax": "mmol/l",
+        "EATACE_Kd": "mmol/l"
+      },
+      "cost": 322.9599400090939,
+      "provenance": "optimization 'PK_20261020_114902__1f0f7', run '0'"
+    }
+  ]
+}

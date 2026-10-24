@@ -1,0 +1,13 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	median	sd	se	min	max	unit	geometric_mean	harmonic_mean	comments
+Portoles2004	NA	all	23.0	ENA20	cmax	enalapril	plasma	RP-HPLC 	NA	NA	NA	NA	118.58	NA	108.95	52.38	10.9219850083096	48.28	291.94	ng/ml	109.67	101.97	RP-HPLC or HPLC MS/MS
+Portoles2004	NA	all	23.0	ENA20	tmax	enalapril	plasma	RP-HPLC 	NA	NA	NA	NA	0.96	NA	1.0	0.34	0.0708949007794054	0.5	2.25	hr	0.91	0.87	NA
+Portoles2004	NA	all	23.0	ENA20	auc_end	enalapril	plasma	RP-HPLC 	NA	24.0	hr	NA	189.4	NA	171.48	85.52	17.832152690161	102.67	483.86	ng/ml*hr	175.37	164.45	NA
+Portoles2004	NA	all	23.0	ENA20	auc_inf	enalapril	plasma	RP-HPLC 	NA	NA	NA	NA	192.07	NA	175.08	85.5	17.8279824018799	104.53	487.01	ng/ml*hr	178.18	167.29	NA
+Portoles2004	NA	all	23.0	ENA20	mrt	enalapril	plasma	RP-HPLC 	NA	NA	NA	NA	1.67	NA	1.61	0.33	0.0688097566388347	1.23	2.6	hr	1.64	1.61	NA
+Portoles2004	NA	all	23.0	ENA20	thalf	enalapril	plasma	RP-HPLC 	NA	NA	NA	NA	0.87	NA	0.79	0.33	0.0688097566388347	0.59	1.76	hr	0.83	0.79	NA
+Portoles2004	NA	all	23.0	REN20	cmax	enalapril	plasma	RP-HPLC 	NA	NA	NA	NA	134.63	NA	132.51	56.28	11.7351912231322	48.43	251.54	ng/ml	122.98	111.37	NA
+Portoles2004	NA	all	23.0	REN20	tmax	enalapril	plasma	RP-HPLC 	NA	NA	NA	NA	0.9	NA	0.75	0.26	0.0542137476548395	0.5	2.25	hr	0.87	0.85	NA
+Portoles2004	NA	all	23.0	REN20	auc_end	enalapril	plasma	RP-HPLC 	NA	24.0	hr	NA	200.65	NA	198.81	79.98	16.6769828362848	90.7	390.77	ng/ml*hr	185.87	171.89	NA
+Portoles2004	NA	all	23.0	REN20	auc_inf	enalapril	plasma	RP-HPLC 	NA	NA	NA	NA	203.62	NA	201.58	81.02	16.8938378269042	91.92	395.07	ng/ml*hr	188.68	174.54	NA
+Portoles2004	NA	all	23.0	REN20	mrt	enalapril	plasma	RP-HPLC 	NA	NA	NA	NA	1.61	NA	1.6	0.34	0.0708949007794054	1.07	2.85	hr	1.58	1.56	NA
+Portoles2004	NA	all	23.0	REN20	thalf	enalapril	plasma	RP-HPLC 	NA	NA	NA	NA	0.82	NA	0.74	0.22	0.0458731710925565	0.54	1.37	hr	0.8	0.78	NA

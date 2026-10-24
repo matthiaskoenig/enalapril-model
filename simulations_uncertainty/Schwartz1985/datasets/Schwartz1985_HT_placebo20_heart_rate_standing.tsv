@@ -1,0 +1,14 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	min	max	comments	mean_unit	value_unit	count_unit
+Schwartz1985		HT	5.0	control	heart rate			electrocardiography	HT_placebo20_heart rate_standing	0.0	min		82.0		2.0	0.894427190999916			standing	1/min	1/min	dimensionless
+Schwartz1985		HT	5.0	control	heart rate			electrocardiography	HT_placebo20_heart rate_standing	60.0	min		78.0		4.0	1.78885438199983			standing	1/min	1/min	dimensionless
+Schwartz1985		HT	5.0	control	heart rate			electrocardiography	HT_placebo20_heart rate_standing	120.0	min		81.0		5.0	2.23606797749979			standing	1/min	1/min	dimensionless
+Schwartz1985		HT	5.0	control	heart rate			electrocardiography	HT_placebo20_heart rate_standing	180.0	min		81.0		5.0	2.23606797749979			standing	1/min	1/min	dimensionless
+Schwartz1985		HT	5.0	control	heart rate			electrocardiography	HT_placebo20_heart rate_standing	240.0	min		84.0		9.0	4.02492235949962			standing	1/min	1/min	dimensionless
+Schwartz1985		HT	5.0	control	heart rate			electrocardiography	HT_placebo20_heart rate_standing	300.0	min		82.0		12.0	5.3665631459995			standing	1/min	1/min	dimensionless
+Schwartz1985		HT	5.0	control	heart rate			electrocardiography	HT_placebo20_heart rate_standing	360.0	min		78.0		3.0	1.34164078649987			standing	1/min	1/min	dimensionless
+Schwartz1985		HT	5.0	control	heart rate			electrocardiography	HT_placebo20_heart rate_standing	420.0	min		79.0		7.0	3.13049516849971			standing	1/min	1/min	dimensionless
+Schwartz1985		HT	5.0	control	heart rate			electrocardiography	HT_placebo20_heart rate_standing	480.0	min		79.0		4.0	1.78885438199983			standing	1/min	1/min	dimensionless
+Schwartz1985		HT	5.0	control	heart rate			electrocardiography	HT_placebo20_heart rate_standing	540.0	min		81.0		4.0	1.78885438199983			standing	1/min	1/min	dimensionless
+Schwartz1985		HT	5.0	control	heart rate			electrocardiography	HT_placebo20_heart rate_standing	600.0	min		82.0		6.0	2.68328157299975			standing	1/min	1/min	dimensionless
+Schwartz1985		HT	5.0	control	heart rate			electrocardiography	HT_placebo20_heart rate_standing	660.0	min		80.0		7.0	3.13049516849971			standing	1/min	1/min	dimensionless
+Schwartz1985		HT	5.0	control	heart rate			electrocardiography	HT_placebo20_heart rate_standing	720.0	min		80.0		4.0	1.78885438199983			standing	1/min	1/min	dimensionless

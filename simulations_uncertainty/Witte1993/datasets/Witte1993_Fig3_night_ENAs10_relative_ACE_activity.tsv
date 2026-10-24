@@ -1,0 +1,8 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Witte1993		night	8.0	ENAs10	relative ACE activity		serum	Spectrophotometry	night_ENAs10_relative ACE activity	0.0	hr		100.0		36.17327955656271	12.7891856361011	ENAs10	percent	percent	dimensionless
+Witte1993		night	8.0	ENAs10	relative ACE activity		serum	Spectrophotometry	night_ENAs10_relative ACE activity	4.0	hr		7.33770594875751		4.340793546787491	1.53470227633212	ENAs10	percent	percent	dimensionless
+Witte1993		night	8.0	ENAs10	relative ACE activity		serum	Spectrophotometry	night_ENAs10_relative ACE activity	8.0	hr		6.76326431459965		4.332710132361584	1.53184435775427	ENAs10	percent	percent	dimensionless
+Witte1993		night	8.0	ENAs10	relative ACE activity		serum	Spectrophotometry	night_ENAs10_relative ACE activity	12.0	hr		9.25251139595031		4.340793546787491	1.53470227633212	ENAs10	percent	percent	dimensionless
+Witte1993		night	8.0	ENAs10	relative ACE activity		serum	Spectrophotometry	night_ENAs10_relative ACE activity	16.0	hr		14.8197367856989		2.8938623645250505	1.0231348508881	ENAs10	percent	percent	dimensionless
+Witte1993		night	8.0	ENAs10	relative ACE activity		serum	Spectrophotometry	night_ENAs10_relative ACE activity	20.0	hr		21.4043811891799		5.795808143476178	2.04912762035411	ENAs10	percent	percent	dimensionless
+Witte1993		night	8.0	ENAs10	relative ACE activity		serum	Spectrophotometry	night_ENAs10_relative ACE activity	24.0	hr		26.9658907417727		4.348876961213568	1.53756019491003	ENAs10	percent	percent	dimensionless

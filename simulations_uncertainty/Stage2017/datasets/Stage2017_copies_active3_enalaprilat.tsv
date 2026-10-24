@@ -1,0 +1,11 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	median	mean_pm	sd	se	comments	value_unit	median_unit	count_unit
+Stage2017		copies_active3	2.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	copies_active3_enalaprilat	1.0	hr		3.7119963882229753e-06					ng/ml	mole/meter^3	dimensionless
+Stage2017		copies_active3	2.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	copies_active3_enalaprilat	2.0	hr		1.2891557586317173e-05					ng/ml	mole/meter^3	dimensionless
+Stage2017		copies_active3	2.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	copies_active3_enalaprilat	3.0	hr		2.7733943239937356e-05					ng/ml	mole/meter^3	dimensionless
+Stage2017		copies_active3	2.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	copies_active3_enalaprilat	4.0	hr		4.452892535010431e-05					ng/ml	mole/meter^3	dimensionless
+Stage2017		copies_active3	2.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	copies_active3_enalaprilat	5.0	hr		5.058403748618315e-05					ng/ml	mole/meter^3	dimensionless
+Stage2017		copies_active3	2.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	copies_active3_enalaprilat	6.0	hr		5.23443216124814e-05					ng/ml	mole/meter^3	dimensionless
+Stage2017		copies_active3	2.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	copies_active3_enalaprilat	9.0	hr		3.946337436162605e-05					ng/ml	mole/meter^3	dimensionless
+Stage2017		copies_active3	2.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	copies_active3_enalaprilat	24.0	hr		9.235560190810308e-06					ng/ml	mole/meter^3	dimensionless
+Stage2017		copies_active3	2.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	copies_active3_enalaprilat	48.0	hr		3.6313873118659183e-06					ng/ml	mole/meter^3	dimensionless
+Stage2017		copies_active3	2.0	ENA10	concentration	enalaprilat	plasma	HPLC MS/MS	copies_active3_enalaprilat	72.0	hr		2.7140353917147217e-06					ng/ml	mole/meter^3	dimensionless

@@ -1,0 +1,9 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Biollaz1982		ENA	12.0	ENA10	concentration	enalapril	serum	RIA	ENA_enalapril	0.0	hr		2.6052441199876346e-06					mole/meter^3	ng/ml	dimensionless
+Biollaz1982		ENA	12.0	ENA10	concentration	enalapril	serum	RIA	ENA_enalapril	0.25	hr		4.766504478843859e-06					mole/meter^3	ng/ml	dimensionless
+Biollaz1982		ENA	12.0	ENA10	concentration	enalapril	serum	RIA	ENA_enalapril	0.5	hr		7.421709413865389e-05	33.3663290946471	4.994486865971863e-05	1.4417841682664505e-05		mole/meter^3	ng/ml	dimensionless
+Biollaz1982		ENA	12.0	ENA10	concentration	enalapril	serum	RIA	ENA_enalapril	1.0	hr		0.00011962884548791025	49.803548313409	4.3890945185813557e-05	1.2670224509008315e-05		mole/meter^3	ng/ml	dimensionless
+Biollaz1982		ENA	12.0	ENA10	concentration	enalapril	serum	RIA	ENA_enalapril	1.5	hr		8.59619310817502e-05	36.3073935886698	3.632354084343202e-05	1.0485703041937941e-05		mole/meter^3	ng/ml	dimensionless
+Biollaz1982		ENA	12.0	ENA10	concentration	enalapril	serum	RIA	ENA_enalapril	2.0	hr		5.186316914483139e-05	16.3991471864768	2.875263307311367e-05	8.30017022233639e-06		mole/meter^3	ng/ml	dimensionless
+Biollaz1982		ENA	12.0	ENA10	concentration	enalapril	serum	RIA	ENA_enalapril	3.0	hr		1.950393356132042e-05	5.2052082540166	1.9664741006383163e-05	5.676721756789792e-06		mole/meter^3	ng/ml	dimensionless
+Biollaz1982		ENA	12.0	ENA10	concentration	enalapril	serum	RIA	ENA_enalapril	4.0	hr		2.8762865983093222e-06	2.56300921343181	1.362132781628682e-05	3.932138640726669e-06		mole/meter^3	ng/ml	dimensionless

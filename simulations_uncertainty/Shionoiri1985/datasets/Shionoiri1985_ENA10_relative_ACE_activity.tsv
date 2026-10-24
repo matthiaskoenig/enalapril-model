@@ -1,0 +1,8 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Shionoiri1985		all	13.0	ENA10	relative ACE activity		serum	Spectrophotometry	ENA10_relative ACE activity	0.0	hr		100.0	84.6153846153845	55.4700196225231	15.3846153846155		percent	percent	dimensionless
+Shionoiri1985		all	13.0	ENA10	relative ACE activity		serum	Spectrophotometry	ENA10_relative ACE activity	1.0	hr		60.683760683760845	46.15384615384605	52.388351865717	14.5299145299148		percent	percent	dimensionless
+Shionoiri1985		all	13.0	ENA10	relative ACE activity		serum	Spectrophotometry	ENA10_relative ACE activity	2.0	hr		19.65811965811964	11.965811965811968	27.7350098112614	7.69230769230767		percent	percent	dimensionless
+Shionoiri1985		all	13.0	ENA10	relative ACE activity		serum	Spectrophotometry	ENA10_relative ACE activity	4.0	hr		3.4188034188034213					percent	percent	dimensionless
+Shionoiri1985		all	13.0	ENA10	relative ACE activity		serum	Spectrophotometry	ENA10_relative ACE activity	6.0	hr		4.273504273504276					percent	percent	dimensionless
+Shionoiri1985		all	13.0	ENA10	relative ACE activity		serum	Spectrophotometry	ENA10_relative ACE activity	9.0	hr		5.128205128205131	0.8547008547008517	15.4083387840341	4.27350427350428		percent	percent	dimensionless
+Shionoiri1985		all	13.0	ENA10	relative ACE activity		serum	Spectrophotometry	ENA10_relative ACE activity	24.0	hr		31.62393162393161	25.64102564102566	21.5716742976477	5.98290598290595		percent	percent	dimensionless

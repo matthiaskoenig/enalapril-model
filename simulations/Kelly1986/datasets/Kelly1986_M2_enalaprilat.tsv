@@ -1,0 +1,24 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Kelly1986		M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	0.0	hr		0.0					mole/meter^3	ng/ml	dimensionless
+Kelly1986		M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	9.0	hr		0.00010353848144333622					mole/meter^3	ng/ml	dimensionless
+Kelly1986		M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	24.0	hr		9.318463329900262e-05					mole/meter^3	ng/ml	dimensionless
+Kelly1986		M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	33.0	hr		0.00020431593671485038					mole/meter^3	ng/ml	dimensionless
+Kelly1986		M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	48.0	hr		0.00013390976933338157					mole/meter^3	ng/ml	dimensionless
+Kelly1986		M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	57.0	hr		0.000261607229780163					mole/meter^3	ng/ml	dimensionless
+Kelly1986		M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	72.0	hr		0.00022502363300351758					mole/meter^3	ng/ml	dimensionless
+Kelly1986		M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	81.0	hr		0.00027472210409631894					mole/meter^3	ng/ml	dimensionless
+Kelly1986		M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	96.0	hr		0.0002298554288042065					mole/meter^3	ng/ml	dimensionless
+Kelly1986		M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	105.0	hr		0.000313376470501829					mole/meter^3	ng/ml	dimensionless
+Kelly1986		M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	120.0	hr		0.0002664390255808522					mole/meter^3	ng/ml	dimensionless
+Kelly1986		M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	129.0	hr		0.00028300518261178595					mole/meter^3	ng/ml	dimensionless
+Kelly1986		M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	144.0	hr		0.00025677543397947404					mole/meter^3	ng/ml	dimensionless
+Kelly1986		M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	153.0	hr		0.0003423672453059643					mole/meter^3	ng/ml	dimensionless
+Kelly1986		M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	168.0	hr		0.00023261645497602885					mole/meter^3	ng/ml	dimensionless
+Kelly1986		M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	177.0	hr		0.00020776721942962817					mole/meter^3	ng/ml	dimensionless
+Kelly1986		M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	192.0	hr		9.939694218560273e-05					mole/meter^3	ng/ml	dimensionless
+Kelly1986		M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	201.0	hr		0.00012677711838950716					mole/meter^3	ng/ml	dimensionless
+Kelly1986		M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	216.0	hr		0.00012160019431734051					mole/meter^3	ng/ml	dimensionless
+Kelly1986		M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	240.0	hr		9.456514638491378e-05					mole/meter^3	ng/ml	dimensionless
+Kelly1986		M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	264.0	hr		5.60258227365606e-05					mole/meter^3	ng/ml	dimensionless
+Kelly1986		M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	288.0	hr		3.934462294846777e-05					mole/meter^3	ng/ml	dimensionless
+Kelly1986		M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	312.0	hr		2.784034723254147e-05					mole/meter^3	ng/ml	dimensionless

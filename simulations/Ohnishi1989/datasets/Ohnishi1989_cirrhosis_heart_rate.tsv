@@ -1,0 +1,10 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Ohnishi1989		cirrhosis	7.0		heart rate			electrocardiography	cirrhosis_heart rate	0.0	hr		71.1389875666074	68.0162078152753	8.26209862125298	3.12277975133215		1/min	1/min	dimensionless
+Ohnishi1989		cirrhosis	7.0		heart rate			electrocardiography	cirrhosis_heart rate	1.0	hr		74.1596358792185	70.4140763765542	9.90981896484453	3.74555950266431		1/min	1/min	dimensionless
+Ohnishi1989		cirrhosis	7.0		heart rate			electrocardiography	cirrhosis_heart rate	2.0	hr		70.7219508584961	67.8075044404973	7.7109004314478	2.91444641799879		1/min	1/min	dimensionless
+Ohnishi1989		cirrhosis	7.0		heart rate			electrocardiography	cirrhosis_heart rate	3.0	hr		71.6637063351095	68.744819419775	7.72264888309556	2.91888691533451		1/min	1/min	dimensionless
+Ohnishi1989		cirrhosis	7.0		heart rate			electrocardiography	cirrhosis_heart rate	4.0	hr		69.6821343990527	66.9715808170515	7.17145069329038	2.71055358200115		1/min	1/min	dimensionless
+Ohnishi1989		cirrhosis	7.0		heart rate			electrocardiography	cirrhosis_heart rate	6.0	hr		76.3484310242747	71.7650976909414	12.1263601757127	4.58333333333333		1/min	1/min	dimensionless
+Ohnishi1989		cirrhosis	7.0		heart rate			electrocardiography	cirrhosis_heart rate	8.0	hr		72.3875074008289	69.0563943161634	8.81329681105813	3.33111308466549		1/min	1/min	dimensionless
+Ohnishi1989		cirrhosis	7.0		heart rate			electrocardiography	cirrhosis_heart rate	12.0	hr		73.432874481942	69.6850947306098	9.91569319066839	3.74777975133216		1/min	1/min	dimensionless
+Ohnishi1989		cirrhosis	7.0		heart rate			electrocardiography	cirrhosis_heart rate	24.0	hr		70.1028715216104	67.3945381882771	7.16557646746659	2.70833333333333		1/min	1/min	dimensionless

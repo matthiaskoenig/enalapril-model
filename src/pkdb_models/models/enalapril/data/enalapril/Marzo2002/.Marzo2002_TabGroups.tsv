@@ -1,0 +1,17 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Marzo2002	all	20.0	NA	species	20.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Marzo2002	all	20.0	NA	healthy	20.0	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Marzo2002	all	20.0	NA	sex	10.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Marzo2002	all	20.0	NA	sex	10.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Marzo2002	all	20.0	NA	ethnicity	20.0	NA	caucasian	NA	NA	NA	NA	NA	NA	NA	NA
+Marzo2002	all	20.0	NA	smoking amount (cigarettes)	20.0	NA	NA	NA	NA	NA	NA	0.0	5.0	1/day	NA
+Marzo2002	all	20.0	NA	alcohol	20.0	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Marzo2002	all	20.0	NA	age	20.0	NA	NA	29.0	NA	8.8	NA	20.0	48.0	yr	NA
+Marzo2002	all	20.0	NA	height	20.0	NA	NA	171.0	NA	8.1	NA	156.0	187.0	cm	NA
+Marzo2002	all	20.0	NA	weight	20.0	NA	NA	66.0	NA	9.2	NA	52.0	81.0	kg	NA
+Marzo2002	Group1	10.0	all	species	10.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Marzo2002	Group1	10.0	NA	sex	5.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Marzo2002	NA	NA	NA	sex	5.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Marzo2002	Group2	10.0	all	species	10.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Marzo2002	Group2	10.0	NA	sex	5.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Marzo2002	NA	NA	NA	sex	5.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA

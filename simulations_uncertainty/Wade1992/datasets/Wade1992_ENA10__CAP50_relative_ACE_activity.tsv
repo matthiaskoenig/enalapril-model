@@ -1,0 +1,31 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	564.0	hr		100.0				ENA10, CAP50 _1 month	percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	564.5	hr		83.6322985861617					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	565.0	hr		48.5176665202003					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	565.5	hr		32.6307219106217					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	566.0	hr		26.3614981002363					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	567.0	hr		22.9574297603983					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	568.0	hr		24.3583447491547					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	569.0	hr		20.4748119620577					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	570.0	hr		22.3577761120744					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	572.0	hr		27.5659748248867					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	574.0	hr		35.1779575589972					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	576.0	hr		41.8284266845882					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	588.0	hr		76.3240197472153					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	612.0	hr		105.451161828944					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	636.0	hr		122.560676161182					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	0.0	hr		100.0				ENA10, CAP50 _immediate	percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	0.5	hr		71.2140657084191					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	1.0	hr		128.157084188911					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	1.5	hr		137.487166324435					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	2.0	hr		137.294661190964					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	3.0	hr		127.374229979466					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	4.0	hr		122.202258726899					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	5.0	hr		150.410677618069					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	6.0	hr		154.77412731006					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	8.0	hr		201.578542094454					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	10.0	hr		296.008726899383					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	12.0	hr		347.587268993839					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	24.0	hr		603.529260780285					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	48.0	hr		830.069301848047					percent	percent	dimensionless
+Wade1992		all	8.0	ENA10, CAP50	relative ACE activity			enzymatic assay	ENA10, CAP50_relative ACE activity	72.0	hr		947.150924024638					percent	percent	dimensionless

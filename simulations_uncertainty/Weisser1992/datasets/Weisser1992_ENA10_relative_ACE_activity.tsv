@@ -1,0 +1,12 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Weisser1992		all	19.0	ENA10	relative ACE activity		serum	enzymatic assay	ENA10_relative ACE activity	0.0	hr		99.9980302843777					percent	percent	dimensionless
+Weisser1992		all	19.0	ENA10	relative ACE activity		serum	enzymatic assay	ENA10_relative ACE activity	0.5	hr		78.6847223932045					percent	percent	dimensionless
+Weisser1992		all	19.0	ENA10	relative ACE activity		serum	enzymatic assay	ENA10_relative ACE activity	1.0	hr		40.2046042102671					percent	percent	dimensionless
+Weisser1992		all	19.0	ENA10	relative ACE activity		serum	enzymatic assay	ENA10_relative ACE activity	2.0	hr		13.8850178505478					percent	percent	dimensionless
+Weisser1992		all	19.0	ENA10	relative ACE activity		serum	enzymatic assay	ENA10_relative ACE activity	4.0	hr		7.51594238581805					percent	percent	dimensionless
+Weisser1992		all	19.0	ENA10	relative ACE activity		serum	enzymatic assay	ENA10_relative ACE activity	6.0	hr		9.6737658500554					percent	percent	dimensionless
+Weisser1992		all	19.0	ENA10	relative ACE activity		serum	enzymatic assay	ENA10_relative ACE activity	8.0	hr		7.56813984980919					percent	percent	dimensionless
+Weisser1992		all	19.0	ENA10	relative ACE activity		serum	enzymatic assay	ENA10_relative ACE activity	10.0	hr		9.51668102917641					percent	percent	dimensionless
+Weisser1992		all	19.0	ENA10	relative ACE activity		serum	enzymatic assay	ENA10_relative ACE activity	12.0	hr		10.8196479133325					percent	percent	dimensionless
+Weisser1992		all	19.0	ENA10	relative ACE activity		serum	enzymatic assay	ENA10_relative ACE activity	24.0	hr		27.1850301612705	30.3843407608027	13.9454715923594	3.1993105995322		percent	percent	dimensionless
+Weisser1992		all	19.0	ENA10	relative ACE activity		serum	enzymatic assay	ENA10_relative ACE activity	32.0	hr		39.6592391973409	43.711436661332	17.663119244809	4.0521974639911		percent	percent	dimensionless

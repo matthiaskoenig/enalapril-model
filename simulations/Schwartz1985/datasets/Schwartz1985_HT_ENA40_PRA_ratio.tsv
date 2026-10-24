@@ -1,0 +1,5 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	min	max	comments	mean_unit	value_unit	count_unit
+Schwartz1985		HT	5	ENA40	renin activity		plasma	RIA	HT_ENA40_renin activity	0	hr		1.0		0.7272727272727273	0.32524625127269635				dimensionless	dimensionless	dimensionless
+Schwartz1985		HT	5	ENA40	renin activity		plasma	RIA	HT_ENA40_renin activity	4	hr		3.818181818181818		2.4545454545454546	1.0977060980453546				dimensionless	dimensionless	dimensionless
+Schwartz1985		HT	5	ENA40	renin activity		plasma	RIA	HT_ENA40_renin activity	12	hr		5.454545454545454		4.0	1.7888543819998362				dimensionless	dimensionless	dimensionless
+Schwartz1985		HT	5	ENA40	renin activity		plasma	RIA	HT_ENA40_renin activity	24	hr		7.09090909090909		6.181818181818181	2.764593135817918				dimensionless	dimensionless	dimensionless

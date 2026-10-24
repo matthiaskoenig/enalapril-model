@@ -1,0 +1,10 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Lees1987a		young	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	young_ACE inhibition	167.994842186615	hr		19.5207531730054					percent	percent	dimensionless
+Lees1987a		young	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	young_ACE inhibition	169.014634468906	hr		52.3957519675871	31.2252975317159	21.1704544358712	8.64280183178751		percent	percent	dimensionless
+Lees1987a		young	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	young_ACE inhibition	170.121646698049	hr		81.6500869967721	69.9507775982277	11.6993093985445	4.77622306156359		percent	percent	dimensionless
+Lees1987a		young	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	young_ACE inhibition	172.211288502788	hr		81.9407650480996	73.8621194149517	8.07864563314783	3.29809326899595		percent	percent	dimensionless
+Lees1987a		young	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	young_ACE inhibition	174.101494856652	hr		77.7734612316758	69.4165361370676	8.35692509460817	3.41170038340834		percent	percent	dimensionless
+Lees1987a		young	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	young_ACE inhibition	176.081896818935	hr		71.3782685782536	60.2355181026298	11.1427504756238	4.5490088327388		percent	percent	dimensionless
+Lees1987a		young	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	young_ACE inhibition	178.024937697086	hr		69.7182351571658	61.0833061253165	8.63492903184927	3.52519501552924		percent	percent	dimensionless
+Lees1987a		young	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	young_ACE inhibition	180.197633522481	hr		64.4383645433391	57.7524938385894	6.68587070474966	2.72949528547647		percent	percent	dimensionless
+Lees1987a		young	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	young_ACE inhibition	192.144782466741	hr		34.1455787317341	11.5831759401226	22.5624027916115	9.21106236843249		percent	percent	dimensionless

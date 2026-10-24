@@ -1,0 +1,12 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	median	mean_sd	mean_se	mean_unit	value_unit	median_unit	count_unit
+Lowenthal1985		III	9.0	ENA10	blood pressure diastolic			sphygmomanometer	III_blood pressure diastolic	0.0	hr		73.2563819361261					mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		III	9.0	ENA10	blood pressure diastolic			sphygmomanometer	III_blood pressure diastolic	0.5	hr		78.1495885381827					mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		III	9.0	ENA10	blood pressure diastolic			sphygmomanometer	III_blood pressure diastolic	1.0	hr		73.7417357621766					mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		III	9.0	ENA10	blood pressure diastolic			sphygmomanometer	III_blood pressure diastolic	2.0	hr		75.7364310937572					mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		III	9.0	ENA10	blood pressure diastolic			sphygmomanometer	III_blood pressure diastolic	3.0	hr		65.1741517975203					mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		III	9.0	ENA10	blood pressure diastolic			sphygmomanometer	III_blood pressure diastolic	4.0	hr		65.8912931879346					mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		III	9.0	ENA10	blood pressure diastolic			sphygmomanometer	III_blood pressure diastolic	6.0	hr		68.2558374686931					mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		III	9.0	ENA10	blood pressure diastolic			sphygmomanometer	III_blood pressure diastolic	8.0	hr		69.4575548745391					mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		III	9.0	ENA10	blood pressure diastolic			sphygmomanometer	III_blood pressure diastolic	12.0	hr		65.4646640635938					mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		III	9.0	ENA10	blood pressure diastolic			sphygmomanometer	III_blood pressure diastolic	24.0	hr		70.775166062567					mmHg	mmHg	mmHg	dimensionless
+Lowenthal1985		III	9.0	ENA10	blood pressure diastolic			sphygmomanometer	III_blood pressure diastolic	48.0	hr		75.0399016847378					mmHg	mmHg	mmHg	dimensionless

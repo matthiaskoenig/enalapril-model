@@ -1,0 +1,7 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Gu2004	NA	all	20.0	ENA10	cmax	enalapril	plasma	LC MS/MS	NA	NA	NA	113.9	NA	NA	42.3	ng/ml	NA
+Gu2004	NA	all	20.0	ENA10	tmax	enalapril	plasma	LC MS/MS	NA	NA	NA	0.88	NA	NA	0.36	hr	NA
+Gu2004	NA	all	20.0	ENA10	thalf	enalapril	plasma	LC MS/MS	NA	NA	NA	1.83	NA	NA	0.73	hr	NA
+Gu2004	NA	all	20.0	ENA10	cmax	enalaprilat	plasma	LC MS/MS	NA	NA	NA	34.5	NA	NA	14.8	ng/ml	NA
+Gu2004	NA	all	20.0	ENA10	tmax	enalaprilat	plasma	LC MS/MS	NA	NA	NA	3.95	NA	NA	0.95	hr	NA
+Gu2004	NA	all	20.0	ENA10	thalf	enalaprilat	plasma	LC MS/MS	NA	NA	NA	29.2	NA	NA	12.8	hr	NA

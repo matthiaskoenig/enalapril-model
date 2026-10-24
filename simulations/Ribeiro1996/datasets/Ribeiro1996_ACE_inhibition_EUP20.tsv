@@ -1,0 +1,15 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Ribeiro1996		all	18.0	EUP20	ACE inhibition		serum	enzymatic assay	ACE inhibition_EUP20	0.0	hr		0.0818037449345468	1.34895963772921	5.3760871476936	1.26715589279466		percent	percent	dimensionless
+Ribeiro1996		all	18.0	EUP20	ACE inhibition		serum	enzymatic assay	ACE inhibition_EUP20	0.5	hr		36.1564156682362	39.3947029498226	13.7388893774392	3.23828728158637		percent	percent	dimensionless
+Ribeiro1996		all	18.0	EUP20	ACE inhibition		serum	enzymatic assay	ACE inhibition_EUP20	1.0	hr		74.0637536140728	75.8917001707225	7.75532043512176	1.82794655664974		percent	percent	dimensionless
+Ribeiro1996		all	18.0	EUP20	ACE inhibition		serum	enzymatic assay	ACE inhibition_EUP20	1.5	hr		83.9468924868708	81.9805405639642	8.34252467331871	1.96635192290658		percent	percent	dimensionless
+Ribeiro1996		all	18.0	EUP20	ACE inhibition		serum	enzymatic assay	ACE inhibition_EUP20	2.0	hr		89.6145424489856	90.7397083761095	4.77367474217646	1.12516592712397		percent	percent	dimensionless
+Ribeiro1996		all	18.0	EUP20	ACE inhibition		serum	enzymatic assay	ACE inhibition_EUP20	3.0	hr		92.4889928900666	93.7561487828612	5.37608714769366	1.26715589279468		percent	percent	dimensionless
+Ribeiro1996		all	18.0	EUP20	ACE inhibition		serum	enzymatic assay	ACE inhibition_EUP20	4.0	hr		92.6907261793013	93.8182818393679	4.78381352038998	1.12755566006655		percent	percent	dimensionless
+Ribeiro1996		all	18.0	EUP20	ACE inhibition		serum	enzymatic assay	ACE inhibition_EUP20	5.0	hr		91.905698907669	93.5952400980619	7.16811619692481	1.68954119039289		percent	percent	dimensionless
+Ribeiro1996		all	18.0	EUP20	ACE inhibition		serum	enzymatic assay	ACE inhibition_EUP20	6.0	hr		91.9678319641757	93.2361827234416	5.38115653680033	1.26835075926594		percent	percent	dimensionless
+Ribeiro1996		all	18.0	EUP20	ACE inhibition		serum	enzymatic assay	ACE inhibition_EUP20	8.0	hr		89.1306215281163	90.6817573522524	6.58091195872787	1.55113582413604		percent	percent	dimensionless
+Ribeiro1996		all	18.0	EUP20	ACE inhibition		serum	enzymatic assay	ACE inhibition_EUP20	10.0	hr		84.7494444667486	86.2981905579421	6.57077318051441	1.54874609119348		percent	percent	dimensionless
+Ribeiro1996		all	18.0	EUP20	ACE inhibition		serum	enzymatic assay	ACE inhibition_EUP20	12.0	hr		80.6474678708372	82.1962139620306	6.57077318051441	1.54874609119348		percent	percent	dimensionless
+Ribeiro1996		all	18.0	EUP20	ACE inhibition		serum	enzymatic assay	ACE inhibition_EUP20	18.0	hr		65.240461301302	67.7759679533626	10.757243684494	2.53550665206062		percent	percent	dimensionless
+Ribeiro1996		all	18.0	EUP20	ACE inhibition		serum	enzymatic assay	ACE inhibition_EUP20	24.0	hr		55.1836685013443	57.8599702526043	11.3545867009044	2.67630175126003		percent	percent	dimensionless

@@ -1,0 +1,71 @@
+study	name	group	measurement_type	substance	tissue	choice	value	unit	comments
+Ohnishi1989	MI	cirrhosis	age	NA	NA	NA	49.0	yr	NA
+Ohnishi1989	MI	cirrhosis	weight	NA	NA	NA	65.0	kg	NA
+Ohnishi1989	MI	cirrhosis	disease	NA	NA	alcoholic liver cirrhosis	NA	NA	NA
+Ohnishi1989	MI	cirrhosis	concentration	bilirubin	NA	NA	2.1	mg/dl	NA
+Ohnishi1989	MI	cirrhosis	concentration	albumin	NA	NA	3.2	g/dl	NA
+Ohnishi1989	MI	cirrhosis	concentration	ast	NA	NA	65.0	IU/l	NA
+Ohnishi1989	MI	cirrhosis	prothrombin time ratio	NA	NA	NA	66.0	percent	NA
+Ohnishi1989	MI	cirrhosis	retention ratio	indocyanine green	NA	NA	47.5	percent	NA
+Ohnishi1989	MI	cirrhosis	concentration	creatinine	serum	NA	0.9	mg/dl	NA
+Ohnishi1989	MI	cirrhosis	clearance	creatinine	urine	NA	78.0	ml/min	NA
+Ohnishi1989	RO	cirrhosis	age	NA	NA	NA	68.0	yr	NA
+Ohnishi1989	RO	cirrhosis	weight	NA	NA	NA	57.0	kg	NA
+Ohnishi1989	RO	cirrhosis	disease	NA	NA	postnecrotic cirrhosis	NA	NA	NA
+Ohnishi1989	RO	cirrhosis	concentration	bilirubin	NA	NA	1.9	mg/dl	NA
+Ohnishi1989	RO	cirrhosis	concentration	albumin	NA	NA	2.9	g/dl	NA
+Ohnishi1989	RO	cirrhosis	concentration	ast	NA	NA	50.0	IU/l	NA
+Ohnishi1989	RO	cirrhosis	prothrombin time ratio	NA	NA	NA	75.0	percent	NA
+Ohnishi1989	RO	cirrhosis	retention ratio	indocyanine green	NA	NA	33.2	percent	NA
+Ohnishi1989	RO	cirrhosis	concentration	creatinine	serum	NA	1.1	mg/dl	NA
+Ohnishi1989	RO	cirrhosis	clearance	creatinine	urine	NA	83.0	ml/min	NA
+Ohnishi1989	TT	cirrhosis	age	NA	NA	NA	64.0	yr	NA
+Ohnishi1989	TT	cirrhosis	weight	NA	NA	NA	57.0	kg	NA
+Ohnishi1989	TT	cirrhosis	disease	NA	NA	postnecrotic cirrhosis	NA	NA	NA
+Ohnishi1989	TT	cirrhosis	concentration	bilirubin	NA	NA	2.8	mg/dl	NA
+Ohnishi1989	TT	cirrhosis	concentration	albumin	NA	NA	2.9	g/dl	NA
+Ohnishi1989	TT	cirrhosis	concentration	ast	NA	NA	99.0	IU/l	NA
+Ohnishi1989	TT	cirrhosis	prothrombin time ratio	NA	NA	NA	67.0	percent	NA
+Ohnishi1989	TT	cirrhosis	retention ratio	indocyanine green	NA	NA	34.0	percent	NA
+Ohnishi1989	TT	cirrhosis	concentration	creatinine	serum	NA	0.9	mg/dl	NA
+Ohnishi1989	TT	cirrhosis	clearance	creatinine	urine	NA	65.0	ml/min	NA
+Ohnishi1989	KY	cirrhosis	age	NA	NA	NA	73.0	yr	NA
+Ohnishi1989	KY	cirrhosis	weight	NA	NA	NA	46.0	kg	NA
+Ohnishi1989	KY	cirrhosis	disease	NA	NA	cryptogenic liver cirrhosis	NA	NA	NA
+Ohnishi1989	KY	cirrhosis	concentration	bilirubin	NA	NA	1.6	mg/dl	NA
+Ohnishi1989	KY	cirrhosis	concentration	albumin	NA	NA	3.5	g/dl	NA
+Ohnishi1989	KY	cirrhosis	concentration	ast	NA	NA	38.0	IU/l	NA
+Ohnishi1989	KY	cirrhosis	prothrombin time ratio	NA	NA	NA	65.0	percent	NA
+Ohnishi1989	KY	cirrhosis	retention ratio	indocyanine green	NA	NA	35.5	percent	NA
+Ohnishi1989	KY	cirrhosis	concentration	creatinine	serum	NA	1.0	mg/dl	NA
+Ohnishi1989	KY	cirrhosis	clearance	creatinine	urine	NA	60.0	ml/min	NA
+Ohnishi1989	TA	cirrhosis	age	NA	NA	NA	45.0	yr	NA
+Ohnishi1989	TA	cirrhosis	weight	NA	NA	NA	63.0	kg	NA
+Ohnishi1989	TA	cirrhosis	disease	NA	NA	alcoholic liver cirrhosis	NA	NA	NA
+Ohnishi1989	TA	cirrhosis	concentration	bilirubin	NA	NA	0.6	mg/dl	NA
+Ohnishi1989	TA	cirrhosis	concentration	albumin	NA	NA	4.1	g/dl	NA
+Ohnishi1989	TA	cirrhosis	concentration	ast	NA	NA	34.0	IU/l	NA
+Ohnishi1989	TA	cirrhosis	prothrombin time ratio	NA	NA	NA	84.0	percent	NA
+Ohnishi1989	TA	cirrhosis	retention ratio	indocyanine green	NA	NA	25.0	percent	NA
+Ohnishi1989	TA	cirrhosis	concentration	creatinine	serum	NA	1.1	mg/dl	NA
+Ohnishi1989	TA	cirrhosis	clearance	creatinine	urine	NA	88.0	ml/min	NA
+Ohnishi1989	KS	cirrhosis	age	NA	NA	NA	51.0	yr	NA
+Ohnishi1989	KS	cirrhosis	weight	NA	NA	NA	58.0	kg	NA
+Ohnishi1989	KS	cirrhosis	disease	NA	NA	alcoholic liver cirrhosis	NA	NA	NA
+Ohnishi1989	KS	cirrhosis	concentration	bilirubin	NA	NA	3.1	mg/dl	NA
+Ohnishi1989	KS	cirrhosis	concentration	albumin	NA	NA	3.1	g/dl	NA
+Ohnishi1989	KS	cirrhosis	concentration	ast	NA	NA	28.0	IU/l	NA
+Ohnishi1989	KS	cirrhosis	prothrombin time ratio	NA	NA	NA	55.0	percent	NA
+Ohnishi1989	KS	cirrhosis	retention ratio	indocyanine green	NA	NA	35.0	percent	NA
+Ohnishi1989	KS	cirrhosis	concentration	creatinine	serum	NA	0.9	mg/dl	NA
+Ohnishi1989	KS	cirrhosis	clearance	creatinine	urine	NA	74.0	ml/min	NA
+Ohnishi1989	SM	cirrhosis	age	NA	NA	NA	57.0	yr	NA
+Ohnishi1989	SM	cirrhosis	weight	NA	NA	NA	67.0	kg	NA
+Ohnishi1989	SM	cirrhosis	disease	NA	NA	postnecrotic cirrhosis	NA	NA	NA
+Ohnishi1989	SM	cirrhosis	concentration	bilirubin	NA	NA	2.8	mg/dl	NA
+Ohnishi1989	SM	cirrhosis	concentration	albumin	NA	NA	3.0	g/dl	NA
+Ohnishi1989	SM	cirrhosis	concentration	ast	NA	NA	58.0	IU/l	NA
+Ohnishi1989	SM	cirrhosis	prothrombin time ratio	NA	NA	NA	54.0	percent	NA
+Ohnishi1989	SM	cirrhosis	retention ratio	indocyanine green	NA	NA	48.9	percent	NA
+Ohnishi1989	SM	cirrhosis	concentration	creatinine	serum	NA	1.0	mg/dl	NA
+Ohnishi1989	SM	cirrhosis	clearance	creatinine	urine	NA	59.0	ml/min	NA

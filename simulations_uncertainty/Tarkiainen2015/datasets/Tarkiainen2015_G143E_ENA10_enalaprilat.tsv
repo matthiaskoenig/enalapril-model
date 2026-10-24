@@ -1,0 +1,13 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Tarkiainen2015		G143E	10.0	ENA10	concentration	enalaprilat	plasma	LC/MS	G143E_ENA10_enalaprilat	0.5	hr		2.6866165164916925e-06					mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		G143E	10.0	ENA10	concentration	enalaprilat	plasma	LC/MS	G143E_ENA10_enalaprilat	1.0	hr		1.2788993236161427e-05	1.5880636270289	1.1505792515265872e-05	3.638451063355782e-06		mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		G143E	10.0	ENA10	concentration	enalaprilat	plasma	LC/MS	G143E_ENA10_enalaprilat	1.5	hr		2.9855850029485047e-05	5.94111977806202	1.7897297121135873e-05	5.659622286356381e-06		mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		G143E	10.0	ENA10	concentration	enalaprilat	plasma	LC/MS	G143E_ENA10_enalaprilat	2.0	hr		6.094452829287651e-05	13.6924213219002	3.0254748138168118e-05	9.567391415134989e-06		mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		G143E	10.0	ENA10	concentration	enalaprilat	plasma	LC/MS	G143E_ENA10_enalaprilat	3.0	hr		9.538072883216512e-05	24.734692223163	3.4086940339940387e-05	1.0779236994048582e-05		mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		G143E	10.0	ENA10	concentration	enalaprilat	plasma	LC/MS	G143E_ENA10_enalaprilat	4.0	hr		9.32408275441202e-05	24.3080200320657	3.280755519406639e-05	1.0374659887493723e-05		mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		G143E	10.0	ENA10	concentration	enalaprilat	plasma	LC/MS	G143E_ENA10_enalaprilat	5.0	hr		7.860317366277797e-05	21.3317180378664	2.428771750230628e-05	7.68045064740237e-06		mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		G143E	10.0	ENA10	concentration	enalaprilat	plasma	LC/MS	G143E_ENA10_enalaprilat	7.0	hr		5.450970008111027e-05	14.9554142422223	1.6191811668204187e-05	5.120300431601579e-06		mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		G143E	10.0	ENA10	concentration	enalaprilat	plasma	LC/MS	G143E_ENA10_enalaprilat	9.0	hr		3.8647749649141094e-05	11.0221397560844	9.800307062333986e-06	3.099129208600915e-06		mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		G143E	10.0	ENA10	concentration	enalaprilat	plasma	LC/MS	G143E_ENA10_enalaprilat	12.0	hr		2.1559563647618384e-05	5.81209129722041	6.817604912927933e-06	2.1559159712006185e-06		mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		G143E	10.0	ENA10	concentration	enalaprilat	plasma	LC/MS	G143E_ENA10_enalaprilat	24.0	hr		5.252679727756193e-06	1.11275242744682	1.7022327788323432e-06	5.382932688907859e-07		mole/meter^3	ng/ml	dimensionless
+Tarkiainen2015		G143E	10.0	ENA10	concentration	enalaprilat	plasma	LC/MS	G143E_ENA10_enalaprilat	48.0	hr		2.6607836653715797e-06					mole/meter^3	ng/ml	dimensionless

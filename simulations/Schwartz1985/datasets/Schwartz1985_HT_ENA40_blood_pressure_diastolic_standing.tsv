@@ -1,0 +1,16 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	min	max	comments	mean_unit	value_unit	count_unit
+Schwartz1985		HT	5	ENA40	blood pressure diastolic			sphygmomanometer	HT_ENA40_blood pressure diastolic_standing	0	min		100.0		2.0	0.894427190999916			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5	ENA40	blood pressure diastolic			sphygmomanometer	HT_ENA40_blood pressure diastolic_standing	60	min		97.0		3.0	1.34164078649987			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5	ENA40	blood pressure diastolic			sphygmomanometer	HT_ENA40_blood pressure diastolic_standing	120	min		91.0		5.0	2.23606797749979			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5	ENA40	blood pressure diastolic			sphygmomanometer	HT_ENA40_blood pressure diastolic_standing	180	min		81.0		8.0	3.57770876399966			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5	ENA40	blood pressure diastolic			sphygmomanometer	HT_ENA40_blood pressure diastolic_standing	240	min		77.0		12.0	5.3665631459995			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5	ENA40	blood pressure diastolic			sphygmomanometer	HT_ENA40_blood pressure diastolic_standing	300	min		80.0		11.0	4.91934955049954			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5	ENA40	blood pressure diastolic			sphygmomanometer	HT_ENA40_blood pressure diastolic_standing	360	min		82.0		7.0	3.13049516849971			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5	ENA40	blood pressure diastolic			sphygmomanometer	HT_ENA40_blood pressure diastolic_standing	420	min		87.0		7.0	3.13049516849971			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5	ENA40	blood pressure diastolic			sphygmomanometer	HT_ENA40_blood pressure diastolic_standing	480	min		88.0		9.0	4.02492235949962			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5	ENA40	blood pressure diastolic			sphygmomanometer	HT_ENA40_blood pressure diastolic_standing	540	min		87.0		10.0	4.47213595499958			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5	ENA40	blood pressure diastolic			sphygmomanometer	HT_ENA40_blood pressure diastolic_standing	600	min		90.0		6.0	2.68328157299975			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5	ENA40	blood pressure diastolic			sphygmomanometer	HT_ENA40_blood pressure diastolic_standing	660	min		95.0		13.0	5.81377674149945			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5	ENA40	blood pressure diastolic			sphygmomanometer	HT_ENA40_blood pressure diastolic_standing	720	min		91.0		16.0	7.15541752799933			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5	ENA40	blood pressure diastolic			sphygmomanometer	HT_ENA40_blood pressure diastolic_standing	1380	min		87.0		15.0	6.70820393249937			standing	mmHg	mmHg	dimensionless
+Schwartz1985		HT	5	ENA40	blood pressure diastolic			sphygmomanometer	HT_ENA40_blood pressure diastolic_standing	1440	min		87.0		17.0	7.60263112349928			standing	mmHg	mmHg	dimensionless

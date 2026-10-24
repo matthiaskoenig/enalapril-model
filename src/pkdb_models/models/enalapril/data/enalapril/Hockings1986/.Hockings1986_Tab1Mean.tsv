@@ -1,0 +1,5 @@
+study	individual	group	count	intervention	measurement_type	choice	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Hockings1986	NA	young	9.0	NA	clearance	NA	creatinine	urine	NR	young_creatinine_clearance	0.0	hr	NA	92.0	NA	15.0	NA	NA	NA	ml/min	NA
+Hockings1986	NA	young	9.0	NA	estimated clearance	NA	creatinine	urine	NR	young_creatinine_estimated clearance	0.0	hr	NA	86.0	NA	15.0	NA	NA	NA	ml/min	NA
+Hockings1986	NA	elder	9.0	NA	clearance	NA	creatinine	urine	NR	elder_creatinine_clearance	0.0	hr	NA	66.0	NA	19.0	NA	NA	NA	ml/min	NA
+Hockings1986	NA	elder	9.0	NA	estimated clearance	NA	creatinine	urine	NR	elder_creatinine_estimated clearance	0.0	hr	NA	58.0	NA	8.0	NA	NA	NA	ml/min	NA

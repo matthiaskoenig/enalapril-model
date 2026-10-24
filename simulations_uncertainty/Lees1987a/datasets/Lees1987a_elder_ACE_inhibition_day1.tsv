@@ -1,0 +1,10 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Lees1987a		elder	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	elder_ACE inhibition	0.0719079293014406	hr		0.66015921732469					percent	percent	dimensionless
+Lees1987a		elder	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	elder_ACE inhibition	1.01890383528782	hr		46.6047364510839	78.0845226401915	31.4797861891076	12.8515688958711		percent	percent	dimensionless
+Lees1987a		elder	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	elder_ACE inhibition	2.14219014859386	hr		69.7073873833763	94.2182852277375	24.5108978443612	10.0065321426948		percent	percent	dimensionless
+Lees1987a		elder	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	elder_ACE inhibition	4.13741214722589	hr		83.0246561467848	93.8863274000161	10.8616712532313	4.43425872071216		percent	percent	dimensionless
+Lees1987a		elder	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	elder_ACE inhibition	6.1293034229126	hr		83.8135081514706	90.218652523909	6.40514437243836	2.61488924022219		percent	percent	dimensionless
+Lees1987a		elder	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	elder_ACE inhibition	8.13118686743524	hr		82.3752097344615	88.4995951394473	6.1243854049858	2.50026987172729		percent	percent	dimensionless
+Lees1987a		elder	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	elder_ACE inhibition	10.1330703119579	hr		78.7086478770559	84.2804194967485	5.57177161969267	2.2746662385946		percent	percent	dimensionless
+Lees1987a		elder	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	elder_ACE inhibition	12.0465706440389	hr		74.4816811034466	81.168697462039	6.6870163585924	2.72996299669923		percent	percent	dimensionless
+Lees1987a		elder	6.0	ENA10	ACE inhibition		plasma	enzymatic assay	elder_ACE inhibition	24.1472060587436	hr		53.0338107256045	66.9604572280825	13.9266465024779	5.68552962653115		percent	percent	dimensionless

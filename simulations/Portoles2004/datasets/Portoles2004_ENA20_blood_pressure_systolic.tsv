@@ -1,0 +1,6 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Portoles2004		all	23.0	ENA20	blood pressure systolic			sphygmomanometer	ENA20_blood pressure systolic	0.0	hr		114.042665987001	132.594265324328	18.5515993373264	3.868275865644231		mmHg	mmHg	dimensionless
+Portoles2004		all	23.0	ENA20	blood pressure systolic			sphygmomanometer	ENA20_blood pressure systolic	5.0	hr		102.051739518287	120.035682426405	17.9839429081178	3.7499113179220687		mmHg	mmHg	dimensionless
+Portoles2004		all	23.0	ENA20	blood pressure systolic			sphygmomanometer	ENA20_blood pressure systolic	12.0	hr		110.902612463362	131.170230661399	20.2676181980375	4.226090532896295		mmHg	mmHg	dimensionless
+Portoles2004		all	23.0	ENA20	blood pressure systolic			sphygmomanometer	ENA20_blood pressure systolic	24.0	hr		108.620568370078	122.609710717472	13.9891423473939	2.916937819727851		mmHg	mmHg	dimensionless
+Portoles2004		all	23.0	ENA20	blood pressure systolic			sphygmomanometer	ENA20_blood pressure systolic	36.0	hr		112.618631324073	130.315483624315	17.6968523002421	3.6900487880395776		mmHg	mmHg	dimensionless

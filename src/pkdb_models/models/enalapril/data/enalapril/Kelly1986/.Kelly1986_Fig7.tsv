@@ -1,0 +1,15 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit
+Kelly1986	NA	M1	6.0	ENA10M	concentration	enalaprilat	serum	RIA	M1_enalaprilat	4.91803278688524	hr	NA	49.4009725429136	NA	NA	NA	ng/ml
+Kelly1986	NA	M1	6.0	ENA10M	concentration	enalaprilat	serum	RIA	M1_enalaprilat	12.7868852459016	hr	NA	20.7905237078866	NA	NA	NA	ng/ml
+Kelly1986	NA	M1	6.0	ENA10M	concentration	enalaprilat	serum	RIA	M1_enalaprilat	24.5901639344262	hr	NA	7.29640695631297	NA	NA	NA	ng/ml
+Kelly1986	NA	M1	6.0	ENA10M	concentration	enalaprilat	serum	RIA	M1_enalaprilat	36.639344262295	hr	NA	2.75953093403445	NA	NA	NA	ng/ml
+Kelly1986	NA	M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	10.8196721311475	hr	NA	116.135554329121	NA	NA	NA	ng/ml
+Kelly1986	NA	M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	25.0819672131147	hr	NA	80.7593054794409	NA	NA	NA	ng/ml
+Kelly1986	NA	M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	34.1803278688524	hr	NA	71.803975800329	NA	NA	NA	ng/ml
+Kelly1986	NA	M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	49.1803278688524	hr	NA	33.6265362564657	NA	NA	NA	ng/ml
+Kelly1986	NA	M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	58.0327868852458	hr	NA	42.0852518436278	NA	NA	NA	ng/ml
+Kelly1986	NA	M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	73.0327868852459	hr	NA	40.7576200767287	NA	NA	NA	ng/ml
+Kelly1986	NA	M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	96.639344262295	hr	NA	31.2032288257815	NA	NA	NA	ng/ml
+Kelly1986	NA	M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	120.983606557377	hr	NA	18.2886216094644	NA	NA	NA	ng/ml
+Kelly1986	NA	M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	144.83606557377	hr	NA	12.4488034541671	NA	NA	NA	ng/ml
+Kelly1986	NA	M2	6.0	ENA2.5M	concentration	enalaprilat	serum	RIA	M2_enalaprilat	168.442622950819	hr	NA	9.32905357183107	NA	NA	NA	ng/ml

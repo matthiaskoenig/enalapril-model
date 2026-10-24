@@ -1,0 +1,12 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Weisser1992		all	19.0	HCTZ25, ENA10	relative ACE activity		serum	enzymatic assay	HCTZ25, ENA10_relative ACE activity	0.0	hr		99.5735565677705					percent	percent	dimensionless
+Weisser1992		all	19.0	HCTZ25, ENA10	relative ACE activity		serum	enzymatic assay	HCTZ25, ENA10_relative ACE activity	0.5	hr		81.241413270959					percent	percent	dimensionless
+Weisser1992		all	19.0	HCTZ25, ENA10	relative ACE activity		serum	enzymatic assay	HCTZ25, ENA10_relative ACE activity	1.0	hr		48.2009109934753					percent	percent	dimensionless
+Weisser1992		all	19.0	HCTZ25, ENA10	relative ACE activity		serum	enzymatic assay	HCTZ25, ENA10_relative ACE activity	2.0	hr		14.3114612827773					percent	percent	dimensionless
+Weisser1992		all	19.0	HCTZ25, ENA10	relative ACE activity		serum	enzymatic assay	HCTZ25, ENA10_relative ACE activity	4.0	hr		6.87627723747384					percent	percent	dimensionless
+Weisser1992		all	19.0	HCTZ25, ENA10	relative ACE activity		serum	enzymatic assay	HCTZ25, ENA10_relative ACE activity	6.0	hr		5.4093315277607					percent	percent	dimensionless
+Weisser1992		all	19.0	HCTZ25, ENA10	relative ACE activity		serum	enzymatic assay	HCTZ25, ENA10_relative ACE activity	8.0	hr		5.86335097870246					percent	percent	dimensionless
+Weisser1992		all	19.0	HCTZ25, ENA10	relative ACE activity		serum	enzymatic assay	HCTZ25, ENA10_relative ACE activity	10.0	hr		8.44958759079158					percent	percent	dimensionless
+Weisser1992		all	19.0	HCTZ25, ENA10	relative ACE activity		serum	enzymatic assay	HCTZ25, ENA10_relative ACE activity	12.0	hr		9.54130247445525					percent	percent	dimensionless
+Weisser1992		all	19.0	HCTZ25, ENA10	relative ACE activity		serum	enzymatic assay	HCTZ25, ENA10_relative ACE activity	24.0	hr		22.0686938323279	18.656161516681	14.8748835054717	3.4125323156469		percent	percent	dimensionless
+Weisser1992		all	19.0	HCTZ25, ENA10	relative ACE activity		serum	enzymatic assay	HCTZ25, ENA10_relative ACE activity	32.0	hr		31.9832574172104	28.1432968115228	16.7380002273695	3.8399606056876		percent	percent	dimensionless

@@ -1,0 +1,38 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Weisser1992	NA	all	19.0	ENA10	concentration	enalapril	serum	RIA	ENA10_enalapril	0.5	hr	NA	78.5786802030457	91.3705583756345	55.7585042523983	12.7918781725888	ng/ml	NA
+Weisser1992	NA	all	19.0	ENA10	concentration	enalapril	serum	RIA	ENA10_enalapril	1.0	hr	NA	103.553299492386	116.649746192893	57.0860876869767	13.096446700507	ng/ml	NA
+Weisser1992	NA	all	19.0	ENA10	concentration	enalapril	serum	RIA	ENA10_enalapril	2.0	hr	NA	63.0456852791878	73.4010152284264	45.1378367757512	10.3553299492386	ng/ml	NA
+Weisser1992	NA	all	19.0	ENA10	concentration	enalapril	serum	RIA	ENA10_enalapril	4.0	hr	NA	23.4517766497462	30.4568527918782	30.5344189953612	7.005076142132	ng/ml	NA
+Weisser1992	NA	all	19.0	ENA10	concentration	enalapril	serum	RIA	ENA10_enalapril	6.0	hr	NA	7.00507614213198	11.8781725888325	21.2413349532947	4.87309644670052	ng/ml	NA
+Weisser1992	NA	all	19.0	ENA10	concentration	enalapril	serum	RIA	ENA10_enalapril	8.0	hr	NA	3.95939086294416	7.30964467005077	14.6034177803901	3.35025380710661	ng/ml	NA
+Weisser1992	NA	all	19.0	ENA10	concentration	enalapril	serum	RIA	ENA10_enalapril	10.0	hr	NA	0.60913705583755	NA	NA	NA	ng/ml	NA
+Weisser1992	NA	all	19.0	ENA10	concentration	enalapril	serum	RIA	ENA10_enalapril	12.0	hr	NA	0.0	NA	NA	NA	ng/ml	NA
+Weisser1992	NA	all	19.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	0.0	hr	NA	0.0	NA	NA	NA	ng/ml	NA
+Weisser1992	NA	all	19.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	0.5	hr	NA	2.74111675126903	NA	NA	NA	ng/ml	NA
+Weisser1992	NA	all	19.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	1.0	hr	NA	12.1827411167513	NA	NA	NA	ng/ml	NA
+Weisser1992	NA	all	19.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	2.0	hr	NA	38.3756345177665	44.4670050761421	26.5516686916182	6.0913705583756	ng/ml	NA
+Weisser1992	NA	all	19.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	4.0	hr	NA	70.9644670050762	80.1015228426396	39.8275030374272	9.1370558375634	ng/ml	NA
+Weisser1992	NA	all	19.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	6.0	hr	NA	76.4467005076142	86.1928934010152	42.4826699065893	9.746192893401	ng/ml	NA
+Weisser1992	NA	all	19.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	8.0	hr	NA	67.3096446700508	77.3604060913706	43.8102533411703	10.0507614213198	ng/ml	NA
+Weisser1992	NA	all	19.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	10.0	hr	NA	56.3451776649746	66.7005076142132	45.1378367757512	10.3553299492386	ng/ml	NA
+Weisser1992	NA	all	19.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	12.0	hr	NA	47.2081218274112	57.8680203045685	46.4654202103318	10.6598984771573	ng/ml	NA
+Weisser1992	NA	all	19.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	24.0	hr	NA	19.492385786802	28.3248730964467	38.4999196028467	8.8324873096447	ng/ml	NA
+Weisser1992	NA	all	19.0	ENA10	concentration	enalaprilat	serum	RIA	ENA10_enalaprilat	32.0	hr	NA	7.91878172588832	11.5736040609137	15.931001214971	3.65482233502538	ng/ml	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	concentration	enalapril	serum	RIA	HCTZ25, ENA10_enalapril	0.5	hr	NA	48.6955677258018	36.2559266363065	54.2231384030262	12.4396410894953	ng/ml	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	concentration	enalapril	serum	RIA	HCTZ25, ENA10_enalapril	1.0	hr	NA	91.1708986983077	75.6966810836683	67.4505508125702	15.4742176146394	ng/ml	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	concentration	enalapril	serum	RIA	HCTZ25, ENA10_enalapril	2.0	hr	NA	85.4014158027449	71.1404461061956	62.1621257441544	14.2609696965493	ng/ml	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	concentration	enalapril	serum	RIA	HCTZ25, ENA10_enalapril	4.0	hr	NA	19.8543963762109	10.7523316349712	39.6749803846285	9.1020647412397	ng/ml	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	concentration	enalapril	serum	RIA	HCTZ25, ENA10_enalapril	6.0	hr	NA	3.45994166143512	NA	NA	NA	ng/ml	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	concentration	enalapril	serum	RIA	HCTZ25, ENA10_enalapril	8.0	hr	NA	4.66444920001244	8.60844140303897	17.191463447105	3.94399220302653	ng/ml	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	concentration	enalapril	serum	RIA	HCTZ25, ENA10_enalapril	10.0	hr	NA	0.103635928509206	NA	NA	NA	ng/ml	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	concentration	enalaprilat	serum	RIA	HCTZ25, ENA10_enalaprilat	0.0	hr	NA	0.0	NA	NA	NA	ng/ml	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	concentration	enalaprilat	serum	RIA	HCTZ25, ENA10_enalaprilat	0.5	hr	NA	1.36308299545287	NA	NA	NA	ng/ml	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	concentration	enalaprilat	serum	RIA	HCTZ25, ENA10_enalaprilat	1.0	hr	NA	8.64257050399382	NA	NA	NA	ng/ml	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	concentration	enalaprilat	serum	RIA	HCTZ25, ENA10_enalaprilat	2.0	hr	NA	33.8211066291616	39.5855950221457	25.1268223662309	5.7644883929841	ng/ml	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	concentration	enalaprilat	serum	RIA	HCTZ25, ENA10_enalaprilat	4.0	hr	NA	79.9299382277146	89.033251594599	39.6804230176321	9.10331336688439	ng/ml	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	concentration	enalaprilat	serum	RIA	HCTZ25, ENA10_enalaprilat	6.0	hr	NA	93.2706708241276	108.138472583996	64.8072453838625	14.8678017598684	ng/ml	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	concentration	enalaprilat	serum	RIA	HCTZ25, ENA10_enalaprilat	8.0	hr	NA	87.8000256661938	101.14949864212	58.1890036515894	13.3494729759262	ng/ml	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	concentration	enalaprilat	serum	RIA	HCTZ25, ENA10_enalaprilat	10.0	hr	NA	75.956811426312	88.7007009645633	55.5493266448826	12.7438895382513	ng/ml	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	concentration	enalaprilat	serum	RIA	HCTZ25, ENA10_enalaprilat	12.0	hr	NA	62.2943496221173	74.4301584714047	52.8987643721704	12.1358088492874	ng/ml	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	concentration	enalaprilat	serum	RIA	HCTZ25, ENA10_enalaprilat	24.0	hr	NA	27.9513174734754	36.4469663599441	37.0316749559209	8.4956488864687	ng/ml	NA
+Weisser1992	NA	all	19.0	HCTZ25, ENA10	concentration	enalaprilat	serum	RIA	HCTZ25, ENA10_enalaprilat	32.0	hr	NA	13.1983892729183	18.2049618995758	21.823144133097	5.0065726266575	ng/ml	NA

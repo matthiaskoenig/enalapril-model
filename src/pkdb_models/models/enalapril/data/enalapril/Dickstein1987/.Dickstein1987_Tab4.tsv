@@ -1,0 +1,7 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Dickstein1987	NA	CHF	12.0	ENAPO10	clearance	indocyanine green	plasma	Spectrophotometry	NA	0.0	hr	NA	1.25	NA	0.38	0.109696551146029	NA	NA	l/min/m^2	to encode as clearance_hepatic?
+Dickstein1987	NA	CHF	12.0	ENAPO10	clearance	indocyanine green	plasma	Spectrophotometry	NA	6.0	hr	NA	1.31	NA	0.39	0.112583302491977	NA	NA	l/min/m^2	NA
+Dickstein1987	NA	CHF	12.0	ENAIV5	clearance	indocyanine green	plasma	Spectrophotometry	NA	0.0	hr	NA	1.27	NA	0.42	0.121243556529821	NA	NA	l/min/m^2	NA
+Dickstein1987	NA	CHF	12.0	ENAIV5	clearance	indocyanine green	plasma	Spectrophotometry	NA	6.0	hr	NA	1.36	NA	0.39	0.112583302491977	NA	NA	l/min/m^2	NA
+Dickstein1987	NA	CHF	12.0	EATIV5	clearance	indocyanine green	plasma	Spectrophotometry	NA	0.0	hr	NA	1.34	NA	0.42	0.121243556529821	NA	NA	l/min/m^2	NA
+Dickstein1987	NA	CHF	12.0	EATIV5	clearance	indocyanine green	plasma	Spectrophotometry	NA	6.0	hr	NA	1.37	NA	0.47	0.135677313259562	NA	NA	l/min/m^2	NA

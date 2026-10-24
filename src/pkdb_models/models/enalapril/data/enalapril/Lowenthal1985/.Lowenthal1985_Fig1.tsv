@@ -1,0 +1,32 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	median	sd	se	min	max	unit	comments
+Lowenthal1985	NA	I	9.0	ENA10	concentration	enalaprilat	plasma	enzymatic assay	I_enalaprilat	0.0	hr	NA	0.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	I	9.0	ENA10	concentration	enalaprilat	plasma	enzymatic assay	I_enalaprilat	0.5	hr	NA	7.57575757575756	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	I	9.0	ENA10	concentration	enalaprilat	plasma	enzymatic assay	I_enalaprilat	2.0	hr	NA	25.7575757575757	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	I	9.0	ENA10	concentration	enalaprilat	plasma	enzymatic assay	I_enalaprilat	3.0	hr	NA	69.6969696969696	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	I	9.0	ENA10	concentration	enalaprilat	plasma	enzymatic assay	I_enalaprilat	4.0	hr	NA	80.8361391694724	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	I	9.0	ENA10	concentration	enalaprilat	plasma	enzymatic assay	I_enalaprilat	6.0	hr	NA	113.804713804713	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	I	9.0	ENA10	concentration	enalaprilat	plasma	enzymatic assay	I_enalaprilat	8.0	hr	NA	148.877665544332	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	I	9.0	ENA10	concentration	enalaprilat	plasma	enzymatic assay	I_enalaprilat	12.0	hr	NA	174.480920314253	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	I	9.0	ENA10	concentration	enalaprilat	plasma	enzymatic assay	I_enalaprilat	24.0	hr	NA	191.666666666666	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	I	9.0	ENA10	concentration	enalaprilat	plasma	enzymatic assay	I_enalaprilat	48.0	hr	NA	103.535353535353	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	II	8.0	ENA10	concentration	enalaprilat	serum	RIA	II_enalaprilat	0.0	hr	NA	0.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	II	8.0	ENA10	concentration	enalaprilat	serum	RIA	II_enalaprilat	0.5	hr	NA	2.52525252525251	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	II	8.0	ENA10	concentration	enalaprilat	serum	RIA	II_enalaprilat	1.0	hr	NA	10.6060606060605	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	II	8.0	ENA10	concentration	enalaprilat	serum	RIA	II_enalaprilat	2.0	hr	NA	39.3939393939394	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	II	8.0	ENA10	concentration	enalaprilat	serum	RIA	II_enalaprilat	3.0	hr	NA	55.050505050505	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	II	8.0	ENA10	concentration	enalaprilat	serum	RIA	II_enalaprilat	4.0	hr	NA	67.6767676767677	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	II	8.0	ENA10	concentration	enalaprilat	serum	RIA	II_enalaprilat	6.0	hr	NA	76.7676767676767	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	II	8.0	ENA10	concentration	enalaprilat	serum	RIA	II_enalaprilat	8.0	hr	NA	79.2929292929293	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	II	8.0	ENA10	concentration	enalaprilat	serum	RIA	II_enalaprilat	12.0	hr	NA	72.2222222222222	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	II	8.0	ENA10	concentration	enalaprilat	serum	RIA	II_enalaprilat	24.0	hr	NA	34.8484848484848	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	II	8.0	ENA10	concentration	enalaprilat	serum	RIA	II_enalaprilat	48.0	hr	NA	16.6666666666666	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	III	9.0	ENA10	concentration	enalaprilat	serum	RIA	III_enalaprilat	0.0	hr	NA	0.0	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	III	9.0	ENA10	concentration	enalaprilat	serum	RIA	III_enalaprilat	0.5	hr	NA	6.56565656565661	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	III	9.0	ENA10	concentration	enalaprilat	serum	RIA	III_enalaprilat	2.0	hr	NA	30.8080808080808	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	III	9.0	ENA10	concentration	enalaprilat	serum	RIA	III_enalaprilat	3.0	hr	NA	37.3737373737373	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	III	9.0	ENA10	concentration	enalaprilat	serum	RIA	III_enalaprilat	4.0	hr	NA	35.8585858585858	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	III	9.0	ENA10	concentration	enalaprilat	serum	RIA	III_enalaprilat	6.0	hr	NA	28.2828282828282	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	III	9.0	ENA10	concentration	enalaprilat	serum	RIA	III_enalaprilat	8.0	hr	NA	22.7272727272727	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	III	9.0	ENA10	concentration	enalaprilat	serum	RIA	III_enalaprilat	12.0	hr	NA	13.1313131313131	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	III	9.0	ENA10	concentration	enalaprilat	serum	RIA	III_enalaprilat	24.0	hr	NA	5.55555555555557	NA	NA	NA	NA	NA	NA	ng/ml	NA
+Lowenthal1985	NA	III	9.0	ENA10	concentration	enalaprilat	serum	RIA	III_enalaprilat	48.0	hr	NA	4.54545454545456	NA	NA	NA	NA	NA	NA	ng/ml	NA

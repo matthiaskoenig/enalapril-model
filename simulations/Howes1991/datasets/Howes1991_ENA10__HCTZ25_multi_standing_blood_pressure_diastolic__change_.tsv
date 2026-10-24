@@ -1,0 +1,2 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Howes1991		all	12.0	ENA10, HCTZ25	blood pressure diastolic (change)			sphygmomanometer	ENA10, HCTZ25_multi_standing_blood pressure diastolic (change)	4.0	hr		-13.0		6.0		multi	mmHg	mmHg	dimensionless

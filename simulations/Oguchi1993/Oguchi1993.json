@@ -1,0 +1,4066 @@
+{
+  "experiment_id": "Oguchi1993",
+  "base_path": "/home/mkoenig/git/enalapril-model/src/pkdb_models/models/enalapril",
+  "data_path": [
+    "/home/mkoenig/git/enalapril-model/src/pkdb_models/models/enalapril/data/enalapril",
+    "/home/mkoenig/git/enalapril-model/src/pkdb_models/models/enalapril/data/lisinopril",
+    "/home/mkoenig/git/enalapril-model/src/pkdb_models/models/enalapril/data/hydrochlorothiazide"
+  ],
+  "models": {
+    "model": {
+      "sid": null,
+      "name": null,
+      "language": "SBML",
+      "language_type": "SBML",
+      "source": {
+        "source": "/home/mkoenig/git/enalapril-model/src/pkdb_models/models/enalapril/models/output/models/enalapril_body_flat.xml",
+        "path": "/home/mkoenig/git/enalapril-model/src/pkdb_models/models/enalapril/models/output/models/enalapril_body_flat.xml",
+        "content": null
+      },
+      "base_path": null,
+      "changes": {},
+      "selections": [
+        "ALDDEG",
+        "ALDSEC",
+        "ANG1ANG2",
+        "ANG1DEG",
+        "ANG2DEG",
+        "ANGGEN2ANG1",
+        "Afeces_ena",
+        "Aurine_eat",
+        "Aurine_ena",
+        "Aurine_ena_eat",
+        "DBP",
+        "DBP_change",
+        "DBP_change_relative",
+        "DBP_ratio",
+        "DBP_ref",
+        "GU__F_ena_abs",
+        "GU__fed",
+        "HR",
+        "HRrest",
+        "IVDOSE_eat",
+        "IVDOSE_ena",
+        "KI__EATEX",
+        "KI__ENAEX",
+        "KI__ENA_EATEX",
+        "KI__GFR",
+        "KI__f_renal_function",
+        "LI__f_ces1",
+        "MAP",
+        "MAP_change",
+        "MAP_change_relative",
+        "MAP_ratio",
+        "PODOSE_ena",
+        "RENDEG",
+        "RENSEC",
+        "SBP",
+        "SBP_change",
+        "SBP_change_relative",
+        "SBP_ratio",
+        "SBP_ref",
+        "Xre_eat_ace",
+        "[Cve_eat]",
+        "[Cve_ena]",
+        "[Cve_ena_eat]",
+        "[LI__eat]",
+        "[LI__ena]",
+        "[ace]",
+        "[ald]",
+        "[ang1]",
+        "[ang2]",
+        "[anggen]",
+        "[eat]",
+        "[ren]",
+        "ace_activity",
+        "ace_inhibition",
+        "ald_change",
+        "ald_ratio",
+        "ald_ref",
+        "ang1_change",
+        "ang1_ratio",
+        "ang2_change",
+        "ang2_ratio",
+        "f_ace_occupancy",
+        "f_cardiac_function",
+        "f_cirrhosis",
+        "ren_change",
+        "ren_ratio",
+        "ren_ref",
+        "time"
+      ],
+      "parameters": {}
+    }
+  },
+  "tasks": {
+    "task_po_ENA5_1": {
+      "sid": "model__po_ENA5_1",
+      "name": null,
+      "model": "model",
+      "simulation": "po_ENA5_1",
+      "observables": []
+    },
+    "task_po_ENA5_2": {
+      "sid": "model__po_ENA5_2",
+      "name": null,
+      "model": "model",
+      "simulation": "po_ENA5_2",
+      "observables": []
+    },
+    "task_po_ENA5_3": {
+      "sid": "model__po_ENA5_3",
+      "name": null,
+      "model": "model",
+      "simulation": "po_ENA5_3",
+      "observables": []
+    }
+  },
+  "observables": {},
+  "simulations": {
+    "po_ENA5_1": {
+      "type": "Simulation",
+      "time_unit": "hr",
+      "start": 0.0,
+      "end": 50,
+      "preinit_changes": {
+        "BW": {
+          "value": 62,
+          "unit": "kilogram"
+        },
+        "KI__f_renal_function": {
+          "value": 1.08019801980198,
+          "unit": "dimensionless"
+        },
+        "GU__fed": {
+          "value": 0.5,
+          "unit": "dimensionless"
+        },
+        "PODOSE_ena": {
+          "value": 3.821647250491301,
+          "unit": "milligram"
+        }
+      },
+      "changes": [],
+      "presimulation": null,
+      "times": null,
+      "steps": null,
+      "time_shift": 0.0
+    },
+    "po_ENA5_2": {
+      "type": "Simulation",
+      "time_unit": "hr",
+      "start": 0.0,
+      "end": 50,
+      "preinit_changes": {
+        "BW": {
+          "value": 60.4,
+          "unit": "kilogram"
+        },
+        "KI__f_renal_function": {
+          "value": 0.4970297029702971,
+          "unit": "dimensionless"
+        },
+        "GU__fed": {
+          "value": 0.5,
+          "unit": "dimensionless"
+        },
+        "PODOSE_ena": {
+          "value": 3.821647250491301,
+          "unit": "milligram"
+        }
+      },
+      "changes": [],
+      "presimulation": null,
+      "times": null,
+      "steps": null,
+      "time_shift": 0.0
+    },
+    "po_ENA5_3": {
+      "type": "Simulation",
+      "time_unit": "hr",
+      "start": 0.0,
+      "end": 50,
+      "preinit_changes": {
+        "BW": {
+          "value": 56,
+          "unit": "kilogram"
+        },
+        "KI__f_renal_function": {
+          "value": 0.10198019801980199,
+          "unit": "dimensionless"
+        },
+        "GU__fed": {
+          "value": 0.5,
+          "unit": "dimensionless"
+        },
+        "PODOSE_ena": {
+          "value": 3.821647250491301,
+          "unit": "milligram"
+        }
+      },
+      "changes": [],
+      "presimulation": null,
+      "times": null,
+      "steps": null,
+      "time_shift": 0.0
+    }
+  },
+  "data": {
+    "task_po_ENA5_1__time": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__IVDOSE_ena": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__IVDOSE_ena",
+      "index": "IVDOSE_ena",
+      "selection": "IVDOSE_ena",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__IVDOSE_eat": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__IVDOSE_eat",
+      "index": "IVDOSE_eat",
+      "selection": "IVDOSE_eat",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__PODOSE_ena": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__PODOSE_ena",
+      "index": "PODOSE_ena",
+      "selection": "PODOSE_ena",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__conc__Cve_ena": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__conc__Cve_ena",
+      "index": "Cve_ena",
+      "selection": "[Cve_ena]",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__conc__Cve_eat": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__conc__Cve_eat",
+      "index": "Cve_eat",
+      "selection": "[Cve_eat]",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__conc__Cve_ena_eat": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__conc__Cve_ena_eat",
+      "index": "Cve_ena_eat",
+      "selection": "[Cve_ena_eat]",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__conc__eat": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__conc__eat",
+      "index": "eat",
+      "selection": "[eat]",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__conc__LI__ena": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__conc__LI__ena",
+      "index": "LI__ena",
+      "selection": "[LI__ena]",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__conc__LI__eat": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__conc__LI__eat",
+      "index": "LI__eat",
+      "selection": "[LI__eat]",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__Xre_eat_ace": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__Xre_eat_ace",
+      "index": "Xre_eat_ace",
+      "selection": "Xre_eat_ace",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__f_ace_occupancy": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__f_ace_occupancy",
+      "index": "f_ace_occupancy",
+      "selection": "f_ace_occupancy",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__Aurine_ena": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__Aurine_ena",
+      "index": "Aurine_ena",
+      "selection": "Aurine_ena",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__Aurine_eat": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__Aurine_eat",
+      "index": "Aurine_eat",
+      "selection": "Aurine_eat",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__Aurine_ena_eat": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__Aurine_ena_eat",
+      "index": "Aurine_ena_eat",
+      "selection": "Aurine_ena_eat",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__KI__ENAEX": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__KI__ENAEX",
+      "index": "KI__ENAEX",
+      "selection": "KI__ENAEX",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__KI__EATEX": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__KI__EATEX",
+      "index": "KI__EATEX",
+      "selection": "KI__EATEX",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__KI__ENA_EATEX": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__KI__ENA_EATEX",
+      "index": "KI__ENA_EATEX",
+      "selection": "KI__ENA_EATEX",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__Afeces_ena": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__Afeces_ena",
+      "index": "Afeces_ena",
+      "selection": "Afeces_ena",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__KI__f_renal_function": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__KI__f_renal_function",
+      "index": "KI__f_renal_function",
+      "selection": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__KI__GFR": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__KI__GFR",
+      "index": "KI__GFR",
+      "selection": "KI__GFR",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__f_cardiac_function": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__f_cardiac_function",
+      "index": "f_cardiac_function",
+      "selection": "f_cardiac_function",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__GU__F_ena_abs": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__GU__F_ena_abs",
+      "index": "GU__F_ena_abs",
+      "selection": "GU__F_ena_abs",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__GU__fed": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__GU__fed",
+      "index": "GU__fed",
+      "selection": "GU__fed",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__LI__f_ces1": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__LI__f_ces1",
+      "index": "LI__f_ces1",
+      "selection": "LI__f_ces1",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__f_cirrhosis": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__f_cirrhosis",
+      "index": "f_cirrhosis",
+      "selection": "f_cirrhosis",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__conc__anggen": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__conc__anggen",
+      "index": "anggen",
+      "selection": "[anggen]",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__conc__ang1": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__conc__ang1",
+      "index": "ang1",
+      "selection": "[ang1]",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__ang1_change": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__ang1_change",
+      "index": "ang1_change",
+      "selection": "ang1_change",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__ang1_ratio": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__ang1_ratio",
+      "index": "ang1_ratio",
+      "selection": "ang1_ratio",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__conc__ang2": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__conc__ang2",
+      "index": "ang2",
+      "selection": "[ang2]",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__ang2_change": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__ang2_change",
+      "index": "ang2_change",
+      "selection": "ang2_change",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__ang2_ratio": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__ang2_ratio",
+      "index": "ang2_ratio",
+      "selection": "ang2_ratio",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__conc__ren": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__conc__ren",
+      "index": "ren",
+      "selection": "[ren]",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__ren_change": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__ren_change",
+      "index": "ren_change",
+      "selection": "ren_change",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__ren_ratio": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__ren_ratio",
+      "index": "ren_ratio",
+      "selection": "ren_ratio",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__ren_ref": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__ren_ref",
+      "index": "ren_ref",
+      "selection": "ren_ref",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__conc__ace": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__conc__ace",
+      "index": "ace",
+      "selection": "[ace]",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__ace_activity": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__ace_activity",
+      "index": "ace_activity",
+      "selection": "ace_activity",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__ace_inhibition": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__ace_inhibition",
+      "index": "ace_inhibition",
+      "selection": "ace_inhibition",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__conc__ald": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__conc__ald",
+      "index": "ald",
+      "selection": "[ald]",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__ald_change": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__ald_change",
+      "index": "ald_change",
+      "selection": "ald_change",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__ald_ratio": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__ald_ratio",
+      "index": "ald_ratio",
+      "selection": "ald_ratio",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__ald_ref": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__ald_ref",
+      "index": "ald_ref",
+      "selection": "ald_ref",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__ANGGEN2ANG1": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__ANGGEN2ANG1",
+      "index": "ANGGEN2ANG1",
+      "selection": "ANGGEN2ANG1",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__ANG1ANG2": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__ANG1ANG2",
+      "index": "ANG1ANG2",
+      "selection": "ANG1ANG2",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__ANG1DEG": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__ANG1DEG",
+      "index": "ANG1DEG",
+      "selection": "ANG1DEG",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__ANG2DEG": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__ANG2DEG",
+      "index": "ANG2DEG",
+      "selection": "ANG2DEG",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__RENSEC": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__RENSEC",
+      "index": "RENSEC",
+      "selection": "RENSEC",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__RENDEG": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__RENDEG",
+      "index": "RENDEG",
+      "selection": "RENDEG",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__ALDSEC": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__ALDSEC",
+      "index": "ALDSEC",
+      "selection": "ALDSEC",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__ALDDEG": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__ALDDEG",
+      "index": "ALDDEG",
+      "selection": "ALDDEG",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__SBP": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__SBP",
+      "index": "SBP",
+      "selection": "SBP",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__SBP_ref": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__SBP_ref",
+      "index": "SBP_ref",
+      "selection": "SBP_ref",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__SBP_change": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__SBP_change",
+      "index": "SBP_change",
+      "selection": "SBP_change",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__SBP_ratio": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__SBP_ratio",
+      "index": "SBP_ratio",
+      "selection": "SBP_ratio",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__SBP_change_relative": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__SBP_change_relative",
+      "index": "SBP_change_relative",
+      "selection": "SBP_change_relative",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__DBP": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__DBP",
+      "index": "DBP",
+      "selection": "DBP",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__DBP_ref": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__DBP_ref",
+      "index": "DBP_ref",
+      "selection": "DBP_ref",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__DBP_change": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__DBP_change",
+      "index": "DBP_change",
+      "selection": "DBP_change",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__DBP_ratio": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__DBP_ratio",
+      "index": "DBP_ratio",
+      "selection": "DBP_ratio",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__DBP_change_relative": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__DBP_change_relative",
+      "index": "DBP_change_relative",
+      "selection": "DBP_change_relative",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__MAP": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__MAP",
+      "index": "MAP",
+      "selection": "MAP",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__MAP_change": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__MAP_change",
+      "index": "MAP_change",
+      "selection": "MAP_change",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__MAP_ratio": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__MAP_ratio",
+      "index": "MAP_ratio",
+      "selection": "MAP_ratio",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__MAP_change_relative": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__MAP_change_relative",
+      "index": "MAP_change_relative",
+      "selection": "MAP_change_relative",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__HR": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__HR",
+      "index": "HR",
+      "selection": "HR",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_1__HRrest": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_1__HRrest",
+      "index": "HRrest",
+      "selection": "HRrest",
+      "unit": null,
+      "task": "task_po_ENA5_1",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__time": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__IVDOSE_ena": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__IVDOSE_ena",
+      "index": "IVDOSE_ena",
+      "selection": "IVDOSE_ena",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__IVDOSE_eat": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__IVDOSE_eat",
+      "index": "IVDOSE_eat",
+      "selection": "IVDOSE_eat",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__PODOSE_ena": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__PODOSE_ena",
+      "index": "PODOSE_ena",
+      "selection": "PODOSE_ena",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__conc__Cve_ena": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__conc__Cve_ena",
+      "index": "Cve_ena",
+      "selection": "[Cve_ena]",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__conc__Cve_eat": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__conc__Cve_eat",
+      "index": "Cve_eat",
+      "selection": "[Cve_eat]",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__conc__Cve_ena_eat": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__conc__Cve_ena_eat",
+      "index": "Cve_ena_eat",
+      "selection": "[Cve_ena_eat]",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__conc__eat": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__conc__eat",
+      "index": "eat",
+      "selection": "[eat]",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__conc__LI__ena": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__conc__LI__ena",
+      "index": "LI__ena",
+      "selection": "[LI__ena]",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__conc__LI__eat": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__conc__LI__eat",
+      "index": "LI__eat",
+      "selection": "[LI__eat]",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__Xre_eat_ace": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__Xre_eat_ace",
+      "index": "Xre_eat_ace",
+      "selection": "Xre_eat_ace",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__f_ace_occupancy": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__f_ace_occupancy",
+      "index": "f_ace_occupancy",
+      "selection": "f_ace_occupancy",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__Aurine_ena": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__Aurine_ena",
+      "index": "Aurine_ena",
+      "selection": "Aurine_ena",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__Aurine_eat": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__Aurine_eat",
+      "index": "Aurine_eat",
+      "selection": "Aurine_eat",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__Aurine_ena_eat": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__Aurine_ena_eat",
+      "index": "Aurine_ena_eat",
+      "selection": "Aurine_ena_eat",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__KI__ENAEX": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__KI__ENAEX",
+      "index": "KI__ENAEX",
+      "selection": "KI__ENAEX",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__KI__EATEX": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__KI__EATEX",
+      "index": "KI__EATEX",
+      "selection": "KI__EATEX",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__KI__ENA_EATEX": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__KI__ENA_EATEX",
+      "index": "KI__ENA_EATEX",
+      "selection": "KI__ENA_EATEX",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__Afeces_ena": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__Afeces_ena",
+      "index": "Afeces_ena",
+      "selection": "Afeces_ena",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__KI__f_renal_function": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__KI__f_renal_function",
+      "index": "KI__f_renal_function",
+      "selection": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__KI__GFR": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__KI__GFR",
+      "index": "KI__GFR",
+      "selection": "KI__GFR",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__f_cardiac_function": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__f_cardiac_function",
+      "index": "f_cardiac_function",
+      "selection": "f_cardiac_function",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__GU__F_ena_abs": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__GU__F_ena_abs",
+      "index": "GU__F_ena_abs",
+      "selection": "GU__F_ena_abs",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__GU__fed": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__GU__fed",
+      "index": "GU__fed",
+      "selection": "GU__fed",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__LI__f_ces1": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__LI__f_ces1",
+      "index": "LI__f_ces1",
+      "selection": "LI__f_ces1",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__f_cirrhosis": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__f_cirrhosis",
+      "index": "f_cirrhosis",
+      "selection": "f_cirrhosis",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__conc__anggen": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__conc__anggen",
+      "index": "anggen",
+      "selection": "[anggen]",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__conc__ang1": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__conc__ang1",
+      "index": "ang1",
+      "selection": "[ang1]",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__ang1_change": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__ang1_change",
+      "index": "ang1_change",
+      "selection": "ang1_change",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__ang1_ratio": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__ang1_ratio",
+      "index": "ang1_ratio",
+      "selection": "ang1_ratio",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__conc__ang2": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__conc__ang2",
+      "index": "ang2",
+      "selection": "[ang2]",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__ang2_change": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__ang2_change",
+      "index": "ang2_change",
+      "selection": "ang2_change",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__ang2_ratio": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__ang2_ratio",
+      "index": "ang2_ratio",
+      "selection": "ang2_ratio",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__conc__ren": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__conc__ren",
+      "index": "ren",
+      "selection": "[ren]",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__ren_change": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__ren_change",
+      "index": "ren_change",
+      "selection": "ren_change",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__ren_ratio": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__ren_ratio",
+      "index": "ren_ratio",
+      "selection": "ren_ratio",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__ren_ref": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__ren_ref",
+      "index": "ren_ref",
+      "selection": "ren_ref",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__conc__ace": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__conc__ace",
+      "index": "ace",
+      "selection": "[ace]",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__ace_activity": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__ace_activity",
+      "index": "ace_activity",
+      "selection": "ace_activity",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__ace_inhibition": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__ace_inhibition",
+      "index": "ace_inhibition",
+      "selection": "ace_inhibition",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__conc__ald": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__conc__ald",
+      "index": "ald",
+      "selection": "[ald]",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__ald_change": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__ald_change",
+      "index": "ald_change",
+      "selection": "ald_change",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__ald_ratio": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__ald_ratio",
+      "index": "ald_ratio",
+      "selection": "ald_ratio",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__ald_ref": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__ald_ref",
+      "index": "ald_ref",
+      "selection": "ald_ref",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__ANGGEN2ANG1": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__ANGGEN2ANG1",
+      "index": "ANGGEN2ANG1",
+      "selection": "ANGGEN2ANG1",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__ANG1ANG2": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__ANG1ANG2",
+      "index": "ANG1ANG2",
+      "selection": "ANG1ANG2",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__ANG1DEG": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__ANG1DEG",
+      "index": "ANG1DEG",
+      "selection": "ANG1DEG",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__ANG2DEG": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__ANG2DEG",
+      "index": "ANG2DEG",
+      "selection": "ANG2DEG",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__RENSEC": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__RENSEC",
+      "index": "RENSEC",
+      "selection": "RENSEC",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__RENDEG": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__RENDEG",
+      "index": "RENDEG",
+      "selection": "RENDEG",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__ALDSEC": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__ALDSEC",
+      "index": "ALDSEC",
+      "selection": "ALDSEC",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__ALDDEG": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__ALDDEG",
+      "index": "ALDDEG",
+      "selection": "ALDDEG",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__SBP": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__SBP",
+      "index": "SBP",
+      "selection": "SBP",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__SBP_ref": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__SBP_ref",
+      "index": "SBP_ref",
+      "selection": "SBP_ref",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__SBP_change": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__SBP_change",
+      "index": "SBP_change",
+      "selection": "SBP_change",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__SBP_ratio": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__SBP_ratio",
+      "index": "SBP_ratio",
+      "selection": "SBP_ratio",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__SBP_change_relative": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__SBP_change_relative",
+      "index": "SBP_change_relative",
+      "selection": "SBP_change_relative",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__DBP": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__DBP",
+      "index": "DBP",
+      "selection": "DBP",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__DBP_ref": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__DBP_ref",
+      "index": "DBP_ref",
+      "selection": "DBP_ref",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__DBP_change": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__DBP_change",
+      "index": "DBP_change",
+      "selection": "DBP_change",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__DBP_ratio": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__DBP_ratio",
+      "index": "DBP_ratio",
+      "selection": "DBP_ratio",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__DBP_change_relative": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__DBP_change_relative",
+      "index": "DBP_change_relative",
+      "selection": "DBP_change_relative",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__MAP": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__MAP",
+      "index": "MAP",
+      "selection": "MAP",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__MAP_change": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__MAP_change",
+      "index": "MAP_change",
+      "selection": "MAP_change",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__MAP_ratio": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__MAP_ratio",
+      "index": "MAP_ratio",
+      "selection": "MAP_ratio",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__MAP_change_relative": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__MAP_change_relative",
+      "index": "MAP_change_relative",
+      "selection": "MAP_change_relative",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__HR": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__HR",
+      "index": "HR",
+      "selection": "HR",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_2__HRrest": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_2__HRrest",
+      "index": "HRrest",
+      "selection": "HRrest",
+      "unit": null,
+      "task": "task_po_ENA5_2",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__time": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__IVDOSE_ena": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__IVDOSE_ena",
+      "index": "IVDOSE_ena",
+      "selection": "IVDOSE_ena",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__IVDOSE_eat": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__IVDOSE_eat",
+      "index": "IVDOSE_eat",
+      "selection": "IVDOSE_eat",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__PODOSE_ena": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__PODOSE_ena",
+      "index": "PODOSE_ena",
+      "selection": "PODOSE_ena",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__conc__Cve_ena": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__conc__Cve_ena",
+      "index": "Cve_ena",
+      "selection": "[Cve_ena]",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__conc__Cve_eat": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__conc__Cve_eat",
+      "index": "Cve_eat",
+      "selection": "[Cve_eat]",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__conc__Cve_ena_eat": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__conc__Cve_ena_eat",
+      "index": "Cve_ena_eat",
+      "selection": "[Cve_ena_eat]",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__conc__eat": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__conc__eat",
+      "index": "eat",
+      "selection": "[eat]",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__conc__LI__ena": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__conc__LI__ena",
+      "index": "LI__ena",
+      "selection": "[LI__ena]",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__conc__LI__eat": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__conc__LI__eat",
+      "index": "LI__eat",
+      "selection": "[LI__eat]",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__Xre_eat_ace": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__Xre_eat_ace",
+      "index": "Xre_eat_ace",
+      "selection": "Xre_eat_ace",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__f_ace_occupancy": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__f_ace_occupancy",
+      "index": "f_ace_occupancy",
+      "selection": "f_ace_occupancy",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__Aurine_ena": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__Aurine_ena",
+      "index": "Aurine_ena",
+      "selection": "Aurine_ena",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__Aurine_eat": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__Aurine_eat",
+      "index": "Aurine_eat",
+      "selection": "Aurine_eat",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__Aurine_ena_eat": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__Aurine_ena_eat",
+      "index": "Aurine_ena_eat",
+      "selection": "Aurine_ena_eat",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__KI__ENAEX": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__KI__ENAEX",
+      "index": "KI__ENAEX",
+      "selection": "KI__ENAEX",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__KI__EATEX": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__KI__EATEX",
+      "index": "KI__EATEX",
+      "selection": "KI__EATEX",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__KI__ENA_EATEX": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__KI__ENA_EATEX",
+      "index": "KI__ENA_EATEX",
+      "selection": "KI__ENA_EATEX",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__Afeces_ena": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__Afeces_ena",
+      "index": "Afeces_ena",
+      "selection": "Afeces_ena",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__KI__f_renal_function": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__KI__f_renal_function",
+      "index": "KI__f_renal_function",
+      "selection": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__KI__GFR": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__KI__GFR",
+      "index": "KI__GFR",
+      "selection": "KI__GFR",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__f_cardiac_function": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__f_cardiac_function",
+      "index": "f_cardiac_function",
+      "selection": "f_cardiac_function",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__GU__F_ena_abs": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__GU__F_ena_abs",
+      "index": "GU__F_ena_abs",
+      "selection": "GU__F_ena_abs",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__GU__fed": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__GU__fed",
+      "index": "GU__fed",
+      "selection": "GU__fed",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__LI__f_ces1": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__LI__f_ces1",
+      "index": "LI__f_ces1",
+      "selection": "LI__f_ces1",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__f_cirrhosis": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__f_cirrhosis",
+      "index": "f_cirrhosis",
+      "selection": "f_cirrhosis",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__conc__anggen": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__conc__anggen",
+      "index": "anggen",
+      "selection": "[anggen]",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__conc__ang1": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__conc__ang1",
+      "index": "ang1",
+      "selection": "[ang1]",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__ang1_change": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__ang1_change",
+      "index": "ang1_change",
+      "selection": "ang1_change",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__ang1_ratio": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__ang1_ratio",
+      "index": "ang1_ratio",
+      "selection": "ang1_ratio",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__conc__ang2": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__conc__ang2",
+      "index": "ang2",
+      "selection": "[ang2]",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__ang2_change": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__ang2_change",
+      "index": "ang2_change",
+      "selection": "ang2_change",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__ang2_ratio": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__ang2_ratio",
+      "index": "ang2_ratio",
+      "selection": "ang2_ratio",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__conc__ren": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__conc__ren",
+      "index": "ren",
+      "selection": "[ren]",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__ren_change": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__ren_change",
+      "index": "ren_change",
+      "selection": "ren_change",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__ren_ratio": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__ren_ratio",
+      "index": "ren_ratio",
+      "selection": "ren_ratio",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__ren_ref": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__ren_ref",
+      "index": "ren_ref",
+      "selection": "ren_ref",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__conc__ace": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__conc__ace",
+      "index": "ace",
+      "selection": "[ace]",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__ace_activity": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__ace_activity",
+      "index": "ace_activity",
+      "selection": "ace_activity",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__ace_inhibition": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__ace_inhibition",
+      "index": "ace_inhibition",
+      "selection": "ace_inhibition",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__conc__ald": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__conc__ald",
+      "index": "ald",
+      "selection": "[ald]",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__ald_change": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__ald_change",
+      "index": "ald_change",
+      "selection": "ald_change",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__ald_ratio": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__ald_ratio",
+      "index": "ald_ratio",
+      "selection": "ald_ratio",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__ald_ref": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__ald_ref",
+      "index": "ald_ref",
+      "selection": "ald_ref",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__ANGGEN2ANG1": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__ANGGEN2ANG1",
+      "index": "ANGGEN2ANG1",
+      "selection": "ANGGEN2ANG1",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__ANG1ANG2": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__ANG1ANG2",
+      "index": "ANG1ANG2",
+      "selection": "ANG1ANG2",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__ANG1DEG": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__ANG1DEG",
+      "index": "ANG1DEG",
+      "selection": "ANG1DEG",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__ANG2DEG": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__ANG2DEG",
+      "index": "ANG2DEG",
+      "selection": "ANG2DEG",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__RENSEC": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__RENSEC",
+      "index": "RENSEC",
+      "selection": "RENSEC",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__RENDEG": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__RENDEG",
+      "index": "RENDEG",
+      "selection": "RENDEG",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__ALDSEC": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__ALDSEC",
+      "index": "ALDSEC",
+      "selection": "ALDSEC",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__ALDDEG": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__ALDDEG",
+      "index": "ALDDEG",
+      "selection": "ALDDEG",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__SBP": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__SBP",
+      "index": "SBP",
+      "selection": "SBP",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__SBP_ref": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__SBP_ref",
+      "index": "SBP_ref",
+      "selection": "SBP_ref",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__SBP_change": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__SBP_change",
+      "index": "SBP_change",
+      "selection": "SBP_change",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__SBP_ratio": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__SBP_ratio",
+      "index": "SBP_ratio",
+      "selection": "SBP_ratio",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__SBP_change_relative": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__SBP_change_relative",
+      "index": "SBP_change_relative",
+      "selection": "SBP_change_relative",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__DBP": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__DBP",
+      "index": "DBP",
+      "selection": "DBP",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__DBP_ref": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__DBP_ref",
+      "index": "DBP_ref",
+      "selection": "DBP_ref",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__DBP_change": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__DBP_change",
+      "index": "DBP_change",
+      "selection": "DBP_change",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__DBP_ratio": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__DBP_ratio",
+      "index": "DBP_ratio",
+      "selection": "DBP_ratio",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__DBP_change_relative": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__DBP_change_relative",
+      "index": "DBP_change_relative",
+      "selection": "DBP_change_relative",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__MAP": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__MAP",
+      "index": "MAP",
+      "selection": "MAP",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__MAP_change": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__MAP_change",
+      "index": "MAP_change",
+      "selection": "MAP_change",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__MAP_ratio": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__MAP_ratio",
+      "index": "MAP_ratio",
+      "selection": "MAP_ratio",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__MAP_change_relative": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__MAP_change_relative",
+      "index": "MAP_change_relative",
+      "selection": "MAP_change_relative",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__HR": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__HR",
+      "index": "HR",
+      "selection": "HR",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_po_ENA5_3__HRrest": {
+      "type": "TASK",
+      "sid": "task_po_ENA5_3__HRrest",
+      "index": "HRrest",
+      "selection": "HRrest",
+      "unit": null,
+      "task": "task_po_ENA5_3",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    }
+  },
+  "figures": {
+    "Fig1": {
+      "sid": "Fig1",
+      "name": "Oguchi1993",
+      "num_rows": 2,
+      "num_cols": 2,
+      "width": null,
+      "height": null,
+      "settings": {},
+      "subplots": [
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig1__plot0",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig1__plot0_xaxis",
+              "name": "time [hr]",
+              "label": "time",
+              "unit": "hr",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig1__plot0_yaxis",
+              "name": "enalapril [\u00b5M]",
+              "label": "enalapril",
+              "unit": "\u00b5M",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig1__plot0_curve0",
+                "name": "group 1",
+                "x": "task_po_ENA5_1__time",
+                "y": "task_po_ENA5_1__conc__Cve_ena",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#000000ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#000000ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#000000ff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig1__plot0_curve1",
+                "name": "enalapril (group 1)\u00b1SD (n=6)",
+                "x": "Ena1_enalapril__time",
+                "y": "Ena1_enalapril__mean",
+                "xerr": null,
+                "yerr": "Ena1_enalapril__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#000000ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#000000ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#000000ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig1__plot0_curve2",
+                "name": "group 2",
+                "x": "task_po_ENA5_2__time",
+                "y": "task_po_ENA5_2__conc__Cve_ena",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#028A3Fff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#028A3Fff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#028A3Fff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig1__plot0_curve3",
+                "name": "enalapril (group 2)\u00b1SD (n=6)",
+                "x": "Ena2_enalapril__time",
+                "y": "Ena2_enalapril__mean",
+                "xerr": null,
+                "yerr": "Ena2_enalapril__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#028A3Fff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#028A3Fff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#028A3Fff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              },
+              {
+                "sid": "Fig1__plot0_curve4",
+                "name": "group 3",
+                "x": "task_po_ENA5_3__time",
+                "y": "task_po_ENA5_3__conc__Cve_ena",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#036D40ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#036D40ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#036D40ff",
+                    "second_color": null
+                  }
+                },
+                "order": 4
+              },
+              {
+                "sid": "Fig1__plot0_curve5",
+                "name": "enalapril (group 3)\u00b1SD (n=6)",
+                "x": "Ena3_enalapril__time",
+                "y": "Ena3_enalapril__mean",
+                "xerr": null,
+                "yerr": "Ena3_enalapril__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#036D40ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#036D40ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#036D40ff",
+                    "second_color": null
+                  }
+                },
+                "order": 5
+              }
+            ],
+            "areas": [],
+            "bands": []
+          },
+          "row": 1,
+          "col": 1,
+          "row_span": 1,
+          "col_span": 1
+        },
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig1__plot1",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig1__plot1_xaxis",
+              "name": "time [hr]",
+              "label": "time",
+              "unit": "hr",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig1__plot1_yaxis",
+              "name": "enalaprilat [\u00b5M]",
+              "label": "enalaprilat",
+              "unit": "\u00b5M",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig1__plot1_curve0",
+                "name": "group 1",
+                "x": "task_po_ENA5_1__time",
+                "y": "task_po_ENA5_1__conc__Cve_eat",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#000000ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#000000ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#000000ff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig1__plot1_curve1",
+                "name": "enalaprilat (group 1)\u00b1SD (n=6)",
+                "x": "Ena1_enalaprilat__time",
+                "y": "Ena1_enalaprilat__mean",
+                "xerr": null,
+                "yerr": "Ena1_enalaprilat__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#000000ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#000000ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#000000ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig1__plot1_curve2",
+                "name": "group 2",
+                "x": "task_po_ENA5_2__time",
+                "y": "task_po_ENA5_2__conc__Cve_eat",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#028A3Fff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#028A3Fff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#028A3Fff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig1__plot1_curve3",
+                "name": "enalaprilat (group 2)\u00b1SD (n=6)",
+                "x": "Ena2_enalaprilat__time",
+                "y": "Ena2_enalaprilat__mean",
+                "xerr": null,
+                "yerr": "Ena2_enalaprilat__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#028A3Fff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#028A3Fff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#028A3Fff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              },
+              {
+                "sid": "Fig1__plot1_curve4",
+                "name": "group 3",
+                "x": "task_po_ENA5_3__time",
+                "y": "task_po_ENA5_3__conc__Cve_eat",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#036D40ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#036D40ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#036D40ff",
+                    "second_color": null
+                  }
+                },
+                "order": 4
+              },
+              {
+                "sid": "Fig1__plot1_curve5",
+                "name": "enalaprilat (group 3)\u00b1SD (n=6)",
+                "x": "Ena3_enalaprilat__time",
+                "y": "Ena3_enalaprilat__mean",
+                "xerr": null,
+                "yerr": "Ena3_enalaprilat__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#036D40ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#036D40ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#036D40ff",
+                    "second_color": null
+                  }
+                },
+                "order": 5
+              }
+            ],
+            "areas": [],
+            "bands": []
+          },
+          "row": 1,
+          "col": 2,
+          "row_span": 1,
+          "col_span": 1
+        },
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig1__plot2",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig1__plot2_xaxis",
+              "name": "time [hr]",
+              "label": "time",
+              "unit": "hr",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig1__plot2_yaxis",
+              "name": "enalapril urine [\u00b5mole]",
+              "label": "enalapril urine",
+              "unit": "\u00b5mole",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig1__plot2_curve0",
+                "name": "group 1",
+                "x": "task_po_ENA5_1__time",
+                "y": "task_po_ENA5_1__Aurine_ena",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#000000ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#000000ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#000000ff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig1__plot2_curve1",
+                "name": "enalapril urine (group 1)\u00b1SD (n=6)",
+                "x": "Ena1_recovery_enalapril__time",
+                "y": "Ena1_recovery_enalapril__mean",
+                "xerr": null,
+                "yerr": "Ena1_recovery_enalapril__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#000000ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#000000ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#000000ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig1__plot2_curve2",
+                "name": "group 2",
+                "x": "task_po_ENA5_2__time",
+                "y": "task_po_ENA5_2__Aurine_ena",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#028A3Fff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#028A3Fff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#028A3Fff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig1__plot2_curve3",
+                "name": "enalapril urine (group 2)\u00b1SD (n=6)",
+                "x": "Ena2_recovery_enalapril__time",
+                "y": "Ena2_recovery_enalapril__mean",
+                "xerr": null,
+                "yerr": "Ena2_recovery_enalapril__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#028A3Fff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#028A3Fff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#028A3Fff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              },
+              {
+                "sid": "Fig1__plot2_curve4",
+                "name": "group 3",
+                "x": "task_po_ENA5_3__time",
+                "y": "task_po_ENA5_3__Aurine_ena",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#036D40ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#036D40ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#036D40ff",
+                    "second_color": null
+                  }
+                },
+                "order": 4
+              },
+              {
+                "sid": "Fig1__plot2_curve5",
+                "name": "enalapril urine (group 3)\u00b1SD (n=6)",
+                "x": "Ena3_recovery_enalapril__time",
+                "y": "Ena3_recovery_enalapril__mean",
+                "xerr": null,
+                "yerr": "Ena3_recovery_enalapril__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#036D40ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#036D40ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#036D40ff",
+                    "second_color": null
+                  }
+                },
+                "order": 5
+              }
+            ],
+            "areas": [],
+            "bands": []
+          },
+          "row": 2,
+          "col": 1,
+          "row_span": 1,
+          "col_span": 1
+        },
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig1__plot3",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig1__plot3_xaxis",
+              "name": "time [hr]",
+              "label": "time",
+              "unit": "hr",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig1__plot3_yaxis",
+              "name": "enalaprilat urine [\u00b5mole]",
+              "label": "enalaprilat urine",
+              "unit": "\u00b5mole",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig1__plot3_curve0",
+                "name": "group 1",
+                "x": "task_po_ENA5_1__time",
+                "y": "task_po_ENA5_1__Aurine_eat",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#000000ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#000000ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#000000ff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig1__plot3_curve1",
+                "name": "enalaprilat urine (group 1)\u00b1SD (n=6)",
+                "x": "Ena1_recovery_enalaprilat__time",
+                "y": "Ena1_recovery_enalaprilat__mean",
+                "xerr": null,
+                "yerr": "Ena1_recovery_enalaprilat__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#000000ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#000000ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#000000ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig1__plot3_curve2",
+                "name": "group 2",
+                "x": "task_po_ENA5_2__time",
+                "y": "task_po_ENA5_2__Aurine_eat",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#028A3Fff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#028A3Fff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#028A3Fff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig1__plot3_curve3",
+                "name": "enalaprilat urine (group 2)\u00b1SD (n=6)",
+                "x": "Ena2_recovery_enalaprilat__time",
+                "y": "Ena2_recovery_enalaprilat__mean",
+                "xerr": null,
+                "yerr": "Ena2_recovery_enalaprilat__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#028A3Fff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#028A3Fff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#028A3Fff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              },
+              {
+                "sid": "Fig1__plot3_curve4",
+                "name": "group 3",
+                "x": "task_po_ENA5_3__time",
+                "y": "task_po_ENA5_3__Aurine_eat",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#036D40ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#036D40ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#036D40ff",
+                    "second_color": null
+                  }
+                },
+                "order": 4
+              },
+              {
+                "sid": "Fig1__plot3_curve5",
+                "name": "enalaprilat urine (group 3)\u00b1SD (n=6)",
+                "x": "Ena3_recovery_enalaprilat__time",
+                "y": "Ena3_recovery_enalaprilat__mean",
+                "xerr": null,
+                "yerr": "Ena3_recovery_enalaprilat__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#036D40ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#036D40ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#036D40ff",
+                    "second_color": null
+                  }
+                },
+                "order": 5
+              }
+            ],
+            "areas": [],
+            "bands": []
+          },
+          "row": 2,
+          "col": 2,
+          "row_span": 1,
+          "col_span": 1
+        }
+      ]
+    },
+    "Fig2": {
+      "sid": "Fig2",
+      "name": "Oguchi1993",
+      "num_rows": 1,
+      "num_cols": 1,
+      "width": null,
+      "height": null,
+      "settings": {},
+      "subplots": [
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig2__plot0",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig2__plot0_xaxis",
+              "name": "time [hr]",
+              "label": "time",
+              "unit": "hr",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig2__plot0_yaxis",
+              "name": "ACE inhibition [%]",
+              "label": "ACE inhibition",
+              "unit": "%",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig2__plot0_curve0",
+                "name": "group 1",
+                "x": "task_po_ENA5_1__time",
+                "y": "task_po_ENA5_1__ace_inhibition",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#000000ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#000000ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#000000ff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig2__plot0_curve1",
+                "name": "ACE inhibition (group 1)\u00b1SD (n=6)",
+                "x": "Ena1_ACE_inhibition__time",
+                "y": "Ena1_ACE_inhibition__mean",
+                "xerr": null,
+                "yerr": "Ena1_ACE_inhibition__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#000000ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#000000ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#000000ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig2__plot0_curve2",
+                "name": "group 2",
+                "x": "task_po_ENA5_2__time",
+                "y": "task_po_ENA5_2__ace_inhibition",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#028A3Fff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#028A3Fff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#028A3Fff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig2__plot0_curve3",
+                "name": "ACE inhibition (group 2)\u00b1SD (n=6)",
+                "x": "Ena2_ACE_inhibition__time",
+                "y": "Ena2_ACE_inhibition__mean",
+                "xerr": null,
+                "yerr": "Ena2_ACE_inhibition__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#028A3Fff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#028A3Fff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#028A3Fff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              },
+              {
+                "sid": "Fig2__plot0_curve4",
+                "name": "group 3",
+                "x": "task_po_ENA5_3__time",
+                "y": "task_po_ENA5_3__ace_inhibition",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#036D40ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#036D40ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#036D40ff",
+                    "second_color": null
+                  }
+                },
+                "order": 4
+              },
+              {
+                "sid": "Fig2__plot0_curve5",
+                "name": "ACE inhibition (group 3)\u00b1SD (n=6)",
+                "x": "Ena3_ACE_inhibition__time",
+                "y": "Ena3_ACE_inhibition__mean",
+                "xerr": null,
+                "yerr": "Ena3_ACE_inhibition__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#036D40ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#036D40ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#036D40ff",
+                    "second_color": null
+                  }
+                },
+                "order": 5
+              }
+            ],
+            "areas": [],
+            "bands": []
+          },
+          "row": 1,
+          "col": 1,
+          "row_span": 1,
+          "col_span": 1
+        }
+      ]
+    }
+  }
+}

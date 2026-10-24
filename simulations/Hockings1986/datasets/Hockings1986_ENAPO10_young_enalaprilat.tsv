@@ -1,0 +1,10 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Hockings1986		young	9.0	ENAPO10	concentration	enalaprilat	plasma	RIA	ENAPO10_young_enalaprilat	1.0	hr		1.5329901151567106e-05					mole/meter^3	ng/ml	dimensionless
+Hockings1986		young	9.0	ENAPO10	concentration	enalaprilat	plasma	RIA	ENAPO10_young_enalaprilat	2.0	hr		0.00013489165737711885					mole/meter^3	ng/ml	dimensionless
+Hockings1986		young	9.0	ENAPO10	concentration	enalaprilat	plasma	RIA	ENAPO10_young_enalaprilat	4.0	hr		0.00020458446311992986					mole/meter^3	ng/ml	dimensionless
+Hockings1986		young	9.0	ENAPO10	concentration	enalaprilat	plasma	RIA	ENAPO10_young_enalaprilat	6.0	hr		0.0001076090092326719					mole/meter^3	ng/ml	dimensionless
+Hockings1986		young	9.0	ENAPO10	concentration	enalaprilat	plasma	RIA	ENAPO10_young_enalaprilat	8.0	hr		9.093400925006573e-05					mole/meter^3	ng/ml	dimensionless
+Hockings1986		young	9.0	ENAPO10	concentration	enalaprilat	plasma	RIA	ENAPO10_young_enalaprilat	24.0	hr		8.969027717916948e-06					mole/meter^3	ng/ml	dimensionless
+Hockings1986		young	9.0	ENAPO10	concentration	enalaprilat	plasma	RIA	ENAPO10_young_enalaprilat	48.0	hr		6.449943495945706e-06					mole/meter^3	ng/ml	dimensionless
+Hockings1986		young	9.0	ENAPO10	concentration	enalaprilat	plasma	RIA	ENAPO10_young_enalaprilat	72.0	hr		3.930859273974436e-06					mole/meter^3	ng/ml	dimensionless
+Hockings1986		young	9.0	ENAPO10	concentration	enalaprilat	plasma	RIA	ENAPO10_young_enalaprilat	96.0	hr		1.4006286616405239e-06					mole/meter^3	ng/ml	dimensionless

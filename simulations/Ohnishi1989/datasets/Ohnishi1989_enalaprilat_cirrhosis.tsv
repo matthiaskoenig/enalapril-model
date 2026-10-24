@@ -1,0 +1,9 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Ohnishi1989		cirrhosis	7.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_cirrhosis	1.0	hr		1.2394904852170849e-05	3.25677360632966	8.061426675306265e-06	3.046932885034657e-06	Y-axis difficult to digitize	mole/meter^3	ng/ml	dimensionless
+Ohnishi1989		cirrhosis	7.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_cirrhosis	2.0	hr		3.0111139978767123e-05	7.08161794682084	2.5887758708597e-05	9.784653077684894e-06		mole/meter^3	ng/ml	dimensionless
+Ohnishi1989		cirrhosis	7.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_cirrhosis	3.0	hr		4.160346417716945e-05	10.2895436424647	3.193213952388908e-05	1.20692142872039e-05		mole/meter^3	ng/ml	dimensionless
+Ohnishi1989		cirrhosis	7.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_cirrhosis	4.0	hr		4.5599245326804513e-05	12.2251609933289	2.780462504793868e-05	1.0509160453463296e-05		mole/meter^3	ng/ml	dimensionless
+Ohnishi1989		cirrhosis	7.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_cirrhosis	6.0	hr		3.965995369543585e-05	10.525743446167	2.4996358699069067e-05	9.447735542843265e-06		mole/meter^3	ng/ml	dimensionless
+Ohnishi1989		cirrhosis	7.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_cirrhosis	8.0	hr		3.150797242532584e-05	9.53262856264879	1.0970101410323381e-05	4.146308598410648e-06		mole/meter^3	ng/ml	dimensionless
+Ohnishi1989		cirrhosis	7.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_cirrhosis	12.0	hr		1.625628602529567e-05	5.22506021375153	3.330228233122997e-06	1.2587079591327856e-06		mole/meter^3	ng/ml	dimensionless
+Ohnishi1989		cirrhosis	7.0	ENA10	concentration	enalaprilat	serum	RIA	enalaprilat_cirrhosis	24.0	hr		7.188246640850062e-06	2.15302435240398	2.667935116807367e-06	1.0083846904469085e-06		mole/meter^3	ng/ml	dimensionless

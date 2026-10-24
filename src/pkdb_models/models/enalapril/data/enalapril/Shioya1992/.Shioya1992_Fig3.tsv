@@ -1,0 +1,17 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Shioya1992	NA	all	5.0	ENA5	concentration	enalapril	plasma	GC/MS	ENA5_enalapril	0.0	hr	NA	0.0	NA	NA	NA	ng/ml	NA
+Shioya1992	NA	all	5.0	ENA5	concentration	enalapril	plasma	GC/MS	ENA5_enalapril	0.335664335664333	hr	NA	6.86467132867134	11.5688055944056	4.70413426573426	2.10375279869357	ng/ml	NA
+Shioya1992	NA	all	5.0	ENA5	concentration	enalapril	plasma	GC/MS	ENA5_enalapril	1.14125874125874	hr	NA	17.4742825174825	20.018013986014	2.54373146853147	1.13759129602835	ng/ml	NA
+Shioya1992	NA	all	5.0	ENA5	concentration	enalapril	plasma	GC/MS	ENA5_enalapril	1.94685314685314	hr	NA	10.7078937062937	16.228027972028	5.52013426573427	2.46867909262154	ng/ml	NA
+Shioya1992	NA	all	5.0	ENA5	concentration	enalapril	plasma	GC/MS	ENA5_enalapril	4.02797202797203	hr	NA	1.59205594405595	2.45592167832169	0.863865734265737	0.386332501050191	ng/ml	NA
+Shioya1992	NA	all	5.0	ENA5	concentration	enalapril	plasma	GC/MS	ENA5_enalapril	7.85454545454545	hr	NA	0.0	NA	NA	NA	ng/ml	NA
+Shioya1992	NA	all	5.0	ENA5	concentration	enalapril	plasma	GC/MS	ENA5_enalapril	23.765034965035	hr	NA	0.0	NA	NA	NA	ng/ml	NA
+Shioya1992	NA	all	5.0	ENA5	concentration	enalapril	plasma	GC/MS	ENA5_enalapril	48.0671328671329	hr	NA	0.0	NA	NA	NA	ng/ml	NA
+Shioya1992	NA	all	5.0	ENA5	concentration	enalaprilat	plasma	GC/MS	ENA5_enalaprilat	0.0	hr	NA	0.0	NA	NA	NA	ng/ml	NA
+Shioya1992	NA	all	5.0	ENA5	concentration	enalaprilat	plasma	GC/MS	ENA5_enalaprilat	0.402797202797203	hr	NA	0.192805594405606	0.4328055944056	0.239999999999995	0.107331262919988	ng/ml	NA
+Shioya1992	NA	all	5.0	ENA5	concentration	enalaprilat	plasma	GC/MS	ENA5_enalaprilat	0.939860139860139	hr	NA	0.577745454545465	0.961879720279729	0.384134265734264	0.171790066133757	ng/ml	NA
+Shioya1992	NA	all	5.0	ENA5	concentration	enalaprilat	plasma	GC/MS	ENA5_enalaprilat	1.87972027972028	hr	NA	2.88375944055945	4.22775944055945	1.344	0.601055072351944	ng/ml	NA
+Shioya1992	NA	all	5.0	ENA5	concentration	enalaprilat	plasma	GC/MS	ENA5_enalaprilat	3.96083916083916	hr	NA	8.88805594405595	11.0959216783217	2.20786573426573	0.987387573402134	ng/ml	NA
+Shioya1992	NA	all	5.0	ENA5	concentration	enalaprilat	plasma	GC/MS	ENA5_enalaprilat	7.98881118881119	hr	NA	7.83997762237763	10.7199776223776	2.88	1.28797515503988	ng/ml	NA
+Shioya1992	NA	all	5.0	ENA5	concentration	enalaprilat	plasma	GC/MS	ENA5_enalaprilat	23.9664335664336	hr	NA	1.63193286713287	2.35193286713288	0.720000000000002	0.321993788759971	ng/ml	NA
+Shioya1992	NA	all	5.0	ENA5	concentration	enalaprilat	plasma	GC/MS	ENA5_enalaprilat	48.0671328671329	hr	NA	0.816134265734277	1.34413426573428	0.527999999999999	0.236128778423977	ng/ml	NA

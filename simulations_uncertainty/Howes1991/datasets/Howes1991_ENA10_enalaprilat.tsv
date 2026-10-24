@@ -1,0 +1,12 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Howes1991		all	12.0	ENA10	concentration	enalaprilat	plasma	RIA	ENA10_enalaprilat	0.0	hr		0.0					mole/meter^3	ng/ml	dimensionless
+Howes1991		all	12.0	ENA10	concentration	enalaprilat	plasma	RIA	ENA10_enalaprilat	0.5	hr		0.0					mole/meter^3	ng/ml	dimensionless
+Howes1991		all	12.0	ENA10	concentration	enalaprilat	plasma	RIA	ENA10_enalaprilat	1.0	hr		2.1367122514567776e-05					mole/meter^3	ng/ml	dimensionless
+Howes1991		all	12.0	ENA10	concentration	enalaprilat	plasma	RIA	ENA10_enalaprilat	1.5	hr		5.9827943040789496e-05					mole/meter^3	ng/ml	dimensionless
+Howes1991		all	12.0	ENA10	concentration	enalaprilat	plasma	RIA	ENA10_enalaprilat	2.0	hr		9.365922035552203e-05					mole/meter^3	ng/ml	dimensionless
+Howes1991		all	12.0	ENA10	concentration	enalaprilat	plasma	RIA	ENA10_enalaprilat	3.0	hr		0.00014137912730472318					mole/meter^3	ng/ml	dimensionless
+Howes1991		all	12.0	ENA10	concentration	enalaprilat	plasma	RIA	ENA10_enalaprilat	4.0	hr		0.00013853017763611414					mole/meter^3	ng/ml	dimensionless
+Howes1991		all	12.0	ENA10	concentration	enalaprilat	plasma	RIA	ENA10_enalaprilat	6.0	hr		0.00010541113773853424					mole/meter^3	ng/ml	dimensionless
+Howes1991		all	12.0	ENA10	concentration	enalaprilat	plasma	RIA	ENA10_enalaprilat	8.0	hr		6.908702946376885e-05					mole/meter^3	ng/ml	dimensionless
+Howes1991		all	12.0	ENA10	concentration	enalaprilat	plasma	RIA	ENA10_enalaprilat	12.0	hr		3.561187085761277e-05					mole/meter^3	ng/ml	dimensionless
+Howes1991		all	12.0	ENA10	concentration	enalaprilat	plasma	RIA	ENA10_enalaprilat	24.0	hr		4.985661920065782e-06					mole/meter^3	ng/ml	dimensionless

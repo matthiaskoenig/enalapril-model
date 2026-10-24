@@ -1,0 +1,51 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	min	max	unit	comments
+Schwartz1985	NA	HT	5.0	ENA20	thalf	enalapril	serum	RIA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2.0	hr	NA
+Schwartz1985	NA	HT	5.0	ENA20	auc_end	enalapril	serum	RIA	NA	24.0	hr	NA	148.0	NA	150.0	67.0820393249937	NA	NA	ng/ml*hr	NA
+Schwartz1985	NA	HT	5.0	ENA20	oral clearance	enalapril	serum	RIA	NA	NA	NA	NA	2.5	NA	1.3	0.581377674149945	NA	NA	l/min	NA
+Schwartz1985	NA	HT	5.0	ENA20	tmax	enalapril	serum	RIA	NA	NA	NA	NA	114.0	NA	68.0	30.4105244939971	NA	NA	min	NA
+Schwartz1985	NA	HT	5.0	ENA20	excretion rate	enalapril	serum	RIA	NA	NA	NA	NA	229.0	NA	110.0	49.1934955049954	NA	NA	ug/hr	NA
+Schwartz1985	NA	HT	5.0	ENA20	thalf	enalaprilat	serum	RIA	NA	NA	NA	NA	4.6	NA	2.0	0.894427190999916	NA	NA	hr	NA
+Schwartz1985	NA	HT	5.0	ENA20	auc_end	enalaprilat	serum	RIA	NA	24.0	hr	NA	865.0	NA	193.0	86.3122239314919	NA	NA	ng/ml*hr	NA
+Schwartz1985	NA	HT	5.0	ENA20	oral clearance	enalaprilat	serum	RIA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	l/min	NA
+Schwartz1985	NA	HT	5.0	ENA20	tmax	enalaprilat	serum	RIA	NA	NA	NA	NA	300.0	NA	82.0	36.6715148309965	NA	NA	min	NA
+Schwartz1985	NA	HT	5.0	ENA20	excretion rate	enalaprilat	serum	RIA	NA	NA	NA	NA	179.0	NA	100.0	44.7213595499958	NA	NA	ug/hr	NA
+Schwartz1985	NA	HT	5.0	ENA40	thalf	enalapril	serum	RIA	NA	NA	NA	NA	2.0	NA	1.1	0.491934955049954	NA	NA	hr	NA
+Schwartz1985	NA	HT	5.0	ENA40	auc_end	enalapril	serum	RIA	NA	24.0	hr	NA	623.0	NA	726.0	324.677070332969	NA	NA	ng/ml*hr	NA
+Schwartz1985	NA	HT	5.0	ENA40	oral clearance	enalapril	serum	RIA	NA	NA	NA	NA	2.7	NA	2.7	1.20747670784989	NA	NA	l/min	NA
+Schwartz1985	NA	HT	5.0	ENA40	tmax	enalapril	serum	RIA	NA	NA	NA	NA	105.0	NA	90.0	40.2492235949962	NA	NA	min	NA
+Schwartz1985	NA	HT	5.0	ENA40	excretion rate	enalapril	serum	RIA	NA	NA	NA	NA	228.0	NA	160.0	71.5541752799933	NA	NA	ug/hr	NA
+Schwartz1985	NA	HT	5.0	ENA40	thalf	enalaprilat	serum	RIA	NA	NA	NA	NA	5.3	NA	1.1	0.491934955049954	NA	NA	hr	NA
+Schwartz1985	NA	HT	5.0	ENA40	auc_end	enalaprilat	serum	RIA	NA	24.0	hr	NA	1615.0	NA	716.0	320.20493437797	NA	NA	ng/ml*hr	NA
+Schwartz1985	NA	HT	5.0	ENA40	oral clearance	enalaprilat	serum	RIA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	l/min	NA
+Schwartz1985	NA	HT	5.0	ENA40	tmax	enalaprilat	serum	RIA	NA	NA	NA	NA	338.0	NA	90.0	40.2492235949962	NA	NA	min	NA
+Schwartz1985	NA	HT	5.0	ENA40	excretion rate	enalaprilat	serum	RIA	NA	NA	NA	NA	278.0	NA	219.0	97.9397774144908	NA	NA	ug/hr	NA
+Schwartz1985	NA	CHF	8.0	ENA2.5	thalf	enalapril	serum	RIA	NA	NA	NA	NA	2.0	NA	0.7	0.247487373415292	NA	NA	hr	NA
+Schwartz1985	NA	CHF	8.0	ENA2.5	auc_end	enalapril	serum	RIA	NA	24.0	hr	NA	42.0	NA	24.0	8.48528137423857	NA	NA	ng/ml*hr	NA
+Schwartz1985	NA	CHF	8.0	ENA2.5	oral clearance	enalapril	serum	RIA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	l/min	NA
+Schwartz1985	NA	CHF	8.0	ENA2.5	tmax	enalapril	serum	RIA	NA	NA	NA	NA	152.0	NA	166.0	58.6898628384834	NA	NA	min	NA
+Schwartz1985	NA	CHF	8.0	ENA2.5	excretion rate	enalapril	serum	RIA	NA	NA	NA	NA	12.2	NA	4.0	1.4142135623731	NA	NA	ug/hr	NA
+Schwartz1985	NA	CHF	8.0	ENA2.5	thalf	enalaprilat	serum	RIA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	hr	NA
+Schwartz1985	NA	CHF	8.0	ENA2.5	auc_end	enalaprilat	serum	RIA	NA	24.0	hr	NA	140.0	NA	81.0	28.6378246380552	NA	NA	ng/ml*hr	NA
+Schwartz1985	NA	CHF	8.0	ENA2.5	oral clearance	enalaprilat	serum	RIA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	l/min	NA
+Schwartz1985	NA	CHF	8.0	ENA2.5	tmax	enalaprilat	serum	RIA	NA	NA	NA	NA	290.0	NA	88.0	31.1126983722081	NA	NA	min	NA
+Schwartz1985	NA	CHF	8.0	ENA2.5	excretion rate	enalaprilat	serum	RIA	NA	NA	NA	NA	9.8	NA	6.0	2.12132034355964	NA	NA	ug/hr	NA
+Schwartz1985	NA	CHF	8.0	ENA5	thalf	enalapril	serum	RIA	NA	NA	NA	NA	3.4	NA	1.5	0.530330085889911	NA	NA	hr	NA
+Schwartz1985	NA	CHF	8.0	ENA5	auc_end	enalapril	serum	RIA	NA	24.0	hr	NA	137.0	NA	76.0	26.8700576850888	NA	NA	ng/ml*hr	NA
+Schwartz1985	NA	CHF	8.0	ENA5	oral clearance	enalapril	serum	RIA	NA	NA	NA	NA	0.6	NA	0.2	0.0707106781186547	NA	NA	l/min	NA
+Schwartz1985	NA	CHF	8.0	ENA5	tmax	enalapril	serum	RIA	NA	NA	NA	NA	180.0	NA	104.0	36.7695526217005	NA	NA	min	NA
+Schwartz1985	NA	CHF	8.0	ENA5	excretion rate	enalapril	serum	RIA	NA	NA	NA	NA	26.0	NA	15.0	5.30330085889911	NA	NA	ug/hr	NA
+Schwartz1985	NA	CHF	8.0	ENA5	thalf	enalaprilat	serum	RIA	NA	NA	NA	NA	7.8	NA	5.0	1.76776695296637	NA	NA	hr	NA
+Schwartz1985	NA	CHF	8.0	ENA5	auc_end	enalaprilat	serum	RIA	NA	24.0	hr	NA	265.0	NA	149.0	52.6794551983978	NA	NA	ng/ml*hr	NA
+Schwartz1985	NA	CHF	8.0	ENA5	oral clearance	enalaprilat	serum	RIA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	l/min	NA
+Schwartz1985	NA	CHF	8.0	ENA5	tmax	enalaprilat	serum	RIA	NA	NA	NA	NA	315.0	NA	105.0	37.1231060122937	NA	NA	min	NA
+Schwartz1985	NA	CHF	8.0	ENA5	excretion rate	enalaprilat	serum	RIA	NA	NA	NA	NA	38.0	NA	26.0	9.19238815542512	NA	NA	ug/hr	NA
+Schwartz1985	NA	CHF	8.0	ENA10	thalf	enalapril	serum	RIA	NA	NA	NA	NA	5.8	NA	4.7	1.66170093578839	NA	NA	hr	NA
+Schwartz1985	NA	CHF	8.0	ENA10	auc_end	enalapril	serum	RIA	NA	24.0	hr	NA	358.0	NA	256.0	90.5096679918781	NA	NA	ng/ml*hr	NA
+Schwartz1985	NA	CHF	8.0	ENA10	oral clearance	enalapril	serum	RIA	NA	NA	NA	NA	0.7	NA	0.4	0.14142135623731	NA	NA	l/min	NA
+Schwartz1985	NA	CHF	8.0	ENA10	tmax	enalapril	serum	RIA	NA	NA	NA	NA	220.0	NA	73.0	25.809397513309	NA	NA	min	NA
+Schwartz1985	NA	CHF	8.0	ENA10	excretion rate	enalapril	serum	RIA	NA	NA	NA	NA	54.0	NA	11.0	3.88908729652601	NA	NA	ug/hr	NA
+Schwartz1985	NA	CHF	8.0	ENA10	thalf	enalaprilat	serum	RIA	NA	NA	NA	NA	6.8	NA	2.5	0.883883476483184	NA	NA	hr	NA
+Schwartz1985	NA	CHF	8.0	ENA10	auc_end	enalaprilat	serum	RIA	NA	24.0	hr	NA	420.0	NA	312.0	110.308657865101	NA	NA	ng/ml*hr	NA
+Schwartz1985	NA	CHF	8.0	ENA10	oral clearance	enalaprilat	serum	RIA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	l/min	NA
+Schwartz1985	NA	CHF	8.0	ENA10	tmax	enalaprilat	serum	RIA	NA	NA	NA	NA	270.0	NA	73.0	25.809397513309	NA	NA	min	NA
+Schwartz1985	NA	CHF	8.0	ENA10	excretion rate	enalaprilat	serum	RIA	NA	NA	NA	NA	69.0	NA	24.0	8.48528137423857	NA	NA	ug/hr	NA

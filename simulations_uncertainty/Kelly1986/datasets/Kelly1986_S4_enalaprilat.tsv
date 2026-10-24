@@ -1,0 +1,11 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Kelly1986		S4	6.0	ENA10S	concentration	enalaprilat	serum	RIA	S4_enalaprilat	1.0	hr		4.88141026407988e-06	1.84709399870652	1.0296054264268604e-06	4.203346551910828e-07		mole/meter^3	ng/ml	dimensionless
+Kelly1986		S4	6.0	ENA10S	concentration	enalaprilat	serum	RIA	S4_enalaprilat	2.0	hr		4.035361397735234e-05	15.2695459244987	8.511536150270385e-06	3.474820082569255e-06		mole/meter^3	ng/ml	dimensionless
+Kelly1986		S4	6.0	ENA10S	concentration	enalaprilat	serum	RIA	S4_enalaprilat	3.0	hr		8.19161890779558e-05	30.9965549005787	1.7278070931160992e-05	7.053742920159842e-06		mole/meter^3	ng/ml	dimensionless
+Kelly1986		S4	6.0	ENA10S	concentration	enalaprilat	serum	RIA	S4_enalaprilat	4.0	hr		0.0001426378535972363	54.6139100459535	3.459014958894968e-05	1.4121369436578054e-05		mole/meter^3	ng/ml	dimensionless
+Kelly1986		S4	6.0	ENA10S	concentration	enalaprilat	serum	RIA	S4_enalaprilat	5.0	hr		0.00017848666494935987	68.3398860688932	4.328360448877965e-05	1.767045753765824e-05		mole/meter^3	ng/ml	dimensionless
+Kelly1986		S4	6.0	ENA10S	concentration	enalaprilat	serum	RIA	S4_enalaprilat	6.0	hr		0.00017025764467782246	75.9971570327456	0.00011727733428234042	4.787827123092445e-05		mole/meter^3	ng/ml	dimensionless
+Kelly1986		S4	6.0	ENA10S	concentration	enalaprilat	serum	RIA	S4_enalaprilat	8.0	hr		0.0002964638036597917	121.839717252706	0.00013044704372403595	5.3254782596402466e-05		mole/meter^3	ng/ml	dimensionless
+Kelly1986		S4	6.0	ENA10S	concentration	enalaprilat	serum	RIA	S4_enalaprilat	10.0	hr		0.0003580702923929372	148.905344410589	0.00016983590519886561	6.933521795681953e-05		mole/meter^3	ng/ml	dimensionless
+Kelly1986		S4	6.0	ENA10S	concentration	enalaprilat	serum	RIA	S4_enalaprilat	12.0	hr		0.00037097330238053454	152.461385546465	0.00016323196963234312	6.66391725514533e-05		mole/meter^3	ng/ml	dimensionless
+Kelly1986		S4	6.0	ENA10S	concentration	enalaprilat	serum	RIA	S4_enalaprilat	24.0	hr		0.00028279551840842255	113.51157562056	0.00010537377396801435	4.3018663082167414e-05		mole/meter^3	ng/ml	dimensionless
